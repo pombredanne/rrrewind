@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>FreshlyPressed</title>
+	<atom:link href="http://freshlypressed.wordpress.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://freshlypressed.wordpress.com</link>
+	<description>Just another Wordpress.com weblog</description>
+	<lastBuildDate>Thu, 30 Aug 2012 01:02:02 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='freshlypressed.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>http://s2.wp.com/i/buttonw-com.png</url>
+		<title>FreshlyPressed</title>
+		<link>http://freshlypressed.wordpress.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="http://freshlypressed.wordpress.com/osd.xml" title="FreshlyPressed" />
+	<atom:link rel='hub' href='http://freshlypressed.wordpress.com/?pushpress=hub'/>
+		<item>
+		<title>How Does An Ant Colony Coordinate Its Behaviour?</title>
+		<link>http://inspiringscience.wordpress.com/2012/08/28/how-does-an-ant-colony-coordinate-its-behaviour/</link>
+		<comments>http://inspiringscience.wordpress.com/2012/08/28/how-does-an-ant-colony-coordinate-its-behaviour/#comments</comments>
+		<pubDate>Tue, 28 Aug 2012 18:20:07 +0000</pubDate>
+		<dc:creator>sedeer</dc:creator>
+				<category><![CDATA[Complex systems]]></category>
+		<category><![CDATA[Hymenoptera]]></category>
+		<category><![CDATA[Insects]]></category>
+		<category><![CDATA[Modelling]]></category>
+		<category><![CDATA[animals]]></category>
+		<category><![CDATA[anternet]]></category>
+		<category><![CDATA[ants]]></category>
+		<category><![CDATA[Behavior]]></category>
+		<category><![CDATA[biology]]></category>
+		<category><![CDATA[complexity]]></category>
+		<category><![CDATA[emergence]]></category>
+		<category><![CDATA[emergent behavior]]></category>
+		<category><![CDATA[internet]]></category>
+		<category><![CDATA[network]]></category>
+		<category><![CDATA[science]]></category>
+
+		<guid isPermaLink="false">http://inspiringscience.wordpress.com/?p=1561</guid>
+		<description><![CDATA[A recent study looking at how colonies of ants regulate their foraging behaviour has caused a bit of a buzz online. A lot of the coverage has focused on a similarity highlighted in the press release, which says that the ants &#8220;determine how many foragers to send out of the nest in much the same way that Internet [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=1561&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/sedeer/5931150133/in/photostream"><img class="alignright  wp-image-1574" style="margin:0 0 0 4px;border:0 currentColor;" title="Two Cataglyphis workers meeting at the nest entrance" src="http://inspiringscience.files.wordpress.com/2012/08/antgate.jpg?w=240&h=160" alt="Two Cataglyphis workers meeting at the nest entrance" width="240" height="160" /></a>A recent study looking at how colonies of ants regulate their foraging behaviour has caused a bit of a buzz online. A lot of the coverage has focused on a similarity highlighted in the press release, which says that the ants &#8220;determine how many foragers to send out of the nest in much the same way that Internet protocols discover how much bandwidth is available for the transfer of data&#8221;. While it&#8217;s wonderful that the study has received so much attention, I can&#8217;t help but feel that the really interesting aspect of this study has been overlooked in the excitement about the &#8220;anternet&#8221;. While the similarity between the two systems is striking, I&#8217;m more fascinated by a basic difference: unlike our computer networks, the regulation system in ants isn&#8217;t purposefully designed but emerges from uncoordinated decisions made by individuals.<br />
+<span id="more-1561"></span><br />
+Ants usually live in nests that can contain anywhere from a few dozen individuals to a few million. Food for the colony is provided by older ants who leave the nest to forage. Some species make foraging trails: long, tiny highways full of ants shuffling back and forth to bring food to the colony. These form when an ant returning with food lays down a special chemical (called a pheromone) on her way back to the nest; since the ants have a slight tendency to move towards the pheromone, they follow the chemical path and reinforce it, soon forming a trail. This shows how decisions made by individual ants (to follow the pheromone) can sum together to generate an overall behaviour that seems purposeful (forming a foraging trail). This kind of behaviour makes it possible for colonies to solve challenging problems, like finding the shortest path to food, without any kind of centralized planning or decision making.</p>
+<p>Finding food isn&#8217;t the only challenge facing an ant colony; they also have to deal with a variety of tasks ranging from maintaining the nest to <a href="http://luhtasela.wordpress.com/2012/08/25/ant-logistics-what-happens-when-an-ant-colony-decides-to-move/">moving to a new home</a>. Just like everything else in the colony, the allocation of workers to different tasks has to be coordinated without any central planning. Understanding how this kind of decision making system works and evolves is an important and exciting field of research. A team of scientists at Stanford University addressed this question by investigating how colonies of the red harvester ant <em>Pogonomyrmex barbatus</em> regulate their foraging behaviour. Since <em>P. barbatus</em> feed on seeds which are scattered by winds and flood rather than being collected in patches, they forage individually rather than making trails. An ant returning with a seed drops it in the narrow entrance tunnel to the nest; she is then ready to go foraging again while another ant carries the seed deeper into the nest. Searching for food in the dry deserts of Arizona is an expensive proposition, so waiting ants decide when to leave the nest based on brief interactions with returning foragers, optimizing the colony&#8217;s resource usage.</p>
+<p>To understand how this regulation works, the scientists measured how frequently ants went out foraging during a 20 minute observation period; for a few minutes out of this period, they prevented returning foragers from reaching the nest. By comparing the rate before, during and after the interruption, they discovered that the foraging rate depends on how often foragers return with food. This is very effective approach to regulation. If food is plentiful, the foragers will return quickly and recruit more ants to help; on the other hand, a scarce food supply will mean that foragers return more slowly, so fewer ants start foraging. The team used a mathematical model to test the idea that this behaviour was the result of decisions made by individual ants. In their model, ants leave the nest to forage at a certain rate which increases when other workers return and decreases as time passes, though it never drops below a fixed minimum.  Since the results from the simulations were reasonably similar to the observations, it seems likely that the ants use something like this mechanism to decide when to forage.</p>
+<p>Most of the media coverage about this study has focused on the similarity with the way traffic is regulated on computer networks. Professor Balaji Prabhakar, one of the authors of the paper, noticed the similarity with the Transmission Control Protocol (TCP) used by computers to find out how much bandwidth is available. Data sent using TCP has to be acknowledged by the receiving computer; the acknowledgement rate is used to estimate the quality of the connection. A low acknowledgement rate means there isn&#8217;t much bandwidth available, so the sender slows down the transmission rate. While this is an excellent example of ants and humans converging on the same solution to a problem, I think the really exciting part is the difference between the two systems.</p>
+<p>While TCP was explicitly designed to solve a problem, the mechanism used by ants is emergent. Emergence, a feature of so-called &#8220;complex systems&#8221;,  is when interactions between individuals lead to the appearance of a new behaviour or property at higher levels. Individual ants aren&#8217;t trying to find the shortest path to a food source or to optimize their colony&#8217;s foraging behaviour; they&#8217;re simply following a scent they like or going out to forage shortly after a nestmate returns with food. Nevertheless, the overall effect of these decisions is colony-level behaviour that looks just like a purposeful attempt to solve certain problems.  This sort of emergence is an endless source of fascination to me. Complex systems tend to be both robust and flexible, which makes them ideal for everything from decision making to regulating development. Complexity theory provides a way to understand the behaviour of a wide range of dynamic systems, ranging from traffic flow and economics to weather. The plentiful computing resources available today have made it far easier to study these sorts of systems and to begin to understand the rich patterns and dynamics that emerge from this exhilarating and profoundly beautiful approach.</p>
+<p><strong>Ref </strong><br />
+<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.jtitle=PLoS+Computational+Biology&amp;rft_id=info%3Adoi%2F10.1371%2Fjournal.pcbi.1002670&amp;rfr_id=info%3Asid%2Fresearchblogging.org&amp;rft.atitle=The+Regulation+of+Ant+Colony+Foraging+Activity+without+Spatial+Information&amp;rft.issn=&amp;rft.date=2012&amp;rft.volume=8&amp;rft.issue=8&amp;rft.spage=&amp;rft.epage=&amp;rft.artnum=A26E2EB6E06B9A7887250D4ACD6D8A9F&amp;rft.au=Balaji+Prabhakar&amp;rft.au=Katherine+N.+Dektar&amp;rft.au=Deborah+M.+Gordon&amp;rfe_dat=bpr3.included=1;bpr3.tags=Biology%2CComputer+Science+%2F+Engineering%2CEcology+%2F+Conservation%2CBehavioral+Biology%2C+Computational+Biology%2C+Ecology%2C+Networks%2C+Algorithms%2C+Systems+Biology">Balaji Prabhakar, Katherine N. Dektar, &amp; Deborah M. Gordon (2012). The Regulation of Ant Colony Foraging Activity without Spatial Information <span style="font-style:italic;">PLoS Computational Biology, 8</span> (8) DOI: <a rev="review" href="http://dx.doi.org/10.1371/journal.pcbi.1002670">10.1371/journal.pcbi.1002670</a></span><br />
+<em>(Since it&#8217;s published in the PLoS journals, this article is open-access, meaning anyone can read it)</em></p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/1561/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/1561/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=1561&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://inspiringscience.wordpress.com/2012/08/28/how-does-an-ant-colony-coordinate-its-behaviour/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+	
+		<media:content url="http://1.gravatar.com/avatar/4a603311c3bf0da2ae6b1f4505b5b6e1?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">sedeer</media:title>
+		</media:content>
+
+		<media:content url="http://inspiringscience.files.wordpress.com/2012/08/antgate.jpg?w=300" medium="image">
+			<media:title type="html">Two Cataglyphis workers meeting at the nest entrance</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>The Art of Immersion: Found Footage and Classical Film</title>
+		<link>http://rachelwayne.wordpress.com/2012/08/28/the-art-of-immersion-found-footage-and-classical-film/</link>
+		<comments>http://rachelwayne.wordpress.com/2012/08/28/the-art-of-immersion-found-footage-and-classical-film/#comments</comments>
+		<pubDate>Tue, 28 Aug 2012 23:38:28 +0000</pubDate>
+		<dc:creator>Rachel Wayne</dc:creator>
+				<category><![CDATA[Musings]]></category>
+		<category><![CDATA[cinema]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[media]]></category>
+		<category><![CDATA[movies]]></category>
+		<category><![CDATA[philosophy]]></category>
+		<category><![CDATA[story]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://rachelwayne.wordpress.com/?p=516</guid>
+		<description><![CDATA[The &#8220;found footage&#8221; genre (style?) of filmmaking was wildly popularized for the horror genre beginning with the (in)famous Sundance entrant &#8220;The Blair Witch Project,&#8221; and judging by the apparently exhaustive list here, horror has become its home; one might even describe such films as &#8220;Paranormal Activity,&#8221; &#8220;V/H/S,&#8221; &#8220;The Last Exorcism,&#8221; as part of a subgenre [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=516&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>The &#8220;found footage&#8221; genre (style?) of filmmaking was wildly popularized for the horror genre beginning with the (in)famous Sundance entrant &#8220;The Blair Witch Project,&#8221; and judging by the apparently exhaustive list <a href="http://en.wikipedia.org/wiki/Found_footage_(genre)">here</a>, horror has become its home; one might even describe such films as &#8220;Paranormal Activity,&#8221; &#8220;V/H/S,&#8221; &#8220;The Last Exorcism,&#8221; as part of a subgenre of horror. All the films present themselves as a recording of horrific events—some &#8220;intentionally&#8221; done as a documentary, some as a loose narrative involving some supernatural terror. Most revolve around young people who mirror the films&#8217; demographic: the share-all, tech-obsessed Generation Me.</p>
+<p>Beyond this style&#8217;s obvious reflection in the rise of YouTube artists, confessional &#8220;reality&#8221; TV programming, and emphasis on social media as a means of establishing relationships, the &#8220;found footage&#8221; style marks a new type of filmmaking, one that eschews special f/x and big names of modern cinema, but also the grand art and epic tales of classic cinema.</p>
+<p>In fact, reading recently about French New Wave cinema and Francois Truffaut&#8217;s skewering of the literary, artificial cinematic tradition in &#8220;A Certain Tendency of the French Cinema,&#8221; I couldn&#8217;t help but think that a similar paradigm shift is taking place now in the United States. Of course, the range of U.S. films includes the emotional indies, the riveting biopics, the sweeping historical pieces, the wide range of comedy, the disturbing drama, the provocative speculative fiction pieces, and the grandiose adventure tales. Even in the  next few months, we have &#8220;2 Days in New York,&#8221; &#8220;Lincoln,&#8221; &#8220;Argo,&#8221; &#8220;Bachelorette,&#8221; &#8220;Compliance,&#8221; &#8220;Looper,&#8221; and &#8220;The Hobbit.&#8221; None of these are in the &#8220;found footage&#8221; format.</p>
+<p>However, to compare the construction of certain classic films with these new styles reveals several interesting similarities. To begin with, I will discuss two exceptional found-footage sci-fi movies. The first, &#8220;Cloverfield,&#8221; was released in 2008, directed by J.J. Abrams and written by Drew Goddard, one of his &#8220;Lost&#8221; writers and one of &#8220;Buffy&#8217;s&#8221; and &#8220;Angel&#8217;s&#8221; latter-season writers. The film is presented as a tape found at the aftermath of an attack on New York City, and uses the &#8220;film-within-a-film&#8221; device to contrast the lives of its subjects before the attack, with the horror they experience. (The beginning of the tape, which is preserved before one of the characters accidentally records over it with footage of a party, followed by full documentation of their attempted escape, provides a rather clever means of exposition.) This approach allows for a very natural exploration of character and a very relaxed method of storytelling: pure causality, in that the characters are shoved into one situation or another according to primarily external factors, but with the overriding impulse of the central character to save his girlfriend. By using a handheld that was partly operated by one of the actors, the wonderfully blunt and sometimes inappropriately funny T.J. Miller, we are given a greater sense of realism than we do with the self-elected documentary style. Rather than filming what&#8217;s &#8220;important,&#8221; and thus destroying the illusion of the film (which is a problem that I had with &#8220;The Blair Witch Project&#8221;), the camera is simply always on, with only some necessary cuts made when Miller&#8217;s character is forced to turn off the camera. This film has no mark of being a &#8220;film&#8221; in name, but by its fast-paced, unforgiving, accidental documentation of the monster and its associated terrors, of the trauma experienced by the characters, and the general horrific atmosphere, is so convincingly &#8220;found&#8221; that we lose ourselves in it. We become immersed&#8230;and scared.</p>
+<p>More recently, &#8220;Chronicle&#8221; (2012), directed and written by &#8220;The Kill Point&#8221; creator Josh Trank and co-written by horror TV scribe Max Landis, appears to be in the found-footage style but takes it to the next level: rather than limit to one camera and present itself as a found recording, it is told entirely through cameras that we are made aware exist. While one would expect that this would produce a distracting barrier, it accomplishes the opposite.</p>
+<p>Firstly, since it can be told through multiple cameras, the story may be told through different points of view. This may sound obvious, but consider the tremendous bias given by true &#8220;found footage&#8221; movies. When the actors are the cameramen (or when the cameramen adopt only the POVs of the actors), it limits the audience&#8217;s involvement. The viewer enjoys being in a privileged place of knowing more than the actors do; it&#8217;s actually surprising that this style is popular with horror movies since the viewer loses the privilege of shouting &#8220;Look out!&#8221; Imagine the classic horror films in found-footage style: there would be no sense of dread as the shadow of Norman Bates appears beyond the shower curtain, no sense of doom as the Alien unfolds behind Brett, no sense of panic when the shark edges up to the skinny-dipper&#8217;s legs. What is more frightening than something unseen?*</p>
+<p>Yet &#8220;Chronicle&#8221; manages to frighten by going in the opposite direction: freed from the documentarian bias and couched in the entirely realistic exploits of three teenagers who happily videotape themselves engaging in various mischief courtesy of their newfound telekinesis, it oversaturates us with endless videos of their (sometimes harmful) pranks, then at the climax, when the powers are (of course) all-consuming, turns the requisite &#8220;movie media&#8221; into unwitting storytellers (as they are&#8230;). The plethora of cameraphones, security feeds, news cameras, and personal camcorders all capture this tremendous event from a dizzying number of perspectives, edited together so randomly, with unheard-of perspectives as the equipment falls and flies, and completely sucks in the viewer. We are so aware that we are watching it through cameras, but it is so overstimulating that the illusion is reverse-engineered: we cannot help but believe what we are seeing.</p>
+<p>In a completely different genre and decade, we notice a similarly collective approach. In fact, this same philosophy applies to many films whose common denominator is their use of multiple perspectives and ambient emotion. Quentin Tarantino&#8217;s and Wes Anderson&#8217;s films are a prime example. Recently for a class, I watched Otis Preminger&#8217;s &#8220;Bonjour Tristesse&#8221; and was fascinated by the use of subtle nonverbal acting, the construction of the main story within an uneventful night in the central character&#8217;s life, and the extensive use of wide perspective and long takes. Moreover, much happens in the film that is not directly related to the central plot, which details a teenage girl&#8217;s initial support for her father to take up with a woman she has admired, and its turn into a plot to expel her supposedly wicked new stepmother from her life. The minor stories surrounding this main plotline have no impact on those events, nor do they all concern the central characters. However, they express themes or reveal character such that we have a strong sense of who the central characters, who they are not, who they are pretending to be, and in addition what we&#8217;re supposed to be considering while we watch the drama unfold. Preminger&#8217;s style is very detached, very deliberate, and very skeptical, yet immerses us in a world in which we can watch (and criticize) characters&#8217; choice.</p>
+<p>Despite the complete difference in genre and topic, the same thing is accomplished in Tarantino&#8217;s and Anderson&#8217;s films, among others, and in &#8220;Chronicle.&#8221; This phenomenon certainly points to humans&#8217; complicit construction in viewing a story, and may have implications for research into story therapy—perhaps the new immersion therapy?</p>
+<p>&nbsp;</p>
+<p>*As Stephen King wrote in Entertainment Weekly #1001 (2008):</p>
+<blockquote><p>&#8220;Horro is an intimate experience, something that occurs mostly within oneself&#8230;the event films that pack the plexes in the summer&#8230;blast our emotions and imaginations, instead of caressing them with a knife edge. [...] Horror is not spectacle, and never will be.&#8221;</p></blockquote>
+<br />  <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=516&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://rachelwayne.wordpress.com/2012/08/28/the-art-of-immersion-found-footage-and-classical-film/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:content url="http://1.gravatar.com/avatar/75d4df2cc7cd8179b539631323fdabe3?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">ellerayne</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>The Rise of eBooks: Evil or Essential?</title>
+		<link>http://cer90cer.wordpress.com/2012/08/28/the-rise-of-ebooks-evil-or-essential/</link>
+		<comments>http://cer90cer.wordpress.com/2012/08/28/the-rise-of-ebooks-evil-or-essential/#comments</comments>
+		<pubDate>Tue, 28 Aug 2012 18:53:23 +0000</pubDate>
+		<dc:creator>A Little Blog of Books and Other Stuff</dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Book]]></category>
+		<category><![CDATA[Bookshops]]></category>
+		<category><![CDATA[Ebook]]></category>
+		<category><![CDATA[Kindle]]></category>
+		<category><![CDATA[Literature]]></category>
+		<category><![CDATA[Publishing]]></category>
+		<category><![CDATA[Reading]]></category>
+
+		<guid isPermaLink="false">http://cer90cer.wordpress.com/?p=464</guid>
+		<description><![CDATA[The eBook debate continues to rage incessantly and provoke some very important questions.    Is the controversy less about the value of books and more about the development of modern technology?  Who are the winners and the losers in this supposed eBook revolution?  Does it really matter what format books are available in?  For many [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=464&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+		<wfw:commentRss>http://cer90cer.wordpress.com/2012/08/28/the-rise-of-ebooks-evil-or-essential/feed/</wfw:commentRss>
+		<slash:comments>21</slash:comments>
+	
+		<media:content url="http://2.gravatar.com/avatar/51ee3ca8c1f3a904a8e20b0ac936040a?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">cer90cer</media:title>
+		</media:content>
+
+		<media:content url="http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2011/3/21/1300724162968/books-pile-007.jpg" medium="image" />
+
+		<media:content url="http://static.guim.co.uk/sys-images/Books/Pix/pictures/2012/7/4/1341397833332/Ebooks-reader-privacy-008.jpg" medium="image" />
+
+		<media:content url="http://cer90cer.files.wordpress.com/2012/08/stephen-fry-tweet.jpg" medium="image">
+			<media:title type="html">Stephen Fry Tweet</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Authors Behaving Badly: The Underbelly of Reviewing</title>
+		<link>http://joeberhardt.com/2012/08/28/authors-behaving-badly-the-seedy-underbelly-of-reviewing/</link>
+		<comments>http://joeberhardt.com/2012/08/28/authors-behaving-badly-the-seedy-underbelly-of-reviewing/#comments</comments>
+		<pubDate>Tue, 28 Aug 2012 06:11:42 +0000</pubDate>
+		<dc:creator>Jo Eberhardt</dc:creator>
+				<category><![CDATA[Opinion]]></category>
+		<category><![CDATA[Writing]]></category>
+		<category><![CDATA[controversy]]></category>
+		<category><![CDATA[publishing]]></category>
+		<category><![CDATA[reading]]></category>
+		<category><![CDATA[reviews]]></category>
+		<category><![CDATA[Todd Rutherford]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://joeberhardt.com/?p=1851</guid>
+		<description><![CDATA["For Sale: Positive Reviews of Your Novel!" Are fake reviews damaging to readers and writers, or is it all just par for the course?<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=1851&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/jpaxonreyes/5034760960/"><img class="alignleft size-medium wp-image-1811" title="Photo by J. Paxon Reyes" src="http://thehappylogophile.files.wordpress.com/2012/08/writing.jpg?w=199&h=300" alt="" width="199" height="300" /></a>Up until a few months ago, I didn&#8217;t realise there was a seedy underbelly to publishing. But all of a sudden, I can&#8217;t seem to look anywhere without turning up odd or unpleasant behaviour from authors, publishers, or other members of the writing community. It&#8217;s actually got to the point that my husband asks me of an evening, &#8220;So, what&#8217;s the controversy today?&#8221;</p>
+<p>&#8220;So, what <em>is </em>the controversy today?&#8221; I hear you ask.</p>
+<p>First, let me run through some of the more recent incidents, just in case you missed them.</p>
+<h4><a href="http://fozmeadows.wordpress.com/2012/07/10/bullying-goodreads/">The &#8216;Stop the GoodReads Bullies&#8217; Bullies</a></h4>
+<p>Wherein a group of authors sick of being &#8220;bullied&#8221; by reviewers on GoodReads (who had the nerve to give less than 5 star ratings) start their own website and reveal the real identities and contact information of those reviewers in a clear effort to encourage abusive retribution.</p>
+<h4><a href="http://accrispin.blogspot.com.au/2012/08/lendink-author-activism-and-need-for.html">The LendInk Debacle</a></h4>
+<p>Wherein a group of vigilante authors use Twitter and DMCA notices to shut down a perfectly legitimate business venture because they <em>think</em> it&#8217;s an illegal book piracy site.</p>
+<h4><a href="http://nkjemisin.com/2012/08/this-is-how-you-destroy-something-beautiful/">The <em>Weird Tales </em>Racist Book-Promo Backflip</a></h4>
+<p>Wherein a respected fiction magazine actively promotes a racist self-published novel, then changes their mind and claims they were ignorant of the racist themes when the internet explodes against them.</p>
+<p>Now that we&#8217;re all caught up, let&#8217;s move on to today&#8217;s little gem shall we?</p>
+<p>I turned on my computer this morning to find the internet abuzz with details of <a href="http://www.nytimes.com/2012/08/26/business/book-reviewers-for-hire-meet-a-demand-for-online-raves.html?_r=3&amp;pagewanted=all">book reviews for sale</a>. If you don&#8217;t want to click through and read the story, here&#8217;s the gist:</p>
+<p>Entrepreneur Todd Rutherford used to work for a marketing department where he would write press releases and contact review sites to organise book reviews. One day he realised it was a lot of hard work, and there were more books than reviewers. So he created GettingBookReviews.com, a site where authors could pay $99 for him to review their book &#8212; positive review guaranteed!</p>
+<p>For the value-savvy author, there were package deals: $499 would get you 20 different, positive online reviews. A mere $999 would guarantee you 50 individually hand-crafted 5-star reviews posted on the web.</p>
+<p>Mr Rutherford was soon raking in $28,000 per month.</p>
+<p>Per. Month.</p>
+<p>A bit of simple maths will tell you that $28K works out to somewhere between  28 and 280 books every month. Now, I don&#8217;t know about you, but I don&#8217;t have time to read 280 books a month. I don&#8217;t even have time to read 28 books a month. Especially not if I have to read 28 books then write 1400 individually hand-crafted reviews. So Rutherford outsourced. One of the freelance reviewers quoted in the article admits that she never actually <em>read</em> the books she was reviewing. She just googled them online, skimmed through a couple of pages, then wrote 5-star reviews. (She does say that she <em>wishes</em> she&#8217;d been able to read some of the books though, so it&#8217;s okay.)</p>
+<p>When I read this story, I have to admit that I wasn&#8217;t shocked. I wasn&#8217;t even surprised that authors were buying good reviews on blogs, GoodReads, Amazon, etc. (In fact, the only thing that really surprised me was how lucrative fake-reviewing could be!) But just because I wasn&#8217;t surprised doesn&#8217;t mean I was happy about it.</p>
+<p>It got me thinking about a few things, though.</p>
+<ol>
+<li>Just about everyone I&#8217;ve come into contact with today has roundly condemned the practice of buying positive reviews. And yet Rutherford&#8217;s site took orders for 4500 reviews. How is it that those authors aren&#8217;t jumping up and down and  defending the practice? Or is it one of those things that&#8217;s only ethically wrong when people find out about it?</li>
+<li>Authors and publishers routinely send free copies (ARCs) of books to book bloggers and reviewers. That&#8217;s standard practice. So why exactly is GettingBookReviews.com so controversial? Is it (a) Because it involves the exchange of cold hard cash? (b) Because the service guarantees positive (and often gushing) reviews? Or (c) Because the reviewers don&#8217;t necessarily read the books?</li>
+<li>If the answer to the previous question is (b) or (c), that opens up a whole lot of other questions/concerns. For example, where do we stand on self-published authors reviewing each other&#8217;s books as a sort of <em>quid pro quo </em>marketing strategy? If one Indie Author provides a positive review of a friend&#8217;s book in exchange for the friend doing the same for hers (with or without reading the novel herself), how is that ethically different to Rutherford&#8217;s  services?</li>
+<li>Following on from that, what about smaller <em>quid pro quo </em>exchanges such as Facebook likes? Or Twitter follows? No, they&#8217;re not directly linked to book sales (although neither are reviews), but we all know that we&#8217;re more inclined to hit the LIKE or FOLLOW button if several thousand people have done so before us than if we&#8217;re the first one.</li>
+</ol>
+<p>As a writer, I&#8217;m not comfortable with the idea of paying people to write reviews of my books. However, I can&#8217;t categorically say I&#8217;ll never feel differently. I can imagine sitting at my computer, proudly looking at my book on Amazon.com while my eyes flick back and forth between the &#8220;Buy this book&#8221; button and the &#8220;Be the first to review this book&#8221; link. After refreshing the page several hundred times in the first hour, I may be more than happy to pay someone to write that first review. For my own sanity, if nothing else.</p>
+<p>As a writer, I&#8217;m not comfortable with the idea of requesting someone write a positive review. I <em>am</em> comfortable asking my friends and family not to write a review panning my book. Seriously, folks, if you don&#8217;t have anything nice to say, don&#8217;t say anything at all.</p>
+<p>As a writer, I&#8217;m not comfortable with the idea of someone writing a review of my book if they haven&#8217;t read it. I&#8217;m not writing so people can pat me on the back, I&#8217;m writing because I have stories I want people to read. And writing a review without reading the words I&#8217;ve laboured over devalues my work.</p>
+<p>(If you&#8217;re interested in other points of view, both <a href="http://terribleminds.com/ramble/2012/08/27/bad-author-behavior-as-a-response-to-bad-author-behavior-is-still-bad-author-behavior/">Chuck Wendig</a> and <a href="http://www.alanbaxteronline.com/paid-reviews-hurt-paid/">Alan Baxter</a> have both blogged about this issue today and their opinions are always worth a read.)</p>
+<p>EDIT: <a href="http://www.thebookdesigner.com/2012/08/should-authors-pay-for-book-reviews/">Joel Friedlander</a> also has a great post on this topic, explaining how paying for reviews cheapens the review process for both authors and readers.</p>
+<p>As a reader&#8230; Well, as a reader I instinctively distrust any review that has nothing negative to say about a book. I&#8217;m more likely to be influenced by a well-crafted 3 or 4 star review, detailing what the reviewer liked and didn&#8217;t like about the story, characters, writing, etc than I am by a gushingly enthusiastic 5 star review. So perhaps this controversy, such as it is, doesn&#8217;t affect me overmuch at all.</p>
+<p><strong>Writers: Have you ever paid for a review? Would you ever consider doing so?  </strong></p>
+<p><strong>Readers: Does this change the way you think about the reviews you read online?</strong></p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/1851/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/1851/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=1851&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://joeberhardt.com/2012/08/28/authors-behaving-badly-the-seedy-underbelly-of-reviewing/feed/</wfw:commentRss>
+		<slash:comments>37</slash:comments>
+	
+		<media:content url="http://2.gravatar.com/avatar/222effa383bb687ed32ff08fb9ea64d4?s=96&#38;d=wavatar&#38;r=PG" medium="image">
+			<media:title type="html">thehappylogophile</media:title>
+		</media:content>
+
+		<media:content url="http://thehappylogophile.files.wordpress.com/2012/08/writing.jpg?w=199" medium="image">
+			<media:title type="html">Photo by J. Paxon Reyes</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Malcolm Gladwell and the Singular Reign of Ketchup.</title>
+		<link>http://1shelflife.wordpress.com/2012/08/15/of-malcolm-gladwell-the-mystery-of-mustard-and-the-singular-reign-of-ketchup/</link>
+		<comments>http://1shelflife.wordpress.com/2012/08/15/of-malcolm-gladwell-the-mystery-of-mustard-and-the-singular-reign-of-ketchup/#comments</comments>
+		<pubDate>Wed, 15 Aug 2012 15:26:51 +0000</pubDate>
+		<dc:creator>koko</dc:creator>
+				<category><![CDATA[Non-Fiction]]></category>
+		<category><![CDATA[book]]></category>
+		<category><![CDATA[book review]]></category>
+		<category><![CDATA[choice]]></category>
+		<category><![CDATA[consumer culture]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[ketchup]]></category>
+		<category><![CDATA[malcolm gladwell]]></category>
+		<category><![CDATA[mustard]]></category>
+		<category><![CDATA[non-fiction]]></category>
+		<category><![CDATA[society]]></category>
+		<category><![CDATA[what the dog saw]]></category>
+
+		<guid isPermaLink="false">http://1shelflife.wordpress.com/?p=219</guid>
+		<description><![CDATA[I’ve never actively thought about ketchup. I frequently put some on my burgers, less frequently so on my fries (more of a ‘on the side’ kinda girl when it comes to fries or better yet, just plain salted), have maybe moved into the more complex world of barbeque sauce in recent years just to switch [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=219&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>I’ve never actively thought about ketchup. I frequently put some on my burgers, less frequently so on my fries (more of a ‘on the side’ kinda girl when it comes to fries or better yet, just plain salted), have maybe moved into the more complex world of barbeque sauce in recent years just to switch things up a bit, but have never really sat down to think exclusively about ketchup. It <em>is</em> just ketchup after all. And I can honestly say I never buy ketchup for at-home use. But then Malcolm Gladwell can really get you thinking about things that you wouldn’t normally spend more than a minute (if even that) contemplating otherwise.</p>
+<div id="attachment_221" class="wp-caption aligncenter" style="width: 650px"><a href="http://1shelflife.files.wordpress.com/2012/08/sam_0807-1.jpg"><img class="size-full wp-image-221" title="What the Dog Saw" src="http://1shelflife.files.wordpress.com/2012/08/sam_0807-1.jpg" alt="" width="640" height="480" /></a><p class="wp-caption-text">What the Dog Saw by Malcolm Gladwell</p></div>
+<p>I bought a copy of his book, <em>What the Dog Saw</em>, from a second hand bookstore a while back and have dipped into it on occasion, randomly reading one of his many essays originally seen in The New Yorker.</p>
+<p>In his essay titled ‘The Ketchup Conundrum’ he states how mustard now comes in dozens of varieties and asks why ketchup has stayed the same. He tells the story of <em>Grey Poupon</em> mustard and how it managed to claim a large segment of the market from <em>French&#8217;s</em> through clever advertising, thereby opening the door to variety in the mustard market.</p>
+<div id="attachment_222" class="wp-caption alignright" style="width: 242px"><a href="http://1shelflife.files.wordpress.com/2012/08/greypoup-e1345031607583.jpg"><img class="size-full wp-image-222" title="greypoup" src="http://1shelflife.files.wordpress.com/2012/08/greypoup-e1345031607583.jpg" alt="" width="232" height="294" /></a><p class="wp-caption-text">Photo: Amazon.com</p></div>
+<p>He then tells us about Jim Wigon, an entrepreneur peddling his <em>World&#8217;s Best Ketchup </em>brand, hoping to achieve what <em>Grey Poupon</em> did. His aim was to build a better ketchup and he attempted to do so with six different flavours. Sounds good in theory, not so hot in practice.</p>
+<p>Gladwell then gives us some background information in the form of a food tester and market researcher called Howard Moskowitz. Moskowitz conducted some ground-breaking research for the food industry back in the 70s. When working with <em>Pepsi</em> and <em>Campbell&#8217;s</em>, he discovered &#8216;the plural nature of perfection&#8217;. By this he meant that there was no one perfect spaghetti sauce, for example, that would appeal to everyone. Diversification was the answer, a way to cater to different tastes. This might not sound particularly ground-breaking to you and I today, but back then, the food industry worked around the idea that there was a single product that tasted perfect.</p>
+<p>Another thing that Gladwell talks about that I found particularly interesting was that information collected from regular focus groups where consumers are asked what it is they want from a particular type of product, are not to be trusted: <strong>&#8216;Moskowitz does not believe that consumers[...]know what they desire if what they desire does not yet exist.&#8217;</strong> Apparently our minds are limited and we have to be told what we like, or maybe we&#8217;re just dishonest. Gladwell illustrates this idea with a very good coffee example in the video I&#8217;ve posted below.</p>
+<div id="attachment_230" class="wp-caption alignleft" style="width: 243px"><a href="http://1shelflife.files.wordpress.com/2012/08/ketchup-e1345042122791.jpg"><img class=" wp-image-230 " title="ketchup" src="http://1shelflife.files.wordpress.com/2012/08/ketchup-e1345042122791.jpg?w=233&h=389" alt="" width="233" height="389" /></a><p class="wp-caption-text">Heinz</p></div>
+<p>So when we come back to Wigon and his <em>World&#8217;s Best</em>, we see that he was ultimately exercising the Moskowitz theory but not selling enough to make even a <em>marginal</em> difference. <em>World&#8217;s Best</em> is one of dozens of gourmet ketchup brands that struggle. Yet <em>Heinz Tomato Ketchup</em> continues to grow year after year, never really tampering with their formula or bothering to experiment much (I&#8217;m not going to go into depth about taste perception: salty, sweet, sour, bitter and <a title="What is umami?" href="http://en.wikipedia.org/wiki/Umami" target="_blank">umami</a> because that&#8217;ll prove to be rather lengthy). I found this <a title="The Best American Ketchup" href="http://www.kitchendaily.com/2011/09/02/the-best-ketchup/" target="_blank">taste test</a> that was conducted between American ketchup brands and interestingly, <em>Hunt&#8217;s</em> came out on top. Never tried <em>Hunt&#8217;s</em> so can&#8217;t really comment, but they still trail way behind <em>Heinz</em> in terms of market share. <strong>What is it about ketchup that makes it an exception to the Moskowitz rule that we now see being used for pretty much everything that can be bought in a supermarket? </strong></p>
+<p>I don&#8217;t know how long ago this article was written, but thought, surely things have changed now. Actually, I&#8217;ve just checked, it was 2004, and I&#8217;d like to think that consumers are now more sophisticated and more willing to experiment with different flavours etc. The emphasis on food has changed; it plays a much bigger part in our lives than it used to. The abundance of cooking shows and different dining experiences have turned every John and Jane Smith into a food critic. Food has become an entirely sophisticated affair and people are more discerning.</p>
+<p>I’m not quite sure when this shift occurred, but I remember something a friend of mine was telling me earlier this year. She was saying how her priorities had changed quite a bit in recent years. She’ll go to a restaurant and not think twice about spending £30 on a meal, but a few minutes later, she’ll find herself in a clothing store and spend almost half an hour deliberating on whether to spend £10 on a top before ultimately deciding it wasn’t worth it. And as she was saying this, I realised how true this was for me too. I&#8217;d mindlessly spend £20 on a gourmet burger and sides (served with a slightly advanced ketchup, I’m sure, haha), and then agonise over a £4 necklace. Food has become more important to us. No more shopaholics, but foodaholics. I realise that there are still a very large number of people out there with a shopping problem, but I&#8217;d like to think that the Food Phenomenon is slowly catching up.</p>
+<div id="attachment_224" class="wp-caption alignright" style="width: 280px"><a href="http://1shelflife.files.wordpress.com/2012/08/ketchup_circle.jpg"><img class=" wp-image-224 " title="Ketchup_Circle" src="http://1shelflife.files.wordpress.com/2012/08/ketchup_circle.jpg?w=270&h=203" alt="" width="270" height="203" /></a><p class="wp-caption-text">Photo: Julia Bainbridge, bonappetit.com</p></div>
+<p>So what was my point again? Yes, the ketchup. To introduce an element of luxury to the most unsuspecting things has become very common now. The most basic food items have been spruced up and so ketchup must follow. And it has. Sort of. This obviously meant that I had to now find out what ketchup flavours were out there. Not an awful lot of variation from <em>Heinz </em>in the UK (they have chili/fiery chili, Indian spices, and balsamic vinegar) and no other brands came up when I Googled &#8216;gourmet ketchup&#8217;. <strong>So it seems when push comes to shove, people will always opt for plain old ketchup, plain old Heinz. But WHY??</strong></p>
+<p>The essay concludes by quoting Moskowitz: &#8220;I guess ketchup is ketchup.&#8221; Do you agree? Like coke is coke (Pepsi is just NOT the same, do not even get me started!)? And can you think of anymore ketchup flavours that have made it into the mainstream?</p>
+<p>If you&#8217;d rather listen to Malcolm <em>talking</em> about some of these ideas, I found this video equivalent on Ted.com. He&#8217;s a really engaging speaker.</p>
+<p style="text-align:center;"><object width="334" height="326"><param name="movie" value="http://video.ted.com/assets/player/swf/EmbedPlayer.swf"></param><param name="allowFullScreen" value="true" /><param name="wmode" value="transparent"></param><param name="bgColor" value="#ffffff"></param> <param name="flashvars" value="vu=http://video.ted.com/talks/embed/MalcolmGladwell_2004-embed_high.flv&su=http://images.ted.com/images/ted/tedindex/embed-posters/MalcolmGladwell-2004.embed_thumbnail.jpg&vw=320&vh=240&ap=0&ti=20" /><embed src="http://video.ted.com/assets/player/swf/EmbedPlayer.swf" pluginspace="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" bgColor="#ffffff" width="334" height="326" allowFullScreen="true" flashvars="vu=http://video.ted.com/talks/embed/MalcolmGladwell_2004-embed_high.flv&su=http://images.ted.com/images/ted/tedindex/embed-posters/MalcolmGladwell-2004.embed_thumbnail.jpg&vw=320&vh=240&ap=0&ti=20"></embed></object></p>
+<p style="text-align:left;">So it’s nice to occasionally stray from fiction. And it turns out you don’t even need to buy the book because the article can be found <a title="The Ketchup Conundrum" href="http://www.gladwell.com/2004/2004_09_06_a_ketchup.html" target="_blank">on his website.</a></p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/219/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/219/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=219&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://1shelflife.wordpress.com/2012/08/15/of-malcolm-gladwell-the-mystery-of-mustard-and-the-singular-reign-of-ketchup/feed/</wfw:commentRss>
+		<slash:comments>22</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/f952944ddfdc88a460994c567e94a4f2?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">kokoef</media:title>
+		</media:content>
+
+		<media:content url="http://1shelflife.files.wordpress.com/2012/08/sam_0807-1.jpg" medium="image">
+			<media:title type="html">What the Dog Saw</media:title>
+		</media:content>
+
+		<media:content url="http://1shelflife.files.wordpress.com/2012/08/greypoup-e1345031607583.jpg" medium="image">
+			<media:title type="html">greypoup</media:title>
+		</media:content>
+
+		<media:content url="http://1shelflife.files.wordpress.com/2012/08/ketchup-e1345042122791.jpg" medium="image">
+			<media:title type="html">ketchup</media:title>
+		</media:content>
+
+		<media:content url="http://1shelflife.files.wordpress.com/2012/08/ketchup_circle.jpg?w=300" medium="image">
+			<media:title type="html">Ketchup_Circle</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Terrible, Yet Comfortingly So</title>
+		<link>http://fangirlintraining.wordpress.com/2012/08/27/terrible-yet-comfortingly-so/</link>
+		<comments>http://fangirlintraining.wordpress.com/2012/08/27/terrible-yet-comfortingly-so/#comments</comments>
+		<pubDate>Tue, 28 Aug 2012 03:00:52 +0000</pubDate>
+		<dc:creator>anotherredhead</dc:creator>
+				<category><![CDATA[baseball]]></category>
+		<category><![CDATA[books]]></category>
+		<category><![CDATA[broadcasters]]></category>
+		<category><![CDATA[fandom]]></category>
+		<category><![CDATA[sports]]></category>
+		<category><![CDATA[fangirl-squee]]></category>
+		<category><![CDATA[houston astros]]></category>
+		<category><![CDATA[los angeles dodgers]]></category>
+		<category><![CDATA[not panicking]]></category>
+		<category><![CDATA[rawr]]></category>
+		<category><![CDATA[reading list]]></category>
+		<category><![CDATA[san francisco giants]]></category>
+		<category><![CDATA[tim lincecum]]></category>
+		<category><![CDATA[vin scully]]></category>
+
+		<guid isPermaLink="false">http://fangirlintraining.wordpress.com/?p=893</guid>
+		<description><![CDATA[The Astros have been eliminated after another unsurprisingly awful season in which they&#8217;ve drawn comparisons to the worst team in baseball, the Cleveland Spiders of 1899. While I am no expert at baseball history – the wealth of lore and information available on the sport is beyond my current limited free time and data absorption [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=893&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>The Astros have been eliminated after another unsurprisingly awful season in which they&#8217;ve drawn comparisons to the worst team in baseball, the Cleveland Spiders of 1899. While I am no expert at baseball history – the wealth of lore and information available on the sport is beyond my current limited free time and data absorption capacity – a brief skim of the Spiders&#8217; legendarily horrible season brought a few glaring similarities to light. The one most worth pointing out is that the Spiders&#8217; roster was strip-mined for spare parts and all of the most worthwhile ones were sent off to a more promising market, replaced with a squad of underperforming relative unknowns. I was surprised to find out that Cy Young was part of Cleveland&#8217;s series of ill-fated transactions. Shows you how much I have left to learn.</p>
+<p>While the 2012 Astros with their relatively thrilling current .313 win percentage come nowhere close to the 1899 Spiders&#8217; .130, their lackluster performance and disheartening efforts at &#8216;rebuilding&#8217; make cold comfort of the fact that the season still isn&#8217;t over yet. It seems that the Astros&#8217; current mindset is to trade a player off when he shows even a glimmer of promise in the hopes of gaining someone that they hope will be more useful in the long run. I&#8217;d say it&#8217;ll be at least another decade before they field a product that is worth watching. Sorry, guys. Hope you&#8217;ve got a comfy spot in the basement.<span id="more-893"></span></p>
+<p>Speaking of lousy baseball, I&#8217;m not going to spend too much time recounting the debacle that went down this weekend in San Francisco. I was at home sick all weekend and the numerous on-field gaffes committed by the Orange and Black didn&#8217;t really help to ease my discomfort. Then there was Sunday&#8217;s matchup of Tim the “Aggressive” versus Tim the Ineffectual, the results of which moved me to the brink of physical nausea. Perhaps it&#8217;s a good thing that MLB had this game blacked out. Considering the Giants&#8217; habit of (as my friend&#8217;s dad puts it) snatching defeat from the jaws of victory, should I even be happy that they&#8217;ll be playing Houston next?</p>
+<p>The main thing that&#8217;s been lighting up the news and sending Los Angeles fans into new stratospheric levels of Ermahgerd is the Dodgers&#8217; acquisition of four players, one promising and the other three not so much, from the Red Sox to the tune of somewhere around $270 million. That&#8217;s a little over a quarter of a billion clams for an investment that may or may not pay off, and a pretty chunk of change for Boston to lose some of its bad karma. While I realize that the current performance of any of my teams isn&#8217;t much to crow about, this development still makes me giggle maniacally like a grade-schooler hopped up on way too much sugar. To summarize the vibe I&#8217;m getting from the sports section of the <em>LA Times</em>, everyone may as well just give up and go home right now&#8230; in reply to which I would crib a line from No Doubt&#8217;s songbook: “Get in line and settle down.” Playoff ball may be just around the corner, true, but bigger trees have been felled by smaller axes.</p>
+<p>Something nonetheless pretty neat which I forgot to mention is the latest care package from up north that made its way to my doorstep shortly after my return from Houston. The contents are pictured below&#8230;</p>
+<p style="text-align:center;"><a href="http://fangirlintraining.files.wordpress.com/2012/08/care-package.jpg"><img class="aligncenter  wp-image-892" title="care package" src="http://fangirlintraining.files.wordpress.com/2012/08/care-package.jpg?w=350&h=621" alt="" width="350" height="621" /></a></p>
+<p>For the curious mind, it contains multicolored pasta and some ethnic spice blends for me to use in my culinary adventures, a milk chocolate and cornflakes Ritter Sport bar (my Kryptonite in candy form), an ultra-cushy deluxe folding stadium seat that was apparently my stepdad&#8217;s idea, and four sports books that my mom recently found at a local library&#8217;s fundraiser. I happen to be deliciously lost at this moment in <a href="http://www.amazon.com/Guys-Dolls-Curveballs-Runyon-Baseball/dp/0786715405/ref=sr_1_1_title_2_pap?ie=UTF8&amp;qid=1346122393&amp;sr=8-1&amp;keywords=guys+dolls+and+curveballs">“Guys, Dolls, and Curveballs,”</a> an anthology of Damon Runyon&#8217;s best sportswriting, so to see a biography of a player whom Runyon covered with such breathless fervor made me especially happy.</p>
+<p>My closing good news for the night comes from Los Angeles – no sarcasm here, at least for now – and it is a delectable bit of news at that: Vin Scully will call Dodgers home games for yet another season. He is one man whom I would dearly love to interview just for his amazing scope of sports history. Though he is the voice of a team that I despise, the man himself is golden and it cheers me that he will give us another inimitable season. Thank you, Vin!</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/893/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/893/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=893&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://fangirlintraining.wordpress.com/2012/08/27/terrible-yet-comfortingly-so/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+	
+		<media:content url="http://2.gravatar.com/avatar/e45aee284e49dac09c1c046e4418f96f?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">anotherredhead</media:title>
+		</media:content>
+
+		<media:content url="http://fangirlintraining.files.wordpress.com/2012/08/care-package.jpg" medium="image">
+			<media:title type="html">care package</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>The Race is On</title>
+		<link>http://monicastangledweb.com/2012/08/27/the-race-is-on/</link>
+		<comments>http://monicastangledweb.com/2012/08/27/the-race-is-on/#comments</comments>
+		<pubDate>Mon, 27 Aug 2012 08:24:35 +0000</pubDate>
+		<dc:creator>monicastangledweb</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Miscellaneous]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[Childhood]]></category>
+		<category><![CDATA[Latino]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Civics]]></category>
+		<category><![CDATA[Voting]]></category>
+		<category><![CDATA[United States]]></category>
+		<category><![CDATA[Polling place]]></category>
+		<category><![CDATA[Walter Cronkite]]></category>
+		<category><![CDATA[Elections]]></category>
+		<category><![CDATA[Election Day]]></category>
+		<category><![CDATA[Citizenship]]></category>
+
+		<guid isPermaLink="false">http://monicastangledweb.com/?p=5700</guid>
+		<description><![CDATA[Have you heard? It’s election year in America.  A year of campaigning, grandstanding, hand-shaking, politicking, debating, mud-slinging and flag-pin wearing. A year filled with super-PACs, soapboxes, and the good ol' red, white and blue.
+
+Yes, once again we are voting for who will be our next president. It’s the right of all citizens to fill out a ballot and cast a vote. A right that is supposed to level the playing field, no matter what our path was to citizenship.<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=5700&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+		<wfw:commentRss>http://monicastangledweb.com/2012/08/27/the-race-is-on/feed/</wfw:commentRss>
+		<slash:comments>38</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/93ae51616ef28db3bc354b41f3f97d8f?s=96&#38;d=monsterid&#38;r=G" medium="image">
+			<media:title type="html">monicastangledweb</media:title>
+		</media:content>
+
+		<media:content url="http://monicastangledweb.files.wordpress.com/2012/08/images.jpg" medium="image">
+			<media:title type="html">images</media:title>
+		</media:content>
+
+		<media:content url="http://monicastangledweb.files.wordpress.com/2012/08/317963_415864508434273_172944592_n.jpg?w=300" medium="image">
+			<media:title type="html">317963_415864508434273_172944592_n</media:title>
+		</media:content>
+
+		<media:content url="http://monicastangledweb.files.wordpress.com/2012/08/images-1.jpg" medium="image">
+			<media:title type="html">images-1</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Isaac: Deja Vu All Over Again</title>
+		<link>http://wordsmith1313.wordpress.com/2012/08/27/isaac-deja-vu-all-over-again/</link>
+		<comments>http://wordsmith1313.wordpress.com/2012/08/27/isaac-deja-vu-all-over-again/#comments</comments>
+		<pubDate>Tue, 28 Aug 2012 00:50:15 +0000</pubDate>
+		<dc:creator>wordsmith1313</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Gulf Coast]]></category>
+		<category><![CDATA[hurricane]]></category>
+		<category><![CDATA[Isaac]]></category>
+		<category><![CDATA[journalism]]></category>
+		<category><![CDATA[Katrina]]></category>
+		<category><![CDATA[New Orleans]]></category>
+
+		<guid isPermaLink="false">http://wordsmith1313.wordpress.com/?p=360</guid>
+		<description><![CDATA[Seven years ago this week, I had strep throat. It was my first experience with it as an adult, and it seriously kicked my ass. I remember this because I was at home sick, with nothing to do but watch feverishly for two days as Katrina barreled toward New Orleans and the Gulf Coast and [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=360&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>Seven years ago this week, I had strep throat. It was my first experience with it as an adult, and it seriously kicked my ass. I remember this because I was at home sick, with nothing to do but watch feverishly for two days as Katrina barreled toward New Orleans and the Gulf Coast and many people I love.</p>
+<p>This storm just felt bad. Très mal, as we&#8217;d say in the bayou. Nasty. When that thing crystalized into this beautiful-but-awful storm, with a perfectly deadly eye, it shook me to my core. On Sunday, Aug. 28, when it hit Cat 5 status, it was terrifying. I still remember Hurricane Camille, a Cat 5 monster that hit when I was a kid.</p>
+<p><a href="http://wordsmith1313.files.wordpress.com/2012/08/katrina1.jpg"><img class="alignright" src="http://wordsmith1313.files.wordpress.com/2012/08/katrina1.jpg?w=123&h=107" alt="Image" width="123" height="107" /></a>That week was a difficult time, even before the storm. It was also a fresh anniversary of the day we lost one of my nieces, an amazing light, in a car accident. My job was slowly stealing my soul. Then the strep, which kind of feels like someone&#8217;s carefully grinding crushed glass into your throat. But I was on the upswing, physically at least, as Katrina approached. (That&#8217;s her, on the right.)</p>
+<p>I went in to work on Aug. 29 and told my boss that I needed to go to Louisiana. Even back then, he was already running the newsroom on a shoestring, and editors taking off during a big story isn&#8217;t the best thing. Still, he told me I could go &#8212; as long as I took vacation time. OK.</p>
+<p>I went back home and watched as TV folks talked about New Orleans being &#8220;spared.&#8221; They sounded disappointed. I get that. As a journalist, you get stoked up for a disaster, then it eases off and it&#8217;s kind of a letdown. I mean, you&#8217;re happy for the people in the disaster area, but you don&#8217;t have anything to cover.</p>
+<p>But I also saw where Katrina went ashore. And even though no media talked about the Mississippi Gulf Coast, I knew what had to have happened there. There&#8217;s just not much &#8220;give&#8221; in that area during a direct hurricane hit.</p>
+<p>Then came the reports of the levee breaches in New Orleans. It was what we had all feared, forever. Soon, the footage began to roll. People stranded. Bodies floating in the streets. I still remember the Homeland Security guy saying that for some people who didn&#8217;t get out of New Orleans, &#8220;it was their last night on this earth.&#8221;</p>
+<p>When D got home from work, I met her at the door. &#8220;I have to go,&#8221; I said. Being the gift that she is, she simply looked at me for a moment. I&#8217;m sure she wanted to say, &#8220;Are you crazy?!&#8221; But she just nodded, and said, &#8220;Let&#8217;s get you ready.&#8221;</p>
+<p>We spent a few hours buying out local stores. Having grown up in Louisiana, I knew what to take. Bug spray. Water. Juice. First aid supplies. Diapers. Non-perishable food. Batteries. Pet food. Big ol&#8217; gas cans. We had a huge Sequoia SUV, and we crammed every inch of it. As we loaded up at store after store, people stopped and asked, &#8220;Are you going to New Orleans?&#8221; When we said yes, they handed us stuff. $100, a handful of crumpled $1 bills, a case of peanut butter crackers they&#8217;d just bought.</p>
+<p>The next morning, I went to work to pick up a laptop to take with me. Word had gotten out that I was going, and in my office I found a small mound of supplies and cash, dropped off by my coworkers, crusty journalists who emptied their hearts and wallets. We made more room in the Sequoia.</p>
+<p>All the way down, I drove alongside power trucks and rescue vehicles. Listening to the radio, it quickly became clear that anarchy was ruling and chaos was king. I arrived in Southern Mississippi well before the official response had kicked in. (That was nothing special, of course, given how slow that happened.) I stopped at the newspaper in Hattiesburg, where I&#8217;d cut my teeth as a journalist many years before. I ran into an old friend and former colleague whom I hadn&#8217;t seen or talked to in 20 years. He took one look at my face and my SUV, and offered up his spare room. His street was littered with downed trees, but he opened his home and his heart immediately.</p>
+<p>I caught some shuteye. The next morning, I drank a warm Dr. Pepper and ate a Pop-Tart. Then I headed south. Into the abyss, into devastation. Trees snapped like toothpicks. God, it was hot. No power, no A/C, no ice. Families sitting on the ground in parking lots of stores, shell-shocked and hungry. Once I stopped to clear debris off of a road, and my shoes got stuck to the asphalt. The pine trees were so torn apart, sap had run into the streets like glue. It was so horrible, but it smelled so good, like fresh pine always does.</p>
+<p>I made it to the coast. No checkpoints, no cops, no military. Nothing but desolation, piles of debris, and the worst smell you can imagine. I parked near the coast, put on my gloves and started moving debris, looking for survivors. I didn&#8217;t find any. I found parts of people who didn&#8217;t make it, and item after item from Life Before: baby dolls, photos, a karate trophy, half of a mounted marlin. I&#8217;ve never been so hot, so dirty. The air was oily and thick, the stench something from the inner circle of hell. Decomposing body parts and animals, rotting food, the rainbow sheen of oil and gas on standing water, all baking together in a hot soup. I saw a small dog, a bone poking out of the back leg he was dragging. He was mad with pain and fear and thirst. I tried to catch him, but he disappeared into a pile of debris that would only be moved by cranes.</p>
+<p>Occasionally people would come up, asking if I&#8217;d seen so-and-so. Some would help for a minute, then shamble off, going back to looking for their loved ones. After a few hours, a crew of cops came up and took over. I went back to my car. I looked in the mirror, and saw that my tears had cut lines of clean down my filthy face.</p>
+<p>I drove about three blocks away from the Gulf, right next to a huge boat that had been tossed inland and left stranded. I saw a couple of pickups there, handing out clothes to small groups of survivors. As far as you could see, homes were just piles of rubble and ruin and splinters. What items survived were covered in mud and filth. It seemed like the right place to stop and begin emptying the truck. It only took about an hour. There was no pushing or grabbing or shoving, just stunned people lining up quietly and taking whatever you handed them. When my supplies were gone, those who went without just slowly turned away and went in search of help somewhere else.</p>
+<p>I have only felt so helpless two other times in my life, when facing the unexpected deaths of two young family members. But I was angry, too, along with the rest of the world. How did this happen, here, to us?</p>
+<p>I found a nearby Red Cross shelter and went to work on the medical crew cleaning and dressing wounds, taking medical histories, anything and everything. People making their way to the shelter had fled with nothing, not even their medicine &#8212; diabetics, the mentally ill, even cancer patients. They were covered in cuts and scrapes, almost all infected, and terrible bruises and oozing bug bites. One man had a broken arm, which he&#8217;d lived with for three days. They had lost everything and had nowhere to go.</p>
+<p>The shelter was in a horse arena, too, and there were fleas. Miserable. Cots lined the walkways, and it was bloody hot &#8212; no A/C there, either. One afternoon another volunteer and I were walking through the cots, and we looked over to see a 50-something man molesting a young pre-teen relative. Right there in the open.</p>
+<p>The shelter, while providing a valuable service, was a heartbreaking, soul-wrenching place. We did what we could, but it wasn&#8217;t enough. It wasn&#8217;t nearly enough.</p>
+<p>On my trip home, I stopped to eat at a Piccadilly cafeteria in Jackson, Miss. It was clean, brightly lit, full of people laughing as they ate their comfort food. I sat down to my plate, and lasted less than a minute before I had a big-faced-cry PTSD meltdown in the middle of the dining room. The juxtaposition between that dining room, and what was happening just two hours away, consumed me. I fled, black-eyed peas untouched.</p>
+<p>Katrina changed me, along with hundreds of thousands of others. I didn&#8217;t lose my home, or my life. But I lost a little part of my soul. I gained something, too: a desire for a different life. I had spent more than 20 years being a journalist, remaining distanced from my community in the pursuit of objectivity. I loved it&#8230; but after Katrina, I could no longer do that. It is an important role that journalists play, and I applaud them. It was no longer a role I could play, however. I turned instead to the world of non-profit health care, which feels so right to me and where I know I have made a difference in some people&#8217;s lives.</p>
+<p>As Isaac approaches, I believe we hold close the lessons learned from Katrina. We are better prepared today; this societal breakdown will not happen again. I have healed from those days of horror. I knew another hurricane would come, of course, marching inexorably toward Mississippi&#8217;s Gulf Coast and New Orleans.</p>
+<p>Now that it has, I realize that I <em>have</em> healed&#8230; but I have not forgotten. The smells, the sadness, the pain, the anger, the helplessness &#8212; while 7 years old now, those feelings are as sharp and fresh as fine cheese. They are a sick, gnawing ache in my gut, burning brighter with every minute spent watching The Weather Channel.</p>
+<p>We are ready for Isaac, and we will outlast its fury, no matter how strong he is. (Personally, I hope he fizzles out like a wet sparkler, and then we can dance and toast his demise.) But we must not forget what brought us to this day, just seven short years ago, and how it changed us.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/360/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/360/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=360&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://wordsmith1313.wordpress.com/2012/08/27/isaac-deja-vu-all-over-again/feed/</wfw:commentRss>
+		<slash:comments>35</slash:comments>
+	
+		<media:content url="http://1.gravatar.com/avatar/d5005e94731411ba76780fbf797d1938?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">wordsmith1313</media:title>
+		</media:content>
+
+		<media:content url="http://wordsmith1313.files.wordpress.com/2012/08/katrina1.jpg?w=123" medium="image">
+			<media:title type="html">Image</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Authentic and Counterfeit Wholes in São Paulo</title>
+		<link>http://transitionconsciousness.wordpress.com/2012/08/22/authentic-and-counterfeit-wholes-in-sao-paulo/</link>
+		<comments>http://transitionconsciousness.wordpress.com/2012/08/22/authentic-and-counterfeit-wholes-in-sao-paulo/#comments</comments>
+		<pubDate>Wed, 22 Aug 2012 14:29:35 +0000</pubDate>
+		<dc:creator>Simon</dc:creator>
+				<category><![CDATA[Henri Bortoft]]></category>
+		<category><![CDATA[Our Toxic Lives]]></category>
+		<category><![CDATA[Place]]></category>
+		<category><![CDATA[authentic]]></category>
+		<category><![CDATA[counterfeit]]></category>
+		<category><![CDATA[goethe]]></category>
+		<category><![CDATA[henri bortoft]]></category>
+		<category><![CDATA[pollution]]></category>
+		<category><![CDATA[Sao Paulo]]></category>
+		<category><![CDATA[whole]]></category>
+
+		<guid isPermaLink="false">http://transitionconsciousness.wordpress.com/?p=1899</guid>
+		<description><![CDATA[On Saturday I took Maria to visit Harmonia 57, a living, breathing eco building in São Paulo. If you have not already seen my first article about this wonderful place, you may want to take a quick look before proceeding with this article. Harmonia 57: São Paulo’s living, breathing eco building Previously I had visited [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=1899&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+		<wfw:commentRss>http://transitionconsciousness.wordpress.com/2012/08/22/authentic-and-counterfeit-wholes-in-sao-paulo/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/f0af3561162fdecc6e50fbe6bafcd901?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">simonralli</media:title>
+		</media:content>
+
+		<media:content url="http://transitionconsciousness.files.wordpress.com/2012/08/harmonia-57-back.jpg" medium="image">
+			<media:title type="html">Harmonia 57 - back</media:title>
+		</media:content>
+
+		<media:content url="http://transitionconsciousness.files.wordpress.com/2012/08/farm-eco-watch.jpg" medium="image">
+			<media:title type="html">Farm eco watch</media:title>
+		</media:content>
+
+		<media:content url="http://transitionconsciousness.files.wordpress.com/2012/08/simon-on-hammock.jpg" medium="image">
+			<media:title type="html">Simon on hammock</media:title>
+		</media:content>
+
+		<media:content url="http://transitionconsciousness.files.wordpress.com/2012/08/farm.jpg" medium="image">
+			<media:title type="html">Farm</media:title>
+		</media:content>
+
+		<media:content url="http://transitionconsciousness.files.wordpress.com/2012/08/7818436778_1609b80353_z.jpg" medium="image">
+			<media:title type="html">Air Pollution in São Paulo</media:title>
+		</media:content>
+
+		<media:content url="http://transitionconsciousness.files.wordpress.com/2012/08/7818440838_d2574b3e94_b.jpg" medium="image">
+			<media:title type="html">7818440838_d2574b3e94_b</media:title>
+		</media:content>
+
+		<media:content url="http://transitionconsciousness.files.wordpress.com/2012/08/7818438718_6935147889_h.jpg" medium="image">
+			<media:title type="html">Poluição do ar em São Paulo</media:title>
+		</media:content>
+
+		<media:content url="http://transitionconsciousness.files.wordpress.com/2012/08/7818358282_89f983275d_z.jpg" medium="image">
+			<media:title type="html">7818358282_89f983275d_z</media:title>
+		</media:content>
+
+		<media:content url="http://transitionconsciousness.files.wordpress.com/2012/08/ponte-estaiada-morumbi.jpg" medium="image">
+			<media:title type="html">ponte-estaiada-morumbi</media:title>
+		</media:content>
+
+		<media:content url="http://transitionconsciousness.files.wordpress.com/2012/08/4759777979_8a8bdde3ef.jpg" medium="image">
+			<media:title type="html">Curitiba</media:title>
+		</media:content>
+
+		<media:content url="http://transitionconsciousness.files.wordpress.com/2012/08/beirute.jpg" medium="image">
+			<media:title type="html">Beirute</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>The Museum Lover&#8217;s Paradise?</title>
+		<link>http://sarahshapcott.wordpress.com/2012/08/27/the-museum-lovers-paradise/</link>
+		<comments>http://sarahshapcott.wordpress.com/2012/08/27/the-museum-lovers-paradise/#comments</comments>
+		<pubDate>Mon, 27 Aug 2012 02:59:17 +0000</pubDate>
+		<dc:creator>sarahshapcott</dc:creator>
+				<category><![CDATA[Culture]]></category>
+		<category><![CDATA[History]]></category>
+		<category><![CDATA[Museums]]></category>
+		<category><![CDATA[USA]]></category>
+
+		<guid isPermaLink="false">http://sarahshapcott.wordpress.com/?p=121</guid>
+		<description><![CDATA[Thanks largely to the Smithsonian Foundation Washington D.C. is blessed with some of the best free museums in the world. Trying to see them all is not only exhausting but near on impossible. D.C. has a museum for everyone from the Postal Service to the Navy, from Natural History to American History – even spies, [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=121&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>Thanks largely to the Smithsonian Foundation Washington D.C. is blessed with some of the best free museums in the world. Trying to see them all is not only exhausting but near on impossible. D.C. has a museum for everyone from the Postal Service to the Navy, from Natural History to American History – even spies, buildings and journalism are covered. As well as the main drag on the Mall, populated mainly by Smithsonian relatives, museums large and small litter the city.</p>
+<p><a href="http://sarahshapcott.files.wordpress.com/2012/08/smithsoniancastle.jpg"><img class="aligncenter size-medium wp-image-123" title="smithsoniancastle" src="http://sarahshapcott.files.wordpress.com/2012/08/smithsoniancastle.jpg?w=300&h=225" alt="" width="300" height="225" /></a></p>
+<p>Above: the Smithsonian Castle on the National Mall.</p>
+<p>But all is not quite what it seems. D.C. is famous for the sheer quantity of museums – but, as the old saying goes, quality is better than quantity. Having grown up in London with the V &amp; A, Science Museum and British Museum my standards of a free museum have become pretty high – if I’m going to fork out anything (let’s not forget I’m a student still) it has to be worth it. So, in short, are the museums in D.C. all they’re cracked up to be? Are they any good?</p>
+<p>There are some wonderful museums in D.C. with well thought out and interesting displays, interactives and a nice museum flow. The Holocaust Museum, American History and the art galleries all rate highly in my opinion. However, the museum and gallery crush is one of my biggest pet hates about any museum and several fell foul to this common irritancy. Typically for any paid exhibition, the 2011 Leonardo exhibition at the National Gallery for instance really was a victim of this, people walk in a static mass, forced into narrow corridors with very little room to move and see the actual text and exhibits. Of course, I understand the dilemma. Time is precious and excellent exhibitions, such as the Leonardo, understandably attract a lot of visitors.</p>
+<p>In D.C. there were two museums that I felt handled the ‘visitor crush’ particularly terribly. The Spy Museum, charging a fairly pricey $20 a ticket, was the worst. Funnelling visitors up in batches for the first room we were given just two minutes to look around a room before the next group were shuttled in – quite simply not enough time. The entire museum is filled with interactives and videos but although these are fun they lead to large static groups making it incredibly difficult to move around the museum. Not helped by corridors and rooms of exhibits which only one exit and entrance nor the mainly single flawed layout the entire visit felt fairly claustrophobic. These kind of faults can be forgiven by the quality of the pieces everyone is craning to see. But the reproductive quality of much of the Spy Museum, such as a fake rosetta stone stuck to the wall, and seemingly irrelevant exhibits, with Machiavelli’s The Prince, left me distinctly unimpressed.</p>
+<p>By contrast the Holocaust Museum, packed as it was, was a far better experience. Not only is it much more detailed and varied, visitors are given more floor space to circulate around, but small touches really bring to life the Holocaust for the visitor. On entry each visitor takes an identification card. As you move between floors and time periods you turn the pages to reveal the fate of your individual. The content of the Museum was stunningly done with a moving level of depth and human relevance. There were issues at the start with the jamming of people into small corridors, it was a queue through the entire first floor, but with patience the pieces were well worth the wait. A variation of pictures, films and artefacts arranged on varying levels with adult height platforms for sensitive images made the Museum, in my view, one of the best in Washington D.C.</p>
+<p><a href="http://sarahshapcott.files.wordpress.com/2012/08/muppets.jpg"><img class="aligncenter size-medium wp-image-122" title="Muppets" src="http://sarahshapcott.files.wordpress.com/2012/08/muppets.jpg?w=300&h=225" alt="" width="300" height="225" /></a></p>
+<p>Above: see the original Muppets at the Museum of American History</p>
+<p>Studying American history it was not a surprise that I enjoyed the American History Museum. The Museum worked hard to bring history to life with regular living history performances – from an unfolding of the Star Spangled Banner to a re-enactment of the Greensboro Lunch Counter Sit-In. The latter was particularly well thought out challenging the children to think hard about exactly why segregation was wrong. For a few short weeks this summer, in celebration of Julia Child’s 100th birthday, you can drop in on her Massachusetts’s kitchen which is otherwise closed as part of gallery renovations.</p>
+<p>Off the beaten track I’d also recommend the Building Museum. Though fairly small with only around five galleries it does host indoor miniature golf, an interesting exhibition on the development of the home through time and a Lego building gallery – where kids (or adults) can build their own Lego skyscrapers. At the information desk you can pick up a self-guided tour of the building itself and, if you ask sweetly, they’ll lend you binoculars.</p>
+<p><a href="http://sarahshapcott.files.wordpress.com/2012/08/buildingmuseum.jpg"><img class="aligncenter size-medium wp-image-125" title="BuildingMuseum" src="http://sarahshapcott.files.wordpress.com/2012/08/buildingmuseum.jpg?w=300&h=201" alt="" width="300" height="201" /></a></p>
+<p>Above: the interior of the Building Museum.</p>
+<p>The Smithsonian is a brilliant institution creating a quality experience for millions of people each year. The Museums have their flaws – don’t expect to like the Museum of Natural History if you don’t like small children running around – but by their generosity they open up a new world. Having been spoiled by London there wasn’t much about the D.C. museum experience that truly bowled me over. I was less impressed by the non-Smithsonians in general as they usually struggle to source artifacts or get the funding for ground-breaking exhibitions  &#8211; but this problem is a global one. The museums off the Mall are usually quieter and include the National Portrait Gallery and American Art Museum in Chinatown whilst all summer the sculpture garden at the National Gallery of Art on the Mall hosts jazz every Friday evening. With careful choices and a bit of patience the city is a true mecca for any museum lover.</p>
+<p>Below: my favourite gift in the Smithsonian gift shops.</p>
+<p><a href="http://sarahshapcott.files.wordpress.com/2012/08/giftshopcute.jpg"><img class="aligncenter size-medium wp-image-127" title="GiftShopCute" src="http://sarahshapcott.files.wordpress.com/2012/08/giftshopcute.jpg?w=225&h=300" alt="" width="225" height="300" /></a></p>
+<br />  <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=121&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://sarahshapcott.wordpress.com/2012/08/27/the-museum-lovers-paradise/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	
+		<media:content url="" medium="image">
+			<media:title type="html">sarahshapcott</media:title>
+		</media:content>
+
+		<media:content url="http://sarahshapcott.files.wordpress.com/2012/08/smithsoniancastle.jpg?w=300" medium="image">
+			<media:title type="html">smithsoniancastle</media:title>
+		</media:content>
+
+		<media:content url="http://sarahshapcott.files.wordpress.com/2012/08/muppets.jpg?w=300" medium="image">
+			<media:title type="html">Muppets</media:title>
+		</media:content>
+
+		<media:content url="http://sarahshapcott.files.wordpress.com/2012/08/buildingmuseum.jpg?w=300" medium="image">
+			<media:title type="html">BuildingMuseum</media:title>
+		</media:content>
+
+		<media:content url="http://sarahshapcott.files.wordpress.com/2012/08/giftshopcute.jpg?w=225" medium="image">
+			<media:title type="html">GiftShopCute</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>

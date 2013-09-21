@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>FreshlyPressed</title>
+	<atom:link href="http://freshlypressed.wordpress.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://freshlypressed.wordpress.com</link>
+	<description>Just another Wordpress.com weblog</description>
+	<lastBuildDate>Fri, 09 Nov 2012 23:02:05 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='freshlypressed.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>http://s2.wp.com/i/buttonw-com.png</url>
+		<title>FreshlyPressed</title>
+		<link>http://freshlypressed.wordpress.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="http://freshlypressed.wordpress.com/osd.xml" title="FreshlyPressed" />
+	<atom:link rel='hub' href='http://freshlypressed.wordpress.com/?pushpress=hub'/>
+		<item>
+		<title>Nate Silver and the Rise of Analytics: What it Means to You.</title>
+		<link>http://insidetimshead.wordpress.com/2012/11/08/nate-silver-and-the-rise-of-analytics-what-it-means-to-you/</link>
+		<comments>http://insidetimshead.wordpress.com/2012/11/08/nate-silver-and-the-rise-of-analytics-what-it-means-to-you/#comments</comments>
+		<pubDate>Thu, 08 Nov 2012 13:01:30 +0000</pubDate>
+		<dc:creator>Zombie Administator</dc:creator>
+				<category><![CDATA[Web]]></category>
+		<category><![CDATA[analytics]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[five thirty eight]]></category>
+		<category><![CDATA[google analytics]]></category>
+		<category><![CDATA[google in-page analytics]]></category>
+		<category><![CDATA[google tracking]]></category>
+		<category><![CDATA[metrics]]></category>
+		<category><![CDATA[nate silver]]></category>
+		<category><![CDATA[usability]]></category>
+		<category><![CDATA[web and social media analytics]]></category>
+
+		<guid isPermaLink="false">http://insidetimshead.wordpress.com/?p=2490</guid>
+		<description><![CDATA[As the election drew near, many political and stats junkies (like me) became fans of Nate Silver, aka @fivethirtyeight, the shrewd political number-cruncher and blogger for the New York Times. His way of aggregating the most reliable presidential polls into megapolls, and factoring in those polls&#8217; historical accuracies, was considered by some to be as [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=2490&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>As the election drew near, many political and stats junkies (like me) became fans of Nate Silver, aka <a href="http://twitter.com/fivethirtyeight" target="_blank">@fivethirtyeight</a>, the shrewd political <a href="http://fivethirtyeight.blogs.nytimes.com/" target="_blank">number-cruncher and blogger</a> for the New York Times. His way of aggregating the most reliable presidential polls into megapolls, and factoring in those polls&#8217; historical accuracies, was considered by some to be as revolutionary as the introduction of &#8220;Moneyball&#8221; &#8212; or use of undervalued stats &#8212; on baseball.</p>
+<p>Like anyone who develops a following, Silver soon drew his shares of detractors. Newsmen, pundits and politicians alike scoffed at his methodology, and Silver tended to <a href="http://fivethirtyeight.blogs.nytimes.com/2012/11/03/nov-2-for-romney-to-win-state-polls-must-be-statistically-biased/" target="_blank">respond quite intelligently</a> with an unrivaled grasp of statistics. Even as the news networks hyped the election as anyone&#8217;s game last week, Silver said his estimations &#8220;represent powerful evidence against the idea that the race is a &#8216;tossup.&#8217; A tossup race isn’t likely to produce 19 leads for one candidate and one for the other &#8211;  any more than a fair coin is likely to come up heads 19 times and tails just once in 20 tosses.&#8221; And, yes, unless Florida reverses course, he will have called 50 of 50 states correctly. That he even triggered the briefly popular <a href="http://isnatesilverawitch.com/" target="_blank">Is Nate Silver A Witch?</a> website tells something about his crossover success.</p>
+<p>But let&#8217;s forget politics for a moment (please!); what&#8217;s impressive here is the <strong>rise of analytics</strong> writ large. Silver succeeded by keen understanding of statistics, willingness to discard dubious assumptions and eagerness to innovate. In higher education, we always talk about working smarter not harder and trying innovative things &#8230; then everyone rushes to &#8220;best practices&#8221; and well-plowed ground and research (like that on &#8220;Millennials&#8221;) based on questionable assumptions.</p>
+<p><strong>It all starts with data.</strong> Working with the web and social media avails us to a wealth of analytics and metrics via Google and other methods. But as Silver cautions, it&#8217;s about looking for the right data, not necessarily the most obvious or easiest. <a href="http://www.kaushik.net/avinash/" target="_blank">Avinash Kaushik</a>, perhaps one of the top experts in web analytics, jokes that &#8220;hits&#8221; is short for &#8220;how idiots track success&#8221; &#8230; i.e. the number of visits to your website tells you only surface information. Instead, he says, look at things like bounce rates (how many people visit one page and immediately leave), average number of pages per visit and what paths and tasks users complete while on your site.</p>
+<p><a href="http://insidetimshead.files.wordpress.com/2012/11/screen-shot-2012-11-08-at-7-33-48-am.png"><img class="size-full wp-image-2496 aligncenter" title="Screen shot 2012-11-08 at 7.33.48 AM" alt="" src="http://insidetimshead.files.wordpress.com/2012/11/screen-shot-2012-11-08-at-7-33-48-am.png?w=590"   /></a></p>
+<p>Google&#8217;s In-Page Analytics (seen above) is one of my favorite tools for seeing where visitors go after hitting a page. Those orange tags are click-through percentages, which you can roll over for numbers. I look at our home page using this tool very frequently to see what is and isn&#8217;t working, and regularly check other key pages. It&#8217;s interesting to see that sometimes switching out a picture or changing wording can have an impact on click rates. Among the most basic tips:</p>
+<ul>
+<li>Pics of students work better than anything else. (Except maybe sunsets, but that&#8217;s a whole other story.)</li>
+<li>Pics of logos and/or clip art are virtually useless. The only logo anyone ever clicks is the Oswego logo at the top left to get back to the home page.</li>
+<li>Don&#8217;t overpromise or mislead with link names. I&#8217;ve seen pages where users think they are getting one thing because of a page name, only to realize the info they seek is not there. In cases like these, a user is more likely to leave our site entirely than go back. (We&#8217;ve seen this fixed by merely changing a link or page name.)</li>
+<li>If your page has an embedded video but a very low average time on page, it&#8217;s pretty clear that video isn&#8217;t getting watched much. You can correlate with YouTube views &#8212; there&#8217;s a chance they&#8217;re watching it on YouTube &#8212; but you can often spot a dog quickly. This also ties into our data that shows videos about students and/or made by students tend to do much better than any other videos.</li>
+</ul>
+<p><a href="http://insidetimshead.files.wordpress.com/2012/11/screen-shot-2012-11-08-at-7-45-35-am.png"><img class="aligncenter size-full wp-image-2497" title="Screen shot 2012-11-08 at 7.45.35 AM" alt="" src="http://insidetimshead.files.wordpress.com/2012/11/screen-shot-2012-11-08-at-7-45-35-am.png?w=590"   /></a></p>
+<p>Another great Google Analytics feature is event tracking, which lets you see microtrends. With our <a href="http://insidetimshead.wordpress.com/2012/11/05/sitewide-refresh-and-responsive-design-teamwork-usability-and-action/" target="_blank">new megadropdown headers and Popular Links</a>, developer Rick Buck inserted a Google event tracking code to get a finer picture of who clicks where. The Academics part of the header rules, as it does in breakout tracking. This underscores our longtime push that good academic content and information architecture remain key to a college website&#8217;s success.</p>
+<p>In addition to looking small, we look big. We recently completed our third month of compiling, filing and sharing a <a href="https://docs.google.com/spreadsheet/pub?key=0AtsDH2D6qpEGdG1uUDduWW5RTU1YdU93V0VETkpUOVE&amp;output=html" target="_blank">monthly web and social media analytics report</a>, which has provided clues into what works and what doesn&#8217;t. We will learn even more as we add and hone various measurements and see trends in longer spans of data.</p>
+<p>On a related note, you should also look long-term and not be so hasty that you change things too quickly. Silver&#8217;s data worked because he had large sample sizes. You need to track a page for at least a month (maybe more) to ensure you have a good enough sample size to judge user activity. A day or two is too small a sample size to glean a full picture.</p>
+<p>Some colleges are showing a need and desire to invest in data. Ithaca College, for example, recently hired Colleen Clark as a full-time marketing analyst, and Colleen describes what that entails <a href="http://collegewebeditor.com/blog/index.php/archives/2012/10/18/meet-web-analytics-pros-in-highered-colleen-clark-web-marketing-analyst-at-ithaca-college-ny/" target="_blank">in this interview</a> with Karine Joly of Higher Ed Experts. Not all colleges are in a position to hire full-time web analysts, but institutions should ensure that at least one (probably more) people in their organization have enough training, knowledge and &#8212; importantly &#8212; time to look at stats and trends.</p>
+<p>Because as Nate Silver showed with this election, relying on conventional wisdom and erratic statistics get you results that are only as good as their flawed data. The more data you have, the better you understand it, the more effectively you implement what it shows, the higher the chances you can start achieving some real wins &#8230; whatever you do.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/2490/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/2490/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=2490&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://insidetimshead.wordpress.com/2012/11/08/nate-silver-and-the-rise-of-analytics-what-it-means-to-you/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	
+		<media:content url="http://2.gravatar.com/avatar/254f20d86d988e251691c263b9f24b71?s=96&#38;d=http%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D96" medium="image">
+			<media:title type="html">insidetimshead</media:title>
+		</media:content>
+
+		<media:content url="http://insidetimshead.files.wordpress.com/2012/11/screen-shot-2012-11-08-at-7-33-48-am.png" medium="image">
+			<media:title type="html">Screen shot 2012-11-08 at 7.33.48 AM</media:title>
+		</media:content>
+
+		<media:content url="http://insidetimshead.files.wordpress.com/2012/11/screen-shot-2012-11-08-at-7-45-35-am.png" medium="image">
+			<media:title type="html">Screen shot 2012-11-08 at 7.45.35 AM</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Giving A Person More Attention Because They&#8217;re Attractive: And We All Do It</title>
+		<link>http://thewayeverlasting.com/2012/11/06/giving-a-person-more-attention-because-theyre-attractive-and-we-all-do-it/</link>
+		<comments>http://thewayeverlasting.com/2012/11/06/giving-a-person-more-attention-because-theyre-attractive-and-we-all-do-it/#comments</comments>
+		<pubDate>Tue, 06 Nov 2012 15:30:26 +0000</pubDate>
+		<dc:creator>JS Park</dc:creator>
+				<category><![CDATA[Christianity]]></category>
+		<category><![CDATA[Church]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Life]]></category>
+		<category><![CDATA[Ministry]]></category>
+		<category><![CDATA[Philosophy]]></category>
+		<category><![CDATA[Psychology]]></category>
+		<category><![CDATA[Relationships]]></category>
+		<category><![CDATA[Religion]]></category>
+		<category><![CDATA[Theology]]></category>
+
+		<guid isPermaLink="false">http://thewayeverlasting.com/?p=9699</guid>
+		<description><![CDATA[Ever prayed more for someone just because they&#8217;re hot? Come on, I&#8217;ve done that too. Let&#8217;s not act like we&#8217;re above judging looks here. We give more cred to someone based on their defined jawline and bigger bra size than their less tangible patience and hospitality and compassion. A very fleshy part of our human [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=9699&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+		<wfw:commentRss>http://thewayeverlasting.com/2012/11/06/giving-a-person-more-attention-because-theyre-attractive-and-we-all-do-it/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+	
+		<media:content url="http://1.gravatar.com/avatar/4bb74ad1e01945666529a9ee2cad1e55?s=96&#38;d=identicon&#38;r=PG" medium="image">
+			<media:title type="html">J. S. Park</media:title>
+		</media:content>
+
+		<media:content url="http://i.imgur.com/p7cZL.png" medium="image" />
+	</item>
+		<item>
+		<title>Holding</title>
+		<link>http://100jottings.wordpress.com/2012/11/06/19-holding/</link>
+		<comments>http://100jottings.wordpress.com/2012/11/06/19-holding/#comments</comments>
+		<pubDate>Tue, 06 Nov 2012 13:57:40 +0000</pubDate>
+		<dc:creator>estherkennedy</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[100x1]]></category>
+		<category><![CDATA[100]]></category>
+		<category><![CDATA[writing]]></category>
+		<category><![CDATA[poetry]]></category>
+		<category><![CDATA[Father]]></category>
+		<category><![CDATA[DPchallenge]]></category>
+		<category><![CDATA[holding]]></category>
+
+		<guid isPermaLink="false">http://100jottings.wordpress.com/?p=13</guid>
+		<description><![CDATA[When you are small it seems like the safest you can be is when you’re holding your dad’s hand. His hands are large and warm and they envelope yours. You like to be snug in his lap on a cold winter’s evening and high on his shoulders on a bright summer’s day. You like it [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=13&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p><a href="http://100jottings.files.wordpress.com/2012/11/untitled.png"><img class="alignnone size-medium wp-image-14" title="Untitled" alt="" src="http://100jottings.files.wordpress.com/2012/11/untitled.png?w=300&#038;h=210" height="210" width="300" /></a></p>
+<p>When you are small it seems<br />
+like the safest you can be is when you’re<br />
+holding your dad’s hand.</p>
+<p>His hands are large<br />
+and warm<br />
+and they envelope yours.</p>
+<p>You like to be snug in his lap on a cold winter’s evening<br />
+and high on his shoulders on a bright summer’s day.</p>
+<p>You like it when he reads you stories with all the proper voices<br />
+and when he tells you of his adventures when he was as small as you.</p>
+<p>One day you’ll come downstairs to find<br />
+that you no longer have to crane your neck<br />
+to see his face<br />
+and you won’t need him to lift you up<br />
+so you can reach the top of the cupboard.</p>
+<p>You don’t need him to wipe your tears<br />
+or kiss it better when<br />
+you take a tumble<br />
+because you’re big enough to wipe your own tears<br />
+and you don’t think you need him anymore.</p>
+<p>He knows better, and you will too.</p>
+<p>But for now<br />
+the safest you can be is<br />
+holding your dad’s hand.</p>
+<br /> Tagged: <a href='http://100jottings.wordpress.com/tag/100/'>100</a>, <a href='http://100jottings.wordpress.com/tag/100x1/'>100x1</a>, <a href='http://100jottings.wordpress.com/tag/dpchallenge/'>DPchallenge</a>, <a href='http://100jottings.wordpress.com/tag/father/'>Father</a>, <a href='http://100jottings.wordpress.com/tag/holding/'>holding</a>, <a href='http://100jottings.wordpress.com/tag/poetry/'>poetry</a>, <a href='http://100jottings.wordpress.com/tag/writing/'>writing</a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/13/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/13/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=13&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://100jottings.wordpress.com/2012/11/06/19-holding/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	
+		<media:content url="http://1.gravatar.com/avatar/d0bd6c933d65b0b4f56b73e979fb95c3?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">estherkennedy</media:title>
+		</media:content>
+
+		<media:content url="http://100jottings.files.wordpress.com/2012/11/untitled.png?w=300" medium="image">
+			<media:title type="html">Untitled</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Der Witwer</title>
+		<link>http://gravityofgirl.wordpress.com/2012/11/06/weekly-writing-challenge-003-nov-06-a-picture-is-worth-1000-words-der-witwer/</link>
+		<comments>http://gravityofgirl.wordpress.com/2012/11/06/weekly-writing-challenge-003-nov-06-a-picture-is-worth-1000-words-der-witwer/#comments</comments>
+		<pubDate>Tue, 06 Nov 2012 22:02:15 +0000</pubDate>
+		<dc:creator>Divina F</dc:creator>
+				<category><![CDATA[Flash Fiction]]></category>
+		<category><![CDATA[DPchallenge]]></category>
+		<category><![CDATA[LGBT]]></category>
+		<category><![CDATA[love story]]></category>
+		<category><![CDATA[short fiction]]></category>
+
+		<guid isPermaLink="false">http://gravityofgirl.wordpress.com/?p=38</guid>
+		<description><![CDATA[Der Witwer It was all Diedrick&#8217;s idea. Since they were boys it was usually Diedrick&#8217;s idea, and Ranulf blidly followed. That Sunday morning, he had the hired girl dress the children smartly for church. Since the daughter had been old enough to sit still and still sein he&#8217;d been taking them to mass every Sunday. [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=38&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<div id="attachment_39" class="wp-caption alignleft" style="width: 310px"><a href="http://gravityofgirl.files.wordpress.com/2012/11/dp-writing-challenge-photo-2.jpg"><img class="size-medium wp-image-39 " title="dp-writing-challenge-photo-2" alt="" src="http://gravityofgirl.files.wordpress.com/2012/11/dp-writing-challenge-photo-2.jpg?w=300&#038;h=210" height="210" width="300" /></a><p class="wp-caption-text"><a href="http://dailypost.wordpress.com/2012/11/05/weekly-writing-challenge-a-picture-is-worth-1000-words/">Weekly Writing Challenge: A Picture is Worth 1,000 Words</a></p></div>
+<p><strong>Der Witwer</strong></p>
+<p>It was all Diedrick&#8217;s idea.<span id="more-38"></span></p>
+<p>Since they were boys it was usually Diedrick&#8217;s idea, and Ranulf blidly followed.</p>
+<p>That Sunday morning, he had the hired girl dress the children smartly for church. Since the daughter had been old enough to sit still and<em> still sein </em>he&#8217;d been taking them to mass every Sunday. &#8220;Your <em>mutter</em> would want you to go to church,&#8221; he said stiffly as they walked the two blocks. The children didn&#8217;t remember Adelaide, but they went along without complaint. It was a cold home.</p>
+<p>&#8220;You should remarry,&#8221; Diedrick suggested one evening. &#8220;My sister knows a family. Their eldest daughter would be good for you, she says.&#8221;</p>
+<p>Ranulf gave no indication that he was interested, but then, Diedrick didn&#8217;t need approval. Even when Adelaide had been alive, it was Diedrick who made decisions for him. The next Sunday he was waiting in front of the house when they returned from mass with a picture and a small greeting card.</p>
+<p>The girl in the picture was the age Adelaide had been when she died, almost three years ago. Her hair was fair and lovely. Ranulf couldn&#8217;t imagine why such a girl would want to meet a man nearing 40 with two children of his own already. The card read simply:</p>
+<p><em>To Mr. König:</em></p>
+<p><em>I am Frieda Krause. Your good friend Diedreick Huber recommended you to me. I was raised strong Catholic and have a good woman&#8217;s education.</em></p>
+<p>Marlene will bring her to your church soon, so that you can meet her,&#8221; Diedrick said. &#8220;For now we must send her a photo of you and the children.&#8221; He pulled out a small, bulky camera. &#8220;Stand there,&#8221; he indicated the brick and stone stretch in front of the house. Ranulf took the boy&#8217;s hand in his and steered them into a line. &#8220;If you must,&#8221; he murmured. The shutter snapped closed/open once.</p>
+<p>Over coffee, Diedrick revealed more. Frieda was only 26, but had been married at the young age of 19. Her husband died shortly after, and Frieda devoted herself to church. She had a small degree in German Literature and had, for a short time, worked as a schoolteacher. She had no children from her first marriage, and had recently discovered that she was barren. Hearing about Ranulf, she hoped to finally have a stable marriage and children to mother.</p>
+<p>&#8220;You should write her a short letter. Here,&#8221; Diedrick found the stationary. &#8220;You dictate and I&#8217;ll write.&#8221;</p>
+<p>Ranulf hid a smile in a sip of coffee and began, knowing that his friend was twisting his words.</p>
+<p><em>To Frieda Krause:</em></p>
+<p><em>I am Ranulf König, a widower and father of two children: a boy aged 6 and a girl aged 4. We are a Catholic family. Our home is not very big, but it is comfortable and we have all that we need. Marlene Huber, as I understand, has invited you to our church. I hope you will come. Danke.</em></p>
+<p><em>I enclose a picture of my family.</em></p>
+<p>The hired girl put the children to bed, and Diedrick stuffed the letter into an envelope. &#8220;I will develop the picture in the morning and send it with Marlene.&#8221; He seemed excited as he went out into the late afternoon. Ranulf closed the curtains with a sigh. Since they were boys he had loved Diedrick. Loved him like a friend, and a brother and a man. It had been Diedrick who introduced him to Adelaide so many years ago, after taking her out once or twice and deciding she was far too nice a girl for him.</p>
+<p>Diedrick himself never married.</p>
+<p>Ranulf poured himself a drink and wandered upstairs, pausing to admire the sleeping faces of his children.</p>
+<p>In the first years of his mourning, Diedrick had been strangely absent. It was only now that he was constantly present again. Ranulf looked and looked for a note of melancholy or regret in his friend&#8217;s eye, but there was none. Diedrick was happy to be a bachelor and more than happy to see Ranulf&#8217;s heartache as loneliness whose only cure was a beautiful blonde Catholic girl.</p>
+<p>Frieda&#8217;s picture is slanted against the table in the hallway, beside the telephone. She would make a good mother, wouldn&#8217;t she? And she was barren. She wouldn&#8217;t insist on the rituals of flesh every night. She would lay quietly and not invite him to touch her. She would lay peacefully, as peacefully as Adelaide did. And if she ever came to notice the way that he followed Diedrick, she would not say a word, as Adelaide had.</p>
+<p>Because then he would be twice a widower.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/38/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/38/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=38&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://gravityofgirl.wordpress.com/2012/11/06/weekly-writing-challenge-003-nov-06-a-picture-is-worth-1000-words-der-witwer/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/6fd86db6b3c2becbea2a1580cedc4445?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">gravityofgirl</media:title>
+		</media:content>
+
+		<media:content url="http://gravityofgirl.files.wordpress.com/2012/11/dp-writing-challenge-photo-2.jpg?w=300" medium="image">
+			<media:title type="html">dp-writing-challenge-photo-2</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Little Albatrosses</title>
+		<link>http://sunshineandcompany.wordpress.com/2012/11/06/little-albatrosses/</link>
+		<comments>http://sunshineandcompany.wordpress.com/2012/11/06/little-albatrosses/#comments</comments>
+		<pubDate>Tue, 06 Nov 2012 02:29:12 +0000</pubDate>
+		<dc:creator>Sunshine</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[thoughts]]></category>
+		<category><![CDATA[writing challenge]]></category>
+
+		<guid isPermaLink="false">http://sunshineandcompany.wordpress.com/2012/11/06/little-albatrosses/</guid>
+		<description><![CDATA[  My parents will never have grandchildren. At the beach, my brother points out the families with children and says, &#8220;Don&#8217;t the parents look miserable?&#8221; He thinks everyone should have a personal one-child policy. Children, he says, are instruments of destruction like little landmines. You have kids, and boom &#8211; there goes your money. Boom, [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=47&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p> </p>
+<p><img alt="http://dailypost.files.wordpress.com/2012/11/dp-writing-challenge-photo-2.jpg?w=590" src="http://dailypost.files.wordpress.com/2012/11/dp-writing-challenge-photo-2.jpg?w=590" /></p>
+<p>My parents will never have grandchildren.</p>
+<p>At the beach, my brother points out the families with children and says, &#8220;Don&#8217;t the parents look miserable?&#8221; He thinks everyone should have a personal one-child policy. Children, he says, are instruments of destruction like little landmines. You have kids, and boom &#8211; there goes your money. Boom, your social life stops glittering. Boom, your nice body goes soft in the wrong places. Basically, he says, have kids and you can say goodbye to everything you love. You&#8217;ll become a sort of zombie driven by drunk, sloppy instinct. He thinks that new parents pretend to be happy because they&#8217;re too proud to admit that they&#8217;ve made a terrible mistake.</p>
+<p>I am not as cynical. I&#8217;m also not as verbal, so I can&#8217;t describe as strongly why I don&#8217;t want children.  I don&#8217;t think about children, but I feel them as weights pulling me down. Like that man in the photo &#8211; he could float into space like the men in Magritte: </p>
+<p><img id="il_fi" alt="" src="http://iteror.org/big/img/i/Magritte-Golconda.jpg" height="384" width="512" /></p>
+<p>But these sandbags, these little bureaucrats tether him to a dull everydayness. He has to wear that suit so he can make money to buy the girl&#8217;s little Mary Janes. He has to wear the scowl when the boy acts up, even though frowning makes him gray inside. They live in that straight-line house because it&#8217;s near the best schools. He&#8217;ll never fly away now.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/47/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/47/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=47&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://sunshineandcompany.wordpress.com/2012/11/06/little-albatrosses/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+	
+		<media:content url="http://1.gravatar.com/avatar/4f9c5783799ee4c82770c9fb92bb69e4?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">neufchatel</media:title>
+		</media:content>
+
+		<media:content url="http://dailypost.files.wordpress.com/2012/11/dp-writing-challenge-photo-2.jpg" medium="image">
+			<media:title type="html">http://dailypost.files.wordpress.com/2012/11/dp-writing-challenge-photo-2.jpg</media:title>
+		</media:content>
+
+		<media:content url="http://iteror.org/big/img/i/Magritte-Golconda.jpg" medium="image" />
+	</item>
+		<item>
+		<title>A Picture Is Worth 1,000 Words</title>
+		<link>http://applesandsilver.wordpress.com/2012/11/07/day-14-a-picture-is-worth-a-1000-words/</link>
+		<comments>http://applesandsilver.wordpress.com/2012/11/07/day-14-a-picture-is-worth-a-1000-words/#comments</comments>
+		<pubDate>Wed, 07 Nov 2012 09:42:09 +0000</pubDate>
+		<dc:creator>Lucy</dc:creator>
+				<category><![CDATA[30 Days]]></category>
+		<category><![CDATA[Writing]]></category>
+		<category><![CDATA[dpchallenge]]></category>
+		<category><![CDATA[Fiction]]></category>
+		<category><![CDATA[short story]]></category>
+		<category><![CDATA[writing challenge]]></category>
+		<category><![CDATA[writing prompts]]></category>
+
+		<guid isPermaLink="false">http://applesandsilver.wordpress.com/?p=729</guid>
+		<description><![CDATA[One day they weren&#8217;t there, and the next they were. They had been left on the sidewalk, blithely placed in front of a brick walled apartment, some charming shrubbery. At first people had walked past them, but then something would catch their eye. A boy had bounded down the steps for his morning paper route, [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=729&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p><a href="http://applesandsilver.files.wordpress.com/2012/11/dp-writing-challenge-photo-2.jpg"><img class="aligncenter" title="dp-writing-challenge-photo-2" alt="" src="http://applesandsilver.files.wordpress.com/2012/11/dp-writing-challenge-photo-2.jpg?w=500&#038;h=351" height="351" width="500" /></a></p>
+<p>One day they weren&#8217;t there, and the next they were.</p>
+<p>They had been left on the sidewalk, blithely placed in front of a brick walled apartment, some charming shrubbery.</p>
+<p>At first people had walked past them, but then something would catch their eye. A boy had bounded down the steps for his morning paper route, hand checking the cap on his head that was threatening to free itself, and his gait was abruptly cut short by an odd shadow, a reflex of his eyes that searched for movement, kinetic energy, life, yet found none. Slowly he had traced his steps back and stood before the listless figures and stared. He looked for a very long while, and then eventually turned away and continued at a sober pace, a mysterious emotion playing in his eyes.</p>
+<p><em>But, where had he found the clothes?</em> they wondered. The bright pink coat on the girl provoked sadness for some reason, as she stood captivated by the man, clutching her small, black purse. The boy at attention like a soldier. What kind of paints could produce such startling, sharp realism? <em>And their expressions, </em>people would whisper.</p>
+<p>The reactions were undependable. Many would pass by on their way to someplace else, notice, and decide to nervously ignore them, too afraid to stare as if the figures possessed a sense of propriety and the rudeness would become a palpable, real thing. Children would always ask to stop and look, and would even reach out to touch them, drawn to the children clutched by the stern man, and mothers would scold before remembering they weren&#8217;t real. A few women would gaze silently at the still family and tentatively pose beside the man as someone took a picture, pretending to be a wife and mother. Neighborhood kids rushing down the street on their bicycles would gather at the manikins as if they were a new club meeting spot.  Word spread and soon strangers came driving by just to catch a glimpse, to prove the rumors and stories they picked up while shopping for tunafish in isle 7, or while at church during meet and greet. Over black coffee in a friend&#8217;s parlor. A little girl stuck daisy chains on their heads, men would carefully study them, baffled and intrigued. They captivated everyone.</p>
+<p>Then one morning the old man emerged from his room on the 8th floor, rode the elevator down to ground level and stepped outside. He was nearly ancient. His hair had gone completely white, his long beard snowy and soft. He wore an argyle seater vest over a white, button-down shirt, slacks, soft penny loafers and a wooden cane, which he did use. Something about him begged a sort of esoteric eccentricity, like he knew things. His neighbors always wondered what sort of hobbies kept him so occupied; no crackle and song emanated from the television during humid summer evenings. No morning papers, no parcels. Not even a dog.</p>
+<p>He silently made his way to the manikins, back hunched over, and picked them up. Everyone kept perfectly still as he swayed first to the left, then to the right, and eventually steadied back on his heels. People in arm, he walked over to the double doors as a girl quickly opened them, and disappeared.</p>
+<p>It took everyone a good while to reconcile the fact that <em>the family</em> was gone. No one ever figured out why he did what he did, what was the purpose in making them, because they never asked him.</p>
+<p>And he never told.</p>
+<p><a href="http://dailypost.wordpress.com/2012/11/05/weekly-writing-challenge-a-picture-is-worth-1000-words/">DP writing challenge</a></p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/729/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/729/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=729&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://applesandsilver.wordpress.com/2012/11/07/day-14-a-picture-is-worth-a-1000-words/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/c0497ec78d6c82279bf6ada388a71136?s=96&#38;d=&#38;r=G" medium="image">
+			<media:title type="html">wucywoo</media:title>
+		</media:content>
+
+		<media:content url="http://applesandsilver.files.wordpress.com/2012/11/dp-writing-challenge-photo-2.jpg" medium="image">
+			<media:title type="html">dp-writing-challenge-photo-2</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Picture This</title>
+		<link>http://thejoyfulsoul.wordpress.com/2012/11/05/nablopomo-picture-this/</link>
+		<comments>http://thejoyfulsoul.wordpress.com/2012/11/05/nablopomo-picture-this/#comments</comments>
+		<pubDate>Mon, 05 Nov 2012 20:30:42 +0000</pubDate>
+		<dc:creator>Lady Joyful</dc:creator>
+				<category><![CDATA[Thoughts]]></category>
+		<category><![CDATA[Writing]]></category>
+		<category><![CDATA[DPChallenge]]></category>
+		<category><![CDATA[Fiction]]></category>
+		<category><![CDATA[NaBloPoMo]]></category>
+		<category><![CDATA[NaNoWriMo]]></category>
+
+		<guid isPermaLink="false">http://thejoyfulsoul.wordpress.com/?p=343</guid>
+		<description><![CDATA[Weekly Writing Challenge November 5th - Tell a story based on this picture.Challenge details: Write some fiction. Who are these people? What’s their back-story? What’s going on in this picture? What happens next? Construct a history for us. My father was a strict, God-fearing man. He believed that everything had its place, and that place was given by [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=343&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+		<wfw:commentRss>http://thejoyfulsoul.wordpress.com/2012/11/05/nablopomo-picture-this/feed/</wfw:commentRss>
+		<slash:comments>16</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/6af82425d6a58f25790aeb8ccf1117dd?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">thejoyfulsoul</media:title>
+		</media:content>
+
+		<media:content url="http://dailypost.files.wordpress.com/2012/11/dp-writing-challenge-photo-2.jpg?w=500&#38;h=351" medium="image">
+			<media:title type="html">A Picture Is Worth 1,000 Words</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Building a Global Charity Inspired By a Lick of Upper-Lip Fringe</title>
+		<link>http://sebrightcellar.wordpress.com/2012/11/08/movember/</link>
+		<comments>http://sebrightcellar.wordpress.com/2012/11/08/movember/#comments</comments>
+		<pubDate>Thu, 08 Nov 2012 00:03:28 +0000</pubDate>
+		<dc:creator>Sebrightcellar</dc:creator>
+				<category><![CDATA[Misc]]></category>
+		<category><![CDATA[adam garone]]></category>
+		<category><![CDATA[charity]]></category>
+		<category><![CDATA[movember]]></category>
+
+		<guid isPermaLink="false">http://sebrightcellar.wordpress.com/2012/11/08/building-a-global-charity-inspired-by-a-lick-of-upper-lip-fringe-2/</guid>
+		<description><![CDATA[I&#8217;ll bet you that – come this time of year – it&#8217;s not an infrequent thought that male facial fashion is taking a turn back to the 70s. Perhaps you have already caught yourself asking “Just what is the inspiration behind my boss&#8217;/husband&#8217;s/cab driver&#8217;s/brother&#8217;s porn-like mo?” Or maybe you&#8217;re dreading a global hipster take-over, starting with the [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=54&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p><img class="alignright size-medium wp-image-71" title="movember2" alt="" src="http://sebrightcellar.files.wordpress.com/2012/11/movember2.gif?w=300&#038;h=175" height="175" width="300" /></p>
+<p>I&#8217;ll bet you that – come this time of year – it&#8217;s not an infrequent thought that male facial fashion is taking a turn back to the 70s. Perhaps you have already caught yourself asking “Just what is the inspiration behind my boss&#8217;/husband&#8217;s/cab driver&#8217;s/brother&#8217;s porn-like mo?” Or maybe you&#8217;re dreading a global hipster take-over, starting with the upper-lip &amp; subsequently spreading like everything oh-so-vintage?</p>
+<p>You may have heard the term &#8216;Movember&#8217; thrown casually about in certain circles.You may even be somewhat aware that behind the frizz lies a specific focus, namely finding a cure for prostate cancer: the male equivalent of breast cancer in terms of the number of men that die from it and are diagnosed with it. But are you acquainted with the story behind the movement? And do you know what it takes to fund an organisation that is built on growing moustaches?</p>
+<p>Allow me to introduce Mr Adam Garone, one of the co-founders of Movember, via TEDxToronto from 2011. Starting with a few beers, a discussion about 70s fashion and a seemingly flippant challenge, and ending up with a growing global charity – the largest dedicated to its cause – Garone certainly has one inspiring journey to share. He&#8217;s dealt with rejection of support from potentially the only bodies with the most to gain from his idea – both the Australian and Canadian prostate cancer foundations – and survived near bankruptcy just as the organisation was taking off. In spite of these challenges, he has taken the necessary risks to achieve the desired outcome: the creation of an organisation that is “Changing the face of men&#8217;s health”. In a nutshell, this entails getting men engaged in health and having a better understanding of the health risks they face. Since the first Movember donations in 2005 Garone&#8217;s life has become about a moustache: boasting proudly “I am a moustache farmer, and my season is November”.</p>
+<span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='560' height='315' src='http://www.youtube.com/embed/yQvbKfEKLMI?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span>
+<p>Some farmer.</p>
+<p>Through its 450,000 participants, or &#8216;celebrity ambassadors&#8217;, as Garone likes to call them, Movember managed to raise $77 million in 2010, and is now the biggest funder of prostate cancer research and support programmes worldwide. With such support Movember has outgrown its original purpose and is becoming a movement that is changing the face of research in both this sector as well as the charity sector more generally. Commenting on this, Garone jokes: “Our ribbon is a hairy ribbon”. More seriously, he describes how the organisation&#8217;s new goal is to change the fragmented way in which researchers across the world operate by bringing together the best minds in the field to define what the major priorities are for tackling prostate cancer. Through global collaboration Movember is accelerating outcomes which will lead to a future cure for the disease.</p>
+<p>Regarding the way it is changing way the charity sector works, Garone cites the flexibility of Movember, noting how it is much more than a moustache or a joke. It&#8217;s about each person coming to the platform, embracing it in their own way &amp; it being significant in their own life and the lives of others. More important than the funds raised is the building of awareness and education.  At the very least can be as little as starting a conversation about the topic, and sharing one&#8217;s Movember story.</p>
+<p>What&#8217;s yours?</p>
+<p>&#8212;-</p>
+<p>Us at the Sebright are participating in Movember – just ask the staff if you would like to donate. If you give £3 or more, you can take home our Sebright Arms Movember pint glass.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/54/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/54/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=54&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://sebrightcellar.wordpress.com/2012/11/08/movember/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/619516167b84b52a5ef4ef503a51fd37?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">sebrightcellar</media:title>
+		</media:content>
+
+		<media:content url="http://sebrightcellar.files.wordpress.com/2012/11/movember2.gif?w=300" medium="image">
+			<media:title type="html">movember2</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Palestine: The Case for One State</title>
+		<link>http://ozkaterji.wordpress.com/2012/11/08/94/</link>
+		<comments>http://ozkaterji.wordpress.com/2012/11/08/94/#comments</comments>
+		<pubDate>Thu, 08 Nov 2012 13:17:52 +0000</pubDate>
+		<dc:creator>Oz Katerji</dc:creator>
+				<category><![CDATA[Israel]]></category>
+		<category><![CDATA[Middle East]]></category>
+		<category><![CDATA[Palestine]]></category>
+		<category><![CDATA[Politics]]></category>
+		<category><![CDATA[Religion]]></category>
+		<category><![CDATA[Secularism]]></category>
+		<category><![CDATA[U.S.A]]></category>
+		<category><![CDATA[1-state]]></category>
+		<category><![CDATA[2-state]]></category>
+		<category><![CDATA[Abbas]]></category>
+		<category><![CDATA[Antony Loewenstein]]></category>
+		<category><![CDATA[apartheid]]></category>
+		<category><![CDATA[ashkenazi]]></category>
+		<category><![CDATA[avigdor lieberman]]></category>
+		<category><![CDATA[BDS]]></category>
+		<category><![CDATA[bi-national]]></category>
+		<category><![CDATA[Bibi]]></category>
+		<category><![CDATA[binational]]></category>
+		<category><![CDATA[boycott]]></category>
+		<category><![CDATA[christian]]></category>
+		<category><![CDATA[christianity]]></category>
+		<category><![CDATA[death]]></category>
+		<category><![CDATA[democracy]]></category>
+		<category><![CDATA[divestment]]></category>
+		<category><![CDATA[expression]]></category>
+		<category><![CDATA[freedom]]></category>
+		<category><![CDATA[gaza]]></category>
+		<category><![CDATA[Gideon Levy]]></category>
+		<category><![CDATA[haaretz]]></category>
+		<category><![CDATA[haganah]]></category>
+		<category><![CDATA[hamas]]></category>
+		<category><![CDATA[holy land]]></category>
+		<category><![CDATA[hope]]></category>
+		<category><![CDATA[hopelessness]]></category>
+		<category><![CDATA[irgun]]></category>
+		<category><![CDATA[islam]]></category>
+		<category><![CDATA[israelis]]></category>
+		<category><![CDATA[Jerusalem]]></category>
+		<category><![CDATA[jew]]></category>
+		<category><![CDATA[jewish]]></category>
+		<category><![CDATA[justice]]></category>
+		<category><![CDATA[levi report]]></category>
+		<category><![CDATA[levy report]]></category>
+		<category><![CDATA[liberty]]></category>
+		<category><![CDATA[likud]]></category>
+		<category><![CDATA[Mahmoud Abbas]]></category>
+		<category><![CDATA[martin peretz]]></category>
+		<category><![CDATA[misery]]></category>
+		<category><![CDATA[mizrachim]]></category>
+		<category><![CDATA[muslim]]></category>
+		<category><![CDATA[Netanyahu]]></category>
+		<category><![CDATA[one]]></category>
+		<category><![CDATA[one-state]]></category>
+		<category><![CDATA[oppression]]></category>
+		<category><![CDATA[Oz Katerji]]></category>
+		<category><![CDATA[PA]]></category>
+		<category><![CDATA[palestine]]></category>
+		<category><![CDATA[palestinians]]></category>
+		<category><![CDATA[peace]]></category>
+		<category><![CDATA[PLO]]></category>
+		<category><![CDATA[religion]]></category>
+		<category><![CDATA[sanctions]]></category>
+		<category><![CDATA[secularism]]></category>
+		<category><![CDATA[secularist]]></category>
+		<category><![CDATA[solution]]></category>
+		<category><![CDATA[south africa]]></category>
+		<category><![CDATA[statehood]]></category>
+		<category><![CDATA[Tel Aviv]]></category>
+		<category><![CDATA[terrorism]]></category>
+		<category><![CDATA[two-state]]></category>
+		<category><![CDATA[tyranny]]></category>
+		<category><![CDATA[UN]]></category>
+		<category><![CDATA[united nations]]></category>
+		<category><![CDATA[war]]></category>
+		<category><![CDATA[war crimes]]></category>
+		<category><![CDATA[west bank]]></category>
+		<category><![CDATA[zionism]]></category>
+
+		<guid isPermaLink="false">http://ozkaterji.wordpress.com/?p=94</guid>
+		<description><![CDATA[&#8220;How much longer is the world willing to endure this spectacle of wanton cruelty?&#8221; &#8211; Bertrand Russell, 1970. The dream of a “Palestinian state” lies shattered and torn, existing only in the imaginations of those who refuse to see how far we have fallen from the dream of equal rights for every man. In truth [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=94&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p style="text-align:left;">
+<p style="text-align:left;">
+<p style="text-align:left;">
+<p style="text-align:left;"><a href="http://ozkaterji.files.wordpress.com/2012/11/palestine_fla-1.jpg"><img class="aligncenter size-full wp-image-99" title="Palestinian flags" alt="" src="http://ozkaterji.files.wordpress.com/2012/11/palestine_fla-1.jpg?w=590"   /></a></p>
+<p style="text-align:center;"><strong>&#8220;How much longer is the world willing to endure this spectacle of wanton cruelty?&#8221; &#8211; Bertrand Russell, 1970.</strong></p>
+<p>The dream of a “Palestinian state” lies shattered and torn, existing only in the imaginations of those who refuse to see how far we have fallen from the dream of equal rights for every man. In truth it died long ago, like an abusive stepfather forced onto its people, its shadow looming large over the Middle East, the scars it left in its wake so deep it will take generations to heal.</p>
+<p>Nothing I have encountered in my life sums up hopelessness better than the abject suffering of the Palestinians. I have traveled the world and some of the dire poverty, war and destitution I have encountered has led me to believe that cruelty seems to be an inbuilt default setting for us as humans. It stuns me how often situations such as famine and poverty in the third world could be rectified with substantial investment and access to universal education and healthcare. US President Jimmy Carter has said &#8220;Palestinians are deprived of basic human rights, their land has been occupied, then confiscated, then colonised by the Israeli settlers,&#8221; and that Palestinians are &#8220;treated more like animals than human beings”.</p>
+<p>However no amount of money or education can lift the Palestinians out of the catastrophic existence they find themselves subjected to. The Gaza Strip is one of the most densely populated places on Earth with a population of over 1.6 million people living in a space no larger than 360 sq./km and nearly 40% of that population living below the poverty line. They live under a blockade in what is essentially an open-air prison with no way of leaving; often areas have little or no access to electricity, clean water or basic sewage systems.</p>
+<div id="attachment_101" class="wp-caption aligncenter" style="width: 510px"><a href="http://ozkaterji.files.wordpress.com/2012/11/gaza.jpg"><img class="size-full wp-image-101" title="gaza" alt="" src="http://ozkaterji.files.wordpress.com/2012/11/gaza.jpg?w=590"   /></a><p class="wp-caption-text">Photo from the 2008 war on Gaza &#8211; &#8220;Operation Cast Lead&#8221;</p></div>
+<p>That is just the Gaza Strip; the people of the West Bank suffer a similar fate on top of having to deal with the daily humiliation of living under occupation. It doesn’t stop there, in Lebanon alone there are over 400,000 Palestinians living in refugee camps under similar conditions. The same is true of many of the neighbouring Arab countries. They live with no access to employment, education, healthcare or citizenship as they sit and wait for a dream of returning to a homeland most of them will never see.</p>
+<p>There are 4.7 million Palestinian refugees living outside of the occupied territories registered with the UN. Most of them live below the poverty line in semi-permanent refugee camps. Quite frankly their situation is pretty bleak. Under international law they are all entitled to return home. Their population numbers are swelling and no Israeli government has remotely entertained the notion of ever allowing these Palestinians to return to the lands they were forcibly expelled from in 1948 and 1967.</p>
+<p>The powers that be, largely successive US, Israeli and EU governments would have the world believe that a solution is close and on the table and these issues are all to be worked out in negotiations. Anyone close enough to the situation can tell you this is a total myth &#8211; this is bullshit. I will try to break it down to its most basic elements.</p>
+<p>International law states that the Palestinians are entitled to a state with full control over its territory as defined by the 1967 borders, with East Jerusalem as its capital city and full right of return for all the displaced refugees. This is what is known as the two-state solution. No Israeli government has ever supported this option despite the fact that it is what the Palestinians are entitled to under international law.</p>
+<p>I don’t expect you to take my word for it, the Palestine Papers are a series of confidential diplomatic documents that were leaked to Al-Jazeera detailing the failed negotiations over the past 20 years, in them all the evidence is clear that none of the Israeli governments that have passed have ever been committed to creating a sovereign state of Palestine. The papers show years and years of Palestinian desperation, offering most of Jerusalem, dividing the West Bank into cantons and even sacrificing the right of return (something which the Palestinian Authority has no right to concede), maintaining Israeli control over any future state and yet the Israelis still said no. The two sides are engaged in endless inconsequential peace talks for the sole purpose of allowing the Israelis the time they need to fully colonise Palestinian territory as a land for all the Jews.</p>
+<p><a href="http://ozkaterji.files.wordpress.com/2012/11/palestine-pastrami-sandwich-landloss2000-maps.jpg"><img class="aligncenter size-full wp-image-98" title="Palestine land loss" alt="" src="http://ozkaterji.files.wordpress.com/2012/11/palestine-pastrami-sandwich-landloss2000-maps.jpg?w=590"   /></a></p>
+<p>One look at a map of the West Bank alone will show the magnitude of the problem, there are 500,000 Jewish settlers illegally living there dotted all across the land. The land is entirely segregated, with highways only accessible to Jews which Israel claim is a matter of security. How any sane person can claim that a road can only be driven down if you are of a certain faith and then claim this is not a racist proposal is beyond me, but this is neither here nor there.</p>
+<p>The facts on the ground are pretty clear &#8211; the settlements encroach deep into Palestinian territory and the Israeli government has invested billions of dollars in creating infrastructure within this territory and has never shown any intention of dismantling the settlements for the future of a Palestinian state. Quite the opposite, it continues to expand them. This is the key reason for the negotiations; they are being used as a stalling tactic so Israel can irreversibly change the facts on the ground to make a future Palestinian state completely unviable.</p>
+<p>In fact, the official Israeli position is that the land is not even occupied, it is merely disputed. The recently published Levy Report is paving the way within Israel to completely legalise the occupation and approve the process of legitimizing Israel’s settlement expansion activities. This is based largely on the claim that Israel occupies land that had no sovereign claim over it. Many pro-Israel lobbies also use this argument, including the Anti-Defamation League, however international law is very clear on this issue. Under the law of occupation, it makes no difference whether or not Jordan had sovereign claim to the territory before it was occupied. The binding definition in the Hague Regulations of 1907 establishes that &#8220;Territory is considered occupied when it is actually placed under the authority of the hostile army.&#8221;</p>
+<p>The Israeli Prime Minister on countless occasions has also stated that Jerusalem will never be divided, despite the fact that East Jerusalem is considered by the international community to be part of a future Palestinian state. The Right of Return? Forget it, the Israelis will not accept any situation that allows an influx of Arabs that would damage its demographic hold over the land.</p>
+<div id="attachment_108" class="wp-caption aligncenter" style="width: 510px"><a href="http://ozkaterji.files.wordpress.com/2012/11/hamas2.jpg"><img class="size-full wp-image-108" title="Hamas" alt="" src="http://ozkaterji.files.wordpress.com/2012/11/hamas2.jpg?w=590"   /></a><p class="wp-caption-text">The violence between both parties has become so cyclical it shows no sign of stopping unless there is a radical change in dialogue between them.</p></div>
+<p>Let’s also discuss the “security” argument. Despite Hamas being the elected government of the Gaza Strip, Israel will not have dealings with them because they consider them to be a “terrorist organisation”. What I’m sure many of you don’t know is that Israel was actually founded by similar terrorist organisations such as the Haganah and the Irgun, the latter of whom carried out the King David Hotel bombing in 1946 killing 91 people. Once Israel was established in 1948 these organisations were then assimilated into the Israeli Defense Force and became the country’s national army and one of its leaders Menachim Begin became the country’s Prime Minister. Also, Israel claims it separates the populations for this reason, but if this is true, why is it also approving of settlements further and further into Palestinian territory? And why does it allow its citizens to live in flashpoints like Hebron, deep in the heart of Palestinian communities, surely the most dangerous place for an Israeli to live? The truth is that Israel cares more about colonising land than it does the genuine security of its people.</p>
+<p>On top of this, Israel states it cannot deal with an organisation that calls for its destruction and insists that the Palestinians accept Israel as a Jewish state. However, there are many elected members of the Israeli Knesset who openly go on record calling the Palestinians a “cancer” and many of them also wish to expel the Palestinian population in an act of ethnic cleansing similar to that of 1948 in which 500 Palestinian villages were raised to the ground. For those labeling Hamas extremists, you need to look no further than the current Israeli foreign minister Avigdor Lieberman, who even staunch Israel supporter Martin Peretz of the New Republic labels a Neo-Fascist and is known to publicly hold racist views.</p>
+<p>I’m not by any means supporting the views of Hamas, I’m just saying that the view Israel wants to portray of a liberal society fighting against extremism is not an accurate portrayal of events. The violence and hatred between these two people is cyclical, one hatred cannot exist without the other.</p>
+<div id="attachment_107" class="wp-caption aligncenter" style="width: 510px"><a href="http://ozkaterji.files.wordpress.com/2012/11/gaza-1-1.jpg"><img class="size-full wp-image-107" title="Israel Gaza Conflict Enters Eleventh Day" alt="" src="http://ozkaterji.files.wordpress.com/2012/11/gaza-1-1.jpg?w=590"   /></a><p class="wp-caption-text">Gazans have suffered heavy civilian losses due to their support for Hamas</p></div>
+<p>The increasingly desperate situation for the Palestinians is that the two-state solution is now dead in the water. Despite the fact that Palestinians are pushing for it in the UN General Assembly and it is the only solution proposed by the international community, the facts on the ground mean that Israel can no longer step back from the precipice. It has no desire to dismantle its infrastructure in the West Bank and allow the Palestinians a right to self-determination. Let’s not even get into the difficulties faced by splitting a future state between two territories, Gaza and the West Bank.</p>
+<p>The hopelessness of the Palestinian situation grows and their aspirations for self-determination seem further away now than they ever did before. Even in the event of the UN granting the Palestinians a state, what does it change? The settlers aren’t going anywhere. In a poll by the Truman Institute 21% of Settlers said that if Israel was to attempt to dismantle the settlements they would “resist it by all means”, presumably taking up arms. That doesn’t exactly bode well for the future of the two-state solution does it?</p>
+<p>The truth of the matter is it is near impossible for a two-state solution to ever be approved by an Israeli government that is worryingly veering further and further to the right. Even if by some miracle a Palestinian state was pushed through the Knesset from pressure from the international community, it will most likely be a state with very little sovereignty, its security and resources still controlled by Israel, no right of return and very few settlements dismantled. Even then, the measure would result in many settlers taking whatever measures they considered necessary to hamper any attempt to dismantle their illegal settlements.</p>
+<div id="attachment_109" class="wp-caption aligncenter" style="width: 470px"><a href="http://ozkaterji.files.wordpress.com/2012/11/israels-foreign-minister-avigdor-lieberman-an-extreme-right-wing-uber-zionist.jpg"><img class="size-full wp-image-109" title="Avigdor Lieberman - Far right Zionism" alt="" src="http://ozkaterji.files.wordpress.com/2012/11/israels-foreign-minister-avigdor-lieberman-an-extreme-right-wing-uber-zionist.jpg?w=590"   /></a><p class="wp-caption-text">Far right Zionism is growing in Israel with parties like Yisrael Beiteinu leading by example</p></div>
+<p>Just as a large portion of the Palestinian population becomes more religiously fundamentalist, so too does an increasingly large section of Israeli society. The Jewish right wing believe that Israel has been given to the Jews by God and no amount of international law will matter one fucking iota to them. Try presenting a creationist with years of documented evidence for evolution for similar results.</p>
+<p>The two-state solution is dead. And I won’t miss it. I am an atheist, a secularist and a believer in civil rights for all human beings on this planet. The idea of a state founded on religion is abhorrent, whether that is Saudi Arabia, Iran or Israel. No one is saying the Jewish people do not deserve a place to live, but why should anyone be forced to accept that a country should discriminate against people based on their religion. The Law of Return grants any Jew the right to live and work in Israel, whilst at the same time Israel denies rights to millions of people born within the country for not having the same creed. What kind of justice is that? Why should the Palestinians be forced to live on their knees with no rights to self-determination? The time has come for those of us who believe in equality to make our voices heard.</p>
+<p>The only solution on the table has been the two-state solution, it is the only matter ever discussed in the international community, but it is one that none of us will live to see established. Surely as humanity we should be striving for peace and equality. Surely the only justice would be a land that does not discriminate against people because of their religious beliefs. A land in which everyone is given a vote and an equal share. Democracy.</p>
+<p>The problem for Israel is that no matter how much they build or how much land they annex, 5 million Palestinians won’t go away. In fact their population numbers are growing at rapid rate. That tends to be the problem populations living in abject poverty with little education or employment. Religious extremism grows rampant and people breed, having children is the only pastime for many of them. If the two-state solution is dead, then what is left?</p>
+<div id="attachment_106" class="wp-caption aligncenter" style="width: 510px"><a href="http://ozkaterji.files.wordpress.com/2012/11/nakba-day-2012.jpg"><img class="size-full wp-image-106" title="Nakba Day 2012" alt="" src="http://ozkaterji.files.wordpress.com/2012/11/nakba-day-2012.jpg?w=590"   /></a><p class="wp-caption-text">Palestinians suffer daily humiliation at the hands of the occupation</p></div>
+<p>Israel, whether it is ready to admit it or not, has essentially already annexed the West Bank. The land of Greater Israel is not so much of a Zionist dream anymore as the Apartheid reality on the ground. Israel fears admitting this reality the most because it spells the end of the idea of a Jewish state. Don’t take my word for it though; in October this year President Jimmy Carter said Israel had abandoned a two-state solution for a &#8220;Greater Israel&#8221; and that it was moving towards an “inevitable Apartheid”. Even Ari Shavit, who has referred to Netanyahu as a “visionary of the two-state solution” has also described the occupation as “intolerable” and referred to the settlements as a “disaster”</p>
+<p>The recent report in Haaretz by Gideon Levy says it all, 58% Israelis polled believe Israel already practices Apartheid and 69% of the population oppose giving voting rights to Palestinians. If that isn’t Apartheid I don’t know what is.</p>
+<p>We have seen it all before in South Africa. Before that we had the American civil rights movement. People without a voice demanding freedom and liberty. The reason Israel will not accept the Palestinian population is simple. Demographics – that is the key here. Israel exists as a Jewish state because of demographics.</p>
+<p>There are roughly 6 million Jews living in Israel and roughly 1.5 million Israeli Arabs. There are roughly 5 million Palestinians living in the Occupied Territories. Add those populations together and you have your answer 6 million Jews against 6.5 million Arabs.</p>
+<div id="attachment_110" class="wp-caption aligncenter" style="width: 510px"><a href="http://ozkaterji.files.wordpress.com/2012/11/damage_gaza_0109.jpg"><img class="size-full wp-image-110" title="damage_gaza_0109" alt="" src="http://ozkaterji.files.wordpress.com/2012/11/damage_gaza_0109.jpg?w=590"   /></a><p class="wp-caption-text">Millions of Palestinians live in appalling conditions and are utterly dependent on foreign aid.</p></div>
+<p>What do we mean by a one-state solution or a bi-national state? Essentially a land of Greater Israel, with all the occupied territories officially considered part of Israel. As I have been arguing, this is pretty much already the case. The key issue is the Palestinian citizens of that land are not entitled a vote in order to maintain a Jewish majority and Jewish control over the lands. That cannot be considered to be justice in any sense of the word. Like the American civil rights movement and the South African struggle against Apartheid, all citizens of this world deserve a right to live equally and free from oppression.</p>
+<p>Even high-ranking Israeli politicians agree that this is the eventual outcome of this situation. Israeli defense minister and former Prime Minister Ehud Barak said as long as “there is only one political entity called Israel it is going to be either non-Jewish or non-democratic. If this bloc of millions of Palestinians cannot vote, that will be an Apartheid state.”</p>
+<p>Former Israeli Prime Minister Ehud Olmert said, “If the two-state solution collapses,” Israel will “face a South African-style struggle” and he said as soon as that happens “the State of Israel is finished.”</p>
+<p>This does not mean for one second I agree with endangering the rights of Israel’s Jewish citizens either. More importantly they should have rights that equal those of their Palestinian neighbours. Everyone should have the right to freedom of religion (as much as I disagree with religion in the first place) and those freedoms should be constitutionally enshrined. However, as I said before, declaring a Jewish state or an Islamic state giving privileges to one group over another is amoral.</p>
+<p>What faces the Palestinians in the one-state solution is pretty terrifying too. With Israel refusing to create a two-state solution, their opposition to allowing Palestinians to live and vote amongst them is even greater. If the past is anything to go by, there will only be more and more bloodshed as the dream of a Palestinian state flickers and dies and is replaced by a dream of living a life of equality.</p>
+<p><a href="http://ozkaterji.files.wordpress.com/2012/11/palestijnse-jongeren-650.jpg"><img class="aligncenter size-full wp-image-111" title="Palestijnse-jongeren-650" alt="" src="http://ozkaterji.files.wordpress.com/2012/11/palestijnse-jongeren-650.jpg?w=590"   /></a></p>
+<p style="text-align:center;"><strong>A New Hope Rises from the Ashes</strong></p>
+<p>What amazes me is that despite Israel understanding this demographic threat to its “Jewishness” it is still moving full speed ahead to create a Greater Israel by annexing more and more of the West Bank whilst denying the Palestinians a “just” state and as John Mearsheimer puts it, its racist ideology is “effectively helping Israel commit national suicide.”</p>
+<p>Sadly, as justified as this solution sounds in theory, in practice there will continue to suffer terribly at the hands of the Israelis for generations to come. However, eventually there is a hope that the Palestinians will eventually get their rights to self-determination, largely due to Israel’s unwavering desire for an Apartheid state has put it on course for total self-destruction.</p>
+<p>Hopelessness describes the situation pretty well if you ask me. The only two options on the table are a crippled state forcing the Palestinians to stay living on their knees, or Apartheid with a civil rights struggle that will take decades. In any solution there will most likely be heavy casualties on both sides and what purpose does it all serve? There are those of us who live in hope of a day when all men can live side by side equally, in peace and with religious differences finally put to bed. But sometimes that road seems so long, and the light at the end of that tunnel is so far away that I don’t think any of us will ever live to see it.</p>
+<p><a href="http://ozkaterji.files.wordpress.com/2012/11/gaza-1.jpg"><img class="aligncenter size-full wp-image-105" title="Gaza-1" alt="" src="http://ozkaterji.files.wordpress.com/2012/11/gaza-1.jpg?w=590"   /></a></p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/94/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/94/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=94&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://ozkaterji.wordpress.com/2012/11/08/94/feed/</wfw:commentRss>
+		<slash:comments>27</slash:comments>
+	
+		<media:content url="http://1.gravatar.com/avatar/d85b85cd606bad00311250255b5d350e?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">ozkaterji</media:title>
+		</media:content>
+
+		<media:content url="http://ozkaterji.files.wordpress.com/2012/11/palestine_fla-1.jpg" medium="image">
+			<media:title type="html">Palestinian flags</media:title>
+		</media:content>
+
+		<media:content url="http://ozkaterji.files.wordpress.com/2012/11/gaza.jpg" medium="image">
+			<media:title type="html">gaza</media:title>
+		</media:content>
+
+		<media:content url="http://ozkaterji.files.wordpress.com/2012/11/palestine-pastrami-sandwich-landloss2000-maps.jpg" medium="image">
+			<media:title type="html">Palestine land loss</media:title>
+		</media:content>
+
+		<media:content url="http://ozkaterji.files.wordpress.com/2012/11/hamas2.jpg" medium="image">
+			<media:title type="html">Hamas</media:title>
+		</media:content>
+
+		<media:content url="http://ozkaterji.files.wordpress.com/2012/11/gaza-1-1.jpg" medium="image">
+			<media:title type="html">Israel Gaza Conflict Enters Eleventh Day</media:title>
+		</media:content>
+
+		<media:content url="http://ozkaterji.files.wordpress.com/2012/11/israels-foreign-minister-avigdor-lieberman-an-extreme-right-wing-uber-zionist.jpg" medium="image">
+			<media:title type="html">Avigdor Lieberman - Far right Zionism</media:title>
+		</media:content>
+
+		<media:content url="http://ozkaterji.files.wordpress.com/2012/11/nakba-day-2012.jpg" medium="image">
+			<media:title type="html">Nakba Day 2012</media:title>
+		</media:content>
+
+		<media:content url="http://ozkaterji.files.wordpress.com/2012/11/damage_gaza_0109.jpg" medium="image">
+			<media:title type="html">damage_gaza_0109</media:title>
+		</media:content>
+
+		<media:content url="http://ozkaterji.files.wordpress.com/2012/11/palestijnse-jongeren-650.jpg" medium="image">
+			<media:title type="html">Palestijnse-jongeren-650</media:title>
+		</media:content>
+
+		<media:content url="http://ozkaterji.files.wordpress.com/2012/11/gaza-1.jpg" medium="image">
+			<media:title type="html">Gaza-1</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Tag! You\&#8217;re It!</title>
+		<link>http://helponfourlegs.wordpress.com/2012/11/07/tag-youre-it/</link>
+		<comments>http://helponfourlegs.wordpress.com/2012/11/07/tag-youre-it/#comments</comments>
+		<pubDate>Thu, 08 Nov 2012 03:15:32 +0000</pubDate>
+		<dc:creator>Help on Four Legs</dc:creator>
+				<category><![CDATA[Reflection]]></category>
+		<category><![CDATA[active lifestyle]]></category>
+		<category><![CDATA[dog care]]></category>
+		<category><![CDATA[dogs]]></category>
+		<category><![CDATA[fitness]]></category>
+		<category><![CDATA[happiness]]></category>
+		<category><![CDATA[health]]></category>
+		<category><![CDATA[lifestyle]]></category>
+		<category><![CDATA[pet]]></category>
+		<category><![CDATA[pet care]]></category>
+		<category><![CDATA[play]]></category>
+		<category><![CDATA[Service Dogs]]></category>
+
+		<guid isPermaLink="false">http://helponfourlegs.wordpress.com/?p=184</guid>
+		<description><![CDATA[While most people we encounter marvel at Bright&#8217;s impeccable behavior and good looks (hehe), every once in awhile, someone decides she needs pity: &#8220;Oh, that poor dog always has to work. I bet she wishes she could play sometimes.&#8221; Let me start with this: Of course she gets to play! Come on! Work vs. play. Before [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=184&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>While most people we encounter marvel at Bright&#8217;s impeccable behavior and good looks (hehe), every once in awhile, someone decides she needs pity: <strong>&#8220;Oh, that poor dog always has to work. I bet she wishes she could play sometimes.&#8221;</strong></p>
+<p>Let me start with this: Of course she gets to play! Come on!</p>
+<p><strong>Work vs. play.</strong></p>
+<p>Before I get into the importance of play, let me clear up a related misunderstanding: Bright can be working or off duty regardless of her vest-wearing status. So, just because she&#8217;s got her vest on doesn&#8217;t mean she can&#8217;t play and vice versa. I&#8217;m sure that when I put her vest on for the first time in a day, she has a sense that it&#8217;s time to act important, but she&#8217;s not really working until I give her an official command, which is often as simple as, &#8220;Sit.&#8221; If I want to let her to know it&#8217;s ok to be silly, there&#8217;s actually a command I can give her to tell her she&#8217;s not on duty for the time being.</p>
+<p>Glad we cleared that up.</p>
+<p><strong>Work hard, play harder.</strong></p>
+<p><a href="http://instagram.com/p/NrrWJmmdU6/"><img src="http://distilleryimage10.s3.amazonaws.com/4ca985c8d9d111e192a722000a1e8b14_6.jpg" alt="Oh boy, so much enthusiasm! #dog #dogpeople #fetch #summer #mydogisfasterthanyours #husband #playinginthemud" width="306" height="306" /></a></p>
+<p><span style="text-align:center;">Have you ever met a person that never plays? Chances are, they&#8217;re not very happy. They&#8217;re probably stressed out and lacking in sense of humor and creativity, and they usually take life way too seriously. Dogs and people have that in common, so play is a really crucial part of a healthy life.</span></p>
+<p>Play accomplishes a lot of things:</p>
+<p><em>Stress relief. </em>A day in the life of a Service Dog can be stressful. Breaks in routine, stimulus overloads, and new experiences can all be sources of stress, and dogs process and release stress by moving their bodies. They chase, fetch, jump, stretch, and dig, and all that nervous electricity in their bodies has a chance to work itself out. It&#8217;s also their time to act autonomously and not worry about doing any commands right or resisting distractions.</p>
+<p><em>Bonding</em>. When you were a kid and your parents left you with a babysitter, I bet they had a roster of them to choose from, and I bet you had a favorite. My favorite sitter was my grandma because she did all the things I liked to do. We watched Mr. Rogers, did puzzles, went to the park, and played kitchen. Dogs bond the same way; in my relationship with Bright, it&#8217;s important for me to be intentional about doing things that</p>
+<p><em>Fitness. </em>Bodies, both canine and human, are made to move. Dogs, especially young ones, have so much energy! It&#8217;s critical that they have an opportunity to flex their muscles, get their heart rates up, and maintain their speed and agility. This aspect can be really beneficial to the human half of a pair, too, as many of us lead pretty sedentary lives &#8211; in order to meet our dogs&#8217; needs, we have to get our bums off the couch and move.</p>
+<p><i>Improved social skills. </i>I used to know some kids who were homeschooled and not involved in any community activities with their peers. They were awkward on the rare occasion that they were forced into social situations, and it really wasn&#8217;t their fault. I don&#8217;t know about you, but when my dog interacts with other dogs, I want her to feel comfortable and confident, and I want her to be able to understand between their showing fear, aggression, or playfulness.</p>
+<p><strong>A dog that plays is a dog that stays&#8230;happy.</strong></p>
+<p>It&#8217;s easy to tell the difference between a dog that gets to play and one that doesn&#8217;t. A dog that doesn&#8217;t play or socialize can be insecure, have issues with separation, and can even be depressed. Yes, dogs get depressed. On the other hand, a dog that gets regular playtime is usually energetic, eager to work, enthusiastic about seeing its person, and in overall better health.</p>
+<p>So, to reiterate, yes. Service Dogs do and should play. A lot.</p>
+<p>Besides, if I didn&#8217;t  give Bright her playtime, I think she&#8217;d go on strike.</p>
+<p><em>What&#8217;s your pup&#8217;s favorite way to play?</em></p>
+<p>*Update &#8211; 11/9/12 10:28 am*</p>
+<p>I&#8217;m seeing a lot of comments about how working breeds love work, too! I should clarify that I believe that while work time contributes to a dog&#8217;s happiness, play time is a different kind of important. Similar to a person who loves his or her job, working breeds get enjoyment out of working, but playtime provides an opportunity for decompression. No matter how much you love your job, you still have to cut loose!</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/184/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/184/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=184&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://helponfourlegs.wordpress.com/2012/11/07/tag-youre-it/feed/</wfw:commentRss>
+		<slash:comments>20</slash:comments>
+	
+		<media:thumbnail url="http://helponfourlegs.files.wordpress.com/2012/11/img_0054.jpg?w=150" />
+		<media:content url="http://helponfourlegs.files.wordpress.com/2012/11/img_0054.jpg?w=150" medium="image">
+			<media:title type="html">IMG_0054</media:title>
+		</media:content>
+
+		<media:content url="http://1.gravatar.com/avatar/4d783505194a1f8962f75804336bb1d4?s=96&#38;d=monsterid&#38;r=G" medium="image">
+			<media:title type="html">iamalexw</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>

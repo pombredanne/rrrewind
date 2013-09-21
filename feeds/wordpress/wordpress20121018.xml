@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>FreshlyPressed</title>
+	<atom:link href="http://freshlypressed.wordpress.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://freshlypressed.wordpress.com</link>
+	<description>Just another Wordpress.com weblog</description>
+	<lastBuildDate>Thu, 18 Oct 2012 20:02:03 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='freshlypressed.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>http://s2.wp.com/i/buttonw-com.png</url>
+		<title>FreshlyPressed</title>
+		<link>http://freshlypressed.wordpress.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="http://freshlypressed.wordpress.com/osd.xml" title="FreshlyPressed" />
+	<atom:link rel='hub' href='http://freshlypressed.wordpress.com/?pushpress=hub'/>
+		<item>
+		<title>Spacewar!: The Grandfather of Modern Video Games</title>
+		<link>http://playingthecanon.wordpress.com/2012/10/17/spacewar-1962/</link>
+		<comments>http://playingthecanon.wordpress.com/2012/10/17/spacewar-1962/#comments</comments>
+		<pubDate>Wed, 17 Oct 2012 23:59:22 +0000</pubDate>
+		<dc:creator>playingthecanon</dc:creator>
+				<category><![CDATA[Video Games]]></category>
+		<category><![CDATA[cold war]]></category>
+		<category><![CDATA[first video game]]></category>
+		<category><![CDATA[PDP-1]]></category>
+		<category><![CDATA[programmers]]></category>
+		<category><![CDATA[Rolling Stone]]></category>
+		<category><![CDATA[Spacewar!]]></category>
+		<category><![CDATA[Stephen R. Russell]]></category>
+		<category><![CDATA[video games]]></category>
+
+		<guid isPermaLink="false">http://playingthecanon.wordpress.com/?p=489</guid>
+		<description><![CDATA[The more things change&#8230; Spacewar! was the first video game the way that Little Richard was the first rock star. Both gracefully wrote a fairly complete rulebook for a future worldwide obsession, yet were known to such niche (or, in Richard&#8217;s case, unfairly marginalized) audiences that it&#8217;s no wonder they now play footnote to the [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=489&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p style="text-align:center;"><strong>The more things change&#8230;</strong></p>
+<p style="text-align:center;"><a href="http://playingthecanon.files.wordpress.com/2012/10/saga1.jpg"><img class="alignnone size-medium wp-image-490" title="saga1" alt="" src="http://playingthecanon.files.wordpress.com/2012/10/saga1.jpg?w=222&#038;h=300" height="300" width="222" /></a></p>
+<p style="text-align:left;"><em>Spacewar!</em> was the first video game the way that Little Richard was the first rock star. Both gracefully wrote a fairly complete rulebook for a future worldwide obsession, yet were known to such niche (or, in Richard&#8217;s case, unfairly marginalized) audiences that it&#8217;s no wonder they now play footnote to the <em>Pong</em>s and Presleys of history. Whether or not <em>Spacewar!</em> was technically the first video game does not particularly interest me; no matter how far back you go in a movement, there will always be people searching for antecedents, trying to stretch a genre back to its very kernel. <em>OXO</em> (a tic-tac-toe simulator) and <em>Tennis for Two</em> (a rarely glimpsed <em>Pong </em>predecessor) have <em>Spacewar!</em> beat chronologically, but if we&#8217;re discussing what games are &#8220;about&#8221; beyond just being graphical representations on a computer screen, then it&#8217;s no contest.</p>
+<p style="text-align:left;"><em>Spacewar!</em> still holds up to the modern definition of what a video game looks like, plays like, and who it primarily appeals to, to an extent that we are not just discussing technical influence, but the creation of the mythos and values of an entire medium. It&#8217;s possible the last fifty years of video games (which, importantly, are also the <em>first</em> fifty years of video games) have been less about true innovation than refining what <em>Spacewar!</em> achieved, turning a group of early MIT programmers&#8217; brainy off-hours passion project into something accessible enough that at this very moment, your eight year-old nephew is probably playing some rip-off of it on his cell phone.</p>
+<p style="text-align:left;">Obviously, I have not played <em>Spacewar!</em> in its original incarnation. I&#8217;ve messed around with emulators of it and its imitators, but I haven&#8217;t tracked down a working PDP-1 computer, a Stonehedge rock-esque slab of a device measuring somewhere between three and five full-size refrigerators. Yet the game&#8217;s influence is so deeply entrenched, its rules and subject matter so second nature to anyone with even a passing interest in this stuff, that despite the primordial, unavailable contraption that housed its code, hearing the title still manages to instill one with a mighty case of deja vu.</p>
+<p style="text-align:left;">Essentially, <em>Spacewar! </em>is a deathmatch game. There are no ancient secrets or rudimentary design decisions that add an asterisk to that categorization; if you&#8217;re familiar with <em>Spacewar!&#8217;</em>s direct arcade inheritors, or even the competitive first-person shooters from the &#8217;90s and beyond, you know what to expect. Each player controls a distinctly designed spaceship, floating haphazardly through a screen-sized quadrant of the final frontier. The ships are armed with torpedoes and jet boosters; would it shock you to learn that the player&#8217;s sole motivation is to destroy his opponent&#8217;s ship?</p>
+<p style="text-align:left;">Yet it&#8217;s in its restrictions and subtleties where <em>Spacewar!</em> most resembles the more polished games of today. For one, it&#8217;s a creation with a deep respect for physics and science. Its spaceships orbit a central sun, forever pulling them closer to possible doom and endowing their limited universe with a tactile believability. This is the first attempt to create a game in a representative physical location, the earliest virtual place participants could feel they actually inhabited when they logged in. <em>Spacewar!</em> also only allows players a limited supply of missiles and fuel, meaning this is a game of strategy as well as reflexes. From the start, video games were designed with a learning curve; this was a hobby requiring practice, something you actually had to perfect.</p>
+<p style="text-align:center;"><a href="http://playingthecanon.files.wordpress.com/2012/10/spacewar-fig1.jpeg"><img class="alignnone size-medium wp-image-538" title="spacewar-fig1" alt="" src="http://playingthecanon.files.wordpress.com/2012/10/spacewar-fig1.jpeg?w=300&#038;h=297" height="297" width="300" /></a></p>
+<p style="text-align:left;">Perhaps even more strangely recognizable about the <em>Spacewar!</em> programmer microcosm of the &#8217;60s and &#8217;70s are the reactions from the actual human beings who played the thing. By all accounts, <em>Spacewar!</em> was an instant obsession among the limited number of people with access to it. It foreshadowed id Software&#8217;s famous boast that <em>Doom</em> was &#8220;the number one cause of decreased productivity in businesses around the world,&#8221; except unlike <em>Doom</em>, only the most brilliant computer programmers of the era could waste countless hours blowing each other to bits. Read up on the after-hours <em>Spacewar!</em> tournaments these eggheads held and try not to be reminded of your own late-night rounds of <em>Goldeneye</em> or <em>Smash Bros.</em>: that compulsive need for &#8220;one more round,&#8221; that funny-frustrating gargle of emotions when your best friend briefly became a mortal enemy.</p>
+<p style="text-align:left;">Not that the rare common man who got his hands on <em>Spacewar!</em> felt much differently. After getting his ass squarely handed to him by a seasoned space warrior,  Joseph F. Goodavage, <a href="http://www.kaleberg.com/spacewar/">writing for men&#8217;s magazine <em>Saga</em></a>, concludes, &#8220;Like nearly everyone else who&#8217;d ever played this war game, I was instantly addicted and anxious for a rematch.&#8221; You can almost hear the itch in Goodavage&#8217;s voice as he describes the battle, his words embodying his visceral, almost inexplicable desire to curl up inside a game he loves, even when he&#8217;s losing at it. That longing to return to these imaginary, far-off places where we are but empowered guests remains the seductive bread and butter of video game obsession. Goodavage&#8217;s melodramatic take on his make-believe spaceship&#8217;s defeat also notes another unbroken standard set by <em>Spacewar!</em>: Punishment in video games traditionally bypasses any measured slaps on the wrist and leaps immediately to the extremity of death. This is not some piddly round of tic-tac-toe or table tennis; this is kill or be killed.</p>
+<p style="text-align:center;"><a href="http://playingthecanon.files.wordpress.com/2012/10/800px-spacewar-pdp-1-20070512.jpg"><img class="alignnone size-medium wp-image-541" title="800px-Spacewar!-PDP-1-20070512" alt="" src="http://playingthecanon.files.wordpress.com/2012/10/800px-spacewar-pdp-1-20070512.jpg?w=300&#038;h=201" height="201" width="300" /></a></p>
+<p style="text-align:left;">In a totality not seen in any other medium of creative expression, video games are forever linked to technology and those who can wield it. In other words, nerds. So it&#8217;s only fitting that the first true video game takes its inspiration from the schlocky, otherwise forgotten sci-fi novels of E.E. &#8220;Doc&#8221; Smith. Smith was an honest-to-goodness Ph.D. who began publishing sci-fi in the likes of <em>Amazing Stories</em> during the &#8217;30s. (He&#8217;s also the guy who figured out how to get powdered sugar to stick to doughnuts, and I don&#8217;t know if I could think of a better analogy for <em>Spacewar!&#8217;s</em> long term influence on Americans&#8217; acceptance of computers.)</p>
+<p style="text-align:left;">Smith&#8217;s novels and imagination struck a chord with <em>Spacewar!</em>&#8216;s designers beyond the immediate flashiness of his sleek star carriers, though. In <a href="http://www.wheels.org/spacewar/stone/rolling_stone.html">a fascinating 1972 </a><a href="http://www.wheels.org/spacewar/stone/rolling_stone.html"><em>Rolling Stone</em></a><a href="http://www.wheels.org/spacewar/stone/rolling_stone.html"> article by Stewart Brand</a>, lead <em>Spacewar!</em> programmer Stephen R. Russell explains why the inclusion of hyperspace &#8211; an emergency <em>Spacewar!</em> move that drops your ship in a random location &#8211; is so haphazard. However, his explanation is one of a storyteller, not a hacker: &#8220;They [the <em>Spacewar!</em> characters] hadn&#8217;t done really a thorough job of testing them &#8211; they had rushed them into the fleet.&#8221; Before <em>Star Trek</em> or <em>Star Wars</em>, before Bioware or Bethesda &#8211; when all these nice young dweebs had to work with were Tolkien and dime store space operas &#8211; here was an attempt at lore, at giving a game context outside of what was on-screen.</p>
+<p style="text-align:left;">The game&#8217;s exclusivity within college campuses and technology companies also resulted in something akin to the first mod scene. <em>Spacewar!</em> was an ever-evolving creature, a product of a more trustworthy time among the technological elite when forward momentum was more important than copyrights.</p>
+<p style="text-align:left;">Unless you consider Pac-Man&#8217;s gluttony as a meditation on the fast-encroaching hedonism of the 1980s, it&#8217;s a rare game that reflects much about its era. <em>Spacewar!</em> is one of those games, a pitch perfect distillation of post-Sputnik, pre-Apollo 11 America&#8217;s  dual fear and love of space exploration. It&#8217;s odd (and a little disheartening) to think back to a time when America was deeply invested in space travel, and Peter Samson&#8217;s accurate star map that scrolls past <em>Spacewar!</em>&#8216;s backdrop captures that wish to journey through space at its most wistful and doe-eyed. But the foreground of the game all but literally annihilates that wonder; <em>Spacewar!</em>&#8216;s original development was only months before the Cuban missile crisis, a time when any leap in technology meant our enemies could someday pummel us from above. These two warring spaceships &#8211; with only the force of gravity between them &#8211; stand in as stark opposition as the sparring ideologies of the Cold War. It&#8217;s the era&#8217;s &#8220;us versus them,&#8221; &#8220;black versus white&#8221; worldview captured in computer code, made so gripping that the aforementioned <em>Saga</em> writer was convinced that <em>Spacewar!</em> was more a sign of things to come than a mere entertainment. (To be fair, the magazine supposedly had a history of running silly UFO stories, so this extremism should be taken with a grain of salt.) Games attempting to capture the zeitgeist these days usually fall flat, their ambitions far too blatant and on-the-nose. Perhaps we still have a few things to learn from <em>Spacewar!</em></p>
+<p>===</p>
+<p><em><a href="http://www.facebook.com/PlayingTheCanon?ref=ts">Like on Facebook</a> for future updates.</em></p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/489/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/489/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=489&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://playingthecanon.wordpress.com/2012/10/17/spacewar-1962/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+	
+		<media:content url="http://2.gravatar.com/avatar/5f5b47f4de7a27ec14fd4f8c8174432d?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">playingthecanon</media:title>
+		</media:content>
+
+		<media:content url="http://playingthecanon.files.wordpress.com/2012/10/saga1.jpg?w=222" medium="image">
+			<media:title type="html">saga1</media:title>
+		</media:content>
+
+		<media:content url="http://playingthecanon.files.wordpress.com/2012/10/spacewar-fig1.jpeg?w=300" medium="image">
+			<media:title type="html">spacewar-fig1</media:title>
+		</media:content>
+
+		<media:content url="http://playingthecanon.files.wordpress.com/2012/10/800px-spacewar-pdp-1-20070512.jpg?w=300" medium="image">
+			<media:title type="html">800px-Spacewar!-PDP-1-20070512</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Burning Bridges</title>
+		<link>http://thehandwrittenlife.wordpress.com/2012/10/17/burning-bridges/</link>
+		<comments>http://thehandwrittenlife.wordpress.com/2012/10/17/burning-bridges/#comments</comments>
+		<pubDate>Wed, 17 Oct 2012 21:15:30 +0000</pubDate>
+		<dc:creator>Andrea Kelly</dc:creator>
+				<category><![CDATA[Life and Things]]></category>
+		<category><![CDATA[Nostalgia]]></category>
+		<category><![CDATA[Quoted]]></category>
+		<category><![CDATA[Burning Bridges]]></category>
+		<category><![CDATA[Communication]]></category>
+		<category><![CDATA[Disappointment]]></category>
+		<category><![CDATA[Family]]></category>
+		<category><![CDATA[Friends]]></category>
+		<category><![CDATA[Letting Go]]></category>
+		<category><![CDATA[Love]]></category>
+		<category><![CDATA[Moving On]]></category>
+		<category><![CDATA[Quotes]]></category>
+		<category><![CDATA[Real Life]]></category>
+		<category><![CDATA[Regret]]></category>
+		<category><![CDATA[Relationships]]></category>
+		<category><![CDATA[Words]]></category>
+		<category><![CDATA[Writing]]></category>
+
+		<guid isPermaLink="false">http://thehandwrittenlife.wordpress.com/?p=3204</guid>
+		<description><![CDATA[&#8220;It seems that all my bridges have been burnt, But you say that’s exactly how this grace thing works. It’s not the long walk home that will change this heart, But the welcome I receive with the restart.&#8221; - Mumford &#38; Sons How do you know when it&#8217;s time to let go? This is a [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=3204&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p style="text-align:center;"><em>&#8220;It seems that all my bridges have been burnt,<br />
+But you say that’s exactly how this grace thing works.<br />
+It’s not the long walk home that will change this heart,<br />
+But the welcome I receive with the restart.&#8221;</em><br />
+<em><strong>- Mumford &amp; Sons</strong></em></p>
+<p style="text-align:left;">How do you know when it&#8217;s time to let go?</p>
+<p style="text-align:justify;">This is a question I struggle with daily, because I am not someone who says goodbye easily.  All too often I am the only one left holding on after everyone else has walked away.</p>
+<p style="text-align:center;"><em>“And that&#8217;s the thing about people who mean everything they say. They think everyone else does too.” <strong>- Kahled Hosseini</strong></em></p>
+<p style="text-align:justify;">If you come to know me well enough, you will find that there&#8217;s almost nothing I wouldn&#8217;t do for those I am closest to.  Need help moving?  Lucky for you, I love to pack things.  Have no one to take you to the airport at 4am?  Sounds like an adventure!  It&#8217;s 2am and your whole world is falling apart?  Don&#8217;t worry, I&#8217;m there.  I&#8217;m always there.  I am the old-reliable of the group, and more often than not I&#8217;m one of the first calls made during an emergency (unless it&#8217;s a medical emergency, then I just freak out).  On more than one occasion I have found myself baffled by acquaintances, people I&#8217;ve barely had serious conversations with, who have turned to <em>me</em> in moments of strife.  I have long since wondered what it is about me that compels people, sometimes near strangers, to open up in such an honest and raw way.  I have become an unofficial secret keeper, of sorts (it&#8217;s amazing, really, what people can tell a stranger, but not each other).</p>
+<p style="text-align:justify;">For the most part, I consider this a huge honor, and it&#8217;s not one I take lightly.  This trust is not only a great privilege, but it&#8217;s also a fascinating way to learn more about the world, the people in it, and what makes them all tick.</p>
+<p style="text-align:justify;"><a href="http://thehandwrittenlife.files.wordpress.com/2012/10/sometimes-we-expect-more-than-others.jpg"><img class="aligncenter size-medium wp-image-3206" title="Sometimes We Expect More Than Others" alt="" src="http://thehandwrittenlife.files.wordpress.com/2012/10/sometimes-we-expect-more-than-others.jpg?w=300&#038;h=300" height="300" width="300" /></a></p>
+<p style="text-align:justify;">The problem with being so whole-hearted with everyone is that&#8230;not everyone deserves your whole heart.</p>
+<p style="text-align:justify;">The other problem is that part of them does.</p>
+<p style="text-align:justify;">No one is entirely awful, and if &#8211; even just for a second &#8211; someone does get close enough that you really let them in, they can turn out to be a <em>total asshole</em> later and you&#8217;re still always going to love that <em>one</em> good part of them.</p>
+<p style="text-align:center;"><em>“Don&#8217;t burn your bridges behind you” <strong>- Proverb</strong></em></p>
+<p style="text-align:justify;">In general, I am of the mind that you should forgive people.  So I do (although not always right away).  In fact, I don&#8217;t just give second chances, I give third chances, and forth chances, and I&#8217;m sure even 5ths and 6ths if they&#8217;re so required.</p>
+<p style="text-align:left;">Because I love you, and I&#8217;m loyal, and <em>I let you in</em>.<br />
+(And yet, combined with this fierce sense of loyalty are streaks of stubbornness, pride, a sense of fairness and equality&#8230;and a hefty dose of Irish temper.)</p>
+<p style="text-align:center;"><em>&#8220;The only bad thing about burning your bridges behind you, is that the world is round.&#8221; <strong>– Labhesh Patel</strong></em></p>
+<p style="text-align:justify;">Usually, that is exactly what I&#8217;m afraid of!</p>
+<p style="text-align:justify;">Only sometimes, some bridges do need to be burnt.  There are some people who will use every chance you give them, and you can spend your whole life paying the price for it.</p>
+<p style="text-align:justify;">I&#8217;ve had to cut very few people out of my life completely, but like the straw that broke the camel&#8217;s back, it&#8217;s usually pretty clear when it&#8217;s time to walk away &#8211; when it&#8217;s the only thing left you can do (see <a title="A Year Ago This Month…" href="http://thehandwrittenlife.wordpress.com/2012/10/16/a-year-ago-this-month/" target="_blank">yesterday&#8217;s post</a>).  The fact that it takes me longer than most people to give up just makes the fire burn that much hotter when it finally happens.</p>
+<p style="text-align:center;"><em>“When one burns one&#8217;s bridges, what a very nice fire it makes.” <strong>- Dylan Thomas</strong></em></p>
+<p style="text-align:justify;">There is one person in my life right now, however, who&#8217;s got me completely torn.  The 10+ years we&#8217;ve known each other have been rocky &#8211; a relationship, a friendship, a&#8230;something-in-the-middleship.  Our timing has never been right, but our friendship has always been strong.  Because our up and downs have taken their toll, there have been several points in time where we&#8217;ve stopped talking altogether.  Yet even when we&#8217;re not speaking, I can still feel the pull of the ties that bind us together.   He&#8217;s my <em>person</em>.</p>
+<p>And right now I&#8217;m on a precipice.  Perhaps one of the biggest ones I&#8217;ve faced.  Do I extend the olive branch, or do I light the match &#8211; for good this time?  Do I jump down the rabbit hole, and see where it leads &#8211; do I open this can of worms, to see if that is indeed what it still holds?  I want to say yes, but I&#8217;m afraid of another round in this battle, not just with him, but with my head and my heart as well.</p>
+<p style="text-align:center;"><em>“The hardest thing in life is to know which bridge to cross and which to burn” <strong>- David Russell</strong></em></p>
+<p style="text-align:left;">Today&#8217;s question is from the movie <a href="http://www.imdb.com/title/tt0236493/" target="_blank">The Mexican</a> starring <a href="http://www.imdb.com/name/nm0000210/" target="_blank">Julia Roberts</a> and <a href="http://www.imdb.com/name/nm0000093/" target="_blank">Brad Pitt</a>:</p>
+<p style="text-align:center;"><em>&#8220;I have to ask you a question. It&#8217;s a good one so think about it. If two people love each other, but they just can&#8217;t seem to get it together, when do you get to that point of enough is enough?&#8221;</em></p>
+<p style="text-align:center;"><strong>What Would Your Answer Be?</strong></p>
+<br />Filed under: <a href='http://thehandwrittenlife.wordpress.com/category/life-and-things/'>Life and Things</a>, <a href='http://thehandwrittenlife.wordpress.com/category/nostalgia/'>Nostalgia</a>, <a href='http://thehandwrittenlife.wordpress.com/category/quoted/'>Quoted</a> Tagged: <a href='http://thehandwrittenlife.wordpress.com/tag/burning-bridges/'>Burning Bridges</a>, <a href='http://thehandwrittenlife.wordpress.com/tag/communication/'>Communication</a>, <a href='http://thehandwrittenlife.wordpress.com/tag/disappointment/'>Disappointment</a>, <a href='http://thehandwrittenlife.wordpress.com/tag/family/'>Family</a>, <a href='http://thehandwrittenlife.wordpress.com/tag/friends/'>Friends</a>, <a href='http://thehandwrittenlife.wordpress.com/tag/letting-go/'>Letting Go</a>, <a href='http://thehandwrittenlife.wordpress.com/tag/love/'>Love</a>, <a href='http://thehandwrittenlife.wordpress.com/tag/moving-on/'>Moving On</a>, <a href='http://thehandwrittenlife.wordpress.com/tag/quotes/'>Quotes</a>, <a href='http://thehandwrittenlife.wordpress.com/tag/real-life/'>Real Life</a>, <a href='http://thehandwrittenlife.wordpress.com/tag/regret/'>Regret</a>, <a href='http://thehandwrittenlife.wordpress.com/tag/relationships/'>Relationships</a>, <a href='http://thehandwrittenlife.wordpress.com/tag/words/'>Words</a>, <a href='http://thehandwrittenlife.wordpress.com/tag/writing/'>Writing</a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/3204/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/3204/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=3204&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://thehandwrittenlife.wordpress.com/2012/10/17/burning-bridges/feed/</wfw:commentRss>
+		<slash:comments>41</slash:comments>
+	
+		<media:thumbnail url="http://thehandwrittenlife.files.wordpress.com/2012/10/sometimes-we-expect-more-than-others.jpg?w=150" />
+		<media:content url="http://thehandwrittenlife.files.wordpress.com/2012/10/sometimes-we-expect-more-than-others.jpg?w=150" medium="image">
+			<media:title type="html">Sometimes We Expect More Than Others</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/f0399fe1c82601075aaa0191ce61dffb?s=96&#38;d=identicon&#38;r=PG" medium="image">
+			<media:title type="html">delanopublishing</media:title>
+		</media:content>
+
+		<media:content url="http://thehandwrittenlife.files.wordpress.com/2012/10/sometimes-we-expect-more-than-others.jpg?w=300" medium="image">
+			<media:title type="html">Sometimes We Expect More Than Others</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>If These Boots Could Talk</title>
+		<link>http://growinggracefarm.wordpress.com/2012/10/17/lessons-learned-farming-boots-and-defining-ourselves/</link>
+		<comments>http://growinggracefarm.wordpress.com/2012/10/17/lessons-learned-farming-boots-and-defining-ourselves/#comments</comments>
+		<pubDate>Wed, 17 Oct 2012 13:05:14 +0000</pubDate>
+		<dc:creator>growing grace farm</dc:creator>
+				<category><![CDATA[farming]]></category>
+		<category><![CDATA[gardening]]></category>
+		<category><![CDATA[journey]]></category>
+		<category><![CDATA[lessons learned]]></category>
+		<category><![CDATA[boots]]></category>
+		<category><![CDATA[compost]]></category>
+		<category><![CDATA[coop]]></category>
+		<category><![CDATA[farmer]]></category>
+		<category><![CDATA[garden]]></category>
+		<category><![CDATA[muck]]></category>
+		<category><![CDATA[nature]]></category>
+
+		<guid isPermaLink="false">http://growinggracefarm.wordpress.com/?p=1547</guid>
+		<description><![CDATA[Saturday, I sat down for a rest in my driveway.  I had been hoeing, planting, and mulching for quite awhile, and I needed a break.  As I watched the chickens strut around the perennial bed, I happened to glance down at my boots.   The shiny, bright flowers were hardly recognizable for all the dirt, paint, [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=1547&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+		<wfw:commentRss>http://growinggracefarm.wordpress.com/2012/10/17/lessons-learned-farming-boots-and-defining-ourselves/feed/</wfw:commentRss>
+		<slash:comments>30</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/0af398ee86b67f6f0abdb49033bc0df7?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">growinggracefarm</media:title>
+		</media:content>
+
+		<media:content url="http://growinggracefarm.files.wordpress.com/2012/10/gardening-boots-final.jpg?w=143" medium="image">
+			<media:title type="html">gardening boots final</media:title>
+		</media:content>
+
+		<media:content url="http://growinggracefarm.files.wordpress.com/2012/10/boots-well-worn.jpg?w=150" medium="image">
+			<media:title type="html">boots well worn</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>The Hall of Fame\&#8217;s Most Under-Appreciated Players</title>
+		<link>http://ondeckcircle.wordpress.com/2012/10/16/the-hall-of-fames-most-under-appreciated-players-part-8/</link>
+		<comments>http://ondeckcircle.wordpress.com/2012/10/16/the-hall-of-fames-most-under-appreciated-players-part-8/#comments</comments>
+		<pubDate>Tue, 16 Oct 2012 03:44:05 +0000</pubDate>
+		<dc:creator>William Miller</dc:creator>
+				<category><![CDATA[baseball]]></category>
+		<category><![CDATA[Baseball Analysis]]></category>
+		<category><![CDATA[Baseball History]]></category>
+		<category><![CDATA[Baseball Players]]></category>
+		<category><![CDATA[Hall of Fame]]></category>
+		<category><![CDATA[Brooklyn Robins]]></category>
+		<category><![CDATA[Dazzy Vance]]></category>
+		<category><![CDATA[Major League Baseball]]></category>
+		<category><![CDATA[Minor league baseball]]></category>
+		<category><![CDATA[National Baseball Hall of Fame and Museum]]></category>
+		<category><![CDATA[Nebraska State League]]></category>
+		<category><![CDATA[Poker]]></category>
+
+		<guid isPermaLink="false">http://ondeckcircle.wordpress.com/?p=4990</guid>
+		<description><![CDATA[If you&#8217;ve been following along with this series, you know that we are constructing an all-time, most under-appreciated Hall of Fame baseball team.  Lately, we&#8217;ve been putting together a pitching staff. Currently, we have three pitchers on this staff:  Kid Nichols, Hal Newhouser, and Eddie Plank.  It&#8217;s staff long on talent, but short on appreciation [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=4990&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>If you&#8217;ve been following along with this series, you know that we are constructing an all-time, most under-appreciated Hall of Fame baseball team.  Lately, we&#8217;ve been putting together a pitching staff. Currently, we have three pitchers on this staff:  <a title="Kid Nichols" href="http://ondeckcircle.wordpress.com/2012/10/03/the-hall-of-fames-most-under-appreciated-players-part-5/" target="_blank">Kid Nichols,</a> <a title="Hal Newhouser" href="http://ondeckcircle.wordpress.com/2012/10/08/the-hall-of-fames-most-under-appreciated-players-part-6/" target="_blank">Hal Newhouser,</a> and <a title="Eddie Plank" href="http://ondeckcircle.wordpress.com/2012/10/11/the-hall-of-fames-most-under-appreciated-players-part-7/" target="_blank">Eddie Plank</a>.  It&#8217;s staff long on talent, but short on appreciation for their respective efforts.</p>
+<p>So let&#8217;s add another pitcher to the staff.</p>
+<p>How about one who didn&#8217;t win his first Major League ballgame until he was already past 30 years old?  In his first 20 appearances, he posted a record of 0-8, with more walks than strikeouts in 63.2 innings pitched.</p>
+<p>Clearly, not an auspicious debut for any big league pitcher, let alone one who would end up in the Hall of Fame.</p>
+<p>Charles Arthur <a title="Dazzy Vance" href="http://www.baseball-reference.com/players/v/vanceda01.shtml" target="_blank">(Dazzy) Vance</a> was born in Orient, IA, in 1891, but was raised on a farm in Nebraska.  He began playing Class D ball at the age of 21 in the Nebraska State League.  At first, he was considered a strong prospect because he threw so hard he &#8220;dazzled&#8221; the hitters, thus his nickname.  The problem was, as it is with so many young pitching prospects, he had a difficult time staying healthy.</p>
+<p>He made his MLB debut on April 16, 1915 for the Pittsburgh Pirates, and was a disaster.  He lasted just 2.2 innings, walked five batters, hit another, struck out none, and was charged with three earned runs.  The Pirates immediately shipped Vance over to the Yankees where, appearing in eight games, he was nearly as bad.</p>
+<p>Over the next half-dozen years, Vance appeared in only two more Major League games.  Then, at age 29, when most minor league ball players his age have either long since washed out or are certainly looking for an alternative career, a strange thing happened.</p>
+<p>The story goes that Vance was playing poker with a few of his minor league buddies.  Winning a hand, he reached over to rake in the pot of cash in front of him on the table.  While doing so, he banged his arm on the side of the table, the same arm that had been causing him so much trouble throughout his career.  Apparently, once he banged it, it hurt so badly that he couldn&#8217;t sleep.</p>
+<div class="wp-caption alignright" style="width: 310px"><a href="http://commons.wikipedia.org/wiki/File:Dazzyvance1933Goudey.jpg" target="_blank"><img class="zemanta-img-inserted zemanta-img-configured" title="English: A 1933 Goudey Baseball Card of Dazzy ..." alt="English: A 1933 Goudey Baseball Card of Dazzy ..." src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dazzyvance1933Goudey.jpg/300px-Dazzyvance1933Goudey.jpg" height="346" width="300" /></a><p class="wp-caption-text">English: A 1933 Goudey Baseball Card of Dazzy Vance #2. I did a proper copyright search of the card, and the copyright wasn&#8217;t renewed. (Photo credit: Wikipedia)</p></div>
+<p>The next day, we went to a doctor who examined his arm, performed some sort of procedure (Bill James speculates that the doctor removed floating bone-chips that, somehow, previous doctors had managed to miss), and rested for a few days.</p>
+<p>Vance later said that his arm returned to life as quickly as it went sore on him back in 1915.  Vance rebounded to win 21 games for the (minor league) New Orleans Pelicans in 1921.  He was now 30-years old.</p>
+<p>The following season, at age 31, the Brooklyn Robins (later, the Dodgers), took a chance on him.  They actually wanted no part of Dazzy Vance, but his friend, a minor league catcher named DeBerry, was called up to the Majors. He said, however, that he wouldn&#8217;t go unless Vance could come up with him.</p>
+<p>After ten years and 133 minor league wins, Dazzy Vance had finally made it back to the Majors.  Thus was launched the highly improbable Hall of Fame career of Dazzy Vance.</p>
+<p>In his &#8220;rookie&#8221; season of 1922, 31-year old Dazzy Vance led the N.L. in strikeouts, shutouts, and posted an 18-12 record for a team that finished the season with a losing record.</p>
+<p>In 1922, Vance began a string of seven consecutive seasons in which he would lead the N.L. in strikeouts.  It is still the league record.  Only Walter Johnson (eight consecutive times) and Lefty Grove (seven consecutive times, almost concurrently with Vance) have either matched or topped Vance&#8217;s performance, and both of them toiled in the Junior Circuit.</p>
+<p><img alt="" src="http://seamheads.com/blog/wp-content/uploads/2007/12/vance8.jpg" /></p>
+<p>In 1924 and &#8217;25, Vance led the N.L. in wins both seasons, posting a combined record of 50-15.  While the &#8217;24 Robins were very good, the &#8217;25 team was very bad.  Either way, Vance was outstanding.</p>
+<p>Vance was named the N.L.&#8217;s Most Valuable Player in 1924 at age 33.  That year, he won the pitching triple-crown, leading the league in wins, ERA and strikeouts.  He also led the league in ERA+, complete games and (not that anyone knew this at the time) WAR for pitchers.</p>
+<p>From 1922-1930, in addition to the seven strikeout titles, Vance led the league in wins twice, ERA three times, complete games twice, shutouts four times, ERA+ three times, WHIP three times, and strikeouts / 9 innings eight times.</p>
+<p>Vance also led league pitchers in WAR four times, which is another way of saying that, had the Cy Young award existed in his day, he would have deserved four of those awards, as many as Steve Carlton and Greg Maddux each earned in their careers.</p>
+<p>His career WAR of 60.5 is higher than several other Hall of Fame pitchers, including Bob Feller, Ed Walsh, Juan Marichal and Rube Waddell, to name a few.</p>
+<p>But age did finally catch up with Dazzy Vance.  After age 40, he won just 34 more games over the next five seasons.  Never having made it to the playoffs during his eleven seasons spent pitching for Brooklyn, Vance eventually did make it to the post-season, in 1934, with the St. Louis Cardinals.  Vance appeared in Game 4, a game Detroit would go on to win, but the Cardinals ultimately defeated the Tigers in seven games.   So, in the twilight of his career, Vance finally got to experience a World Championship.</p>
+<p>Vance retired in 1935 at age 44, having accumulated 197 wins vs. 140 losses, while pitching for mostly bad Brooklyn teams.  A couple of years later, the Baseball Hall of Fame would open for business.</p>
+<p>In a way, his lengthy journey (back) to the Majors would be mirrored by the amount of time it took him to be enshrined in the Hall of Fame.  First appearing on the ballot in 1936, he received just one vote.  It wasn&#8217;t until 1955, about twenty years later, that Vance would finally be enshrined in Cooperstown.</p>
+<p>Vance was already 64-years old when he was voted into The Hall.  But, having waited nearly a decade to make it back to the Majors, I&#8217;m guessing he was used to waiting for good things to happen.    At least he lived to enjoy the experience.  Vance died in 1961, age 69, and remains to this day, I think, a very under-appreciated player.</p>
+<p>The next post will be the last in this series.  We have one more pitcher to go to round out our rotation.</p>
+<h6 class="zemanta-related-title" style="font-size:1em;">Related articles</h6>
+<ul class="zemanta-article-ul">
+<li class="zemanta-article-ul-li"><a href="http://ondeckcircle.wordpress.com/2012/10/11/the-hall-of-fames-most-under-appreciated-players-part-7/" target="_blank">The Hall of Fame&#8217;s Most Under-Appreciated Players: Part 7</a> (ondeckcircle.wordpress.com)</li>
+<li class="zemanta-article-ul-li"><a href="http://ondeckcircle.wordpress.com/2012/10/08/the-hall-of-fames-most-under-appreciated-players-part-6/" target="_blank">The Hall of Fame&#8217;s Most Under-Appreciated Players: Part 6</a> (ondeckcircle.wordpress.com)</li>
+</ul>
+<br /> Tagged: <a href='http://ondeckcircle.wordpress.com/tag/brooklyn-robins/'>Brooklyn Robins</a>, <a href='http://ondeckcircle.wordpress.com/tag/dazzy-vance/'>Dazzy Vance</a>, <a href='http://ondeckcircle.wordpress.com/tag/major-league-baseball/'>Major League Baseball</a>, <a href='http://ondeckcircle.wordpress.com/tag/minor-league-baseball/'>Minor league baseball</a>, <a href='http://ondeckcircle.wordpress.com/tag/national-baseball-hall-of-fame-and-museum/'>National Baseball Hall of Fame and Museum</a>, <a href='http://ondeckcircle.wordpress.com/tag/nebraska-state-league/'>Nebraska State League</a>, <a href='http://ondeckcircle.wordpress.com/tag/poker/'>Poker</a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/4990/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/4990/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=4990&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://ondeckcircle.wordpress.com/2012/10/16/the-hall-of-fames-most-under-appreciated-players-part-8/feed/</wfw:commentRss>
+		<slash:comments>31</slash:comments>
+	
+		<media:content url="http://2.gravatar.com/avatar/b285ccd7b03851e0ad78378b44342e05?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">raindog63</media:title>
+		</media:content>
+
+		<media:content url="http://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dazzyvance1933Goudey.jpg/300px-Dazzyvance1933Goudey.jpg" medium="image">
+			<media:title type="html">English: A 1933 Goudey Baseball Card of Dazzy ...</media:title>
+		</media:content>
+
+		<media:content url="http://seamheads.com/blog/wp-content/uploads/2007/12/vance8.jpg" medium="image" />
+	</item>
+		<item>
+		<title>iCan\&#8217;t Take It Any More</title>
+		<link>http://pechorina.wordpress.com/2012/10/17/icant-take-it-anymore/</link>
+		<comments>http://pechorina.wordpress.com/2012/10/17/icant-take-it-anymore/#comments</comments>
+		<pubDate>Wed, 17 Oct 2012 13:31:21 +0000</pubDate>
+		<dc:creator>ladygodiva2012</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[human interaction]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://pechorina.wordpress.com/?p=70</guid>
+		<description><![CDATA[I&#8217;m willing to overlook everyone being convinced Apple&#8217;s the best thing since sliced bread, and that it&#8217;s SO MUCH better than a PC, though the first thing anyone does when they buy a Mac is download all Window applications. I&#8217;m willing to overlook that I might as well buy a Samsung, at half the price [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=70&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m willing to overlook everyone being convinced Apple&#8217;s the best thing since sliced bread, and that it&#8217;s SO MUCH better than a PC, though the first thing anyone does when they buy a Mac is download all Window applications.</p>
+<p>I&#8217;m willing to overlook that I might as well buy a Samsung, at half the price (be it a tablet or phone), since they have been manufacturing Apple components.</p>
+<p>I&#8217;m willing to overlook that Apple twists innovation into profit schemes to corner you into only buying Apple accessories at astronomically ridiculous prices since other generic brands aren&#8217;t compatible. So, the (air quotes)genius(air quotes) of the (big ass sarcastic air quotes)magnetic charger(big ass sarcastic air quotes followed by a HA!) isn&#8217;t that it&#8217;s magnetic, but that no other charger is, so Apple can jack up the price simply because you have no other choice.</p>
+<p>But the ONE thing I CANNOT overlook, from the iPod to the iPhone, is the grammatical blasphemy and stupendous arrogance of the small &#8220;i&#8221;.</p>
+<p>All through history, the greatest of our writers, the icons, the men and women who have brought us Hamlet, Pride and Prejudice, Notes from the Underground, have stayed true to grammatical tradition of capitalizing the first person pronoun, putting their creativity to use in the content, the story, the idea.</p>
+<p>So, what- just because Apple essentially reinvented the concept of the Walkman (originally invented by Sony, who as Japanese wouldn&#8217;t dare to break tradition, capitalizing the &#8216;W), that made them believe that they could also reinvent grammar?</p>
+<p>If there was a purpose in doing so, or a clever meaning attached to the small &#8220;i&#8221;, it would be ingenious and inventive. But, if the purpose is just to be &#8216;cool&#8217;, then Apple really is no different than my friend&#8217;s 15 year old son who wears his shirt inside out.</p>
+<p>If the purpose was to be more legible in pronouncing it as EYE-pod rather than EE-pod, well, here&#8217;s a 4-1-1 or rather the 4-i-i  for the marketeers at Apple: the same phonetic objective can be achieved by what is known as a hyphen. Otherwise, we all might as well drop the concept of a hyphen and simply write words like T-shirt as tShirt.</p>
+<p>I&#8217;m all for breaking with convention, but when there&#8217;s a brilliance behind breaking it, when there&#8217;s message to convey in breaking it.</p>
+<p>But, if the small &#8220;i&#8221; is what Apple means when they say &#8216;Think Different&#8217;, they might as well just have us all ditch Webster and start marketing the iCtionary.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/70/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/70/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=70&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://pechorina.wordpress.com/2012/10/17/icant-take-it-anymore/feed/</wfw:commentRss>
+		<slash:comments>54</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/c7d326427e211adc4e9b8fa540d04589?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">ladygodiva2012</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>From Skyscrapers to Sesame Street</title>
+		<link>http://abtwixt.com/2012/10/15/587/</link>
+		<comments>http://abtwixt.com/2012/10/15/587/#comments</comments>
+		<pubDate>Mon, 15 Oct 2012 18:48:32 +0000</pubDate>
+		<dc:creator>abtwixt</dc:creator>
+				<category><![CDATA[Autobiographical]]></category>
+		<category><![CDATA[Philosophy]]></category>
+		<category><![CDATA[About Me]]></category>
+		<category><![CDATA[children]]></category>
+		<category><![CDATA[family]]></category>
+		<category><![CDATA[gender roles]]></category>
+		<category><![CDATA[goals]]></category>
+		<category><![CDATA[Happiness]]></category>
+		<category><![CDATA[life]]></category>
+		<category><![CDATA[marriage]]></category>
+		<category><![CDATA[meaning of life]]></category>
+		<category><![CDATA[motherhood]]></category>
+		<category><![CDATA[parenting]]></category>
+		<category><![CDATA[society]]></category>
+		<category><![CDATA[tradition]]></category>
+		<category><![CDATA[women]]></category>
+		<category><![CDATA[work]]></category>
+		<category><![CDATA[working mother]]></category>
+
+		<guid isPermaLink="false">http://abtwixt.com/?p=587</guid>
+		<description><![CDATA[A great and radical thing is about to happen in my life… At the end of this week, I will abandon my promising career as a lifelong desk jockey to become a full-time/overtime housewife.  Or stay-at-home mom.  Or domestic engineer.  Or whatever you want to call it. As I mentioned in my post, “Have Women [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=587&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p style="text-align:center;"><a href="http://www.zimbio.com/pictures/IwmVLI1ciQA/Sesame+Street+40th+Anniversary+Temporary+Street/5UQv4tJtm65"><img class="wp-image-588 aligncenter" title="skyscrapers1" alt="" src="http://abtwixt.files.wordpress.com/2012/10/skyscrapers1.jpg?w=356&#038;h=237" height="237" width="356" /></a></p>
+<p>A great and radical thing is about to happen in my life… At the end of this week, I will abandon my promising career as a lifelong desk jockey to become a full-time/overtime housewife.  Or stay-at-home mom.  Or domestic engineer.  Or whatever you want to call it.</p>
+<p>As I mentioned in my post, “<a href="http://abtwixt.com/2012/04/10/have-women-got-it-wrong/">Have Women Got it Wrong?</a> ”, it’s been a source of great internal conflict, having to abandon my young children every morning, and be somewhat on the sidelines in these precious, formative years of their lives.</p>
+<p>But now, my husband has become part of that 0.3% reduction in unemployment that’s had everyone hopping, and thus we have the opportunity to untie the rather grotesque knot that’s been created by two years of us being “modern” in our role reversals.  Neither of us were truly happy in those roles; our minds were open, but our hearts and wills betrayed us.  Judging by the amount of <i>women</i> at my work who expressed genuine congratulations to my “career move”, I would say we are not alone.</p>
+<p><a href="http://abtwixt.files.wordpress.com/2012/10/skyscrapers2.jpg"><img class="alignleft  wp-image-592" title="skyscrapers2" alt="" src="http://abtwixt.files.wordpress.com/2012/10/skyscrapers2.jpg?w=102&#038;h=154" height="154" width="102" /></a>I know that many mothers are very happy in their full-time careers.  I salute them.  I am not one of them.  Many see a transition like mine from skyscrapers to Sesame Street as a step down… I see it as a step up.  While I once dreamt of spending my days travelling the world, doing daring deeds, and influencing many, I now dream of the joys of tending a garden, risking everything for my family, and raising my kids to be the kind of grown-ups I can be proud of.</p>
+<p>I’m no 50’s wife… I don’t like putting product in my hair, or scrubbing surfaces that already look clean, or hosting a 5-course dinner served on china with people I don’t like.   I don’t like watching soap operas, turning my brain off, or gossiping about celebrities or neighbors.  I will continue writing this blog, hopefully writing a book as well, challenging attitudes and assumptions made throughout our society today, with a writing standard that would make a university professor proud.  I’m not a stereotype – never have been, and never will be.</p>
+<p><a href="http://abtwixt.files.wordpress.com/2012/10/skyscrapers3.jpg"><img class="alignright  wp-image-593" title="skyscrapers3" alt="" src="http://abtwixt.files.wordpress.com/2012/10/skyscrapers3.jpg?w=155&#038;h=192" height="192" width="155" /></a>Both me and my husband have new skills to learn – we are both starting new careers.  Anyone else who would look at it differently, quite frankly, is short-sighted.  For me, I barely know how to cook, sew, or generally how to make-my-own <i>any</i>thing.  I’ll need to go to the internet for ideas for productive playtime with the kids, because my ideas are few.  I’ll need to learn how to teach my kids all kinds of skills, from potty training to anger management.  I’m basically untested in how I’ll cope with 24/7 household management.  Like with any new career, there is a mixture of excitement and anxiety in how I’ll fare in my new position.  But I think I’ll do well, because I tend to excel in whatever I <i>want</i> to do.</p>
+<p>Sorry, this isn’t a typical post.  I’m not talking about any radical ideas, and society at large has hardly gotten a mention.  However, I often talk about forgoing the things in life that don’t matter, and embracing the things that do.  So in a way, this post is to proclaim that I’m capable of taking my own advice.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/587/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/587/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=587&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://abtwixt.com/2012/10/15/587/feed/</wfw:commentRss>
+		<slash:comments>85</slash:comments>
+	
+		<media:content url="http://1.gravatar.com/avatar/72a7a8d5046ca851d8a09337b799f9cd?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">abtwixt</media:title>
+		</media:content>
+
+		<media:content url="http://abtwixt.files.wordpress.com/2012/10/skyscrapers1.jpg" medium="image">
+			<media:title type="html">skyscrapers1</media:title>
+		</media:content>
+
+		<media:content url="http://abtwixt.files.wordpress.com/2012/10/skyscrapers2.jpg?w=200" medium="image">
+			<media:title type="html">skyscrapers2</media:title>
+		</media:content>
+
+		<media:content url="http://abtwixt.files.wordpress.com/2012/10/skyscrapers3.jpg?w=243" medium="image">
+			<media:title type="html">skyscrapers3</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>What I Didn\&#8217;t Hear</title>
+		<link>http://altondrew.wordpress.com/2012/10/17/what-i-didnt-hear/</link>
+		<comments>http://altondrew.wordpress.com/2012/10/17/what-i-didnt-hear/#comments</comments>
+		<pubDate>Wed, 17 Oct 2012 09:53:10 +0000</pubDate>
+		<dc:creator>altondrew</dc:creator>
+				<category><![CDATA[Barack Obama]]></category>
+		<category><![CDATA[commerce]]></category>
+		<category><![CDATA[Economy]]></category>
+		<category><![CDATA[Elections 2012]]></category>
+		<category><![CDATA[libertarian]]></category>
+		<category><![CDATA[Mitt Romney]]></category>
+		<category><![CDATA[net neutrality]]></category>
+		<category><![CDATA[debate]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[Governor Romney]]></category>
+		<category><![CDATA[President Obama]]></category>
+
+		<guid isPermaLink="false">http://altondrew.wordpress.com/?p=875</guid>
+		<description><![CDATA[Last night’s debate was a much more evenly played rock ‘em, sock ‘em event than the first presidential debate held earlier this month.  President Obama’s performance, while far from excellent, was much improved.  He had to recover from last week’s listless performance and I believe he managed to do so.  Governor Romney was able to [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=875&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>Last night’s debate was a much more evenly played rock ‘em, sock ‘em event than the first presidential debate held earlier this month.  President Obama’s performance, while far from excellent, was much improved.  He had to recover from last week’s listless performance and I believe he managed to do so.  Governor Romney was able to rebut many of the President’s statements and for that reason did not, in my opinion, lose much of the momentum he gained earlier this month.</p>
+<p>But while both men may have managed a tie for their performances, the real loser last night was American commerce and the economy overall.  Neither candidate brought any fresh perspective to the discussion of the federal government’s role in a free market economy.</p>
+<p>Mr. Romney spent most of the evening telling us how he was going to fix the economy and grow 12 million jobs.  Really, Mr. Romney?  You can do all that?  And then, as if to make up for his lost libertarian bona fides, he ends the evening saying twice that government cannot create jobs.  I don’t know.  Maybe his staffers shared one of my tweets with him.</p>
+<p>Mr. Obama, the uber progressive, surprised me with his faux passionate defense of the free enterprise system.  He declared that he believes in free markets.  Again, really?  If that is the case, Mr. President, why the promotion of the Dodd-Frank Act?  Why support the burdensome concept of net neutrality for broadband providers?  Why even intervene in the housing market with a loan modification program that may scare away investors and underwriters?</p>
+<p>In the end, what I didn’t hear was a plan to make government less interventionist and more of a promoter of American commerce, both here and abroad.  I didn’t hear a plan, a detailed strategy.  I heard too much noise.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/875/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/875/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=875&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://altondrew.wordpress.com/2012/10/17/what-i-didnt-hear/feed/</wfw:commentRss>
+		<slash:comments>14</slash:comments>
+	
+		<media:content url="http://1.gravatar.com/avatar/7b39e6db8d22fc1e6ebcb6deee8856cf?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">altondrew</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Is There Really Any Need?</title>
+		<link>http://lordwilliamsofwoodcroft.wordpress.com/2012/10/17/71/</link>
+		<comments>http://lordwilliamsofwoodcroft.wordpress.com/2012/10/17/71/#comments</comments>
+		<pubDate>Wed, 17 Oct 2012 12:19:27 +0000</pubDate>
+		<dc:creator>Mark Williams</dc:creator>
+				<category><![CDATA[Lifestyle]]></category>
+		<category><![CDATA[Religion]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[debate]]></category>
+		<category><![CDATA[religion]]></category>
+		<category><![CDATA[science]]></category>
+
+		<guid isPermaLink="false">http://lordwilliamsofwoodcroft.wordpress.com/?p=71</guid>
+		<description><![CDATA[This picture was posted on Twitter and subsequently retweeted by thousands of people, including the usual suspects, chief among them, renowned atheist Richard Dawkins. Yes, I do follow Dawkins on Twitter. I also follow Ricky Gervais and a couple of other famous and outspoken atheists. I&#8217;m not really one for ignoring people who disagree with [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=71&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+		<wfw:commentRss>http://lordwilliamsofwoodcroft.wordpress.com/2012/10/17/71/feed/</wfw:commentRss>
+		<slash:comments>123</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/99dc57f0b96fed2323f45bd892314e57?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">wilbo39</media:title>
+		</media:content>
+
+		<media:content url="http://lordwilliamsofwoodcroft.files.wordpress.com/2012/10/picture-2.png" medium="image">
+			<media:title type="html">Dear Religion</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>The Art of the Foul Ball &#8211; Brandon Belt</title>
+		<link>http://brandon.mlblogs.com/2012/10/16/the-art-of-the-foul-ball-brandon-belt/</link>
+		<comments>http://brandon.mlblogs.com/2012/10/16/the-art-of-the-foul-ball-brandon-belt/#comments</comments>
+		<pubDate>Tue, 16 Oct 2012 16:30:18 +0000</pubDate>
+		<dc:creator>mlblogssfgiants1</dc:creator>
+				<category><![CDATA[Belt]]></category>
+		<category><![CDATA[Brandon Belt]]></category>
+		<category><![CDATA[Giants]]></category>
+
+		<guid isPermaLink="false">http://brandon.mlblogs.com/?p=121</guid>
+		<description><![CDATA[We’re getting ready to go to the ballpark where we’ll take buses to the airport. I love that our wives can go with us. We don’t have to make separate travel arrangements and worry about all the logistics. And it saves us money, too – which still matters to the younger guys. Haylee and I [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=121&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>We’re getting ready to go to the ballpark where we’ll take buses to the airport. I love that our wives can go with us. We don’t have to make separate travel arrangements and worry about all the logistics. And it saves us money, too – which still matters to the younger guys.</p>
+<p>Haylee and I moved out of our rental in Walnut Creek and now are staying in a hotel in San Francisco. I walked to the park for the first two games and it was like there was a carnival in town. It felt a little like going to a college football game. Everybody’s in orange-and-black. There’s an excitement in the air. I’m kind of recognizable because I’m pretty tall, but I walked with my hood up and tried to blend in so I could just enjoy the atmosphere. (The only disappointment was no fly-over before the game. I love the fly-overs.)</p>
+<p>Last night’s win was great all-around. Vogey was the Vogey we’ve seen all year. He pitched his butt off. The bats came alive, the defense was strong as usual. I haven’t heard anything about Marco yet this morning. I’m sure we’ll learn more when we get to the park. He’s a huge part of the team, but if he can’t play, we have Theriot. So we’ll be in good shape. I didn’t see the slide because I was looking to catch Marco’s throw.</p>
+<p>There’s a lot to talk about from the game, but I thought I’d give you a little insight about something a little more obscure – catching foul balls. I made a catch in the third inning that was far up the right-field line where there’s an indent past a VIP box. Those kinds of plays illustrate how important it is to know the quirks and characteristics of a park. I learned that from Will Clark and J.T. Snow. You learn about a park in different ways. You roll a ball down the line to see how it breaks. You watch the way the wind pushes fly balls. You take note of the configuration so you’re aware of how much room you have in foul territory.</p>
+<p>With high foul balls, the first thing is to get some sense of where the ball’s going as soon as it comes off the bat. Then you head there as fast as you can. And then the biggest thing: Find the rail.</p>
+<p>Last night I knew I had more foul territory to play with because of that indent. I’m told a fan had his glove outstretched while I was trying to catch it. I didn’t see him. But if he did interfere, I don’t think I’d be mad because if I was a fan I’d do the same thing. It would be awesome to catch a playoff ball.</p>
+<p>A few innings later, I caught a ball that really was probably the second-baseman’s ball. But I had a bead on it and, more important, I have a bigger glove than any of the other infielders. It’s a glove made for catching, so theoretically I have a greater chance of catching. That’s why you see first-basemen catch so many infield flies.</p>
+<p>One of my favorite moments of last night’s game was watching Aubrey Huff score from second base on Theriot’s single in the sixth. He looked like he was running with a trailer hitched to his back. We all give him a hard time about his speed. When he got to the dugout and everybody was high-fiving him, I took the opportunity to give him a turkey tap, which he didn’t like too much. (I’m not describing what a turkey tap is but you can google it.)</p>
+<p>Ok, that’s it for now. This should be a pretty happy flight today. A little different from when we headed to Cincinnati in the NLDS.</p>
+<p>Thanks for reading!</p>
+<p>&nbsp;</p>
+<p>-Brandon B.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/121/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/121/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=121&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://brandon.mlblogs.com/2012/10/16/the-art-of-the-foul-ball-brandon-belt/feed/</wfw:commentRss>
+		<slash:comments>32</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/6d079979551c51e1aa54b20244bc3c6a?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">mlblogssfgiants1</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>What Makes a Post Freshly Press-able: There Is a Light That Never Goes Out</title>
+		<link>http://dailypost.wordpress.com/2012/10/17/what-makes-a-post-freshly-press-able-there-is-a-light-that-never-goes-out/</link>
+		<comments>http://dailypost.wordpress.com/2012/10/17/what-makes-a-post-freshly-press-able-there-is-a-light-that-never-goes-out/#comments</comments>
+		<pubDate>Wed, 17 Oct 2012 15:57:51 +0000</pubDate>
+		<dc:creator>michelle w.</dc:creator>
+				<category><![CDATA[Freshly Pressed]]></category>
+		<category><![CDATA[Inspiration]]></category>
+		<category><![CDATA[blogging]]></category>
+		<category><![CDATA[inspiration]]></category>
+
+		<guid isPermaLink="false">http://dailypost.wordpress.com/?p=10735</guid>
+		<description><![CDATA[Every day, a handful of WordPress.com bloggers are featured in Freshly Pressed. And every day, many more wonder, “What do I have to do to get Freshly Pressed?” Well, it’s time to reveal what the folks who push the launch button are thinking. Each week, we’ll take a close look at one post and why [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=10735&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p><em>Every day, a handful of WordPress.com bloggers are featured in </em>Freshly Pressed<em>. And every day, many more wonder, “What do I have to do to get Freshly Pressed?”</em></p>
+<p><em>Well, it’s time to reveal what the folks who push the launch button are thinking. Each week, we’ll take a close look at one post and why we thought it was Press-worthy. We hope we can provide insight into the process and give you tips and tools to make your blog the best it can be.<br />
+____________________________________________</em></p>
+<p>Many Freshly Pressed picks make us laugh, introduce us to new ideas, or provoke conversations. After all, one reason for having Freshly Pressed at all is to inspire everyone to blog more, so we&#8217;re drawn to posts that will stimulate discussion.</p>
+<p>Sometimes, though, a post slices through the din of the blogosphere on the strength of raw emotion. When we run across those posts, we share them for three reasons:</p>
+<p><span id="more-10735"></span></p>
+<ol>
+<li>There is power in the words used to so bluntly describe a painful experience.</li>
+<li>We know that the WordPress.com community will respond with support.</li>
+<li>Sharing the post might help some else facing a similar situation feel less alone.</li>
+</ol>
+<p>That&#8217;s why we recently featured <a title="There Is a Light That Never Goes Out" href="https://charliesotherangel.wordpress.com/2012/10/09/there-is-a-light-that-never-goes-out/">There Is a Light That Never Goes Out</a>, from new blog <em><a title="Charlie's Other Angel" href="https://charliesotherangel.wordpress.com/">Charlie&#8217;s Other Angel</a></em>. Two things about this post forced us to stop in our tracks:</p>
+<h2>The opening line made us sit up and take notice.</h2>
+<p>It&#8217;s not often that you click over to a blog and are confronted with:</p>
+<blockquote><p><em>My ex-husband died tonight.</em></p></blockquote>
+<p>There was no cute story gently introducing the topic, no collage of family photos, no loving words about the deceased; just four simple words landing on our screens with a thud. &#8220;My ex-husband died tonight.&#8221;</p>
+<p>Those words tell us what the post will be about in more ways than one. Yes, it will be a post about a serious loss. <em>And</em> it will be straightforward and unforgiving. There will be no scrim softening the line between the experience and the post—this blogger is going to lay things bare. This will not be an easy post to read, and if this topic is a trigger for you, now might be a good time to leave.</p>
+<h2>She pulled no punches.</h2>
+<p>True to her opening line, she was honest about her ex-husband, their relationship, and herself.</p>
+<blockquote><p>Because, over the 22 years I’ve known my ex, it hasn’t been easy.  It was often fun.  I laughed and cried and laughed some more.  I got cancer.  I attended a lot of Al-anon meetings.  I wished his death on at least one major occasion, and luckily God knew me better than that weakness of character and said No&#8230;</p>
+<p>I am so sad.  And not just for our boys — though most especially for our boys.  Sad at what might have been for this sweet man.  Sad that he hadn’t been able to kick the demons.  Sad that it took his final month to bring us all back together, so close.</p></blockquote>
+<p>This is not a storybook memorial to a prince charming. It&#8217;s a real-life look at the flexibility and resilience of the ties that bind family members, even those from whom we think we&#8217;re unfettered. Ultimately, it&#8217;s the story of a woman who was able to knot off one of those ties in a way that brought her peace, and the redemption of a man ultimately bested by his addiction.</p>
+<p>Blogging can be a scary activity when we&#8217;re publishing something lighthearted; there are always elements of fear and uncertainty when we release our words into the wild. To write so openly and eloquently about such a deeply personal experience takes another level of bravery, one that we&#8217;re moved to acknowledge.</p>
+<p><em><a title="Charlie's Other Angel" href="https://charliesotherangel.wordpress.com/">Charlie&#8217;s Other Angel</a></em> is off to an incredible start with this post—will you stick around to read more?</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/10735/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/10735/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&#038;blog=256907&#038;post=10735&#038;subd=freshlypressed&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://dailypost.wordpress.com/2012/10/17/what-makes-a-post-freshly-press-able-there-is-a-light-that-never-goes-out/feed/</wfw:commentRss>
+		<slash:comments>59</slash:comments>
+	
+		<media:content url="http://2.gravatar.com/avatar/2367004060918e221dcb9799584e9279?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">Michelle, Communications</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>
