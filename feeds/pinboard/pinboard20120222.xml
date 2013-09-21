@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xmlns="http://purl.org/rss/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/">
+  <channel rdf:about="http://pinboard.in">
+    <title>Pinboard (Popular items from Pinboard)</title>
+    <link>http://pinboard.in/popular/</link>
+    <description>popular items from Pinboard</description>
+    <items>
+      <rdf:Seq>	<rdf:li rdf:resource="http://theoatmeal.com/comics/game_of_thrones"/>
+	<rdf:li rdf:resource="https://developer.apple.com/library/ios/#referencelibrary/GettingStarted/RoadMapiOS/Introduction/Introduction.html"/>
+	<rdf:li rdf:resource="http://playswithfire.com/blog/2012/02/19/you-are-not-ruthless-enough/"/>
+	<rdf:li rdf:resource="http://people.csail.mit.edu/pgbovine/python/tutor.html#mode=edit"/>
+	<rdf:li rdf:resource="http://www.wired.com/wiredenterprise/2012/02/github/all/1"/>
+	<rdf:li rdf:resource="http://www.entypo.com/"/>
+	<rdf:li rdf:resource="http://www.patheos.com/blogs/slacktivist/2012/02/18/the-biblical-view-thats-younger-than-the-happy-meal/"/>
+	<rdf:li rdf:resource="http://amon.cx/"/>
+	<rdf:li rdf:resource="http://vimeo.com/36579366"/>
+	<rdf:li rdf:resource="http://37signals.com/svn/posts/3113-how-key-based-cache-expiration-works"/>
+	<rdf:li rdf:resource="http://blogs.telegraph.co.uk/technology/adrianhon/100007156/infinite-copyright-a-modest-proposal/"/>
+	<rdf:li rdf:resource="http://pngmini.com/"/>
+	<rdf:li rdf:resource="https://github.com/pkamenarsky/atea"/>
+	<rdf:li rdf:resource="http://www.ubuntu.com/devices/android"/>
+	<rdf:li rdf:resource="http://broadcastingadam.com/2011/05/advanced_caching_in_rails"/>
+	<rdf:li rdf:resource="http://www.randsinrepose.com/archives/2012/02/20/when_the_sky_falls.html"/>
+	<rdf:li rdf:resource="http://addyosmani.com/resources/essentialjsdesignpatterns/book/"/>
+	<rdf:li rdf:resource="http://www.wpfunction.me/"/>
+	<rdf:li rdf:resource="http://www.betabeat.com/2012/02/21/flickr-is-getting-a-major-makeover/"/>
+	<rdf:li rdf:resource="http://julialang.org/"/>
+	<rdf:li rdf:resource="http://colllor.com/"/>
+	<rdf:li rdf:resource="http://hrbrt.me/subtle-papers-for-iphone"/>
+	<rdf:li rdf:resource="http://steve-yegge.blogspot.com/2006/09/good-agile-bad-agile_27.html"/>
+	<rdf:li rdf:resource="http://stylebootstrap.info/"/>
+	<rdf:li rdf:resource="http://clear.youyuxi.com/"/>
+	<rdf:li rdf:resource="http://blog.domai.nr/post/17910329952/buy-a-domain-that-someone-else-owns"/>
+	<rdf:li rdf:resource="http://ignorethecode.net/blog/2012/02/21/steal_webos_features/"/>
+	<rdf:li rdf:resource="http://hackershelf.com/"/>
+	<rdf:li rdf:resource="http://joshsmithonwpf.wordpress.com/2012/02/19/becoming-an-ios-developer/"/>
+	<rdf:li rdf:resource="http://www.wired.com/magazine/2012/02/ff_forgettingpill/all/1"/>
+	<rdf:li rdf:resource="http://samsaffron.com/archive/2012/02/17/stop-paying-your-jquery-tax"/>
+	<rdf:li rdf:resource="http://techcrunch.com/2012/02/19/unhyped-internet-and-mobile/"/>
+	<rdf:li rdf:resource="http://storify.com/timhaines/hashbang-conversation"/>
+	<rdf:li rdf:resource="http://lifehacker.com/5886128/how-seinfelds-productivity-secret-fixed-my-procrastination-problem"/>
+	<rdf:li rdf:resource="http://nickoneill.com/how-fortune-stole-a-new-york-times-article-and-got-all-the-traffic-2012-02/"/>
+	<rdf:li rdf:resource="http://ihnatko.com/2012/02/20/heavy-hangs-the-bandwidth-that-torrents-the-crown/"/>
+	<rdf:li rdf:resource="http://carl.flax.ie/dothingstellpeople.html"/>
+	<rdf:li rdf:resource="http://www.cyberciti.biz/tips/spice-up-your-unix-linux-shell-scripts.html"/>
+	<rdf:li rdf:resource="http://seanhess.github.com/2012/02/20/functional_javascript.html"/>
+	<rdf:li rdf:resource="http://webinsightlab.com/design/8-best-tools-to-make-easy-css3-development/"/>
+	<rdf:li rdf:resource="http://www.macdrifter.com/2012/02/some-moom-tips/"/>
+	<rdf:li rdf:resource="http://viainstapaper.com/"/>
+	<rdf:li rdf:resource="http://bits.blogs.nytimes.com/2012/02/21/google-to-sell-terminator-style-glasses-by-years-end/"/>
+	<rdf:li rdf:resource="http://dickgrune.com/Books/PTAPG_1st_Edition/"/>
+	<rdf:li rdf:resource="http://www.macworld.com/article/165496/2012/02/ten_exciting_system_changes_in_mountain_lion.html"/>
+	<rdf:li rdf:resource="http://kennethreitz.com/xcode-gcc-and-homebrew.html"/>
+	<rdf:li rdf:resource="http://blogs.msdn.com/b/ie/archive/2012/02/20/google-bypassing-user-privacy-settings.aspx"/>
+	<rdf:li rdf:resource="http://www.theverge.com/2012/2/21/2789676/rim-blackberry-mike-lazaridis-jim-balsillie-lost-empire"/>
+	<rdf:li rdf:resource="http://cl.ly/EMs0"/>
+	<rdf:li rdf:resource="http://danwebb.net/2011/5/28/it-is-about-the-hashbangs"/>
+	<rdf:li rdf:resource="http://www.tofugu.com/2012/02/18/japanese-fart-scrolls/"/>
+	<rdf:li rdf:resource="http://gnuvince.wordpress.com/2012/02/19/why-i-still-use-emacs/"/>
+	<rdf:li rdf:resource="http://www.openculture.com/2012/02/david_foster_wallace_the_big_uncut_interview_2003.html"/>
+	<rdf:li rdf:resource="http://www.sequencejs.com/"/>
+	<rdf:li rdf:resource="http://www.macstories.net/stories/interview-the-omni-groups-ken-case/"/>
+	<rdf:li rdf:resource="http://quietlyamused.org/blog/2012/02/19/on-naming/"/>
+	<rdf:li rdf:resource="http://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/"/>
+	<rdf:li rdf:resource="http://daasgrrl.livejournal.com/130119.html"/>
+	<rdf:li rdf:resource="https://www.eff.org/deeplinks/2012/02/how-remove-your-google-search-history-googles-new-privacy-policy-takes-effect"/>
+	<rdf:li rdf:resource="http://www.gutenberg.org/cache/epub/5402/pg5402.html"/>
+	<rdf:li rdf:resource="http://minimalmac.com/post/17758177061/microsofts-biggest-miss"/>
+	<rdf:li rdf:resource="http://lifehacker.com/5886188/five-best-professional-nameplate-sites"/>
+	<rdf:li rdf:resource="http://www.sourcefabric.org/en/booktype/"/>
+	<rdf:li rdf:resource="http://www.red-sweater.com/blog/2324/fix-the-sandbox"/>
+	<rdf:li rdf:resource="http://fluent.io/"/>
+	<rdf:li rdf:resource="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#writingdesignpatterns"/>
+	<rdf:li rdf:resource="http://www.newyorker.com/reporting/2012/01/30/120130fa_fact_lehrer?currentPage=all"/>
+	<rdf:li rdf:resource="http://www.smh.com.au/technology/technology-news/aussies-fix-for-stagnated-email-20120221-1tkqd.html"/>
+	<rdf:li rdf:resource="http://mattgemmell.com/2012/02/17/the-piracy-threshold/"/>
+	<rdf:li rdf:resource="http://37signals.com/svn/posts/3112-how-basecamp-next-got-to-be-so-damn-fast-without-using-much-client-side-ui"/>
+	<rdf:li rdf:resource="http://blogs.hbr.org/cs/2011/10/steve_jobs_solved_the_innovato.html"/>
+	<rdf:li rdf:resource="http://impending.com/2012/02/2012-the-year-scam-apps-killed-the-app-store/"/>
+	<rdf:li rdf:resource="http://theunderstatement.com/post/18030062041/its-a-brick-tesla-motors-devastating-design"/>
+	<rdf:li rdf:resource="http://www.html5rocks.com/webappfieldguide/toc/index/"/>
+	<rdf:li rdf:resource="http://m.wired.com/wiredenterprise/2012/02/github/all/1"/>
+	<rdf:li rdf:resource="http://inessential.com/2010/06/28/how_i_manage_memory"/>
+	<rdf:li rdf:resource="http://ngauthier.com/2012/02/playing-with-ember.html"/>
+	<rdf:li rdf:resource="http://mailinator.blogspot.com/2012/02/how-mailinator-compresses-email-by-90.html"/>
+	<rdf:li rdf:resource="http://www.washingtonpost.com/opinions/our-unrealistic-views-of-death-through-a-doctors-eyes/2012/01/31/gIQAeaHpJR_story.html"/>
+	<rdf:li rdf:resource="http://transparencygrenade.com/"/>
+	<rdf:li rdf:resource="http://mathiasbynens.be/notes/css-without-html"/>
+	<rdf:li rdf:resource="http://www.ravelrumba.com/blog/responsive-ads-real-world-ad-server-implementation/"/>
+	<rdf:li rdf:resource="http://skwp.github.com/dotfiles/"/>
+	<rdf:li rdf:resource="http://needim.github.com/noty/"/>
+	<rdf:li rdf:resource="http://htwins.net/scale2/"/>
+	<rdf:li rdf:resource="http://blog.fastmail.fm/2012/02/20/building-the-new-ajax-mail-ui-part-2-better-than-templates-building-highly-dynamic-web-pages/"/>
+	<rdf:li rdf:resource="http://obamapacman.com/2012/02/how-to-quickly-save-access-saved-mail-draft-on-iphone-ipad-ipod-touch/"/>
+	<rdf:li rdf:resource="http://chill.com/scott/collection/the-ultimate-steve-jobs-collection"/>
+	<rdf:li rdf:resource="http://www.devsigh.com/"/>
+	<rdf:li rdf:resource="http://pea.rs/"/>
+	<rdf:li rdf:resource="http://twitter.com/suicidalidol/status/171243873669099520/photo/1"/>
+	<rdf:li rdf:resource="http://www.popbioethics.com/2012/02/why-mass-effect-is-the-most-important-science-fiction-universe-of-our-generation/"/>
+	<rdf:li rdf:resource="http://uxdesign.smashingmagazine.com/2012/02/21/finger-friendly-design-ideal-mobile-touchscreen-target-sizes/"/>
+	<rdf:li rdf:resource="http://radar.oreilly.com/2012/02/nosql-non-relational-database.html"/>
+	<rdf:li rdf:resource="http://mathiasbynens.be/notes/javascript-identifiers"/>
+	<rdf:li rdf:resource="http://www.bigfastblog.com/how-to-get-experience-working-with-large-datasets"/>
+	<rdf:li rdf:resource="http://www.wired.com/magazine/2012/02/ff_dysonqa/all/1"/>
+	<rdf:li rdf:resource="http://darcyclarke.me/development/front-end-job-interview-questions/"/>
+	<rdf:li rdf:resource="http://www.guardian.co.uk/technology/2012/feb/19/john-naughton-webpage-obesity"/>
+      </rdf:Seq>
+    </items>
+  </channel><item rdf:about="http://theoatmeal.com/comics/game_of_thrones">
+    <title>I tried to watch Game of Thrones and this is what happened - The Oatmeal</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://theoatmeal.com/comics/game_of_thrones</link>
+    <dc:creator>circa1977</dc:creator><description><![CDATA[I tried to watch Game of Thrones and this is what happened ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:circa1977/b:cc923af8e38d/</dc:identifier>
+</item>
+<item rdf:about="https://developer.apple.com/library/ios/#referencelibrary/GettingStarted/RoadMapiOS/Introduction/Introduction.html">
+    <title>Start Developing iOS Apps Today: Introduction</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>https://developer.apple.com/library/ios/#referencelibrary/GettingStarted/RoadMapiOS/Introduction/Introduction.html</link>
+    <dc:creator>jaredholdcroft</dc:creator><dc:subject>apple iOS objective-c</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:jaredholdcroft/b:16980a4bda84/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:jaredholdcroft/t:apple"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:jaredholdcroft/t:iOS"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:jaredholdcroft/t:objective-c"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://playswithfire.com/blog/2012/02/19/you-are-not-ruthless-enough/">
+    <title>You Are Not Ruthless Enough - playswithfire</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://playswithfire.com/blog/2012/02/19/you-are-not-ruthless-enough/</link>
+    <dc:creator>jaredholdcroft</dc:creator><dc:subject>development objective-c cocoa</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:jaredholdcroft/b:ed68b60f8abe/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:jaredholdcroft/t:development"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:jaredholdcroft/t:objective-c"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:jaredholdcroft/t:cocoa"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://people.csail.mit.edu/pgbovine/python/tutor.html#mode=edit">
+    <title>Online Python Tutor</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://people.csail.mit.edu/pgbovine/python/tutor.html#mode=edit</link>
+    <dc:creator>stockground</dc:creator><dc:subject>python programming tutorial</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:stockground/b:b35ba6a8681f/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:stockground/t:python"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:stockground/t:programming"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:stockground/t:tutorial"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www.wired.com/wiredenterprise/2012/02/github/all/1">
+    <title>Lord of the Files: How GitHub Tamed Free Software (And More) | Wired Enterprise | Wired.com</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://www.wired.com/wiredenterprise/2012/02/github/all/1</link>
+    <dc:creator>cpdis</dc:creator><description><![CDATA[Nice piece about GitHub on Wired today: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:cpdis/b:28cd9b9a7cd5/</dc:identifier>
+</item>
+<item rdf:about="http://www.entypo.com/">
+    <title>Entypo - 100+ carefully crafted pictograms</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://www.entypo.com/</link>
+    <dc:creator>klura</dc:creator><dc:subject>typography icon</dc:subject>
+<dc:source>http://delicious.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:klura/b:9488e599c572/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:klura/t:typography"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:klura/t:icon"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www.patheos.com/blogs/slacktivist/2012/02/18/the-biblical-view-thats-younger-than-the-happy-meal/">
+    <title>slacktivist  » The ‘biblical view’ that’s younger than the Happy Meal</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://www.patheos.com/blogs/slacktivist/2012/02/18/the-biblical-view-thats-younger-than-the-happy-meal/</link>
+    <dc:creator>brian_frank</dc:creator><description><![CDATA[The "biblical view" of conception and abortion is younger than the Happy Meal -  #tcot]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:brian_frank/b:0daea3b0859a/</dc:identifier>
+</item>
+<item rdf:about="http://amon.cx/">
+    <title>Amon - developer friendly application and system monitoring</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://amon.cx/</link>
+    <dc:creator>smerickson</dc:creator><dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:smerickson/b:d72b4b5ca29b/</dc:identifier>
+</item>
+<item rdf:about="http://vimeo.com/36579366">
+    <title>Bret Victor - Inventing on Principle on Vimeo</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://vimeo.com/36579366</link>
+    <dc:creator>sha</dc:creator><description><![CDATA[★ Inventing on Principle (keynote at the Canadian University Software Engineering Conference, 1 hour)  ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:sha/b:f71a5b7ffa72/</dc:identifier>
+</item>
+<item rdf:about="http://37signals.com/svn/posts/3113-how-key-based-cache-expiration-works">
+    <title>How key-based cache expiration works - (37signals)</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://37signals.com/svn/posts/3113-how-key-based-cache-expiration-works</link>
+    <dc:creator>kishyr</dc:creator><description><![CDATA[How key-based cache expiration works: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:kishyr/b:14c0a17085dd/</dc:identifier>
+</item>
+<item rdf:about="http://blogs.telegraph.co.uk/technology/adrianhon/100007156/infinite-copyright-a-modest-proposal/">
+    <title>Eternal Copyright: a modest proposal – Telegraph Blogs</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://blogs.telegraph.co.uk/technology/adrianhon/100007156/infinite-copyright-a-modest-proposal/</link>
+    <dc:creator>kevinmarks</dc:creator><description><![CDATA[RT @adrianhon: Eternal Copyright: A modest proposal  (on @telegraphblogs by me)]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:kevinmarks/b:8776359f13cb/</dc:identifier>
+</item>
+<item rdf:about="http://pngmini.com/">
+    <title>ImageAlpha — lossy compression for 24-bit PNG images</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://pngmini.com/</link>
+    <dc:creator>syntaxterror</dc:creator><dc:subject>image-processing png optimisation</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:syntaxterror/b:f8df37e8aed5/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:syntaxterror/t:image-processing"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:syntaxterror/t:png"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:syntaxterror/t:optimisation"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://github.com/pkamenarsky/atea">
+    <title>Atea: a free minimalistic status bar time tracker for MacOS</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>https://github.com/pkamenarsky/atea</link>
+    <dc:creator>nocko</dc:creator><description><![CDATA[Hacker News <rss2email@nocko.net>]]></description>
+<dc:identifier>http://pinboard.in/u:nocko/b:484d34c9a888/</dc:identifier>
+</item>
+<item rdf:about="http://www.ubuntu.com/devices/android">
+    <title>Ubuntu for Android | Ubuntu</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://www.ubuntu.com/devices/android</link>
+    <dc:creator>codepo8</dc:creator><description><![CDATA[Ubuntu for Android: http://t.co/fnn14bfC - ohhhhhhh]]></description>
+<dc:subject>via:packrati.us</dc:subject>
+<dc:identifier>http://pinboard.in/u:codepo8/b:e97b4a995e33/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:codepo8/t:via:packrati.us"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://broadcastingadam.com/2011/05/advanced_caching_in_rails">
+    <title>Advanced Caching in Rails</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://broadcastingadam.com/2011/05/advanced_caching_in_rails</link>
+    <dc:creator>jaacob</dc:creator><description><![CDATA[lengthy guide with some good info]]></description>
+<dc:subject>cache rails csrf memcached varnish performance</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:jaacob/b:1d2f4e156c97/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:jaacob/t:cache"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:jaacob/t:rails"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:jaacob/t:csrf"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:jaacob/t:memcached"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:jaacob/t:varnish"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:jaacob/t:performance"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www.randsinrepose.com/archives/2012/02/20/when_the_sky_falls.html">
+    <title>Rands In Repose: When the Sky Falls</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://www.randsinrepose.com/archives/2012/02/20/when_the_sky_falls.html</link>
+    <dc:creator>davemessina</dc:creator><description><![CDATA[What to do when the sky falls: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:davemessina/b:0103a6821c70/</dc:identifier>
+</item>
+<item rdf:about="http://addyosmani.com/resources/essentialjsdesignpatterns/book/">
+    <title>Essential JavaScript Design Patterns For Beginners</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://addyosmani.com/resources/essentialjsdesignpatterns/book/</link>
+    <dc:creator>hawkrives</dc:creator><description><![CDATA[
+
+]]></description>
+<dc:identifier>http://pinboard.in/u:hawkrives/b:f8e2e71e0135/</dc:identifier>
+</item>
+<item rdf:about="http://www.wpfunction.me/">
+    <title>WordPress functions.php Snippets | WP FUNCTION ME</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://www.wpfunction.me/</link>
+    <dc:creator>shawnrgrimes</dc:creator><dc:source>http://instapaper.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:shawnrgrimes/b:f0d1c22903c3/</dc:identifier>
+</item>
+<item rdf:about="http://www.betabeat.com/2012/02/21/flickr-is-getting-a-major-makeover/">
+    <title>Flickr Is Getting a Major Makeover | Betabeat — News, gossip and intel from Silicon Alley 2.0.</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://www.betabeat.com/2012/02/21/flickr-is-getting-a-major-makeover/</link>
+    <dc:creator>jaimenovoa</dc:creator><description><![CDATA[Flickr Is Getting a Major Makeover (@adrjeffries / Betabeat)  ]]></description>
+<dc:subject>Flickr</dc:subject>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:jaimenovoa/b:cbb025ab70cd/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:jaimenovoa/t:Flickr"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://julialang.org/">
+    <title>The Julia Language</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://julialang.org/</link>
+    <dc:creator>tow8ie</dc:creator><description><![CDATA[Julia is a high-level, high-performance dynamic programming language for technical computing, with syntax that is familiar to users of other technical computing environments. It provides a sophisticated compiler, distributed parallel execution, numerical accuracy, and an extensive mathematical function library. The library, mostly written in Julia itself, also integrates mature, best-of-breed C and Fortran libraries for linear algebra, random number generation, FFTs, and string processing. More libraries continue to be added over time. Julia programs are organized around defining functions, and overloading them for different combinations of argument types (which can also be user-defined).]]></description>
+<dc:subject>programming language mathematics computer-science computing</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:tow8ie/b:d0a6a43d89a6/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:tow8ie/t:programming"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:tow8ie/t:language"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:tow8ie/t:mathematics"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:tow8ie/t:computer-science"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:tow8ie/t:computing"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://colllor.com/">
+    <title>Colllor - Generate a consistent color palette with just a few clicks</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://colllor.com/</link>
+    <dc:creator>tomds</dc:creator><dc:subject>webdesign css colour</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:tomds/b:4f29d6b74e6f/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:tomds/t:webdesign"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:tomds/t:css"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:tomds/t:colour"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://hrbrt.me/subtle-papers-for-iphone">
+    <title>Subtle Papers for iPhone</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://hrbrt.me/subtle-papers-for-iphone</link>
+    <dc:creator>rk295</dc:creator><dc:subject>wallpaper</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:rk295/b:0c60f767db23/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:rk295/t:wallpaper"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://steve-yegge.blogspot.com/2006/09/good-agile-bad-agile_27.html">
+    <title>Good Agile, Bad Agile</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://steve-yegge.blogspot.com/2006/09/good-agile-bad-agile_27.html</link>
+    <dc:creator>protoiyer</dc:creator><description><![CDATA[     Scrums are the most dangerous phase in rugby, since a collapse or inproper engage can lead to a front row player damaging or even breaking his neck.  — WikipediaWhen I was growing up, cholesterol used to be bad for you.  It was easy to remember.  Fat, bad.  Cholesterol bad.  Salt, bad.  Everything, bad.  Nowadays, though, they differentiate between "good" cholesterol and "bad" cholesterol, as if we're supposed to be able to distinguish them somehow.  And it was weird when they switched it up on us, because it was as if the FDA had suddenly issued a press release announcing that there are, in fact, two kinds of rat poison:  Good Rat Poison and Bad Rat Poison, and you should eat a lot of the Good kind, and none of the Bad kind, and definitely not mix them up or anything.Up until maybe a year ago, I had a pretty one-dimensional view of so-called "Agile" programming, namely that it's an idiotic fad-diet of a marketing scam making the rounds as yet another technological virus implanting itself in naive programmers who've never read "No Silver Bullet", the kinds of programmers who buy extended warranties and self-help books and believe their bosses genuinely care about them as people, the kinds of programmers who attend conferences to make friends and who don't know how to avoid eye contact with leaflet-waving fanatics in airports and who believe writing shit on index cards will suddenly make software development easier.You know.  Chumps.  That's the word I'm looking for.  My bad-cholesterol view was that Agile Methodologies are for chumps.But I've had a lot of opportunity to observe various flavors of Agile-ism in action lately, and I now think I was only about 90% right.  It turns out there's a good kind of Agile, although it's taken me a long time to be able to see it clearly amidst all the hype and kowtowing and moaning feverishly about scrums and whatnot.  I have a pretty clear picture of it now.And you can attend my seminar on it for the low, low price of $499.95!  Hahaha, chump!No, just kidding.  You'll only find seminars about the Bad kind of Agile.  And if in the future you ever find me touring around as an Agile Consultant, charging audiences to hear my deep wisdom and insight about Agile Development, you have my permission to cut my balls off.  If I say I was just kidding, say I told you I'd say that.  If I then say I'm Tyler Durden and I order you not to cut my balls off, say I definitely said I was going to say that, and then you cut 'em right off.I'll just go right ahead and tell you about the Good Kind, free of charge.It's kinda hard to talk about Good Agile and Bad Agile in isolation, so I might talk about them together.  But I'll be sure to label the Good kind with a happy rat, and the Bad kind with a sad dead rat, so you'll always know the difference.The Bad KindBack in Ye Olden Dayes, most companies approached software development as follows:- hire a bunch of engineers, then hire more.- dream up a project.- set a date for when they want it launched.- put some engineers on it.- whip them until they're either dead or it's launched.  or both.- throw a cheap-ass pathetic little party, maybe.  This step is optional.- then start over.Thank goodness that doesn't happen at your company, eh now?  Whew!Interestingly, this is also exactly how non-technical companies (like, say, Chrysler) handled software development.  Except they didn't hire the engineers.  Instead, they contracted with software consultants, and they'd hand the consultants 2-year project specs, and demanded the consultants finish everything on time plus all the crap the customer threw in and/or changed after signing the contract.  And then it'd all fall apart and the contractors wouldn't get paid, and everyone was really miffed.So some of the consultants began to think:  "Hey, if these companies insist on acting like infants, then we should treat them like infants!"  And so they did.  When a company said "we want features A through Z", the consultants would get these big index cards and write "A" on the first one, "B" on the second one, etc., along with time estimates, and then post them on their wall.  Then when the customer wanted to add something, the consultant could point at the wall and say:  "OK, boy.  Which one of these cards do you want to replace, BOY?"Is it any wonder Chrysler canceled the project?So the consultants, now having lost their primary customer, were at a bar one day, and one of them (named L. Ron Hubbard) said:  "This nickel-a-line-of-code gig is lame.  You know where the real money is at?  You start your own religion."  And that's how both Extreme Programming and Scientology were born.Well, people pretty quickly demonstrated that XP was a load of crap.  Take Pair Programming, for instance.  It's one of the more spectacular failures of XP.  None of the Agileytes likes to talk about it much, but let's face it:  nobody does it.  The rationale was something like:  "well if ONE programmer sitting at a terminal is good, then TEN must be better, because MORE is ALWAYS better!  But most terminals can only comfortably fit TWO programmers, so we'll call it PAIR programming!"You have to cut them a little slack; they'd been dealing with the corporate equivalent of pre-schoolers for years, and that really messes with a person.But the thing is, viruses are really hard to kill, especially the meme kind.  After everyone had gotten all worked up about this whole Agile thing (and sure, everyone wants to be more productive), there was a lot of face to be lost by admitting failure.  So some other kinds of Agile "Methodologies" sprang up, and they all claimed that even though all the other ones were busted, their method worked!I mean, go look at some of their sites.  Tell me that's not an infomercial.  C'mon, just try.  It's embarrassing even to look at the thing.Yeah.  Well, they make money hand over fist, because of P.T. Barnum's Law, just like Scientology does.  Can't really fault 'em.  Some people are just dying to be parted with their cash.  And their dignity.The rest of us have all known that Agile Methodologies are stupid, by application of any of the following well-known laws of marketing:  - anything that calls itself a "Methodology" is stupid, on general principle.  - anything that requires "evangelists" and offers seminars, exists soley for the purpose of making money.  - anything that never mentions any competition or alternatives is dubiously self-serving.  - anything that does diagrams with hand-wavy math is stupid, on general principle.And by "stupid", I mean it's "incredibly brilliant marketing targeted at stupid people."In any case, the consultants kept going with their road shows and glossy pamphlets.  Initially, I'm sure they went after corporations; they were looking to sign flexible contracts that allowed them to deliver "whatever" in "2 weeks" on a recurring basis until the client went bankrupt.  But I'm equally sure they couldn't find many clients dumb enough to sign such a contract.That's when the consultants decided to take their road show to YOU.  Why not take it inside the companies and sell it there, to the developers?  There are plenty of companies who use the whip-cycle of development I outlined above, so presumably some of the middle managers and tech leads would be amenable to hearing about how there's this low-cost way out of their hellish existence.And that, friends, was exactly, precisely the point at which they went from "harmless buffoons" to "potentially dangerous", because before they were just bilking fat companies too stupid to develop their own software, but now the manager down the hall from me might get infected.  And most places don't have a very good quarantine mechanism for this rather awkard situation:  i.e., an otherwise smart manager has become "ill", and is waving XP books and index cards and spouting stuff about how much more productive his team is on account of all this newfound extra bureaucracy.How do we know it's not more productive?  Well, it's a slippery problem.  Observe that it must be a slippery problem, or it all would have been debunked fair and square by now.  But it's exceptionally difficult to measure software developer productivity, for all sorts of famous reasons.  And it's even harder to perform anything resembling a valid scientific experiment in software development.  You can't have the same team do the same project twice; a bunch of stuff changes the second time around.  You can't have 2 teams do the same project; it's too hard to control all the variables, and it's prohibitively expensive to try it in any case.  The same team doing 2 different projects in a row isn't an experiment either.About the best you can do is gather statistical data across a lot of teams doing a lot of projects, and try to identify similarities, and perform some regressions, and hope you find some meaningful correlations.  But where does the data come from?  Companies aren't going to give you their internal data, if they even keep that kind of thing around.  Most don't; they cover up their schedule failures and they move on, ever optimistic.Well if you can't do experiments and you can't do proofs, there isn't much science going on.  That's why it's a slippery problem.  It's why fad diets are still enormously popular.  People want fad diets to work, oh boy you bet they do, even I want them to work.  And you can point to all these statistically meaningless anecdotes about how Joe lost 35 pounds on this one diet, and all those people who desperately want to be thinner will think "hey, it can't hurt.  I'll give it a try."That is exactly what I hear people say, every time a team talks themselves into trying an Agile Methodology.  It's not a coincidence.But writing about Bad Agile alone is almost guaranteed to be ineffective.  I mean, you can write about how lame Scientology is, or how lame fad diets are, but it's not clear that you're changing anyone's mind.  Quitting a viral meme is harder than quitting smoking.  I've done both.  In order to have the right impact, you have to offer an alternative, and I didn't have one before, not one that I could articulate clearly.One of the (many) problems with Bad Agile is that they condescendingly lump all non-Agile development practices together into two buckets:  Waterfall and Cowboy.  Waterfall is known to be bad; I hope we can just take that as an axiom today.  But what about so-called Cowboy programming, which the Agileers define as "each member of the team does what he or she thinks is best"?Is it true that this is the only other development process?  And is Cowboy Programming actually bad?  They say it as if it's obviously bad, but they're not super clear on how or why, other than to assert that it's, you know, "chaos".Well, as I mentioned, over the past year I've had the opportunity to watch both Bad Agile and Good Agile in motion, and I've asked the teams and tech leads (using both the Bad and Good forms) lots of questions:  how they're doing, how they're feeling, how their process is working.  I was really curious, in part because I'd consented to try Agile last Christmas ("hey, it can't hurt"), and wound up arguing with a teammate over exactly what metadata is allowed on index cards before giving up in disgust.  Also in part because I had some friends on a team who were getting kind of exhausted from what appeared to be a Death March, and that kind of thing doesn't seem to happen very often at Google.So I dug in, and for a year, I watched and learned.The Good Kind(cue happy rat)I'm going to talk a little about Google's software development process.  It's not the whole picture, of course, but it should suffice for today.  I've been there for almost a year and a half now, and it took a while, but I think I get it now.  Mostly.  I'm still learning.  But I'll share what I've got so far.From a high level, Google's process probably does look like chaos to someone from a more traditional software development company.  As a newcomer, some of the things that leap out at you include:  - there are managers, sort of, but most of them code at least half-time, making them more like tech leads.  - developers can switch teams and/or projects any time they want, no questions asked; just say the word and the movers will show up the next day to put you in your new office with your new team.  - Google has a philosophy of not ever telling developers what to work on, and they take it pretty seriously.  - developers are strongly encouraged to spend 20% of their time (and I mean their M-F, 8-5 time, not weekends or personal time) working on whatever they want, as long as it's not their main project.  - there aren't very many meetings.  I'd say an average developer attends perhaps 3 meetings a week, including their 1:1 with their lead.  - it's quiet.  Engineers are quietly focused on their work, as individuals or sometimes in little groups or 2 to 5.  - there aren't Gantt charts or date-task-owner spreadsheets or any other visible project-management artifacts in evidence, not that I've ever seen.  - even during the relatively rare crunch periods, people still go get lunch and dinner, which are (famously) always free and tasty, and they don't work insane hours unless they want to.These are generalizations, sure.  Old-timers will no doubt have a slightly different view, just as my view of Amazon is slightly biased by having been there in 1998 when it was a pretty crazy place.  But I think most Googlers would agree that my generalizations here are pretty accurate.How could this ever work?I get that question a lot.  Heck, I asked it myself.  What's to stop engineers from leaving all the trouble projects, leaving behind bug-ridden operational nightmares?  What keeps engineers working towards the corporate goals if they can work on whatever they want?  How do the most important projects get staffed appropriately?  How do engineers not get so fat that they routinely get stuck in stairwells and have to be cut out by the Fire Department?I'll answer the latter question briefly, then get to the others.  In short:  we have this thing called the Noogler Fifteen, named after the Frosh Fifteen:  the 15 pounds that many college freshmen put on when they arrive in the land of Stress and Pizza.  Google has solved the problem by lubricating the stairwells.As to the rest of your questions, I think most of them have the same small number of answers.First, and arguably most importantly, Google drives behavior through incentives.  Engineers working on important projects are, on average, rewarded more than those on less-important projects.  You can choose to work on a far-fetched research-y kind of project that may never be practical to anyone, but the work will have to be a reward unto itself.  If it turns out you were right and everyone else was wrong (the startup's dream), and your little project turns out to be tremendously impactful, then you'll be rewarded for it.  Guaranteed.The rewards and incentives are too numerous to talk about here, but the financial incentives range from gift certificates and massage coupons up through giant bonuses and stock grants, where I won't define "giant" precisely, but think of Google's scale and let your imagination run a bit wild, and you probably won't miss the mark by much.There are other incentives.  One is that Google a peer-review oriented culture, and earning the respect of your peers means a lot there.  More than it does at other places, I think.  This is in part because it's just the way the culture works; it's something that was put in place early on and has managed to become habitual.  It's also true because your peers are so damn smart that earning their respect is a huge deal.  And it's true because your actual performance review is almost entirely based on your peer reviews, so it has an indirect financial impact on you.Another incentive is that every quarter, without fail, they have a long all-hands in which they show every single project that launched to everyone, and put up the names and faces of the teams (always small) who launched each one, and everyone applauds.  Gives me a tingle just to think about it.  Google takes launching very seriously, and I think that being recognized for launching something cool might be the strongest incentive across the company.  At least it feels that way to me.And there are still other incentives; the list goes on and ON and ON; the perks are over the top, and the rewards are over the top, and everything there is so comically over the top that you have no choice, as an outsider, but to assume that everything the recruiter is telling you is a baldfaced lie, because there's no possible way a company could be that generous to all of its employees, all of them, I mean even the contractors who clean the micro-kitchens, they get these totally awesome "Google Micro-Kitchen Staff" shirts and fleeces.There is nothing like it on the face of this earth.  I could talk for hours, days about how amazing it is to work at Google, and I wouldn't be done.  And they're not done either.  Every week it seems like there's a new perk, a new benefit, a new improvement, a new survey asking us all if there's any possible way in which life at Google could be better.I might have been mistaken, actually.  Having your name and picture up on that big screen at End of Quarter may not be the biggest incentive.  The thing that drives the right behavior at Google, more than anything else, more than all the other things combined, is gratitude.  You can't help but want to do your absolute best for Google; you feel like you owe it to them for taking such incredibly good care of you.OK, incentives.  You've got the idea.  Sort of.  I mean, you have a sketch of it.  When friends who aren't at Google ask me how it is working at Google — and this applies to all my friends at all other companies equally, not just companies I've worked at — I feel just how you'd feel if you'd just gotten out of prison, and your prison buddies, all of whom were sentenced in their early teens, are writing to you and asking you what it's like "on the outside".  I mean, what would you tell them?I tell 'em it's not too bad at all.  Can't complain.  Pretty decent, all in all.Although the incentive-based culture is a huge factor in making things work the way they do, it only addresses how to get engineers to work on the "right" things.  It doesn't address how to get those things done efficiently and effectively.  So I'll tell you a little about how they approach projects.Emergent Properties versus The WhipThe basic idea behind project management is that you drive a project to completion.  It's an overt process, a shepherding:  by dint of leadership, and organization, and sheer force of will, you cause something to happen that wouldn't otherwise have happened on its own.Project management comes in many flavors, from lightweight to heavyweight, but all flavors share the property that they are external forces acting on an organization.At Google, projects launch because it's the least-energy state for the system.Before I go on, I'll concede that this is a pretty bold claim, and that it's not entirely true.  We do have project managers and product managers and people managers and tech leads and so on.  But the amount of energy they need to add to the system is far less than what's typically needed in our industry.  It's more of an occasional nudge than a full-fledged continuous push.  Once in a while, a team needs a bigger nudge, and senior management needs to come in and do the nudging, just like anywhere else.  But there's no pushing.Incidentally, Google is a polite company, so there's no yelling, nor wailing and gnashing of teeth, nor escalation and finger-pointing, nor any of the artifacts produced at companies where senior management yells a lot.  Hobbes tells us that  organizations reflect their leaders; we all know that.  The folks up top at Google are polite, hence so is everyone else.Anyway, I claimed that launching projects is the natural state that Google's internal ecosystem tends towards, and it's because they pump so much energy into pointing people in that direction.  All your needs are taken care of so that you can focus, and as I've described, there are lots of incentives for focusing on things that Google likes.So launches become an emergent property of the system.This eliminates the need for a bunch of standard project management ideas and methods: all the ones concerned with dealing with slackers, calling bluffs on estimates, forcing people to come to consensus on shared design issues, and so on.  You don't need "war team meetings," and you don't need status reports.  You don't need them because people are already incented to do the right things and to work together well.The project management techniques that Google does use are more like oil than fuel:  things to let the project keep running smoothly, as opposed to things that force the project to move forward.  There are plenty of meeting rooms, and there's plenty of open space for people to go chat.  Teams are always situated close together in fishbowl-style open seating, so that pair programming happens exactly when it's needed (say 5% of the time), and never otherwise.Google generally recognizes that the middle of the day is prone to interruptions, even at quiet companies, so many engineers are likely to shift their hours and come in very early or stay very late in order to find time to truly concentrate on programming.  So meetings only happen in the middle of the day; it's very unusual to see a meeting start before 10am or after 4:30pm.  Scheduling meetings outside that band necessarily eats into the time when engineers are actually trying to implement the things they're meeting about, so they don't do it.Google isn't the only place where projects are run this way.  Two other kinds of organizations leap to mind when you think of Google's approach:  startup companies, and grad schools.  Google can be considered a fusion of the startup and grad-school mentalities:  on the one hand, it's a hurry-up, let's get something out now, do the simplest thing that could work and we'll grow it later startup-style approach.  On the other, it's relatively relaxed and low-key; we have hard problems to solve that nobody else has ever solved, but it's a marathon not a sprint, and focusing requires deep concentration, not frenzied meetings.  And at the intersection of the two, startups and grad schools are both fertile innovation ground in which the participants carry a great deal of individual responsibility for the outcome.It's all been done before; the only thing that's really surprising is that Google has managed to make it scale.The scaling is not an accident.  Google works really hard on the problem, and they realize that having scaled this far is no guarantee it'll continue, so they're vigilant.  That's a good word for it.  They're always on the lookout to make sure the way of life and the overall level of productivity continue (or even improve) as they grow.Google is an exceptionally disciplined company, from a software-engineering perspective.  They take things like unit testing, design documents and code reviews more seriously than any other company I've even heard about.  They work hard to keep their house in order at all times, and there are strict rules and guidelines in place that prevent engineers and teams from doing things their own way.  The result:  the whole code base looks the same, so switching teams and sharing code are both far easier than they are at other places.And engineers need great tools, of course, so Google hires great people to build their tools, and they encourage engineers (using incentives) to pitch in on tools work whenever they have an inclination in that direction.  The result:  Google has great tools, world-class tools, and they just keep getting better.The list goes on.  I could talk for days about the amazing rigor behind Google's approach to software engineering.  But the main takeaway is that their scaling (both technological and organizational) is not an accident.  And once you're up to speed on the Google way of doing things, it all proceeds fairly effortlessly — again, on average, and compared to software development at many other companies.The Tyranny of the CalendarWe're almost done.  The last thing I want to talk about here is dates.  Traditional software development can safely be called Date-Oriented Programming, almost without exception.Startup companies have a clock set by their investors and their budget.  Big clients set target dates for their consultants.  Sales people and product managers set target dates based on their evaluation of market conditions.  Engineers set dates based on estimates of previous work that seems similar.  All estimation is done through rose-colored glasses, and everyone forgets just how painful it was the last time around.Everyone picks dates out of the air.  "This feels like it should take about 3 weeks."  "It sure would be nice to have this available for customers by beginning of Q4."  "Let's try to have that done by tomorrow."Most of us in our industry are date-driven.  There's always a next milestone, always a deadline, always some date-driven goal to it.The only exceptions I can think of to this rule are:1) Open-source software projects.2) Grad school projects.3) Google.Most people take it for granted that you want to pick a date.  Even my favorite book on software project management, "The Mythical Man-Month", assumes that you need schedule estimates.If you're in the habit of pre-announcing your software, then the general public usually wants a timeframe, which implies a date.  This is, I think, one of the reasons Google tends not to pre-announce.  They really do understand that you can't rush good cooking, you can't rush babies out, and you can't rush software development.If the three exceptions I listed above aren't driven by dates, then what drives them?  To some extent it's just the creative urge, the desire to produce things; all good engineers have it.  (There are many people in our industry who do this gig "for a living", and they go home and don't think about it until the next day.  Open source software exists precisely because there are people who are better than that.)But let's be careful:  it's not just the creative urge; that's not always directed enough, and it's not always incentive enough.  Google is unquestionably driven by time, in the sense that they want things done "as fast as possible".  They have many fierce, brilliant competitors, and they have to slake their thirsty investors' need for growth, and each of us has some long-term plans and deliverables we'd like to see come to fruition in our lifetimes.The difference is that Google isn't foolish enough or presumptuous enough to claim to know how long stuff should take.  So the only company-wide dates I'm ever aware of are the ends of each quarter, because everyone's scrambling to get on that big launch screen and get the applause and gifts and bonuses and team trips and all the other good that comes of launching things with big impact at Google.Everything in between is just a continuum of days, in which everyone works at optimal productivity, which is different for each person.  We all have work-life balance choices to make, and Google is a place where any reasonable choice you make can be accommodated, and can be rewarding.  Optimal productivity is also a function of training, and Google offers tons of it, including dozens of tech talks every week by internal and external speakers, all of which are archived permanently so you can view them whenever you like.  Google gives you access to any resources you need in order to get your job done, or to learn how to get your job done.  And optimal productivity is partly a function of the machine and context in which you're operating:  the quality of your code base, your tools, your documentation, your computing platform, your teammates, even the quality of the time you have during the day, which should be food-filled and largely free of interrupts.Then all you need is a work queue.  That's it.  You want hand-wavy math?  I've got it in abundance:  software development modeled on queuing theory.  Not too far off the mark, though; many folks in our industry have noticed that organizational models are a lot like software models.With nothing more than a work queue (a priority queue, of course), you immediately attain most of the supposedly magical benefits of Agile Methodologies.  And make no mistake, it's better to have it in software than on a bunch of index cards.  If you're not convinced, then I will steal your index cards.With a priority queue, you have a dumping-ground for any and all ideas (and bugs) that people suggest as the project unfolds.  No engineer is ever idle, unless the queue is empty, which by definition means the project has launched.  Tasks can be suspended and resumed simply by putting them back in the queue with appropriate notes or documentation.  You always know how much work is left, and if you like, you can make time estimates based on the remaining tasks.  You can examine closed work items to infer anything from bug regression rates to (if you like) individual productivity.  You can see which tasks are often passed over, which can help you discover root causes of pain in the organization.  A work queue is completely transparent, so there is minimal risk of accidental duplication of work.And so on.  The list goes on, and on, and on.Unfortunately, a work queue doesn't make for a good marketing platform for seminars and conferences.  It's not glamorous.  It sounds a lot like a pile of work, because that's exactly what it is.Bad Agile in More DetailI've outlined, at a very high level, one company's approach to software development that is neither an Agile Methodology, nor a Waterfall cycle, nor yet Cowboy Programming.  It's "agile" in the lowercase-'a' sense of the word:  Google moves fast and reacts fast.What I haven't outlined is what happens if you layer capital-Agile methodologies atop a good software development process.  You might be tempted to think: "well, it can't hurt!"  I even had a brief fling with it myself last year.The short answer is:  it hurts.  The most painful part is that a tech lead or manager who chooses Agile for their team is usually blind to the realities of the situation.  Bad Agile hurts teams in several ways.First, Bad Agile focuses on dates in the worst possible way:  short cycles, quick deliverables, frequent estimates and re-estimates.  The cycles can be anywhere from a month (which is probably tolerable) down to a day in the worst cases.  It's a nicely idealistic view of the world.In the real world, every single participant on a project is, as it turns out, a human being.  We have up days and down days.  Some days you have so much energy you feel you could code for 18 hours straight.  Some days you have a ton of energy, but you just don't feel like focusing on coding.  Some days you're just exhausted.  Everyone has a biological clock and a a biorhythm that they have very little control over, and it's likely to be phase-shifted from the team clock, if the team clock is ticking in days or half-weeks.Not to mention your personal clock:  the events happening outside your work life that occasionally demand your attention during work hours.None of that matters in Bad Agile.  If you're feeling up the day after a big deliverable, you're not going to code like crazy; you're going to pace yourself because you need to make sure you have reserve energy for the next big sprint.  This impedance mismatch drives great engineers to mediocrity.There's also your extracurricular clock:  the set of things you want to accomplish in addition to your main project:  often important cleanups or other things that will ultimately improve your whole team's productivity.  Bad Agile is exceptionally bad at handling this, and usually winds up reserving large blocks of time after big milestones for everyone to catch up on their side-project time, whether they're feeling creative or not.  Bad Agile folks keep their eye on the goal, which hurts innovation.  Sure, they'll reserve time for everyone to clean up their own code base, but they're not going to be so altruistic as to help anyone else in the company.  How can you, when you're effectively operating in a permanent day-for-day slip?Bad Agile seems for some reason to be embraced by early risers.  I think there's some mystical relationship between the personality traits of "wakes up before dawn", "likes static typing but not type inference", "is organized to the point of being anal", "likes team meetings", and "likes Bad Agile".  I'm not quite sure what it is, but I see it a lot.Most engineers are not early risers.  I know a team that has to come in for an 8:00am meeting at least once (maybe several times) a week.  Then they sit like zombies in front of their email until lunch.  Then they go home and take a nap.  Then they come in at night and work, but they're bleary-eyed and look perpetually exhausted.  When I talk to them, they're usually cheery enough, but they usually don't finish their sentences.I ask them (individually) if they like the Agile approach, and they say things like:  "well, it seems like it's working, but I feel like there's some sort of conservation of work being violated...", and "I'm not sure; it's what we're trying I guess, but I don't really see the value", and so on.  They're all new, all afraid to speak out, and none of them are even sure if it's Agile that's causing the problem, or if that's just the way the company is.That, my friends, is not "agile"; it's a just load of hooey.  And it's what you get whenever any manager anywhere decides to be a chump.Good Agile Should Drop the NameI would caution you to be skeptical of two kinds of claims:  - "all the good stuff he described is really Agile"  - "all the bad stuff he described is the fault of the team's execution of the process"You'll hear them time and again.  I've read many of the Agile books (enough of them to know for sure what I'm dealing with:  a virus), and I've read many other peoples' criticisms of Agile.  Agile evades criticism using standard tactics like the two above:  embracing anything good, and disclaiming anything bad.If a process is potentially good, but 90+% of the time smart and well-intentioned people screw it up, then it's a bad process.  So they can only say it's the team's fault so many times before it's not really the team's fault.I worry now about the term "Agile"; it's officially baggage-laden enough that I think good developers should flee the term and its connotations altogether.  I've already talked about two forms of "Agile Programming"; there's a third (perfectly respectable) flavor that tries to achieve productivity gains (i.e. "Agility") through technology.  Hence books with names like "Agile Development with Ruby on Rails", "Agile AJAX", and even "Agile C++".  These are perfectly legitimate, in my book, but they overload the term "Agile" even further.And frankly, most Agile out there is plain old Bad Agile.So if I were you, I'd take Agile off your resume.  I'd quietly close the SCRUM and XP books and lock them away.  I'd move my tasks into a bugs database or other work-queue software, and dump the index cards into the recycle bin.  I'd work as fast as I can to eliminate Agile from my organization.And then I'd focus on being agile.But that's just my take on it, and it's 4:00am.  Feel free to draw your own conclusions.  Either way, I don't think I'm going to be an Early Riser tomorrow.Oh, I almost forgot the obvious disclaimer:  I do not speak for Google.  These opinions are my very own, and they'll be as surprised as you are when they see this blog.  Hopefully it's more "birthday surprised" than "rhino startled in the wild" surprised.  We'll see!]]></description>
+<dc:source>http://reader.google.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:protoiyer/b:72607b83dd9e/</dc:identifier>
+</item>
+<item rdf:about="http://stylebootstrap.info/">
+    <title>Show HN: StyleBootstrap, create unique Bootstrap design live</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://stylebootstrap.info/</link>
+    <dc:creator>freshtonic</dc:creator><dc:identifier>http://pinboard.in/u:freshtonic/b:8959a88e32ce/</dc:identifier>
+</item>
+<item rdf:about="http://clear.youyuxi.com/">
+    <title>HTML5 Clear</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://clear.youyuxi.com/</link>
+    <dc:creator>marks</dc:creator><description><![CDATA[Super impressive replica of the recently released iPhone App "Clear" using HTML5, CSS3 and JavaScript: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:marks/b:153a8f993b63/</dc:identifier>
+</item>
+<item rdf:about="http://blog.domai.nr/post/17910329952/buy-a-domain-that-someone-else-owns">
+    <title>How to Acquire a Domain Name (That Someone Already Owns)</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://blog.domai.nr/post/17910329952/buy-a-domain-that-someone-else-owns</link>
+    <dc:creator>nocko</dc:creator><description><![CDATA[Hacker News <rss2email@nocko.net>]]></description>
+<dc:identifier>http://pinboard.in/u:nocko/b:094cb11cc988/</dc:identifier>
+</item>
+<item rdf:about="http://ignorethecode.net/blog/2012/02/21/steal_webos_features/">
+    <title>Please Steal These webOS Features</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://ignorethecode.net/blog/2012/02/21/steal_webos_features/</link>
+    <dc:creator>ca1icojack</dc:creator><dc:source>http://instapaper.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:ca1icojack/b:c0e159c2499b/</dc:identifier>
+</item>
+<item rdf:about="http://hackershelf.com/">
+    <title>The Hacker Shelf | Community-curated collection of free books for the intellectually curious.</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://hackershelf.com/</link>
+    <dc:creator>davidmat</dc:creator><dc:subject>books programming</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:davidmat/b:45d49302ae44/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:davidmat/t:books"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:davidmat/t:programming"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://joshsmithonwpf.wordpress.com/2012/02/19/becoming-an-ios-developer/">
+    <title>Becoming an iOS Developer «  Josh Smith on WPF</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://joshsmithonwpf.wordpress.com/2012/02/19/becoming-an-ios-developer/</link>
+    <dc:creator>bunsen</dc:creator><description><![CDATA[Nice article - Becoming an iOS Developer ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:bunsen/b:35c6cf46e208/</dc:identifier>
+</item>
+<item rdf:about="http://www.wired.com/magazine/2012/02/ff_forgettingpill/all/1">
+    <title>The Forgetting Pill Erases Painful Memories Forever | Wired Magazine | Wired.com</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://www.wired.com/magazine/2012/02/ff_forgettingpill/all/1</link>
+    <dc:creator>dylan20</dc:creator><description><![CDATA[If a pill could erase your most traumatic memory, would you take it? - @jonahlehrer ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:dylan20/b:952c9e18d8f0/</dc:identifier>
+</item>
+<item rdf:about="http://samsaffron.com/archive/2012/02/17/stop-paying-your-jquery-tax">
+    <title>Stop paying your jQuery tax</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://samsaffron.com/archive/2012/02/17/stop-paying-your-jquery-tax</link>
+    <dc:creator>rachelbaker</dc:creator><description><![CDATA[Pushing jQuery to the footer
+
+Turns out that pushing jQuery to the footer is quite easy for the common case. If all we want is a nice $.ready function that we have accessible everywhere we can explicitly define it without jQuery. Then we can pass the functions we capture to jQuery later on after it loads.
+
+]]></description>
+<dc:subject>jquery browsertesting optimization</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:rachelbaker/b:255f05e5f1d8/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:rachelbaker/t:jquery"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:rachelbaker/t:browsertesting"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:rachelbaker/t:optimization"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://techcrunch.com/2012/02/19/unhyped-internet-and-mobile/">
+    <title>The “Unhyped” New Areas in Internet and Mobile | TechCrunch</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://techcrunch.com/2012/02/19/unhyped-internet-and-mobile/</link>
+    <dc:creator>nukem777</dc:creator><dc:identifier>http://pinboard.in/u:nukem777/b:427818d9c32f/</dc:identifier>
+</item>
+<item rdf:about="http://storify.com/timhaines/hashbang-conversation">
+    <title>Twitter to move away from Hashbangs</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://storify.com/timhaines/hashbang-conversation</link>
+    <dc:creator>nocko</dc:creator><description><![CDATA[Hacker News <rss2email@nocko.net>]]></description>
+<dc:identifier>http://pinboard.in/u:nocko/b:b7e29a11533b/</dc:identifier>
+</item>
+<item rdf:about="http://lifehacker.com/5886128/how-seinfelds-productivity-secret-fixed-my-procrastination-problem">
+    <title>How Seinfeld's Productivity Secret Fixed My Procrastination Problem</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://lifehacker.com/5886128/how-seinfelds-productivity-secret-fixed-my-procrastination-problem</link>
+    <dc:creator>davidlovell</dc:creator><description><![CDATA[A few months ago I had a procrastination problem. Here's how I fixed it and found time to do everything I wanted to do: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:davidlovell/b:793d9a8cd1dc/</dc:identifier>
+</item>
+<item rdf:about="http://nickoneill.com/how-fortune-stole-a-new-york-times-article-and-got-all-the-traffic-2012-02/">
+    <title>How Forbes Stole A New York Times Article And Got All The Traffic</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://nickoneill.com/how-fortune-stole-a-new-york-times-article-and-got-all-the-traffic-2012-02/</link>
+    <dc:creator>sogrady</dc:creator><description><![CDATA[How Fortune Stole a New York Times Article and Got All The Traffic:  Comments: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:sogrady/b:99aa00061b52/</dc:identifier>
+</item>
+<item rdf:about="http://ihnatko.com/2012/02/20/heavy-hangs-the-bandwidth-that-torrents-the-crown/">
+    <title>Heavy Hangs The Bandwidth That Torrents The Crown – Andy Ihnatko's Celestial Waste of Bandwidth (BETA)</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://ihnatko.com/2012/02/20/heavy-hangs-the-bandwidth-that-torrents-the-crown/</link>
+    <dc:creator>electroponix</dc:creator><description><![CDATA[New on : The two points made by an Oatmeal strip about torrenting "Game Of Thrones." ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:electroponix/b:97345d7c6184/</dc:identifier>
+</item>
+<item rdf:about="http://carl.flax.ie/dothingstellpeople.html">
+    <title>Do Things, Tell People.</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://carl.flax.ie/dothingstellpeople.html</link>
+    <dc:creator>nocko</dc:creator><description><![CDATA[Hacker News <rss2email@nocko.net>]]></description>
+<dc:identifier>http://pinboard.in/u:nocko/b:bf0612f170df/</dc:identifier>
+</item>
+<item rdf:about="http://www.cyberciti.biz/tips/spice-up-your-unix-linux-shell-scripts.html">
+    <title>10 Tools To Add Some Spice To Your UNIX Shell Scripts</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://www.cyberciti.biz/tips/spice-up-your-unix-linux-shell-scripts.html</link>
+    <dc:creator>gorm</dc:creator><dc:subject>bash</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:gorm/b:7681a69ae763/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:gorm/t:bash"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://seanhess.github.com/2012/02/20/functional_javascript.html">
+    <title>Learn from Haskell - Functional, Resuable JavaScript</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://seanhess.github.com/2012/02/20/functional_javascript.html</link>
+    <dc:creator>nocko</dc:creator><description><![CDATA[Hacker News <rss2email@nocko.net>]]></description>
+<dc:identifier>http://pinboard.in/u:nocko/b:82b9298dab93/</dc:identifier>
+</item>
+<item rdf:about="http://webinsightlab.com/design/8-best-tools-to-make-easy-css3-development/">
+    <title>8 Best Tools to Make Easy CSS3 Development | Web Insight Lab</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://webinsightlab.com/design/8-best-tools-to-make-easy-css3-development/</link>
+    <dc:creator>jawheeleruk</dc:creator><dc:subject>CSS Development_Tools</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:jawheeleruk/b:dc32762eeea3/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:jawheeleruk/t:CSS"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:jawheeleruk/t:Development_Tools"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www.macdrifter.com/2012/02/some-moom-tips/">
+    <title>Some Moom Tips</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://www.macdrifter.com/2012/02/some-moom-tips/</link>
+    <dc:creator>adamparnes</dc:creator><dc:source>http://instapaper.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:adamparnes/b:3d4bef0eabf5/</dc:identifier>
+</item>
+<item rdf:about="http://viainstapaper.com/">
+    <title>(via Instapaper)</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://viainstapaper.com/</link>
+    <dc:creator>scaramango</dc:creator><description><![CDATA[Great new site by @aaronbrethorst that crawls Twitter for Instapaper-shared links and lists the most popular: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:scaramango/b:e55835328d9e/</dc:identifier>
+</item>
+<item rdf:about="http://bits.blogs.nytimes.com/2012/02/21/google-to-sell-terminator-style-glasses-by-years-end/">
+    <title>Google to Sell Heads-Up Display Glasses by Year's End - NYTimes.com</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://bits.blogs.nytimes.com/2012/02/21/google-to-sell-terminator-style-glasses-by-years-end/</link>
+    <dc:creator>cielitoslindos</dc:creator><description><![CDATA[★ El futuro: gafas Heads-Up por Google antes de fin de año, dice @nickbilton / NYT http://t.co/Rndw2Ifm]]></description>
+<dc:subject>twitter user</dc:subject>
+<dc:identifier>http://pinboard.in/u:cielitoslindos/b:ef4ff374c7a4/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:cielitoslindos/t:twitter"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:cielitoslindos/t:user"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://dickgrune.com/Books/PTAPG_1st_Edition/">
+    <title>Untitled (http://dickgrune.com/Books/PTAPG_1st_Edition/)</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://dickgrune.com/Books/PTAPG_1st_Edition/</link>
+    <dc:creator>silentbicycle</dc:creator><description><![CDATA[Dick Grune's *excellent* _Parsing Techniques: A Practical Guide_, 1st ed. free PDF online: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:silentbicycle/b:22faff724afc/</dc:identifier>
+</item>
+<item rdf:about="http://www.macworld.com/article/165496/2012/02/ten_exciting_system_changes_in_mountain_lion.html">
+    <title>Ten exciting system changes in Mountain Lion | Macworld</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://www.macworld.com/article/165496/2012/02/ten_exciting_system_changes_in_mountain_lion.html</link>
+    <dc:creator>dannystewart</dc:creator><description><![CDATA[There are numerous upcoming system changes in Mountain Lion, and @settern outlines 10 that are especially intriguing. http://t.co/cqTXOdSm]]></description>
+<dc:source>http://instapaper.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:dannystewart/b:0993c749cf31/</dc:identifier>
+</item>
+<item rdf:about="http://kennethreitz.com/xcode-gcc-and-homebrew.html">
+    <title>Xcode, GCC, and Homebrew</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://kennethreitz.com/xcode-gcc-and-homebrew.html</link>
+    <dc:creator>zen4ever</dc:creator><description><![CDATA[New blog post! Xcode, GCC, and Hombrew. ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:zen4ever/b:92cf551f1d77/</dc:identifier>
+</item>
+<item rdf:about="http://blogs.msdn.com/b/ie/archive/2012/02/20/google-bypassing-user-privacy-settings.aspx">
+    <title>From the IE Team: Google Bypassing User Privacy Settings</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://blogs.msdn.com/b/ie/archive/2012/02/20/google-bypassing-user-privacy-settings.aspx</link>
+    <dc:creator>nocko</dc:creator><description><![CDATA[Hacker News <rss2email@nocko.net>]]></description>
+<dc:identifier>http://pinboard.in/u:nocko/b:e7f65f34844a/</dc:identifier>
+</item>
+<item rdf:about="http://www.theverge.com/2012/2/21/2789676/rim-blackberry-mike-lazaridis-jim-balsillie-lost-empire">
+    <title>Research, no motion: How the BlackBerry CEOs lost an empire | The Verge</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://www.theverge.com/2012/2/21/2789676/rim-blackberry-mike-lazaridis-jim-balsillie-lost-empire</link>
+    <dc:creator>cpdis</dc:creator><description><![CDATA[We just published a huge piece on RIM and the fall of their empire. I'm extremely proud of this work. ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:cpdis/b:529e8d40026d/</dc:identifier>
+</item>
+<item rdf:about="http://cl.ly/EMs0">
+    <title>apple-microsoft.png</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://cl.ly/EMs0</link>
+    <dc:creator>lakshmivyas</dc:creator><description><![CDATA[This sums up the difference between Apple and Microsoft rather nicely, in my opinion. ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:lakshmivyas/b:8aad66161e54/</dc:identifier>
+</item>
+<item rdf:about="http://danwebb.net/2011/5/28/it-is-about-the-hashbangs">
+    <title>danwebb.net - It's About The Hashbangs</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://danwebb.net/2011/5/28/it-is-about-the-hashbangs</link>
+    <dc:creator>kastner</dc:creator><description><![CDATA[I've blogged about hashbang URLs: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:kastner/b:7b6491645c41/</dc:identifier>
+</item>
+<item rdf:about="http://www.tofugu.com/2012/02/18/japanese-fart-scrolls/">
+    <title>Japanese Fart Scrolls</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://www.tofugu.com/2012/02/18/japanese-fart-scrolls/</link>
+    <dc:creator>kerim</dc:creator><description><![CDATA[Japanese fart scrolls: "I kept expecting to find some explanation why these guys made scrolls about farting."  //MT #fb]]></description>
+<dc:subject>fb</dc:subject>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:kerim/b:ac1c17d0c45f/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:kerim/t:fb"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://gnuvince.wordpress.com/2012/02/19/why-i-still-use-emacs/">
+    <title>Why I Still Use Emacs « Occasionally sane</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://gnuvince.wordpress.com/2012/02/19/why-i-still-use-emacs/</link>
+    <dc:creator>deong</dc:creator><dc:subject>emacs</dc:subject>
+<dc:identifier>http://pinboard.in/u:deong/b:06cf82fb3010/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:deong/t:emacs"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www.openculture.com/2012/02/david_foster_wallace_the_big_uncut_interview_2003.html">
+    <title>David Foster Wallace: The Big, Uncut Interview (2003) | Open Culture</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://www.openculture.com/2012/02/david_foster_wallace_the_big_uncut_interview_2003.html</link>
+    <dc:creator>pollo</dc:creator><description><![CDATA[David Foster Wallace: The Big, Uncut Interview. A Good Window into DFW's Writing & Thinking. Video ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:pollo/b:5358a56c4700/</dc:identifier>
+</item>
+<item rdf:about="http://www.sequencejs.com/">
+    <title>Sequence.js - The jQuery Slider Plugin with Infinite Style</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://www.sequencejs.com/</link>
+    <dc:creator>stugreenham</dc:creator><dc:subject>jquery plugin carousel</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:stugreenham/b:726046f9a55d/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:stugreenham/t:jquery"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:stugreenham/t:plugin"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:stugreenham/t:carousel"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www.macstories.net/stories/interview-the-omni-groups-ken-case/">
+    <title>Interview: The Omni Group’s Ken Case</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://www.macstories.net/stories/interview-the-omni-groups-ken-case/</link>
+    <dc:creator>justin7974</dc:creator><description><![CDATA[RT @viticci: We have an interview with @kcase, CEO of The Omni Group: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:justin7974/b:c7791d833861/</dc:identifier>
+</item>
+<item rdf:about="http://quietlyamused.org/blog/2012/02/19/on-naming/">
+    <title>On naming - Quietly amused by the world</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://quietlyamused.org/blog/2012/02/19/on-naming/</link>
+    <dc:creator>catalinc</dc:creator><dc:subject>programming</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:catalinc/b:548f530d64e7/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:catalinc/t:programming"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/">
+    <title>How Target Figured Out A Teen Girl Was Pregnant Before Her Father Did - Forbes</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/</link>
+    <dc:creator>colinaut</dc:creator><description><![CDATA[How Target Figured Out A Teen Girl Was Pregnant Before Her Father Did ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:colinaut/b:c974549d56c8/</dc:identifier>
+</item>
+<item rdf:about="http://daasgrrl.livejournal.com/130119.html">
+    <title>Strictly Ornamental - Vid: Cat's in the Cradle (House/Sherlock/Fortysomething crossover)</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://daasgrrl.livejournal.com/130119.html</link>
+    <dc:creator>lisquill</dc:creator><description><![CDATA[Summary: In the beginning, there was Sherlock Holmes. And Holmes brought forth the brilliant doctor House, embodied by the lovely Hugh Laurie. Who prior to that in Fortysomething played a slightly less brilliant doctor, Peter Slippery, who begat three sons, the eldest of which was played by the equally-lovely-if-somewhat-peculiarly-named Benedict Cumberbatch. Who of course grew up to play Sherlock. And the Universe looked upon its casting and pronounced it good. And then my head exploded. (Thanks so very much, karaokegal *g*)
+]]></description>
+<dc:subject>VID Sherlock RATING.TBC au</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:lisquill/b:8325a6b67be2/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:lisquill/t:VID"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:lisquill/t:Sherlock"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:lisquill/t:RATING.TBC"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:lisquill/t:au"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.eff.org/deeplinks/2012/02/how-remove-your-google-search-history-googles-new-privacy-policy-takes-effect">
+    <title>How to Remove Your Google Search History Before Google's New Privacy Policy Takes Effect | Electronic Frontier Foundation</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>https://www.eff.org/deeplinks/2012/02/how-remove-your-google-search-history-googles-new-privacy-policy-takes-effect</link>
+    <dc:creator>tollie</dc:creator><description><![CDATA[Concerned about Google's new unified #privacy policy? Remove your Google Web History before it takes effect: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:tollie/b:29b1c3d49121/</dc:identifier>
+</item>
+<item rdf:about="http://www.gutenberg.org/cache/epub/5402/pg5402.html">
+    <title></title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://www.gutenberg.org/cache/epub/5402/pg5402.html</link>
+    <dc:creator>dmos.tv</dc:creator><description><![CDATA[Oh wow, this is a goldmine. The 1811 Dictionary of the Vulgar Tongue: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:dmos.tv/b:460d54d92890/</dc:identifier>
+</item>
+<item rdf:about="http://minimalmac.com/post/17758177061/microsofts-biggest-miss">
+    <title>Minimal Mac | Microsoft's Biggest Miss</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://minimalmac.com/post/17758177061/microsofts-biggest-miss</link>
+    <dc:creator>mschechter</dc:creator><dc:source>http://instapaper.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:mschechter/b:7151c8a60b30/</dc:identifier>
+</item>
+<item rdf:about="http://lifehacker.com/5886188/five-best-professional-nameplate-sites">
+    <title>Five Best Professional Nameplate Sites</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://lifehacker.com/5886188/five-best-professional-nameplate-sites</link>
+    <dc:creator>nukem777</dc:creator><dc:identifier>http://pinboard.in/u:nukem777/b:bdd10ca7ff36/</dc:identifier>
+</item>
+<item rdf:about="http://www.sourcefabric.org/en/booktype/">
+    <title>Booktype</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://www.sourcefabric.org/en/booktype/</link>
+    <dc:creator>seanh</dc:creator><description><![CDATA["The open source platform to write and publish print and digital books.
+
+"Booktype is a free, open source platform that produces beautiful, engaging books formatted for print, Amazon, iBooks and almost any ereader within minutes. Create books on your own or with others via an easy-to-use web interface. Build a community around your content with social tools and use the reach of mobile, tablet and ebook technology to engage new audiences.﻿"
+
+Via OMG! Ubuntu! http://www.omgubuntu.co.uk/2012/02/meet-open-source-ebook-editingpublishing-app-booktype]]></description>
+<dc:subject>ebooks</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:seanh/b:f2aa7c646330/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:seanh/t:ebooks"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www.red-sweater.com/blog/2324/fix-the-sandbox">
+    <title>Red Sweater Blog – Fix The Sandbox</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://www.red-sweater.com/blog/2324/fix-the-sandbox</link>
+    <dc:creator>ryanadams</dc:creator><description><![CDATA[I love the technology of sandboxing, and I want Apple to fix it. Here's my prescription: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:ryanadams/b:6ac1f9254537/</dc:identifier>
+</item>
+<item rdf:about="http://fluent.io/">
+    <title>Fluent – Making the future of email</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://fluent.io/</link>
+    <dc:creator>topfunky</dc:creator><dc:subject>email</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:topfunky/b:2d4557a9bc3b/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:topfunky/t:email"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://addyosmani.com/resources/essentialjsdesignpatterns/book/#writingdesignpatterns">
+    <title>Essential JavaScript Design Patterns For Beginners</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://addyosmani.com/resources/essentialjsdesignpatterns/book/#writingdesignpatterns</link>
+    <dc:creator>earlyriser</dc:creator><dc:subject>javascript</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:earlyriser/b:8237f42c919f/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:earlyriser/t:javascript"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www.newyorker.com/reporting/2012/01/30/120130fa_fact_lehrer?currentPage=all">
+    <title>Brainstorming Doesn’t Really Work : The New Yorker</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://www.newyorker.com/reporting/2012/01/30/120130fa_fact_lehrer?currentPage=all</link>
+    <dc:creator>trieut</dc:creator><dc:source>http://instapaper.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:trieut/b:390289db90d3/</dc:identifier>
+</item>
+<item rdf:about="http://www.smh.com.au/technology/technology-news/aussies-fix-for-stagnated-email-20120221-1tkqd.html">
+    <title>Aussies' fix for 'stagnated' email</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://www.smh.com.au/technology/technology-news/aussies-fix-for-stagnated-email-20120221-1tkqd.html</link>
+    <dc:creator>etorreborre</dc:creator><description><![CDATA[RT @dhanji: My latest project is on the front page of the Sydney Morning Herald: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:etorreborre/b:7c1d5fb1b0e0/</dc:identifier>
+</item>
+<item rdf:about="http://mattgemmell.com/2012/02/17/the-piracy-threshold/">
+    <title>The Piracy Threshold</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://mattgemmell.com/2012/02/17/the-piracy-threshold/</link>
+    <dc:creator>thomascole</dc:creator><dc:source>http://instapaper.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:thomascole/b:b751d34e7dd8/</dc:identifier>
+</item>
+<item rdf:about="http://37signals.com/svn/posts/3112-how-basecamp-next-got-to-be-so-damn-fast-without-using-much-client-side-ui">
+    <title>How Basecamp Next got to be so damn fast without using much client-side UI - (37signals)</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://37signals.com/svn/posts/3112-how-basecamp-next-got-to-be-so-damn-fast-without-using-much-client-side-ui</link>
+    <dc:creator>derrickreimer</dc:creator><description><![CDATA[How Basecamp Next got to be so damn fast without using much client-side UI: When we started working on Basecamp ... ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:derrickreimer/b:4679fa1c7e53/</dc:identifier>
+</item>
+<item rdf:about="http://blogs.hbr.org/cs/2011/10/steve_jobs_solved_the_innovato.html">
+    <title>Steve Jobs Solved the Innovator's Dilemma - James Allworth - Harvard Business Review</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://blogs.hbr.org/cs/2011/10/steve_jobs_solved_the_innovato.html</link>
+    <dc:creator>kevmoo</dc:creator><description><![CDATA[Steve Jobs solved the Innovator's Dilemma - ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:kevmoo/b:7b6b44903e70/</dc:identifier>
+</item>
+<item rdf:about="http://impending.com/2012/02/2012-the-year-scam-apps-killed-the-app-store/">
+    <title>2012: The Year Scam Apps Killed the App Store | Impending</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://impending.com/2012/02/2012-the-year-scam-apps-killed-the-app-store/</link>
+    <dc:creator>andrewcilento</dc:creator><dc:source>http://instapaper.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:andrewcilento/b:52cb331fb724/</dc:identifier>
+</item>
+<item rdf:about="http://theunderstatement.com/post/18030062041/its-a-brick-tesla-motors-devastating-design">
+    <title>&quot;It's A Brick&quot; - Tesla Motors' Devastating Design Problem</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://theunderstatement.com/post/18030062041/its-a-brick-tesla-motors-devastating-design</link>
+    <dc:creator>nocko</dc:creator><description><![CDATA[Hacker News <rss2email@nocko.net>]]></description>
+<dc:identifier>http://pinboard.in/u:nocko/b:3cf69c466966/</dc:identifier>
+</item>
+<item rdf:about="http://www.html5rocks.com/webappfieldguide/toc/index/">
+    <title>Table of Contents</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://www.html5rocks.com/webappfieldguide/toc/index/</link>
+    <dc:creator>ichthyos</dc:creator><dc:subject>web applications design architecture</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:ichthyos/b:e8481dc47ac1/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:ichthyos/t:web"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:ichthyos/t:applications"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:ichthyos/t:design"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:ichthyos/t:architecture"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://m.wired.com/wiredenterprise/2012/02/github/all/1">
+    <title>Lord of the Files: How GitHub Tamed Free Software (And More) | Wired Enterprise | Wired.com</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://m.wired.com/wiredenterprise/2012/02/github/all/1</link>
+    <dc:creator>sogrady</dc:creator><description><![CDATA[Great article on @WiredEnterprise about GitHub: 
+
+(Fork it here: )]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:sogrady/b:2d244273e492/</dc:identifier>
+</item>
+<item rdf:about="http://inessential.com/2010/06/28/how_i_manage_memory">
+    <title>How I Manage Memory</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://inessential.com/2010/06/28/how_i_manage_memory</link>
+    <dc:creator>tonyandrewmeyer</dc:creator><dc:source>http://reader.google.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:tonyandrewmeyer/b:d6cffc750d70/</dc:identifier>
+</item>
+<item rdf:about="http://ngauthier.com/2012/02/playing-with-ember.html">
+    <title>Playing with Ember.js</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://ngauthier.com/2012/02/playing-with-ember.html</link>
+    <dc:creator>marcjeanson</dc:creator><dc:subject>emberjs</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:marcjeanson/b:1154d3afcca8/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:marcjeanson/t:emberjs"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://mailinator.blogspot.com/2012/02/how-mailinator-compresses-email-by-90.html">
+    <title>How Mailinator compresses its email stream by 90%</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://mailinator.blogspot.com/2012/02/how-mailinator-compresses-email-by-90.html</link>
+    <dc:creator>nocko</dc:creator><description><![CDATA[Hacker News <rss2email@nocko.net>]]></description>
+<dc:identifier>http://pinboard.in/u:nocko/b:b1663ea8d389/</dc:identifier>
+</item>
+<item rdf:about="http://www.washingtonpost.com/opinions/our-unrealistic-views-of-death-through-a-doctors-eyes/2012/01/31/gIQAeaHpJR_story.html">
+    <title>Our unrealistic views of death, through a doctor’s eyes - The Washington Post</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://www.washingtonpost.com/opinions/our-unrealistic-views-of-death-through-a-doctors-eyes/2012/01/31/gIQAeaHpJR_story.html</link>
+    <dc:creator>jranck</dc:creator><dc:subject>medicine death</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:jranck/b:6f7cfa672a6d/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:jranck/t:medicine"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:jranck/t:death"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://transparencygrenade.com/">
+    <title>&quot;The Transparency Grenade&quot;</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://transparencygrenade.com/</link>
+    <dc:creator>quad</dc:creator><description><![CDATA[RT @julian0liver: A teaser for my new project, The Transparency Grenade, launching on the 31st of Jan: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:quad/b:5156ffd049f6/</dc:identifier>
+</item>
+<item rdf:about="http://mathiasbynens.be/notes/css-without-html">
+    <title>Using CSS without HTML</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://mathiasbynens.be/notes/css-without-html</link>
+    <dc:creator>ianpreston</dc:creator><dc:subject>css hacks</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:ianpreston/b:d509bd2c56ab/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:ianpreston/t:css"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:ianpreston/t:hacks"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www.ravelrumba.com/blog/responsive-ads-real-world-ad-server-implementation/">
+    <title>Responsive Ads in the Real World: Ad Server Implementation</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://www.ravelrumba.com/blog/responsive-ads-real-world-ad-server-implementation/</link>
+    <dc:creator>nocko</dc:creator><description><![CDATA[Hacker News <rss2email@nocko.net>]]></description>
+<dc:identifier>http://pinboard.in/u:nocko/b:7ce561109bc8/</dc:identifier>
+</item>
+<item rdf:about="http://skwp.github.com/dotfiles/">
+    <title>Untitled (http://skwp.github.com/dotfiles/)</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://skwp.github.com/dotfiles/</link>
+    <dc:creator>gglanzani</dc:creator><description><![CDATA[Opinionated dotfiles for zsh, MacVim, etc. I like it. ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:gglanzani/b:9745b6c3915d/</dc:identifier>
+</item>
+<item rdf:about="http://needim.github.com/noty/">
+    <title>noty - a jquery notification plugin</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://needim.github.com/noty/</link>
+    <dc:creator>colin.jack</dc:creator><description><![CDATA[Cool plugin.]]></description>
+<dc:subject>JQUery JQueryPlugins</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:colin.jack/b:2e44b7341f03/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:colin.jack/t:JQUery"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:colin.jack/t:JQueryPlugins"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://htwins.net/scale2/">
+    <title>The Scale of the Universe 2</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://htwins.net/scale2/</link>
+    <dc:creator>herbelizer</dc:creator><description><![CDATA[Schöne Hommage an den Eames-Film]]></description>
+<dc:subject>nicethings</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:herbelizer/b:ca3b603663c1/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:herbelizer/t:nicethings"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://blog.fastmail.fm/2012/02/20/building-the-new-ajax-mail-ui-part-2-better-than-templates-building-highly-dynamic-web-pages/">
+    <title>Better than templates, building highly dynamic web pages</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://blog.fastmail.fm/2012/02/20/building-the-new-ajax-mail-ui-part-2-better-than-templates-building-highly-dynamic-web-pages/</link>
+    <dc:creator>nocko</dc:creator><description><![CDATA[Hacker News <rss2email@nocko.net>]]></description>
+<dc:identifier>http://pinboard.in/u:nocko/b:a63ac01712ad/</dc:identifier>
+</item>
+<item rdf:about="http://obamapacman.com/2012/02/how-to-quickly-save-access-saved-mail-draft-on-iphone-ipad-ipod-touch/">
+    <title>How to: Quickly Save + Access Saved Mail Draft on iPhone, iPad, &amp; iPod touch | Obama Pacman</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://obamapacman.com/2012/02/how-to-quickly-save-access-saved-mail-draft-on-iphone-ipad-ipod-touch/</link>
+    <dc:creator>josephschmitt</dc:creator><description><![CDATA[from Daring Fireball
+
+I seldom use draft messages on the iPhone because it’s so cumbersome to get back to them. This tip might change that. (Via Dan Frakes.)
+
+ ★ ]]></description>
+<dc:subject>ifttt daringfireball</dc:subject>
+<dc:identifier>http://pinboard.in/u:josephschmitt/b:7adc5244963f/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:josephschmitt/t:ifttt"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:josephschmitt/t:daringfireball"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://chill.com/scott/collection/the-ultimate-steve-jobs-collection">
+    <title>The Ultimate Steve Jobs Collection | Chill</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://chill.com/scott/collection/the-ultimate-steve-jobs-collection</link>
+    <dc:creator>kishyr</dc:creator><description><![CDATA[Watch these videos: The Ultimate Steve Jobs Collection ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:kishyr/b:e974f1e0795a/</dc:identifier>
+</item>
+<item rdf:about="http://www.devsigh.com/">
+    <title>Best recent sighs - /dev/sigh - programmer rage</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://www.devsigh.com/</link>
+    <dc:creator>robertbrook</dc:creator><description><![CDATA[enjoying ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:robertbrook/b:1441ad0e38b3/</dc:identifier>
+</item>
+<item rdf:about="http://pea.rs/">
+    <title>Pears</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://pea.rs/</link>
+    <dc:creator>jcornelius</dc:creator><dc:subject>framework css</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:jcornelius/b:ef8098fd72f4/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:jcornelius/t:framework"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:jcornelius/t:css"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://twitter.com/suicidalidol/status/171243873669099520/photo/1">
+    <title>Untitled (http://twitter.com/suicidalidol/status/171243873669099520/photo/1)</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://twitter.com/suicidalidol/status/171243873669099520/photo/1</link>
+    <dc:creator>jeromegamez</dc:creator><description><![CDATA[Single greatest picture ever. Heath Ledger skate boarding over Christian Bale while they take a break on set of TDKR. ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:jeromegamez/b:742edd07dfd4/</dc:identifier>
+</item>
+<item rdf:about="http://www.popbioethics.com/2012/02/why-mass-effect-is-the-most-important-science-fiction-universe-of-our-generation/">
+    <title>Why Mass Effect is the Most Important Science Fiction Universe of Our Generation | Pop Bioethics</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://www.popbioethics.com/2012/02/why-mass-effect-is-the-most-important-science-fiction-universe-of-our-generation/</link>
+    <dc:creator>nukem777</dc:creator><dc:identifier>http://pinboard.in/u:nukem777/b:e15035f518a0/</dc:identifier>
+</item>
+<item rdf:about="http://uxdesign.smashingmagazine.com/2012/02/21/finger-friendly-design-ideal-mobile-touchscreen-target-sizes/">
+    <title>Finger-Friendly Design: Ideal Mobile Touchscreen Target Sizes | Smashing UX Design</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://uxdesign.smashingmagazine.com/2012/02/21/finger-friendly-design-ideal-mobile-touchscreen-target-sizes/</link>
+    <dc:creator>glebis</dc:creator><dc:subject>mobile touch ux</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:glebis/b:64c6600643ae/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:glebis/t:mobile"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:glebis/t:touch"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:glebis/t:ux"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://radar.oreilly.com/2012/02/nosql-non-relational-database.html">
+    <title>The NoSQL movement - O'Reilly Radar</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://radar.oreilly.com/2012/02/nosql-non-relational-database.html</link>
+    <dc:creator>limeonaire</dc:creator><dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:limeonaire/b:333fa44f7d08/</dc:identifier>
+</item>
+<item rdf:about="http://mathiasbynens.be/notes/javascript-identifiers">
+    <title>Valid JavaScript variable names · Mathias Bynens</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://mathiasbynens.be/notes/javascript-identifiers</link>
+    <dc:creator>syntaxterror</dc:creator><description><![CDATA[RT @mathias: ※ Why ಠ_ಠ is a valid JavaScript variable name: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:syntaxterror/b:8ae495d343b9/</dc:identifier>
+</item>
+<item rdf:about="http://www.bigfastblog.com/how-to-get-experience-working-with-large-datasets">
+    <title>How To Get Experience Working With Large Datasets</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://www.bigfastblog.com/how-to-get-experience-working-with-large-datasets</link>
+    <dc:creator>nocko</dc:creator><description><![CDATA[Hacker News <rss2email@nocko.net>]]></description>
+<dc:identifier>http://pinboard.in/u:nocko/b:f8e86a3e5002/</dc:identifier>
+</item>
+<item rdf:about="http://www.wired.com/magazine/2012/02/ff_dysonqa/all/1">
+    <title>Q&amp;A: Hacker Historian George Dyson Sits Down With Wired's Kevin Kelly | Wired Magazine | Wired.com</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://www.wired.com/magazine/2012/02/ff_dysonqa/all/1</link>
+    <dc:creator>adrian802</dc:creator><dc:source>http://instapaper.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:adrian802/b:a5525b3ead49/</dc:identifier>
+</item>
+<item rdf:about="http://darcyclarke.me/development/front-end-job-interview-questions/">
+    <title>Front-end Job Interview Questions</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://darcyclarke.me/development/front-end-job-interview-questions/</link>
+    <dc:creator>uxjw</dc:creator><dc:identifier>http://pinboard.in/u:uxjw/b:206a3bdf21ea/</dc:identifier>
+</item>
+<item rdf:about="http://www.guardian.co.uk/technology/2012/feb/19/john-naughton-webpage-obesity">
+    <title>Graphic designers are ruining the web | Technology | The Observer</title>
+    <dc:date>2012-02-22T14:12:01+00:00</dc:date>
+    <link>http://www.guardian.co.uk/technology/2012/feb/19/john-naughton-webpage-obesity</link>
+    <dc:creator>jukesie</dc:creator><description><![CDATA[Graphic designers are ruining the web]]></description>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:jukesie/b:15aa8d90b8a0/</dc:identifier>
+</item>
+</rdf:RDF>

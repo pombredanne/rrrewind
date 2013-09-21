@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xmlns="http://purl.org/rss/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/">
+  <channel rdf:about="http://pinboard.in">
+    <title>Pinboard ()</title>
+    <link>http://pinboard.in/u:</link>
+    <description>popular items from Pinboard</description>
+    <items>
+      <rdf:Seq>	<rdf:li rdf:resource="http://duartes.org/gustavo/blog/post/what-your-computer-does-while-you-wait"/>
+	<rdf:li rdf:resource="http://www.gutenberg.org/wiki/Main_Page"/>
+	<rdf:li rdf:resource="http://meld.sourceforge.net/"/>
+	<rdf:li rdf:resource="http://lizzie.spod.cx/screenirssi.shtml"/>
+	<rdf:li rdf:resource="http://www.sysinfo.org/startuplist.php"/>
+	<rdf:li rdf:resource="http://www.facebook.com/common/browser.php"/>
+	<rdf:li rdf:resource="http://lamb.cc/typograph/"/>
+	<rdf:li rdf:resource="place:folder=BOOKMARKS_MENU&amp;folder=UNFILED_BOOKMARKS&amp;folder=TOOLBAR&amp;sort=12&amp;excludeQueries=1&amp;excludeItemIfParentHasAnnotation=livemark%2FfeedURI&amp;maxResults=10&amp;queryType=1"/>
+	<rdf:li rdf:resource="place:sort=14&amp;type=6&amp;maxResults=10&amp;queryType=1"/>
+	<rdf:li rdf:resource="http://mywiki.wooledge.org/BashPitfalls"/>
+	<rdf:li rdf:resource="http://jashkenas.github.com/coffee-script/"/>
+	<rdf:li rdf:resource="http://coudal.com/perfect.php"/>
+	<rdf:li rdf:resource="place:sort=8&amp;redirectsMode=2&amp;maxResults=10"/>
+	<rdf:li rdf:resource="http://www.theatlantic.com/magazine/archive/2003/03/caring-for-your-introvert/2696/"/>
+	<rdf:li rdf:resource="http://lessframework.com/"/>
+	<rdf:li rdf:resource="http://jashkenas.github.com/coffee-script/#top"/>
+	<rdf:li rdf:resource="http://code.google.com/p/emscripten/"/>
+	<rdf:li rdf:resource="http://www.good.is/post/americans-are-horribly-misinformed-about-who-has-money/"/>
+	<rdf:li rdf:resource="http://documentcloud.github.com/backbone/"/>
+	<rdf:li rdf:resource="http://programmers.stackexchange.com/questions/39/whats-your-favourite-quote-about-programming"/>
+	<rdf:li rdf:resource="http://littlebigdetails.com/"/>
+	<rdf:li rdf:resource="http://cssgrid.net/"/>
+	<rdf:li rdf:resource="http://lucumr.pocoo.org/2010/8/17/git-and-mercurial-branching/"/>
+	<rdf:li rdf:resource="http://letscrate.com/"/>
+	<rdf:li rdf:resource="http://www.kalzumeus.com/2010/12/12/staging-servers-source-control-deploy-workflows-and-other-stuff-nobody-teaches-you/"/>
+	<rdf:li rdf:resource="http://www.teachparentstech.org/"/>
+	<rdf:li rdf:resource="http://hackety-hack.com/"/>
+	<rdf:li rdf:resource="http://ngrams.googlelabs.com/"/>
+	<rdf:li rdf:resource="http://en.wikipedia.org/wiki/Pixel_art_scaling_algorithms"/>
+	<rdf:li rdf:resource="http://www.sikuli.org/"/>
+	<rdf:li rdf:resource="http://stuff.veekun.com/pkcolor/"/>
+	<rdf:li rdf:resource="http://royal.pingdom.com/2010/12/17/the-most-reliable-and-unreliable-blogging-services-2/"/>
+	<rdf:li rdf:resource="http://kodapp.com/"/>
+	<rdf:li rdf:resource="http://blogs.wsj.com/speakeasy/2010/12/19/a-holiday-message-from-ricky-gervais-why-im-an-atheist/"/>
+	<rdf:li rdf:resource="http://www.economist.com/node/17722802?story_id=17722802"/>
+	<rdf:li rdf:resource="http://www.volkside.com/2010/12/introducing-wirify-the-web-as-wireframes/"/>
+	<rdf:li rdf:resource="http://www.sleepycity.net/posts/252/Demolition_of_the_Paris_Metro"/>
+	<rdf:li rdf:resource="http://www.theatlantic.com/technology/print/2010/12/the-hazards-of-nerd-supremacy-the-case-of-wikileaks/68217/"/>
+	<rdf:li rdf:resource="http://www.comicsanscriminal.com/"/>
+	<rdf:li rdf:resource="http://52weeksofux.com/post/2403607066/building-a-shared-understanding"/>
+      </rdf:Seq>
+    </items>
+  </channel><item rdf:about="http://duartes.org/gustavo/blog/post/what-your-computer-does-while-you-wait">
+    <title>What Your Computer Does While You Wait : Gustavo Duarte</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://duartes.org/gustavo/blog/post/what-your-computer-does-while-you-wait</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[  ]]></description>
+    <dc:subject>reference to-read </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:reference"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:to-read"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://www.gutenberg.org/wiki/Main_Page">
+    <title>Main Page - Gutenberg</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://www.gutenberg.org/wiki/Main_Page</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[  ]]></description>
+    <dc:subject>kunst.literatuur </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:kunst.literatuur"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://meld.sourceforge.net/">
+    <title>Meld: a nice looking linux diff/merge tool written in Python</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://meld.sourceforge.net/</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[  ]]></description>
+    <dc:subject>linux python tools </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:linux"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:python"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:tools"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://lizzie.spod.cx/screenirssi.shtml">
+    <title>Guide to screen and irssi</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://lizzie.spod.cx/screenirssi.shtml</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[  ]]></description>
+    <dc:subject>Chat IRC irssi Screen HowTo </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:Chat"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:IRC"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:irssi"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:Screen"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:HowTo"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://www.sysinfo.org/startuplist.php">
+    <title>Startups - Full list</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://www.sysinfo.org/startuplist.php</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[  ]]></description>
+    <dc:subject>windows </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:windows"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://www.facebook.com/common/browser.php">
+    <title>Incompatible Browser | Facebook</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://www.facebook.com/common/browser.php</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[ @laurengoldberg: did you see that Ben and Jerry's is giving away cones from 5-8pm on election day via facebook?  ]]></description>
+    <dc:subject> </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://lamb.cc/typograph/">
+    <title>Typograph (lamb.cc)</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://lamb.cc/typograph/</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[ Typography scale and vertical tempo.
+ ]]></description>
+    <dc:subject>typography webdesigntools webdesign </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:typography"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:webdesigntools"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:webdesign"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="place:folder=BOOKMARKS_MENU&amp;folder=UNFILED_BOOKMARKS&amp;folder=TOOLBAR&amp;sort=12&amp;excludeQueries=1&amp;excludeItemIfParentHasAnnotation=livemark%2FfeedURI&amp;maxResults=10&amp;queryType=1">
+    <title>Recently Bookmarked</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>place:folder=BOOKMARKS_MENU&amp;folder=UNFILED_BOOKMARKS&amp;folder=TOOLBAR&amp;sort=12&amp;excludeQueries=1&amp;excludeItemIfParentHasAnnotation=livemark%2FfeedURI&amp;maxResults=10&amp;queryType=1</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[  ]]></description>
+    <dc:subject> </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="place:sort=14&amp;type=6&amp;maxResults=10&amp;queryType=1">
+    <title>Recent Tags</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>place:sort=14&amp;type=6&amp;maxResults=10&amp;queryType=1</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[  ]]></description>
+    <dc:subject> </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://mywiki.wooledge.org/BashPitfalls">
+    <title>BashPitfalls - Greg's Wiki</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://mywiki.wooledge.org/BashPitfalls</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[  ]]></description>
+    <dc:subject>programming reference bash cli console </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:programming"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:reference"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:bash"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:cli"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:console"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://jashkenas.github.com/coffee-script/">
+    <title>CoffeeScript</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://jashkenas.github.com/coffee-script/</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[  ]]></description>
+    <dc:subject>ruby programming javascript </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:ruby"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:programming"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:javascript"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://coudal.com/perfect.php">
+    <title>Coudal Partners - The Perfect Martini</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://coudal.com/perfect.php</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[ This is lovingly crafted.
+ ]]></description>
+    <dc:subject>funny design drinking alcohol recipes perfect martini liquor drinks </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:funny"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:design"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:drinking"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:alcohol"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:recipes"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:perfect"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:martini"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:liquor"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:drinks"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="place:sort=8&amp;redirectsMode=2&amp;maxResults=10">
+    <title>Most Visited</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>place:sort=8&amp;redirectsMode=2&amp;maxResults=10</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[  ]]></description>
+    <dc:subject>imported_2/24/10 Bookmarks_Toolbar </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:imported_2/24/10"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:Bookmarks_Toolbar"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://www.theatlantic.com/magazine/archive/2003/03/caring-for-your-introvert/2696/">
+    <title>Caring for Your Introvert - Magazine - The Atlantic</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://www.theatlantic.com/magazine/archive/2003/03/caring-for-your-introvert/2696/</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[  ]]></description>
+    <dc:subject> </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://lessframework.com/">
+    <title>Less Framework</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://lessframework.com/</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[  ]]></description>
+    <dc:subject>css framework html5 webdesign less </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:css"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:framework"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:html5"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:webdesign"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:less"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://jashkenas.github.com/coffee-script/#top">
+    <title>CoffeeScript</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://jashkenas.github.com/coffee-script/#top</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[ CoffeeScript is a little language that compiles into JavaScript. Think of it as JavaScript's less ostentatious kid brother — the same genes, roughly the same height, but a different sense of style. Apart from a handful of bonus goodies, statements in CoffeeScript correspond one-to-one with their equivalent in JavaScript, it's just another way of saying it.
+
+Disclaimer: CoffeeScript is just for fun. Until it reaches 1.0, there are no guarantees that the syntax won't change between versions. That said, it compiles into clean JavaScript (the good parts) that can use existing JavaScript libraries seamlessly, and passes through JSLint without warnings. The compiled output is quite readable — pretty-printed, with comments preserved intact.
+ ]]></description>
+    <dc:subject>javascript python </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:javascript"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:python"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://code.google.com/p/emscripten/">
+    <title>emscripten - Project Hosting on Google Code</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://code.google.com/p/emscripten/</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[ "Emscripten is an LLVM-to-JavaScript compiler. It takes LLVM bitcode (which can be generated from C/C++, using llvm-gcc or clang, or any other language that can be converted into LLVM) and compiles that into JavaScript, which can be run on the web (or anywhere else JavaScript can run)."
+ ]]></description>
+    <dc:subject>programming javascript llvm </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:programming"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:javascript"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:llvm"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://www.good.is/post/americans-are-horribly-misinformed-about-who-has-money/">
+    <title>Americans Are Horribly Misinformed About Who Has Money - Politics - GOOD</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://www.good.is/post/americans-are-horribly-misinformed-about-who-has-money/</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[  ]]></description>
+    <dc:subject>wealth money economy toblog </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:wealth"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:money"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:economy"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:toblog"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://documentcloud.github.com/backbone/">
+    <title>Backbone.js</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://documentcloud.github.com/backbone/</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[  ]]></description>
+    <dc:subject>javascript model binding js </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:javascript"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:model"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:binding"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:js"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://programmers.stackexchange.com/questions/39/whats-your-favourite-quote-about-programming">
+    <title>What's your favourite quote about programming? - Programmers - Stack Exchange</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://programmers.stackexchange.com/questions/39/whats-your-favourite-quote-about-programming</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[  ]]></description>
+    <dc:subject>development </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:development"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://littlebigdetails.com/">
+    <title>Little Big Details</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://littlebigdetails.com/</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[  ]]></description>
+    <dc:subject>ui design ux inspiration details interfaces via:packrati.us blog web webdesign </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:ui"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:design"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:ux"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:inspiration"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:details"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:interfaces"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:via:packrati.us"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:blog"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:web"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:webdesign"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://cssgrid.net/">
+    <title>The 1140px CSS Grid System/Framework · Fluid down to mobile</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://cssgrid.net/</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[  ]]></description>
+    <dc:subject>css grid framework fluid webdesign mobile layout grids html 1140 </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:css"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:grid"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:framework"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:fluid"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:webdesign"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:mobile"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:layout"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:grids"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:html"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:1140"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://lucumr.pocoo.org/2010/8/17/git-and-mercurial-branching/">
+    <title>Git and Mercurial Branching | Armin Ronacher's Thoughts and Writings</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://lucumr.pocoo.org/2010/8/17/git-and-mercurial-branching/</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[  ]]></description>
+    <dc:subject>git hg </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:git"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:hg"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://letscrate.com/">
+    <title>Ridiculously easy file-sharing: Let's Crate.</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://letscrate.com/</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[  ]]></description>
+    <dc:subject>filesharing storage tools sharing </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:filesharing"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:storage"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:tools"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:sharing"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://www.kalzumeus.com/2010/12/12/staging-servers-source-control-deploy-workflows-and-other-stuff-nobody-teaches-you/">
+    <title>Staging Servers, Source Control &amp; Deploy Workflows, And Other Stuff Nobody Teaches You: MicroISV on a Shoestring</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://www.kalzumeus.com/2010/12/12/staging-servers-source-control-deploy-workflows-and-other-stuff-nobody-teaches-you/</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[ Staging Servers, Source Control & Deploy Workflows, And Other Stuff  ]]></description>
+    <dc:subject> </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://www.teachparentstech.org/">
+    <title>Teach Parents Tech</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://www.teachparentstech.org/</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[  ]]></description>
+    <dc:subject>google howto technology tutorial tech parents video support guide internet </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:google"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:howto"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:technology"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:tutorial"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:tech"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:parents"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:video"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:support"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:guide"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:internet"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://hackety-hack.com/">
+    <title>Hackety Hack</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://hackety-hack.com/</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[  ]]></description>
+    <dc:subject>programming kid </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:programming"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:kid"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://ngrams.googlelabs.com/">
+    <title>Google Labs - Books Ngram Viewer</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://ngrams.googlelabs.com/</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[  ]]></description>
+    <dc:subject>tools </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:tools"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://en.wikipedia.org/wiki/Pixel_art_scaling_algorithms">
+    <title>Pixel art scaling algorithms - Wikipedia, the free encyclopedia</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://en.wikipedia.org/wiki/Pixel_art_scaling_algorithms</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[  ]]></description>
+    <dc:subject>toread graphics </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:toread"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:graphics"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://www.sikuli.org/">
+    <title>Project SIKULI</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://www.sikuli.org/</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[ Interesting: Automate GUI actions - like iOS app simulator testing - using the visual (really!) scripting in Sikuli:  ]]></description>
+    <dc:subject> </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://stuff.veekun.com/pkcolor/">
+    <title>Kecleon Color Theory</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://stuff.veekun.com/pkcolor/</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[ A nice, graphical overview of color theory:  ]]></description>
+    <dc:subject> </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://royal.pingdom.com/2010/12/17/the-most-reliable-and-unreliable-blogging-services-2/">
+    <title>Royal Pingdom  » The most reliable (and unreliable) blogging services on the Web</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://royal.pingdom.com/2010/12/17/the-most-reliable-and-unreliable-blogging-services-2/</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[ RT @pingdom: The most reliable (and unreliable) blogging services on the Web  ]]></description>
+    <dc:subject> </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://kodapp.com/">
+    <title>Kod</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://kodapp.com/</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[  ]]></description>
+    <dc:subject>osx editor programming mac code software javascript app via:packrati.us tools </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:osx"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:editor"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:programming"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:mac"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:code"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:software"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:javascript"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:app"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:via:packrati.us"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:tools"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://blogs.wsj.com/speakeasy/2010/12/19/a-holiday-message-from-ricky-gervais-why-im-an-atheist/">
+    <title>A Holiday Message from Ricky Gervais: Why I'm An Atheist - Speakeasy - WSJ</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://blogs.wsj.com/speakeasy/2010/12/19/a-holiday-message-from-ricky-gervais-why-im-an-atheist/</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[  ]]></description>
+    <dc:subject>religion atheism science humor god gervais comedy rickygervais philosophy via:packrati.us </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:religion"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:atheism"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:science"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:humor"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:god"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:gervais"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:comedy"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:rickygervais"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:philosophy"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:via:packrati.us"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://www.economist.com/node/17722802?story_id=17722802">
+    <title>Men's clothing: Suitably dressed | The Economist</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://www.economist.com/node/17722802?story_id=17722802</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[  ]]></description>
+    <dc:subject> </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://www.volkside.com/2010/12/introducing-wirify-the-web-as-wireframes/">
+    <title>Volkside | Introducing Wirify: The web as wireframes</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://www.volkside.com/2010/12/introducing-wirify-the-web-as-wireframes/</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[ Wirify – A bookmarklet that turns every website into its wireframe  (via @samin) #ux ]]></description>
+    <dc:subject>#ux ux </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:#ux"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:ux"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://www.sleepycity.net/posts/252/Demolition_of_the_Paris_Metro">
+    <title>sleepycity | photography urban exploration | Demolition of the Paris Metro</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://www.sleepycity.net/posts/252/Demolition_of_the_Paris_Metro</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[ so, so fascinating RT @bldgblog: Massive underground look at Paris transportation system by @dsankt:  ]]></description>
+    <dc:subject>via:packrati.us </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:via:packrati.us"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://www.theatlantic.com/technology/print/2010/12/the-hazards-of-nerd-supremacy-the-case-of-wikileaks/68217/">
+    <title>The Hazards of Nerd Supremacy: The Case of WikiLeaks - Technology - The Atlantic</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://www.theatlantic.com/technology/print/2010/12/the-hazards-of-nerd-supremacy-the-case-of-wikileaks/68217/</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[  ]]></description>
+    <dc:subject> </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://www.comicsanscriminal.com/">
+    <title>Comic Sans Criminal - There's help available for people like you!</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://www.comicsanscriminal.com/</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[ RT @Larkef: Wow, @mattdempseycom has made a very nice website about Comic Sans, do check it out:  ]]></description>
+    <dc:subject> </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item><item rdf:about="http://52weeksofux.com/post/2403607066/building-a-shared-understanding">
+    <title>Building a Shared Understanding - 52 Weeks of UX</title>
+    <dc:date>2010-12-28T06:55:53+00:00</dc:date>
+    <link>http://52weeksofux.com/post/2403607066/building-a-shared-understanding</link>
+    <dc:creator></dc:creator>
+    <description><![CDATA[ Good to remember. ]]></description>
+    <dc:subject>development cooperation communication </dc:subject>
+    <taxo:topics>
+      <rdf:Bag>
+      	<rdf:li rdf:resource="http://pinboard.in/u:/t:development"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:cooperation"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:/t:communication"/>
+        </rdf:Bag>
+      </taxo:topics>
+    </item></rdf:RDF>

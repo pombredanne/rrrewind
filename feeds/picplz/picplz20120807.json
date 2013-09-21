@@ -1,0 +1,225 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="no-js dnd">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="google-site-verification" content="zj4SOGaFA228ceNCHNtfRhLt5WhHaDVAFiq5YVX3JpA" />
+    <title>picplz mobile photo sharing for iPhone and Android</title>
+    
+    <meta content="picplz makes photo sharing easy with free iPhone and android apps and free photo effects" name="description">
+    <meta content="photo, pic, picplz, picplz.com, picsplz, pix plz, pics, pics please, pic please, pictures of, iphone photos, android photos, facebook photos, twitter photos, upload photos" name="keywords">
+    
+    <style type="text/css">
+    /*
+    Copyright (c) 2010, Yahoo! Inc. All rights reserved.
+    Code licensed under the BSD License:
+    http://developer.yahoo.com/yui/license.html
+    version: 2.8.1
+    */
+    html{color:#000;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var,optgroup{font-style:inherit;font-weight:inherit;}del,ins{text-decoration:none;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:baseline;}sub{vertical-align:baseline;}legend{color:#000;}input,button,textarea,select,optgroup,option{font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit;}input,button,textarea,select{*font-size:100%;}
+    
+        .line:after,.lastUnit:after{clear:both;display:block;visibility:hidden;overflow:hidden;height:0 !important;line-height:0;font-size:xx-large;content:" x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x ";}
+        .line{*zoom:1;}
+        .unit{float:left;}
+        .size1of1{float:none;}
+        .size1of2{width:50%;}
+        .size1of3{width:33.33333%;}
+        .size2of3{width:66.66666%;}
+        .size1of4{width:25%;}
+        .size3of4{width:75%;}
+        .size1of5{width:20%;}
+        .size2of5{width:40%;}
+        .size3of5{width:60%;}
+        .size4of5{width:80%;}
+        .lastUnit{display:table-cell;float:none;width:auto;*display:block;*zoom:1;_position:relative;_left:-3px;_margin-right:-3px;}
+        body .main,  
+        body .innerHeader, 
+        body .footer-inside {
+            width:1023px;
+            margin-left: auto;
+            margin-right:auto;
+        }
+        body.one-col-standard .main-content {
+            background-color: #fff;
+        }
+        body.footer {
+            width:100%;
+        }
+        html {
+            background-color:#fff;
+        }
+
+        body {
+            font-size: 14px; color: #252525; 
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            border-top: 0px solid #1c94d2;
+        }
+
+        html {
+            background: #f9f9f9;
+        }
+
+        body {
+            background: #f9f9f9;
+        }
+
+        .main-content {
+            border-left: 1px solid #e6e6e6;
+            border-right: 1px solid #e6e6e6;
+            border-color: #ddd;
+            min-height: 400px;
+        }
+        
+        .header {
+            width: 100%;
+            margin: 0;
+            padding-top: 8px;
+            background-color: #e1e1e1;
+            background: -moz-linear-gradient(center top, #f9f9f9, #e7e7e7); 
+            background: -webkit-gradient(linear, center top, center bottom, from(#f9f9f9), to(#e7e7e7));
+            border-top:0px solid #fff;
+            border-bottom:1px solid #d1d1d1; 
+        }
+        
+        .fixed-footer {
+            bottom:0;
+            background-color: #F9F9F9;
+            background-image:-webkit-gradient(linear, center top, center bottom, from(#e7e7e7), to(rgba(255, 255, 255, 0)));
+            background-image:-moz-linear-gradient(top, #e7e7e7, rgba(255, 255, 255, 0));
+            width:100%;
+        }
+
+        .header .logo {
+            display:block;
+            width:150px;
+            height:35px;
+            margin-top: 4px;
+            background: url(data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAAAZCAYAAADHXotLAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAABBRJREFUeNrsWc9r01AcT2P1MmFBBnpbnKjgQYPF89KjJ+d5h7Z3oc3Bm7AV/4Buf0EyvInQDkFP0uziydFchYGZoOIQFkTR6dh8r3wDz+/e96VtsjXOfiGUvLzvJ9/3Pu/7Ky1oCjl4c9798WKmqpqz9/JsdPBRL89svw20E5ZSqWSzn64w5G9ubpa1MQiz5VC8Z3YURsHRFWQ02E81EeFQM/imfJm9bmkTSS06QQYnojUEzoSUjKRIkOGOgBWTcpLhK2RXE92fHkJSkDEWUlic5gQsn0oPyYCMkUhhyZC/tyIMrbGL6y2xa0EY52OrjARP0LVQaA3Yc0d4bkAe5PgWwvIBL6SwwPtaYIcheCG3cYXpRglra6H3JslaMWMyRiHFZJeNdGWL4GMuW2Sd/ZZhMwykqyGyusJGYix+Ndi8GpCMsUwg05DYyw9LnelyO1Trsyj7CNnQj4GMtIneGuB5O+FkqsjA4oKXyg6KkbQ+8MLsQtYr/YqSjLmLe96lzz+3qefPbyxWvl41TIXRLe1JY9jegJ/+VQgrBpxIkSgbehByk9Fminjc1jrC46GlRmB5EKI00FtA62so8hjX25CMT4PekXUXd7Qp5c7s3JlaW7z92qeeP3RK87DILIWHkY5w4vn7e+g9ddhkWbOIvew+w/OFORz7nUAa/52X2NFkeuJm+0y3jUipU4SI+Q7lta5kOg99np7DQiMQyYCFRai81dCmiHIP3fsiGQKeBx7jC56IZUUy5uAoACFyUJEl+iDOi8UcErJOjPtESEzKQRvE6XUknlVFREayUpvNDZG3DhQhmJ4r+foRQUSIlJ9O8iZxeTpkAXBczWI4rB1QOMjI+KtS+2cISVntjVWADFnx5OCyOY8h65ailJWFsaUEvFkCr4HyTSgpeymxB7UD7HaJwuVI0s+jh9hEbV8fMBThHFRV4NnChfOFKSutiZ4lTOiHjhQLMjL6HhJ9P6PcnafR48q1Z3Nkzd/b+mCe+72feUMJXXAknGa8ER1Cv4M+gfR7IYbhCHgu8oAIkj/uDdpiNw4EtSRVIU/0svK2LQmZHGud6qOKu9+UhHif9uaqqglbF6a1g1/7qgbPGYEUfrJ2of8wJeEjbvRMogpqohBSBU/xARtv0qrEQ2Iye0wvUCRvR7EGkxjvUgtXhSzv0V2/luKk9yuI9w9uDvvVN0Sx2iSSYaioyJahz5DFfkPSpywn2GERZHi4x0kres7IiD83OMSJDaFM9AYok2uAEypsbCr+8u2/i9CP4FDUtIylmDMy4s1cYWHCgxNtAWYg6bj5fUGFwxOo8DnFoLAIfT7nMujbQkUV4KaR+A+9kJaQsZOBPm90FMl7GCyf6PRPRH/UkJUbMv5n0Sdk5I+QCRk5kj8CDABD9tmOkhLEBgAAAABJRU5ErkJggg==) no-repeat top left;
+            margin-left: 10px;
+        }
+
+        .header .navitem ul {
+            float:right;
+            margin-right:8px;
+        }
+
+        .hideText {
+            text-indent:-9999em;
+        }
+        
+        
+        hr.border {
+            height:0px;
+            width: 100%;
+            margin:0;
+            padding:0;
+            border-width:0px;
+            border-style:outset;
+        }
+
+        hr.top-border {
+            border-bottom: solid 0px #1C94D2;
+        }
+
+        hr.bottom-border {
+            border-bottom:0px solid #f9f9f9;
+        }
+
+        .header-sub {
+            padding: 3px 0 0px;
+            background: -moz-linear-gradient(center top, #f9f9f9, #eee); 
+            background: -webkit-gradient(linear, center top, center bottom, from(#f9f9f9), to(#eee));
+            border-bottom: 1px solid #f7f7f7;
+        }
+
+        hr.bottom-sub-border {
+            border-bottom:1px solid #d9d9d9;
+        }
+        
+        a, .like-a-link{
+            color: #0088ce;
+            text-decoration: none;
+            font-weight: bold;
+            cursor:pointer;
+        }
+
+        a:hover, .like-a-link:hover {
+            text-decoration: underline;
+        }
+
+        .no-underline:hover {
+            text-decoration: none;
+        }
+
+        .footer {
+            padding-bottom:40px;
+            padding-top: 15px;
+            font-size: .9em;
+            color: #808080;
+        }
+
+
+        .footer .copyright {
+            float:left;
+        }
+        .main-content .t404 {
+            padding: 80px 300px 0 240px;
+            text-align: left;
+        }
+
+        .t404 a {
+            font-weight: normal;
+        }
+
+        .t404 p {
+            line-height: 20px;
+        }
+        
+        h1 {
+            color: #252525;
+            font-size: 2.2em;
+            font-weight: bold;
+            letter-spacing: -0.02em;
+            margin-top: 0px;
+            padding-bottom: 5px;
+        }
+    </style>
+    
+    <script type="text/javascript">
+    //<![CDATA[
+    document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/,'js');
+    function ies(c){var a=document.createElement("div"),c="on"+c,b=(c in a);if(!b){if(!a.setAttribute){a=document.createElement("div");}if(a.setAttribute&&a.removeAttribute){a.setAttribute(c,"");b=typeof a[c]=="function";if(typeof a[c]!="undefined"){a[c]=undefined;}a.removeAttribute(c);}}a=null;return b;}
+    //]]>
+    </script>
+  </head>
+  <body class="one-col-standard">
+      <hr class="border top-border"></hr>
+    <div class="header clearfix">
+
+        <div class="innerHeader clearfix line">
+            <div class="unit size1of4">
+                <a class="logo hideText" href="http://picplz.com/">picplz</a>
+            </div>
+            <div class="navitem unit size3of4">
+                
+            </div>
+        </div>
+
+      </div>
+      <hr class="border bottom-border"></hr>
+      <div class="main main-content clearfix">
+          <div class="message t404"> 
+            <h1>Sorry, an error occurred</h1> 
+            <p>We have been notified and are fixing the problem. If the problem persists, please contact  <a href="mailto:support@picplz.com?subject=500">support@picplz.com</a> or <a href="http://twitter.com/picplz">@picplz</a> on Twitter</a>.</p>
+          </div>
+      </div>
+      <div class="fixed-footer">
+          <hr class="border bottom-sub-border"></hr>
+          <div class="footer footeritem main-footer">
+              <div class="footer-inside">
+               <div class="copyright">
+                   <span>&copy; 2011 picplz</span>
+              </div>
+              </div>           
+          </div>
+      </div>     
+  </body>
