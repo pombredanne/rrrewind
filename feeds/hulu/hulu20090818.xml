@@ -1,0 +1,1306 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:media="http://search.yahoo.com/searchmonkey/media/">
+<head>
+  <title>Hulu - Watch your favorites. Anytime. For free.</title>
+  
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml?v=jun09" title="Hulu"> 
+  
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=7" />
+  <link rel="shortcut icon" href="/favicon.ico" />
+  <meta name="description" content="Hulu.com is a free online video service that offers hit TV shows including Family Guy, 30 Rock, and the Daily Show with Jon Stewart, etc.  Our extensive library also includes blockbuster movies like In the Line of Fire.  Start watching now.  No registration or downloads required."/><meta name="keywords" content="NBC, Fox Reality, FX Networks, IGN, FOX, Fox Atomic, Twentieth Century Fox Television"/>
+
+  <script type="text/javascript">
+//<![CDATA[
+var READ_ONLY = false;
+//]]>
+</script>
+  <link href="http://static.hulu.com/stylesheets/hulu_36830.css" media="screen" rel="Stylesheet" type="text/css" />
+  <script src="http://static.hulu.com/javascripts/hulu_36830.js" type="text/javascript"></script>
+  <script type="text/javascript" src="http://static.hulu.com/javascripts/futura.js?1250172980"></script>
+
+  <link class="mbf-only" href="http://www.hulu.com/feed/recent/videos" rel="alternate" title="Recently added videos (RSS)" type="application/rss+xml" />
+  <link rel="home" href="http://www.hulu.com" />
+
+  
+  <style type="text/css" media="screen">/*<![CDATA[*/
+    .featured-date {
+      position:absolute;
+      background:#000;
+      opacity:0.70;
+      -moz-opacity:0.70;
+      filter: alpha(opacity=70);
+      width:140px;
+      padding-right:5px;
+      color:#fff;
+      font-size:10px;
+      font-weight:bold;
+      left:1px;
+      top:0;
+      height:17px;
+      text-align:right;
+    }
+    .callout-header-home {
+      margin-bottom:10px;
+    }
+
+    div.home-thumb {
+      width: 180px;
+      min-height: 208px;
+      height: auto !important;
+      height: 208px;
+      padding-right:30px;
+      padding-top:10px;
+      border-top:1px solid #eee;
+    }
+    div.expire-warning { margin-top:2px; }
+    span.video-info { line-height:1.7; }
+    div.home-play-container  {
+      position:relative;
+    }
+    #summer-widget {margin-bottom:40px;}
+
+  /*]]>*/</style>
+  <script type="text/javascript" charset="utf-8">/*<![CDATA[*/
+    Event.observe(window, "load", function() {
+      var search = $('video_search_term');
+      if (search) search.focus();
+
+    });
+    
+  /*]]>*/</script>
+
+
+   <script type="text/javascript" charset="utf-8">/*<![CDATA[*/
+    
+    Event.observe(window, "load", function() {
+      Behaviors.onLoad();
+      Behaviors.setLoggedIn();
+      Login.setup();
+      if ($("login") && $("login-form"))
+        Event.observe('login', 'keydown', function(ev) { if (ev.keyCode == 13) { Login.submit(); } });
+    });
+         Login.auth = function(login, password, stay_logged_in) { document.cookie = 'login=' + encodeURIComponent(login) + '; path=/account/authenticate; secure; domain=.hulu.com'; document.cookie = 'password=' + encodeURIComponent(password) + '; path=/account/authenticate; secure; domain=.hulu.com'; if (stay_logged_in) document.cookie = 'sli=1; path=/account/authenticate; secure; domain=.hulu.com'; else document.cookie = 'sli=0; path=/account/authenticate; secure; domain=.hulu.com'; el = $$('body').first(); if (el) { var script = document.createElement('script'); script.type = 'text/javascript'; script.src = "https://secure.hulu.com/account/authenticate" + '?' + parseInt(Math.random() * 1000000000); el.appendChild(script); } }; Login.accept_privacy = function() { el = $$('body').first(); if (el) { var script = document.createElement('script'); script.type = 'text/javascript'; script.src = "https://secure.hulu.com/account/authenticate" + '?privacy_acceptance=1&' + parseInt(Math.random() * 1000000000); el.appendChild(script); } };
+  /*]]>*/</script>
+
+  <!--[if IE]>
+    <script type="text/javascript" event="FSCommand(command,args)" for="vcs">
+      vcs_DoFSCommand(command, args);
+    </script>
+  <![endif]-->
+</head>
+<body class="center">
+  
+      <script src="http://static.ak.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+      <script type="text/javascript">
+        SocialFeed.facebook_api_key = 'ad3be85a149fa6a293f1a7df8a5389af';
+        SocialFeed.facebook_template_bundle_id.watch = '67833883222';
+        SocialFeed.facebook_template_bundle_id.subscribe = '67836103222';
+        SocialFeed.facebook_template_bundle_id.review_show = '67986168222';
+        SocialFeed.facebook_template_bundle_id.review_video = '67834953222';
+        SocialFeed.facebook_template_bundle_id.topic_show = '67988268222';
+        SocialFeed.facebook_template_bundle_id.topic_video = '67988358222';
+      </script>
+    
+  
+  <div id="vc"></div>
+
+  <div class="fixed-lg relative" id="container" style="position:relative;">
+    <div class="section top">
+      <div class="standard tidy">
+        <ul id="logged-in-nav" class="usernav" style="display:none">
+          <li id="welcome-username" class="first">
+            Welcome
+          </li>
+          <li>
+            <a href="/profile" class="utility-link">Profile</a>
+          </li>
+          
+            <li>
+              <a href="/profile/queue" class="utility-link" id="your-queue-link">Queue</a>
+            </li>
+          
+          <li class="sign-out-link">
+            <a href="#" id="top-nav-sign-out" onclick="new Ajax.Request('/logout', {asynchronous:true, evalScripts:true, onComplete:function(request){Behaviors.setLoggedOut(true)}}); return false;">Sign Out</a>
+          </li>
+        </ul>
+
+        <ul id="logged-out-nav" class="usernav" style="display:none">
+          <li class="first sign-out-link">
+            <a class="utility-link" href="#" id="login-link" onclick="FloatingLoginForm.showTop(this); return false;">Login</a>
+          </li>
+          <li class="signin-border-left">
+            <a href="/users/forgot_password" class="utility-link">Forgot Password?</a>
+          </li>
+          <li class="signin-border-left">
+            <a href="/signup" class="utility-link">Sign Up</a>
+          </li>
+        </ul>
+
+        <noscript>
+          <ul class="nojs usernav">
+            <li>
+              Please <a href="/support/login_faq#cant_login">enable javascript</a> to log in.
+            </li>
+          </ul>
+        </noscript>
+
+        <ul class="nv"><li class="first" onclick="Nav.click(this)" id="home"><a href="http://www.hulu.com/" rel="home"><img alt="Hulu" border="0" height="42" src="http://static.hulu.com/images/logo.jpg?1250172980" title="Hulu" width="97" /></a></li><li class="" onclick="Nav.click(this)" id="tv"><a href="http://www.hulu.com/tv"><img alt="TV" border="0" class="hover-me" id="tab-tv.gif12506482642746" src="http://static.hulu.com/images/tab-tv.gif?1250172980" title="TV" /></a></li><li class="" onclick="Nav.click(this)" id="movies"><a href="http://www.hulu.com/movies"><img alt="Movies" border="0" class="hover-me" id="tab-movies.gif125064826427495" src="http://static.hulu.com/images/tab-movies.gif?1250172980" title="Movies" /></a></li></ul>
+      </div>
+    </div>
+  </div>
+  <div id="search_query_auto_complete"></div>
+
+  <div class="fluid bar">
+    <div class="fixed-lg container" style="position: relative">
+      <ul class="snv home"><li><a href="http://www.hulu.com/channels"><img alt="Channels" border="0" class="channel-dock-button hover-me" id="subnav-channels.gif125064826427606" src="http://static.hulu.com/images/subnav-channels.gif?1250172980" title="Channels" /></a></li><li><a href="http://www.hulu.com/popular/videos/today"><img alt="Most Popular Videos" border="0" class="hover-me" id="subnav-mostpopular.gif125064826427649" src="http://static.hulu.com/images/subnav-mostpopular.gif?1250172980" title="Most Popular Videos" /></a></li><li><a href="http://www.hulu.com/recent/videos"><img alt="Recently Added Videos" border="0" class="hover-me" id="subnav-recentlyadded.gif125064826427691" src="http://static.hulu.com/images/subnav-recentlyadded.gif?1250172980" title="Recently Added Videos" /></a></li><li><a href="http://www.hulu.com/collections/"><img alt="Collections" border="0" class="hover-me" id="subnav-collections.gif125064826427733" src="http://static.hulu.com/images/subnav-collections.gif?1250172980" title="Collections" /></a></li><li><a href="http://www.hulu.com/labs"><img alt="Labs" border="0" class="hover-me" id="subnav-labs.gif125064826427774" src="http://static.hulu.com/images/subnav-labs.gif?1250172980" title="Labs" /></a></li><li><a href="http://www.hulu.com/trailers"><img alt="Movie Trailers" border="0" class="hover-me" id="subnav-trailers.gif125064826427815" src="http://static.hulu.com/images/subnav-trailers.gif?1250172980" title="Movie Trailers" /></a></li><li><a href="http://www.hulu.com/spotlight"><img alt="Spotlight" border="0" class="hover-me" id="subnav-spotlight.gif125064826427857" src="http://static.hulu.com/images/subnav-spotlight.gif?1250172980" title="Spotlight" /></a></li></ul>
+      <div class="searchnav">
+        <form name="search_form" id="search_form" action="/search" method="get" onsubmit="if(!$('search_query_auto_complete').visible()){SearchTracking.trackSearchForm('search_form')}">
+          <input id="video_search_term" style="margin-right:-3px;" type="text"  value=""  autocomplete="off" name="query"/>
+           <a href="javascript:$('search_form').submit();"><img alt="Search" border="0" class="hover-me" id="top-nav-search-button" onclick="SearchTracking.trackSearchForm('search_form')" src="http://static.hulu.com/images/btn-search.gif?1250172980" title="Search" /></a>
+            <script type="text/javascript">
+            //<![CDATA[
+            var bottom_search_query_auto_completer = new Ajax.HuluAutocompleter('video_search_term', 'search_query_auto_complete', '/search/suggest_html',
+                                                                                                  {  onSelected : function() {
+                                                                                                      $('search_form').submit();
+                                                                                                    },
+                                                                                                    parameters : getPageInfo(),
+                                                                                                    method : 'get'
+                                                                                                  } 
+                                                              )
+            //]]>
+        </script>
+        </form>
+      </div>
+
+    </div>
+  </div>
+
+  
+
+  
+
+<div class="fluid bg" id="masthead-container">
+  <div class="flash-player-invalid" id="flash-player-invalid" style="display:none;">
+  <div class="invalid-message">
+    Hulu requires Flash Player 9.0.115.0 or higher.
+    Please <a href="http://get.adobe.com/flashplayer/">download</a>
+    and install the latest version of Flash Player
+    before continuing.
+  </div>
+</div>
+
+<noscript>
+  <div class="nojs flash-player-invalid">
+    <div class="invalid-message">
+      Javascript is required to use Hulu.  For the best experience, please
+      <a href="/support/technical_faq#enable_cookies_and_javascript">enable Javascript</a>
+      and reload this page.
+    </div>
+  </div>
+</noscript>
+
+</div>
+<script type="text/javascript" charset="utf-8">/*<![CDATA[*/ Masthead.writeSwf(); /*]]>*/</script>
+
+
+<br />
+
+<div class="fixed-lg relative container" style="position:relative;margin-top:5px;">
+
+  <div class="section">
+    <div class="standard tidy">
+      <div class="layout b-c">
+        <div class="gr b" style="width: 75%">
+          <div class="layout a-b-c">
+            <div class="gr a">
+              <div class="callout-header-home">
+              <h2 class="home-link hoverable"><a href="http://www.hulu.com/popular/episodes/today" title="Popular Episodes">Popular Episodes</a></h2>
+              </div>
+              
+                <div class="home-thumb">
+  <div class="home-play-container">
+    <span class="play-button-hover">
+      <a href="http://www.hulu.com/watch/90331/the-daily-show-with-jon-stewart-mon-aug-17-2009" class="info_hover" onclick="SearchTracking.send(null, null, null, null, 'hulu_90331:-1')"><img src="http://thumbnails.hulu.com/20/193/105347_145x80_generated__oM3rKFWIj0mjsCuHpH5Etg.jpg" class="thumbnail" border="0" alt="The Daily Show with Jon Stewart: Mon, Aug 17, 2009 (season 14, episode 112)" width="145" height="80" title="" style="width: 145px; height: 80px;" /></a>
+      
+    </span>
+    <span class="add-me"><a href="#" onclick="if (!Behaviors.isLoggedIn()) { FloatingLoginForm.show(this); return false; } var self = this;; new Ajax.Request('/users/add_to_playlist?video_id=90331', {asynchronous:true, evalScripts:true, onSuccess:function(request){if (typeof(Behaviors) != 'undefined') {Behaviors.onQueueSuccess(self);}}}); return false;"><img alt="Queue this video" border="0" class="hover-me" id="queue_img_90331" src="http://static.hulu.com/images/icon-add.gif?1250172980" title="Queue this video" /></a></span>
+  </div>
+
+  <div class="show-title-container">
+    
+      <img alt="Closed Captions available" class="closed-captions" height="12" src="http://static.hulu.com/images/icon-cc.png?1250172980" title="Closed Captions available" width="17" />
+    
+    <a href="http://www.hulu.com/watch/90331/the-daily-show-with-jon-stewart-mon-aug-17-2009" class="show-title-gray info_hover">The Daily Show with Jon Stewart: <span class="episode-title">Mon, Aug...</span></a>
+  </div>
+
+  <span class="video-info">Season 14 : Ep. 112&nbsp;&nbsp;&nbsp;(21:40)</span>
+
+  <span class="video-info">
+    More: <a href="http://www.hulu.com/the-daily-show-with-jon-stewart" class="info_hover">The Daily Show with Jo...</a>
+  </span>
+
+  
+  <span class="video-info">
+    Channel: <a href="http://www.hulu.com/channels/Comedy">Comedy</a>
+  </span>
+  
+  
+  <div>
+    
+  </div>
+</div>
+
+              
+                <div class="home-thumb">
+  <div class="home-play-container">
+    <span class="play-button-hover">
+      <a href="http://www.hulu.com/watch/37768/family-guy-i-dream-of-jesus" class="info_hover" onclick="SearchTracking.send(null, null, null, null, 'hulu_37768:-1')"><img src="http://thumbnails.hulu.com/11/555/43927_145x80_generated__LfCOgHjH1E+Clzu7CRA3wg.jpg" class="thumbnail" border="0" alt="Family Guy: I Dream of Jesus (season 7, episode 2)" width="145" height="80" title="" style="width: 145px; height: 80px;" /></a>
+      
+    </span>
+    <span class="add-me"><a href="#" onclick="if (!Behaviors.isLoggedIn()) { FloatingLoginForm.show(this); return false; } var self = this;; new Ajax.Request('/users/add_to_playlist?video_id=37768', {asynchronous:true, evalScripts:true, onSuccess:function(request){if (typeof(Behaviors) != 'undefined') {Behaviors.onQueueSuccess(self);}}}); return false;"><img alt="Queue this video" border="0" class="hover-me" id="queue_img_37768" src="http://static.hulu.com/images/icon-add.gif?1250172980" title="Queue this video" /></a></span>
+  </div>
+
+  <div class="show-title-container">
+    
+      <img alt="Closed Captions available" class="closed-captions" height="12" src="http://static.hulu.com/images/icon-cc.png?1250172980" title="Closed Captions available" width="17" />
+    
+    <a href="http://www.hulu.com/watch/37768/family-guy-i-dream-of-jesus" class="show-title-gray info_hover">Family Guy: <span class="episode-title">I Dream of Jesus</span></a>
+  </div>
+
+  <span class="video-info">Season 7 : Ep. 2&nbsp;&nbsp;&nbsp;(21:52)</span>
+
+  <span class="video-info">
+    More: <a href="http://www.hulu.com/family-guy" class="info_hover">Family Guy</a>
+  </span>
+
+  
+  <span class="video-info">
+    Channel: <a href="http://www.hulu.com/channels/Comedy">Comedy</a>
+  </span>
+  
+  
+  <div>
+    
+  </div>
+</div>
+
+              
+                <div class="home-thumb">
+  <div class="home-play-container">
+    <span class="play-button-hover">
+      <a href="http://www.hulu.com/watch/90333/the-colbert-report-mon-aug-17-2009" class="info_hover" onclick="SearchTracking.send(null, null, null, null, 'hulu_90333:-1')"><img src="http://thumbnails.hulu.com/20/193/105357_145x80_generated__2ZGfHeM420WzXs6C335vtg.jpg" class="thumbnail" border="0" alt="The Colbert Report: Mon, Aug 17, 2009 (season 5, episode 112)" width="145" height="80" title="" style="width: 145px; height: 80px;" /></a>
+      
+    </span>
+    <span class="add-me"><a href="#" onclick="if (!Behaviors.isLoggedIn()) { FloatingLoginForm.show(this); return false; } var self = this;; new Ajax.Request('/users/add_to_playlist?video_id=90333', {asynchronous:true, evalScripts:true, onSuccess:function(request){if (typeof(Behaviors) != 'undefined') {Behaviors.onQueueSuccess(self);}}}); return false;"><img alt="Queue this video" border="0" class="hover-me" id="queue_img_90333" src="http://static.hulu.com/images/icon-add.gif?1250172980" title="Queue this video" /></a></span>
+  </div>
+
+  <div class="show-title-container">
+    
+      <img alt="Closed Captions available" class="closed-captions" height="12" src="http://static.hulu.com/images/icon-cc.png?1250172980" title="Closed Captions available" width="17" />
+    
+    <a href="http://www.hulu.com/watch/90333/the-colbert-report-mon-aug-17-2009" class="show-title-gray info_hover">The Colbert Report: <span class="episode-title">Mon, Aug 17, 2009</span></a>
+  </div>
+
+  <span class="video-info">Season 5 : Ep. 112&nbsp;&nbsp;&nbsp;(21:43)</span>
+
+  <span class="video-info">
+    More: <a href="http://www.hulu.com/the-colbert-report" class="info_hover">The Colbert Report</a>
+  </span>
+
+  
+  <span class="video-info">
+    Channel: <a href="http://www.hulu.com/channels/Comedy">Comedy</a>
+  </span>
+  
+  
+  <div>
+    
+  </div>
+</div>
+
+              
+                <div class="home-thumb">
+  <div class="home-play-container">
+    <span class="play-button-hover">
+      <a href="http://www.hulu.com/watch/90052/defying-gravity-h2ik" class="info_hover" onclick="SearchTracking.send(null, null, null, null, 'hulu_90052:-1')"><img src="http://thumbnails.hulu.com/20/166/104905_145x80_generated__AyH5FLj4HUi72Z9gpnS-ug.jpg" class="thumbnail" border="0" alt="Defying Gravity: H2IK (season 1, episode 4)" width="145" height="80" title="" style="width: 145px; height: 80px;" /></a>
+      
+    </span>
+    <span class="add-me"><a href="#" onclick="if (!Behaviors.isLoggedIn()) { FloatingLoginForm.show(this); return false; } var self = this;; new Ajax.Request('/users/add_to_playlist?video_id=90052', {asynchronous:true, evalScripts:true, onSuccess:function(request){if (typeof(Behaviors) != 'undefined') {Behaviors.onQueueSuccess(self);}}}); return false;"><img alt="Queue this video" border="0" class="hover-me" id="queue_img_90052" src="http://static.hulu.com/images/icon-add.gif?1250172980" title="Queue this video" /></a></span>
+  </div>
+
+  <div class="show-title-container">
+    
+    <a href="http://www.hulu.com/watch/90052/defying-gravity-h2ik" class="show-title-gray info_hover">Defying Gravity: <span class="episode-title">H2IK</span></a>
+  </div>
+
+  <span class="video-info">Season 1 : Ep. 4&nbsp;&nbsp;&nbsp;(43:15)</span>
+
+  <span class="video-info">
+    More: <a href="http://www.hulu.com/defying-gravity" class="info_hover">Defying Gravity</a>
+  </span>
+
+  
+  <span class="video-info">
+    Channel: <a href="http://www.hulu.com/channels/Drama">Drama</a>
+  </span>
+  
+  
+  <div>
+    
+  </div>
+</div>
+
+              
+                <div class="home-thumb">
+  <div class="home-play-container">
+    <span class="play-button-hover">
+      <a href="http://www.hulu.com/watch/62350/family-guy-the-juice-is-loose" class="info_hover" onclick="SearchTracking.send(null, null, null, null, 'hulu_62350:-1')"><img src="http://thumbnails.hulu.com/15/171/73631_145x80_generated__Jy3Z9bXewEmEwpghJmay1w.jpg" class="thumbnail" border="0" alt="Family Guy: The Juice Is Loose (season 7, episode 9)" width="145" height="80" title="" style="width: 145px; height: 80px;" /></a>
+      
+    </span>
+    <span class="add-me"><a href="#" onclick="if (!Behaviors.isLoggedIn()) { FloatingLoginForm.show(this); return false; } var self = this;; new Ajax.Request('/users/add_to_playlist?video_id=62350', {asynchronous:true, evalScripts:true, onSuccess:function(request){if (typeof(Behaviors) != 'undefined') {Behaviors.onQueueSuccess(self);}}}); return false;"><img alt="Queue this video" border="0" class="hover-me" id="queue_img_62350" src="http://static.hulu.com/images/icon-add.gif?1250172980" title="Queue this video" /></a></span>
+  </div>
+
+  <div class="show-title-container">
+    
+      <img alt="Closed Captions available" class="closed-captions" height="12" src="http://static.hulu.com/images/icon-cc.png?1250172980" title="Closed Captions available" width="17" />
+    
+    <a href="http://www.hulu.com/watch/62350/family-guy-the-juice-is-loose" class="show-title-gray info_hover">Family Guy: <span class="episode-title">The Juice Is Loose</span></a>
+  </div>
+
+  <span class="video-info">Season 7 : Ep. 9&nbsp;&nbsp;&nbsp;(21:53)</span>
+
+  <span class="video-info">
+    More: <a href="http://www.hulu.com/family-guy" class="info_hover">Family Guy</a>
+  </span>
+
+  
+  <span class="video-info">
+    Channel: <a href="http://www.hulu.com/channels/Comedy">Comedy</a>
+  </span>
+  
+  
+  <div>
+    
+  </div>
+</div>
+
+              
+                <div class="home-thumb">
+  <div class="home-play-container">
+    <span class="play-button-hover">
+      <a href="http://www.hulu.com/watch/89805/merlin-the-labyrinth-of-gedref" class="info_hover" onclick="SearchTracking.send(null, null, null, null, 'hulu_89805:-1')"><img src="http://thumbnails.hulu.com/20/108/104615_145x80_generated__rcw-eOj+N0qX3oNlkbww6w.jpg" class="thumbnail" border="0" alt="Merlin: The Labyrinth of Gedref (season 1, episode 11)" width="145" height="80" title="" style="width: 145px; height: 80px;" /></a>
+      
+    </span>
+    <span class="add-me"><a href="#" onclick="if (!Behaviors.isLoggedIn()) { FloatingLoginForm.show(this); return false; } var self = this;; new Ajax.Request('/users/add_to_playlist?video_id=89805', {asynchronous:true, evalScripts:true, onSuccess:function(request){if (typeof(Behaviors) != 'undefined') {Behaviors.onQueueSuccess(self);}}}); return false;"><img alt="Queue this video" border="0" class="hover-me" id="queue_img_89805" src="http://static.hulu.com/images/icon-add.gif?1250172980" title="Queue this video" /></a></span>
+  </div>
+
+  <div class="show-title-container">
+    
+      <img alt="Closed Captions available" class="closed-captions" height="12" src="http://static.hulu.com/images/icon-cc.png?1250172980" title="Closed Captions available" width="17" />
+    
+    <a href="http://www.hulu.com/watch/89805/merlin-the-labyrinth-of-gedref" class="show-title-gray info_hover">Merlin: <span class="episode-title">The Labyrinth of Gedref</span></a>
+  </div>
+
+  <span class="video-info">Season 1 : Ep. 11&nbsp;&nbsp;&nbsp;(42:53)</span>
+
+  <span class="video-info">
+    More: <a href="http://www.hulu.com/merlin" class="info_hover">Merlin</a>
+  </span>
+
+  
+  <span class="video-info">
+    Channel: <a href="http://www.hulu.com/channels/Drama">Drama</a>
+  </span>
+  
+  
+  <div>
+    
+  </div>
+</div>
+
+              
+              <a href="http://www.hulu.com/popular/episodes/today"><img alt="More videos" border="0" class="hover-me" height="20" id="more-btn-1" src="http://static.hulu.com/images/btn-more.gif?1250172980" title="More videos" width="50" /></a>
+            </div>
+            <div class="gr b">
+              <div class="callout-header-home">
+              <h2 class="home-link hoverable"><a href="http://www.hulu.com/popular/clips/today" title="Popular Clips">Popular Clips</a></h2>
+              </div>
+              
+                <div class="home-thumb">
+  <div class="home-play-container">
+    <span class="play-button-hover">
+      <a href="http://www.hulu.com/watch/21689/family-guy-family-guy---mila-kunis-auditions-for-meg-griffin" class="info_hover" onclick="SearchTracking.send(null, null, null, null, 'hulu_21689:-1')"><img src="http://thumbnails.hulu.com/8/624/23420_145x80_manicured__1hoVTYry4U+N-QaHvpnHsQ.jpg" class="thumbnail" border="0" alt="Family Guy: Family Guy - Mila Kunis Auditions For Meg Griffin" width="145" height="80" title="" style="width: 145px; height: 80px;" /></a>
+      
+    </span>
+    <span class="add-me"><a href="#" onclick="if (!Behaviors.isLoggedIn()) { FloatingLoginForm.show(this); return false; } var self = this;; new Ajax.Request('/users/add_to_playlist?video_id=21689', {asynchronous:true, evalScripts:true, onSuccess:function(request){if (typeof(Behaviors) != 'undefined') {Behaviors.onQueueSuccess(self);}}}); return false;"><img alt="Queue this video" border="0" class="hover-me" id="queue_img_21689" src="http://static.hulu.com/images/icon-add.gif?1250172980" title="Queue this video" /></a></span>
+  </div>
+
+  <div class="show-title-container">
+    
+    <a href="http://www.hulu.com/watch/21689/family-guy-family-guy---mila-kunis-auditions-for-meg-griffin" class="show-title-gray info_hover">Family Guy: <span class="episode-title">Family Guy - Mila Kunis Audit...</span></a>
+  </div>
+
+  <span class="video-info">Interview&nbsp;&nbsp;&nbsp;(01:46)</span>
+
+  <span class="video-info">
+    More: <a href="http://www.hulu.com/family-guy" class="info_hover">Family Guy</a>
+  </span>
+
+  
+  <span class="video-info">
+    Channel: <a href="http://www.hulu.com/channels/Comedy">Comedy</a>
+  </span>
+  
+  
+  <div>
+    
+  </div>
+</div>
+
+              
+                <div class="home-thumb">
+  <div class="home-play-container">
+    <span class="play-button-hover">
+      <a href="http://www.hulu.com/watch/1447/saturday-night-live-taco-town" class="info_hover" onclick="SearchTracking.send(null, null, null, null, 'hulu_1447:-1')"><img src="http://thumbnails.hulu.com/4/743/10098_145x80_manicured__-AK8ax5FNk2YcXJPrDfKhA.jpg" class="thumbnail" border="0" alt="Saturday Night Live: Taco Town" width="145" height="80" title="" style="width: 145px; height: 80px;" /></a>
+      
+    </span>
+    <span class="add-me"><a href="#" onclick="if (!Behaviors.isLoggedIn()) { FloatingLoginForm.show(this); return false; } var self = this;; new Ajax.Request('/users/add_to_playlist?video_id=1447', {asynchronous:true, evalScripts:true, onSuccess:function(request){if (typeof(Behaviors) != 'undefined') {Behaviors.onQueueSuccess(self);}}}); return false;"><img alt="Queue this video" border="0" class="hover-me" id="queue_img_1447" src="http://static.hulu.com/images/icon-add.gif?1250172980" title="Queue this video" /></a></span>
+  </div>
+
+  <div class="show-title-container">
+    
+    <a href="http://www.hulu.com/watch/1447/saturday-night-live-taco-town" class="show-title-gray info_hover">Saturday Night Live: <span class="episode-title">Taco Town</span></a>
+  </div>
+
+  <span class="video-info">Excerpt&nbsp;&nbsp;&nbsp;(01:24)</span>
+
+  <span class="video-info">
+    More: <a href="http://www.hulu.com/saturday-night-live" class="info_hover">Saturday Night Live</a>
+  </span>
+
+  
+  <span class="video-info">
+    Channel: <a href="http://www.hulu.com/channels/Comedy">Comedy</a>
+  </span>
+  
+  
+  <div>
+    
+  </div>
+</div>
+
+              
+                <div class="home-thumb">
+  <div class="home-play-container">
+    <span class="play-button-hover">
+      <a href="http://www.hulu.com/watch/21623/family-guy-family-guy---censored-jokes" class="info_hover" onclick="SearchTracking.send(null, null, null, null, 'hulu_21623:-1')"><img src="http://thumbnails.hulu.com/8/624/23425_145x80_manicured__Yn8Ds9dWa0mMGEXk6Sz6Dw.jpg" class="thumbnail" border="0" alt="Family Guy: Family Guy - Censored Jokes" width="145" height="80" title="" style="width: 145px; height: 80px;" /></a>
+      
+    </span>
+    <span class="add-me"><a href="#" onclick="if (!Behaviors.isLoggedIn()) { FloatingLoginForm.show(this); return false; } var self = this;; new Ajax.Request('/users/add_to_playlist?video_id=21623', {asynchronous:true, evalScripts:true, onSuccess:function(request){if (typeof(Behaviors) != 'undefined') {Behaviors.onQueueSuccess(self);}}}); return false;"><img alt="Queue this video" border="0" class="hover-me" id="queue_img_21623" src="http://static.hulu.com/images/icon-add.gif?1250172980" title="Queue this video" /></a></span>
+  </div>
+
+  <div class="show-title-container">
+    
+    <a href="http://www.hulu.com/watch/21623/family-guy-family-guy---censored-jokes" class="show-title-gray info_hover">Family Guy: <span class="episode-title">Family Guy - Censored Jokes</span></a>
+  </div>
+
+  <span class="video-info">Interview&nbsp;&nbsp;&nbsp;(02:25)</span>
+
+  <span class="video-info">
+    More: <a href="http://www.hulu.com/family-guy" class="info_hover">Family Guy</a>
+  </span>
+
+  
+  <span class="video-info">
+    Channel: <a href="http://www.hulu.com/channels/Comedy">Comedy</a>
+  </span>
+  
+  
+  <div>
+    
+  </div>
+</div>
+
+              
+                <div class="home-thumb">
+  <div class="home-play-container">
+    <span class="play-button-hover">
+      <a href="http://www.hulu.com/watch/12768/saturday-night-live-celebrity-jeopardy---cruise-sandler-and-connery" class="info_hover" onclick="SearchTracking.send(null, null, null, null, 'hulu_12768:-1')"><img src="http://thumbnails.hulu.com/5/743/13629_145x80_manicured__hFyEppd+x0ugdEvARC+8Ww.jpg" class="thumbnail" border="0" alt="Saturday Night Live: Celebrity Jeopardy - Cruise, Sandler, and Connery" width="145" height="80" title="" style="width: 145px; height: 80px;" /></a>
+      
+    </span>
+    <span class="add-me"><a href="#" onclick="if (!Behaviors.isLoggedIn()) { FloatingLoginForm.show(this); return false; } var self = this;; new Ajax.Request('/users/add_to_playlist?video_id=12768', {asynchronous:true, evalScripts:true, onSuccess:function(request){if (typeof(Behaviors) != 'undefined') {Behaviors.onQueueSuccess(self);}}}); return false;"><img alt="Queue this video" border="0" class="hover-me" id="queue_img_12768" src="http://static.hulu.com/images/icon-add.gif?1250172980" title="Queue this video" /></a></span>
+  </div>
+
+  <div class="show-title-container">
+    
+    <a href="http://www.hulu.com/watch/12768/saturday-night-live-celebrity-jeopardy---cruise-sandler-and-connery" class="show-title-gray info_hover">Saturday Night Live: <span class="episode-title">Celebrity Jeopardy -...</span></a>
+  </div>
+
+  <span class="video-info">Excerpt&nbsp;&nbsp;&nbsp;(07:01)</span>
+
+  <span class="video-info">
+    More: <a href="http://www.hulu.com/saturday-night-live" class="info_hover">Saturday Night Live</a>
+  </span>
+
+  
+  <span class="video-info">
+    Channel: <a href="http://www.hulu.com/channels/Comedy">Comedy</a>
+  </span>
+  
+  
+  <div>
+    
+  </div>
+</div>
+
+              
+                <div class="home-thumb">
+  <div class="home-play-container">
+    <span class="play-button-hover">
+      <a href="http://www.hulu.com/watch/72438/saturday-night-live-barry-gibb-talk-show" class="info_hover" onclick="SearchTracking.send(null, null, null, null, 'hulu_72438:-1')"><img src="http://thumbnails.hulu.com/17/243/84311_145x80_generated__SxAmnVtBykOJ94RlhkZxtg.jpg" class="thumbnail" border="0" alt="Saturday Night Live: Barry Gibb Talk Show" width="145" height="80" title="" style="width: 145px; height: 80px;" /></a>
+      
+    </span>
+    <span class="add-me"><a href="#" onclick="if (!Behaviors.isLoggedIn()) { FloatingLoginForm.show(this); return false; } var self = this;; new Ajax.Request('/users/add_to_playlist?video_id=72438', {asynchronous:true, evalScripts:true, onSuccess:function(request){if (typeof(Behaviors) != 'undefined') {Behaviors.onQueueSuccess(self);}}}); return false;"><img alt="Queue this video" border="0" class="hover-me" id="queue_img_72438" src="http://static.hulu.com/images/icon-add.gif?1250172980" title="Queue this video" /></a></span>
+  </div>
+
+  <div class="show-title-container">
+    
+    <a href="http://www.hulu.com/watch/72438/saturday-night-live-barry-gibb-talk-show" class="show-title-gray info_hover">Saturday Night Live: <span class="episode-title">Barry Gibb Talk Show</span></a>
+  </div>
+
+  <span class="video-info">Excerpt&nbsp;&nbsp;&nbsp;(05:56)</span>
+
+  <span class="video-info">
+    More: <a href="http://www.hulu.com/saturday-night-live" class="info_hover">Saturday Night Live</a>
+  </span>
+
+  
+  <span class="video-info">
+    Channel: <a href="http://www.hulu.com/channels/Comedy">Comedy</a>
+  </span>
+  
+  
+  <div>
+    
+  </div>
+</div>
+
+              
+                <div class="home-thumb">
+  <div class="home-play-container">
+    <span class="play-button-hover">
+      <a href="http://www.hulu.com/watch/46753/the-simpsons-mapple-store" class="info_hover" onclick="SearchTracking.send(null, null, null, null, 'hulu_46753:-1')"><img src="http://thumbnails.hulu.com/12/873/54409_145x80_generated__e-pldkR5I0KmMlvrW3FhJQ.jpg" class="thumbnail" border="0" alt="The Simpsons: Mapple Store" width="145" height="80" title="" style="width: 145px; height: 80px;" /></a>
+      
+    </span>
+    <span class="add-me"><a href="#" onclick="if (!Behaviors.isLoggedIn()) { FloatingLoginForm.show(this); return false; } var self = this;; new Ajax.Request('/users/add_to_playlist?video_id=46753', {asynchronous:true, evalScripts:true, onSuccess:function(request){if (typeof(Behaviors) != 'undefined') {Behaviors.onQueueSuccess(self);}}}); return false;"><img alt="Queue this video" border="0" class="hover-me" id="queue_img_46753" src="http://static.hulu.com/images/icon-add.gif?1250172980" title="Queue this video" /></a></span>
+  </div>
+
+  <div class="show-title-container">
+    
+      <img alt="Closed Captions available" class="closed-captions" height="12" src="http://static.hulu.com/images/icon-cc.png?1250172980" title="Closed Captions available" width="17" />
+    
+    <a href="http://www.hulu.com/watch/46753/the-simpsons-mapple-store" class="show-title-gray info_hover">The Simpsons: <span class="episode-title">Mapple Store</span></a>
+  </div>
+
+  <span class="video-info">Excerpt&nbsp;&nbsp;&nbsp;(01:39)</span>
+
+  <span class="video-info">
+    More: <a href="http://www.hulu.com/the-simpsons" class="info_hover">The Simpsons</a>
+  </span>
+
+  
+  <span class="video-info">
+    Channel: <a href="http://www.hulu.com/channels/Comedy">Comedy</a>
+  </span>
+  
+  
+  <div>
+    
+  </div>
+</div>
+
+              
+              <a href="http://www.hulu.com/popular/clips/today"><img alt="More videos" border="0" class="hover-me" height="20" id="more-btn-2" src="http://static.hulu.com/images/btn-more.gif?1250172980" title="More videos" width="50" /></a>
+            </div>
+            <div class="gr c">
+              <div class="callout-header-home">
+                <h2 class="home-link">Featured Videos</h2>
+              </div>
+              
+                <div class="home-thumb">
+  <div class="home-play-container">
+    <span class="play-button-hover">
+      <a href="http://www.hulu.com/watch/90130/dating-in-the-dark-week-5" class="info_hover" onclick="SearchTracking.send(null, null, null, null, 'hulu_90130:-1')"><img src="http://thumbnails.hulu.com/20/175/105050_145x80_generated__ZcfvGVG8CEWuJjfm6gZxMw.jpg" class="thumbnail" border="0" alt="Dating In The Dark: Week 5 (season 1, episode 5)" width="145" height="80" title="" style="width: 145px; height: 80px;" /></a>
+      
+    </span>
+    <span class="add-me"><a href="#" onclick="if (!Behaviors.isLoggedIn()) { FloatingLoginForm.show(this); return false; } var self = this;; new Ajax.Request('/users/add_to_playlist?video_id=90130', {asynchronous:true, evalScripts:true, onSuccess:function(request){if (typeof(Behaviors) != 'undefined') {Behaviors.onQueueSuccess(self);}}}); return false;"><img alt="Queue this video" border="0" class="hover-me" id="queue_img_90130" src="http://static.hulu.com/images/icon-add.gif?1250172980" title="Queue this video" /></a></span>
+  </div>
+
+  <div class="show-title-container">
+    
+    <a href="http://www.hulu.com/watch/90130/dating-in-the-dark-week-5" class="show-title-gray info_hover">Dating In The Dark: <span class="episode-title">Week 5</span></a>
+  </div>
+
+  <span class="video-info">Season 1 : Ep. 5&nbsp;&nbsp;&nbsp;(42:58)</span>
+
+  <span class="video-info">
+    More: <a href="http://www.hulu.com/dating-in-the-dark" class="info_hover">Dating In The Dark</a>
+  </span>
+
+  
+  <span class="video-info">
+    Channel: <a href="http://www.hulu.com/channels/Reality-and-Game-Shows">Reality and Game ...</a>
+  </span>
+  
+  
+  <div>
+    
+  </div>
+</div>
+
+              
+                <div class="home-thumb">
+  <div class="home-play-container">
+    <span class="play-button-hover">
+      <a href="http://www.hulu.com/watch/90282/tattoo-highway-vegas-babies" class="info_hover" onclick="SearchTracking.send(null, null, null, null, 'hulu_90282:-1')"><img src="http://thumbnails.hulu.com/20/187/104492_145x80_generated__aTHS1qzFp0S-6CG04e6aHw.jpg" class="thumbnail" border="0" alt="Tattoo Highway: Vegas Babies (season 1, episode 1)" width="145" height="80" title="" style="width: 145px; height: 80px;" /></a>
+      
+    </span>
+    <span class="add-me"><a href="#" onclick="if (!Behaviors.isLoggedIn()) { FloatingLoginForm.show(this); return false; } var self = this;; new Ajax.Request('/users/add_to_playlist?video_id=90282', {asynchronous:true, evalScripts:true, onSuccess:function(request){if (typeof(Behaviors) != 'undefined') {Behaviors.onQueueSuccess(self);}}}); return false;"><img alt="Queue this video" border="0" class="hover-me" id="queue_img_90282" src="http://static.hulu.com/images/icon-add.gif?1250172980" title="Queue this video" /></a></span>
+  </div>
+
+  <div class="show-title-container">
+    
+    <a href="http://www.hulu.com/watch/90282/tattoo-highway-vegas-babies" class="show-title-gray info_hover">Tattoo Highway: <span class="episode-title">Vegas Babies</span></a>
+  </div>
+
+  <span class="video-info">Season 1 : Ep. 1&nbsp;&nbsp;&nbsp;(21:34)</span>
+
+  <span class="video-info">
+    More: <a href="http://www.hulu.com/tattoo-highway" class="info_hover">Tattoo Highway</a>
+  </span>
+
+  
+  <span class="video-info">
+    Channel: <a href="http://www.hulu.com/channels/Reality-and-Game-Shows">Reality and Game ...</a>
+  </span>
+  
+  
+  <div>
+    
+  </div>
+</div>
+
+              
+                <div class="home-thumb">
+  <div class="home-play-container">
+    <span class="play-button-hover">
+      <a href="http://www.hulu.com/watch/90436/movie-trailers-the-twilight-saga-new-moon---clip" class="info_hover" onclick="SearchTracking.send(null, null, null, null, 'hulu_90436:-1')"><img src="http://thumbnails.hulu.com/20/208/105320_145x80_generated__BlWeeemWKUW78czkZg4fBw.jpg" class="thumbnail" border="0" alt="Movie Trailers: The Twilight Saga: New Moon - Clip" width="145" height="80" title="" style="width: 145px; height: 80px;" /></a>
+      
+    </span>
+    <span class="add-me"><a href="#" onclick="if (!Behaviors.isLoggedIn()) { FloatingLoginForm.show(this); return false; } var self = this;; new Ajax.Request('/users/add_to_playlist?video_id=90436', {asynchronous:true, evalScripts:true, onSuccess:function(request){if (typeof(Behaviors) != 'undefined') {Behaviors.onQueueSuccess(self);}}}); return false;"><img alt="Queue this video" border="0" class="hover-me" id="queue_img_90436" src="http://static.hulu.com/images/icon-add.gif?1250172980" title="Queue this video" /></a></span>
+  </div>
+
+  <div class="show-title-container">
+    
+    <a href="http://www.hulu.com/watch/90436/movie-trailers-the-twilight-saga-new-moon---clip" class="show-title-gray info_hover">The Twilight Saga: New Moon - Clip</a>
+  </div>
+
+  <span class="video-info">Trailer&nbsp;&nbsp;&nbsp;(01:44)</span>
+
+  <span class="video-info">
+    More: <a href="http://www.hulu.com/trailers" title="Movie Trailers">Movie Trailers</a>
+  </span>
+
+  
+  <span class="video-info">
+    Channel: <a href="http://www.hulu.com/channels/Drama">Drama</a>
+  </span>
+  
+  
+  <div>
+    
+  </div>
+</div>
+
+              
+                <div class="home-thumb">
+  <div class="home-play-container">
+    <span class="play-button-hover">
+      <a href="http://www.hulu.com/watch/87635/make-it-or-break-it-sunday-bloody-sasha-sunday" class="info_hover" onclick="SearchTracking.send(null, null, null, null, 'hulu_87635:-1')"><img src="http://thumbnails.hulu.com/19/567/99722_145x80_generated__3zCppZPh3U2HEssDApoZ0A.jpg" class="thumbnail" border="0" alt="Make It Or Break It: Sunday, Bloody Sasha, Sunday (season 1, episode 4)" width="145" height="80" title="" style="width: 145px; height: 80px;" /></a>
+      
+    </span>
+    <span class="add-me"><a href="#" onclick="if (!Behaviors.isLoggedIn()) { FloatingLoginForm.show(this); return false; } var self = this;; new Ajax.Request('/users/add_to_playlist?video_id=87635', {asynchronous:true, evalScripts:true, onSuccess:function(request){if (typeof(Behaviors) != 'undefined') {Behaviors.onQueueSuccess(self);}}}); return false;"><img alt="Queue this video" border="0" class="hover-me" id="queue_img_87635" src="http://static.hulu.com/images/icon-add.gif?1250172980" title="Queue this video" /></a></span>
+  </div>
+
+  <div class="show-title-container">
+    
+    <a href="http://www.hulu.com/watch/87635/make-it-or-break-it-sunday-bloody-sasha-sunday" class="show-title-gray info_hover">Make It Or Break It: <span class="episode-title">Sunday, Bloody Sasha...</span></a>
+  </div>
+
+  <span class="video-info">Season 1 : Ep. 4&nbsp;&nbsp;&nbsp;(44:57)</span>
+
+  <span class="video-info">
+    More: <a href="http://www.hulu.com/make-it-or-break-it" class="info_hover">Make It Or Break It</a>
+  </span>
+
+  
+  <span class="video-info">
+    Channel: <a href="http://www.hulu.com/channels/Drama">Drama</a>
+  </span>
+  
+  
+  <div>
+    
+  </div>
+</div>
+
+              
+                <div class="home-thumb">
+  <div class="home-play-container">
+    <span class="play-button-hover">
+      <a href="http://www.hulu.com/watch/90332/great-american-road-trip-california-or-bust" class="info_hover" onclick="SearchTracking.send(null, null, null, null, 'hulu_90332:-1')"><img src="http://thumbnails.hulu.com/20/193/105366_145x80_generated__N5B-jP2HlEOIvWnaICubXg.jpg" class="thumbnail" border="0" alt="Great American Road Trip: California or Bust (season 1, episode 7)" width="145" height="80" title="" style="width: 145px; height: 80px;" /></a>
+      
+    </span>
+    <span class="add-me"><a href="#" onclick="if (!Behaviors.isLoggedIn()) { FloatingLoginForm.show(this); return false; } var self = this;; new Ajax.Request('/users/add_to_playlist?video_id=90332', {asynchronous:true, evalScripts:true, onSuccess:function(request){if (typeof(Behaviors) != 'undefined') {Behaviors.onQueueSuccess(self);}}}); return false;"><img alt="Queue this video" border="0" class="hover-me" id="queue_img_90332" src="http://static.hulu.com/images/icon-add.gif?1250172980" title="Queue this video" /></a></span>
+  </div>
+
+  <div class="show-title-container">
+    
+      <img alt="Closed Captions available" class="closed-captions" height="12" src="http://static.hulu.com/images/icon-cc.png?1250172980" title="Closed Captions available" width="17" />
+    
+    <a href="http://www.hulu.com/watch/90332/great-american-road-trip-california-or-bust" class="show-title-gray info_hover">Great American Road Trip: <span class="episode-title">California or Bust</span></a>
+  </div>
+
+  <span class="video-info">Season 1 : Ep. 7&nbsp;&nbsp;&nbsp;(42:51)</span>
+
+  <span class="video-info">
+    More: <a href="http://www.hulu.com/great-american-road-trip" class="info_hover">Great American Road Trip</a>
+  </span>
+
+  
+  <span class="video-info">
+    Channel: <a href="http://www.hulu.com/channels/Reality-and-Game-Shows">Reality and Game ...</a>
+  </span>
+  
+  
+  <div>
+    
+  </div>
+</div>
+
+              
+                <div class="home-thumb">
+  <div class="home-play-container">
+    <span class="play-button-hover">
+      <a href="http://www.hulu.com/watch/90292/who-wants-to-be-a-millionaire-night-6" class="info_hover" onclick="SearchTracking.send(null, null, null, null, 'hulu_90292:-1')"><img src="http://thumbnails.hulu.com/20/189/105294_145x80_generated__KpJfHj35wk2ruT-EdtQn9g.jpg" class="thumbnail" border="0" alt="Who Wants To Be A Millionaire: Night 6 (season 8, episode 6)" width="145" height="80" title="" style="width: 145px; height: 80px;" /></a>
+      
+    </span>
+    <span class="add-me"><a href="#" onclick="if (!Behaviors.isLoggedIn()) { FloatingLoginForm.show(this); return false; } var self = this;; new Ajax.Request('/users/add_to_playlist?video_id=90292', {asynchronous:true, evalScripts:true, onSuccess:function(request){if (typeof(Behaviors) != 'undefined') {Behaviors.onQueueSuccess(self);}}}); return false;"><img alt="Queue this video" border="0" class="hover-me" id="queue_img_90292" src="http://static.hulu.com/images/icon-add.gif?1250172980" title="Queue this video" /></a></span>
+  </div>
+
+  <div class="show-title-container">
+    
+    <a href="http://www.hulu.com/watch/90292/who-wants-to-be-a-millionaire-night-6" class="show-title-gray info_hover">Who Wants To Be A Millionaire: <span class="episode-title">Night 6</span></a>
+  </div>
+
+  <span class="video-info">Season 8 : Ep. 6&nbsp;&nbsp;&nbsp;(43:23)</span>
+
+  <span class="video-info">
+    More: <a href="http://www.hulu.com/who-wants-to-be-a-millionaire" class="info_hover">Who Wants To Be A Mill...</a>
+  </span>
+
+  
+  <span class="video-info">
+    Channel: <a href="http://www.hulu.com/channels/Reality-and-Game-Shows">Reality and Game ...</a>
+  </span>
+  
+  
+  <div>
+    
+  </div>
+</div>
+
+              
+            </div>
+          </div>
+          <br class="shim"/><br/>
+        </div>
+        <div class="gr c" style="width: 22%">
+          
+          
+
+<div class="top-ten">
+  <div><h2 class="hoverable home-link"><a href="http://twitter.com/hulu" title="Hulu's Pick">Hulu's Pick</a></h2></div>
+  <div class="top-ten-inner">
+    <div style="position:relative;">
+      
+        <a href="http://twitter.com/hulu"><img alt="Home-title-spotlight-thumbnail" border="0" height="80" src="http://assets.hulu.com/mastheads/home-title-spotlight-thumbnail.jpg" width="145" /></a>
+      
+    </div>
+  
+    <div style="padding-top:10px;width:180px; margin-bottom:1.5em;">
+      Follow @Hulu on Twitter for content updates and more: twitter.com/hulu.
+    </div>
+  
+    <a href="http://twitter.com/hulu"><img alt="Learn more" border="0" class="hover-me" height="20" id="more-spotlight" src="http://static.hulu.com/images/btn-explore.gif?1250172980" title="Learn more" width="64" /></a>
+  </div>
+</div>
+
+          
+          
+          
+
+<div class="top-ten">
+  <h2 class="hoverable home-link"><a href="http://www.hulu.com/browse/popular/tv" size="200x19" title="Popular TV Shows">Popular TV Shows</a></h2>
+  
+    <div class="top-ten-inner">
+    
+      <a href="http://www.hulu.com/family-guy" class="info_hover"><img alt="Family Guy" border="0" class="thumbnail" height="80" src="http://assets.hulu.com/shows/show_thumbnail_family_guy.jpg" style="width: 145px; height: 80px; " title="" width="145" /></a>
+    
+    
+    <ul style="margin-top:10px;">
+      
+        <li><a href="http://www.hulu.com/family-guy" class="top-ten-videos-link info_hover">Family Guy</a></li>
+      
+        <li><a href="http://www.hulu.com/the-daily-show-with-jon-stewart" class="top-ten-videos-link show-thumb info_hover">The Daily Show with Jon Stewart</a></li>
+      
+        <li><a href="http://www.hulu.com/kyle-xy" class="top-ten-videos-link show-thumb info_hover">Kyle XY</a></li>
+      
+        <li><a href="http://www.hulu.com/the-simpsons" class="top-ten-videos-link show-thumb info_hover">The Simpsons</a></li>
+      
+        <li><a href="http://www.hulu.com/lost" class="top-ten-videos-link show-thumb info_hover">Lost</a></li>
+      
+    </ul>
+  
+  
+    <a href="http://www.hulu.com/browse/popular/tv"><img alt="More Titles" border="0" class="hover-me" height="20" id="more-http:www.hulu.combrowsepopulartv" src="http://static.hulu.com/images/btn-more.gif?1250172980" title="More Titles" width="50" /></a>
+  
+  </div>
+  
+</div>
+
+          
+
+<div class="top-ten">
+  <h2 class="hoverable home-link"><a href="http://www.hulu.com/popular/feature_film/today" size="200x19" title="Popular Movies">Popular Movies</a></h2>
+  
+    <div class="top-ten-inner">
+    
+      <div style="position:relative;">
+        <span class="play-button-hover">
+        <a href="http://www.hulu.com/watch/89573/zombie-girl" class="info_hover" onclick="SearchTracking.send(null, null, null, null, 'hulu_89573:-1')"><img src="http://thumbnails.hulu.com/20/7/103240_145x80_generated__1bDuz5PA0k2S3oEi1Kn+Lw.jpg" class="thumbnail" border="0" alt="Zombie Girl" width="145" height="80" title="" style="width: 145px; height: 80px;" /></a>
+        </span>
+      </div>
+    
+    
+    <ul style="margin-top:10px;">
+      
+        <li><a href="http://www.hulu.com/watch/89573/zombie-girl" class="top-ten-videos-link info_hover">Zombie Girl</a></li>
+      
+        <li><a href="http://www.hulu.com/watch/88184/gas-pump-girls" class="top-ten-videos-link show-thumb info_hover">Gas Pump Girls</a></li>
+      
+        <li><a href="http://www.hulu.com/watch/90266/syfy-original-movies-locusts-the-8th-plague" class="top-ten-videos-link show-thumb info_hover">Syfy Original Movies<span class="episode-title">: Locusts: The 8th Plague</a></li>
+      
+        <li><a href="http://www.hulu.com/watch/81982/robotech-the-shadow-chronicles" class="top-ten-videos-link show-thumb info_hover">Robotech: The Shadow Chronicles</a></li>
+      
+        <li><a href="http://www.hulu.com/watch/25523/the-secret-of-nimh" class="top-ten-videos-link show-thumb info_hover">The Secret of NIMH</a></li>
+      
+    </ul>
+  
+  
+    <a href="http://www.hulu.com/popular/feature_film/today"><img alt="More Videos" border="0" class="hover-me" height="20" id="more-http:www.hulu.compopularfeature_filmtoday" src="http://static.hulu.com/images/btn-more.gif?1250172980" title="More Videos" width="50" /></a>
+  
+  </div>
+  
+</div>
+
+          
+
+<div class="top-ten">
+  <h2 class="hoverable home-link"><a href="http://www.hulu.com/browse/recent/tv" size="200x19" title="Recently Added Shows">Recently Added Shows</a></h2>
+  
+    <div class="top-ten-inner">
+    
+      <a href="http://www.hulu.com/black20" class="info_hover"><img alt="Black20" border="0" class="thumbnail" height="80" src="http://assets.hulu.com/shows/show_thumbnail_black20.jpg" style="width: 145px; height: 80px; " title="" width="145" /></a>
+    
+    
+    <ul style="margin-top:10px;">
+      
+        <li><a href="http://www.hulu.com/black20" class="top-ten-videos-link info_hover">Black20</a></li>
+      
+        <li><a href="http://www.hulu.com/tattoo-highway" class="top-ten-videos-link show-thumb info_hover">Tattoo Highway</a></li>
+      
+        <li><a href="http://www.hulu.com/inked" class="top-ten-videos-link show-thumb info_hover">Inked</a></li>
+      
+        <li><a href="http://www.hulu.com/pushing-the-limits" class="top-ten-videos-link show-thumb info_hover">Pushing the Limits</a></li>
+      
+        <li><a href="http://www.hulu.com/giuliana-and-bill" class="top-ten-videos-link show-thumb info_hover">Giuliana &amp; Bill</a></li>
+      
+    </ul>
+  
+  
+    <a href="http://www.hulu.com/browse/recent/tv"><img alt="More Titles" border="0" class="hover-me" height="20" id="more-http:www.hulu.combrowserecenttv" src="http://static.hulu.com/images/btn-more.gif?1250172980" title="More Titles" width="50" /></a>
+  
+  </div>
+  
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <br />
+</div>
+<div id="semcheck-container"> </div>
+<script type="text/javascript">/*<![CDATA[*/
+Event.observe(window, "load", function() {
+  var swfObject = new SWFObject("/guid.swf", "pguid", 1, 1, "1");
+  swfObject.addParam("allowScriptAccess", "always");
+  VersionCheck.write(swfObject, "semcheck-container");
+
+  setTimeout(function() {
+    if (location.search && location.search.indexOf("fromsearch=") > 0) {
+      var sem = (/^(google|yahoo)/.test(location.search.substring(location.search.indexOf("fromsearch=" ) + "fromsearch=".length)) ? (RegExp.$1) : '');
+      var pguid = document.getElementById('pguid');
+      if (sem && pguid) {
+        Event.observe(window, "load", function() {
+          pingImage("http://t.hulu.com/beacon/v2/siteinteraction?event=searchvisit&param=" + sem + "&value=" + (pguid.hasGUID() ? 1 : 0) + "&dict=selected%3a" + pguid.getGUID());
+        });
+      }
+    }
+    Beacon.init();
+  }, 500);
+});
+/*]]>*/</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(VersionCheck) != 'undefined') VersionCheck.run()
+//]]>
+</script>
+
+  <iframe id="popup_frame" class="playlist-box" style="display:none;"></iframe>
+  <iframe id="search_popup_frame" class="playlist-box" style="display:none;"></iframe>
+
+  <div class="flf popup" style="display:none">
+  <div class="popup-bar">
+    <a href="#" onclick="FloatingLoginForm.hide(); return false;"><img alt="Popup-close" border="0" height="11" src="http://static.hulu.com/images/popup-close.gif?1250172980" width="11" /></a>
+  </div>
+  <div class="flf-content">
+    <img alt="Attention" class="warning" height="16" src="http://static.hulu.com/images/int-warning.gif?1250172980" width="16" />
+    Please login or <a href="/signup" class="signup">sign up</a> first.
+    <div class="login-form">
+      <form action="https://secure.hulu.com/account/authenticate" method="get" name="login-form" onsubmit="Login.submit(this); return false;">
+  <input id="login" class="active login" type="text" style="display: none;" name="username"/>
+  <input id="password" class="active password" type="password" style="display: none;" name="password"/>
+  <input class="inactive dummy login" type="text" value="email" name="dummy_login" />
+  <input class="inactive dummy" type="text" value="password" name="dummy_password" />  
+  <input alt="Login" border="0" class="login-submit hover-me" id="btn-signin-small.gif12506482642805" src="http://static.hulu.com/images/btn-signin-small.gif?1250172980" style="width: 39px; height: 20;" title="Login" type="image" />
+  <a href="#"><img alt="Cancel" border="0" class="hover-me" height="20" id="btn-x.gif12506482642807" onclick="Login.cancel();return false" src="http://static.hulu.com/images/btn-x.gif?1250172980" title="Cancel" width="18" /></a>
+  <br style="clear:both;"/>
+  <div class="stay-logged-in-container" style="float: left;">
+    <input id="expire" class="stay-logged-in" type="checkbox" checked="true" name="stayloggedin" style="float: none; vertical-align: middle;"/>
+    <span onclick="Login.switchExpire();" style="font-size: 10px;">Keep me logged in for 30 days.</span>
+    <span style="font-size: 11px; margin: 0px 3px;"><a href="/support/account#faq-keep-logged-in" style="float: none;">[?]</a></span>
+  </div>
+  <span class="login-status-img"></span>
+  <br style="clear: both;"/>
+  <div class="login-status" style="clear: both; display: none;"></div>
+</form>
+
+    </div>
+  </div>
+  <div class="shw-top-right"></div>
+  <div class="shw-right"></div>
+  <div class="shw-bottom-right"></div>
+  <div class="shw-bottom"></div>
+  <div class="shw-bottom-left"></div>  
+</div>
+
+  <div class="flf tflf popup" style="display:none">
+  <div class="popup-bar">
+    <a href="#" onclick="FloatingLoginForm.hide(); return false;"><img alt="Popup-close" border="0" height="11" src="http://static.hulu.com/images/popup-close.gif?1250172980" width="11" /></a>
+  </div>
+  <div class="flf-content">
+    <img alt="Attention" class="warning" height="16" src="http://static.hulu.com/images/int-warning.gif?1250172980" width="16" />
+    Please input your email and password.
+    <div class="login-form">
+      <form action="https://secure.hulu.com/account/authenticate" method="get" name="login-form" onsubmit="Login.submit(this); return false;">
+  <input id="login" class="active login" type="text" style="display: none;" name="username"/>
+  <input id="password" class="active password" type="password" style="display: none;" name="password"/>
+  <input class="inactive dummy login" type="text" value="email" name="dummy_login" />
+  <input class="inactive dummy" type="text" value="password" name="dummy_password" />  
+  <input alt="Login" border="0" class="login-submit hover-me" id="btn-signin-small.gif125064826428221" src="http://static.hulu.com/images/btn-signin-small.gif?1250172980" style="width: 39px; height: 20;" title="Login" type="image" />
+  <a href="#"><img alt="Cancel" border="0" class="hover-me" height="20" id="btn-x.gif125064826428241" onclick="Login.cancel();return false" src="http://static.hulu.com/images/btn-x.gif?1250172980" title="Cancel" width="18" /></a>
+  <br style="clear:both;"/>
+  <div class="stay-logged-in-container" style="float: left;">
+    <input id="expire" class="stay-logged-in" type="checkbox" checked="true" name="stayloggedin" style="float: none; vertical-align: middle;"/>
+    <span onclick="Login.switchExpire();" style="font-size: 10px;">Keep me logged in for 30 days.</span>
+    <span style="font-size: 11px; margin: 0px 3px;"><a href="/support/account#faq-keep-logged-in" style="float: none;">[?]</a></span>
+  </div>
+  <span class="login-status-img"></span>
+  <br style="clear: both;"/>
+  <div class="login-status" style="clear: both; display: none;"></div>
+</form>
+
+    </div>
+  </div>
+  <div class="shw-top-right"></div>
+  <div class="shw-right"></div>
+  <div class="shw-bottom-right"></div>
+  <div class="shw-bottom"></div>
+  <div class="shw-bottom-left"></div>  
+</div>
+
+  <div class="floating-container" id="floating-container" style="display:none">
+  <div class="bar">
+    <a href="#" onclick="FloatingDiv.hide(); return false;"><img alt="Popup-close" border="0" height="11" src="http://static.hulu.com/images/popup-close.gif?1250172980" width="11" /></a>
+  </div>
+  
+</div>
+
+  <div class="int-warning popup" style="display:none">
+  <div class="popup-bar">
+    <a href="#" onclick="IntWarning.cancel(); return false;"><img alt="Popup-close" border="0" height="11" src="http://static.hulu.com/images/popup-close.gif?1250172980" title="close" width="11" /></a>
+  </div>
+  <div class="int-thanks" style="display: none">
+    <p>Thanks for your interest.</p>
+    <a href="#"><img alt="Cancel" border="0" class="hover-me" height="20" id="btn-close.gif125064826428353" onclick="IntWarning.cancel();return false" src="http://static.hulu.com/images/btn-close.gif?1250172980" title="Cancel" width="65" /></a>
+  </div>
+
+  <div class="int-form popup-content">
+    <img alt="Int-warning" class="int-icon" src="http://static.hulu.com/images/int-warning.gif?1250172980" />
+    <p class="int-title">
+      Sorry, currently our video library can only be streamed from within the United States
+    </p>
+
+    <p>Hulu is committed to making its content available worldwide.  To do so, we must work through a number of legal and business issues, including obtaining international streaming rights. Know that we are working to make this happen and will continue to do so.  Given the international background of the Hulu team, we have both a professional and personal interest in bringing Hulu to a global audience.</p>
+
+    <p>If you'd like, please leave us your email address and the region in which you live, and we will email you when our videos are available in your area.</p>
+
+    <form action="/" id="int-request" method="post" onsubmit="return false;">
+      <table>
+        <tr>
+          <td><label for="int-email">Email:</label></td>
+          <td class="field"><input id="int-email" name="email[]" size="30" type="text" /></td>
+        </tr>
+        <tr>
+          <td><label for="int-country">Region:</label></td>
+          <td class="field"><input id="int-country" name="country" type="text" value="" /></td>
+        </tr>
+        <tr>
+          <td class="last" colspan="2">
+            <a href="#"><img alt="Submit" border="0" class="hover-me" height="20" id="btn-submit-small.gif12506482642843" onclick="IntWarning.submit(); return false" src="http://static.hulu.com/images/btn-submit-small.gif?1250172980" title="Submit" width="65" /></a>
+            <a href="#"><img alt="Cancel" border="0" class="hover-me" height="20" id="btn-close.gif125064826428451" onclick="IntWarning.cancel(); return false" src="http://static.hulu.com/images/btn-close.gif?1250172980" title="Cancel" width="65" /></a>
+          </td>
+        </tr>
+      </table>
+    </form>
+  </div>
+  <div class="shw-top-right"></div>
+  <div class="shw-right"></div>
+  <div class="shw-bottom-right"></div>
+  <div class="shw-bottom"></div>
+  <div class="shw-bottom-left"></div>
+</div>
+<div class="overlay-full" style="display:none"></div>
+<div id="gc"></div>
+
+  <div class="privacy-acceptance" style="display:none">
+  <div id="accept-choice">
+    <div class="content">
+      <div class="flf-content">
+        <img alt="Attention" class="warning" height="16" src="http://static.hulu.com/images/int-warning.gif?1250172980" width="16" />
+        Do you accept the new <a href="/terms" target="_blank">Terms of Use</a> and <a href="/privacy" target="_blank">Privacy Policy</a>?
+      </div>
+      <div style="text-align: right; padding-top: 10px;">
+        <div id="privacy-acceptance-loading" style="display:none; padding: 2px 20px; float: left">
+          <img alt="Loading-animated-circle" border="0" height="16" src="http://static.hulu.com/images/loading-animated-circle.gif?1250172980" style="vertical-align:middle" width="16" />
+        </div>
+        <a href="#" onclick="Login.acceptPrivacy(); return false;"><img alt="accept" border="0" class="hover-me" height="20" id="accept-button" src="http://static.hulu.com/images/btn-i-accept.gif?1250172980" title="accept" width="102" /></a>&nbsp;&nbsp;
+        <a href="#" onclick="Login.showDeny(); return false;"><img alt="do not accept" border="0" class="hover-me" height="20" id="accept-not-button" src="http://static.hulu.com/images/btn-i-accept-do-not.gif?1250172980" title="do not accept" width="102" /></a>
+      </div>
+    </div>
+  </div>
+  <div id="deny-choice">
+    <div class="content">
+      <div class="flf-content">
+        <img alt="Attention" class="warning" height="16" src="http://static.hulu.com/images/int-warning.gif?1250172980" width="16" />
+        Sorry, you cannot log in to your account unless you accept.
+      </div>
+      <div style="text-align: right; padding-top: 10px;">
+        <a href="#" onclick="Login.showPrivacy(); return false;"><img alt="back" border="0" class="hover-me" height="20" id="back-button" src="http://static.hulu.com/images/btn-back.gif?1250172980" title="back" width="69" /></a>&nbsp;&nbsp;
+        <a href="#" onclick="ModalPopup.hide(); return false;"><img alt="continue" border="0" class="hover-me" height="20" id="ok-continue-button" src="http://static.hulu.com/images/btn-ok-continue.gif?1250172980" title="continue" width="102" /></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div id="modal-popup" style="display: none;">
+  <div id="modal-popup-container">
+    <div class="popup-bar">
+      <a href="#" onclick="; return false;"><img alt="Popup-close" border="0" height="11" id="close-popup" src="http://static.hulu.com/images/popup-close.gif?1250172980" title="close" width="11" /></a>
+    </div>
+    <div class="popup-bar-19h">
+      <a href="#" onclick="; return false;"><img alt="Popup-header-close-19h" border="0" height="19" id="close-popup-19h" src="http://static.hulu.com/images/popup-header-close-19h.gif?1250172980" title="close" width="15" /></a>
+    </div>
+    <div class="modal-content">
+      <div id="modal-question"></div>
+      <div id="modal-text"></div>
+      <div style="text-align: right;">
+        <a href="#" onclick="ModalPopup.hide(); return false;"><img alt="OK" border="0" class="hover-me" height="20" id="dismiss-popup" src="http://static.hulu.com/images/btn-ok.gif?1250172980" title="OK" width="50" /></a>
+      <a href="#" onclick="ModalPopup.hide(); return false;"><img alt="Yes" border="0" class="hover-me" height="20" id="accept-popup" src="http://static.hulu.com/images/btn-yes.gif?1250172980" title="Yes" width="50" /></a>
+      <a href="#" onclick="ModalPopup.hide(); return false;"><img alt="No" border="0" class="hover-me" height="20" id="reject-popup" src="http://static.hulu.com/images/btn-no.gif?1250172980" title="No" width="50" /></a>
+      </div>
+    </div>
+    <div class="shw-top-right"></div>
+    <div class="shw-right"></div>
+    <div class="shw-bottom-right"></div>
+    <div class="shw-bottom"></div>
+    <div class="shw-bottom-left"></div>
+  </div>
+</div>
+
+  <div id="subscription-popup" class="popup" style="display: none;">
+  <div class="popup-bar">
+    <a href="#" onclick="Subscription.hide_popup(); return false;"><img alt="Popup-close" border="0" height="11" src="http://static.hulu.com/images/popup-close.gif?1250172980" title="close" width="11" /></a>
+  </div>
+  <div class="ss-content">
+    Subscribe to <span id="ss-show-name"></span> to automatically update your queue with new <span id="ss-has-episodes">episodes and </span><span id="ss-has-clips">clips</span>.
+    <div class="ss-options">
+      <input id="ss-show" name="ss-show" type="hidden" value="0" />
+      <a class="checkbox" href="#" id="ss-episodes" onclick="Subscription.toggle_input('ss-episodes'); return false;" style="margin-right: 54px;">Episodes</a>
+      <a class="checkbox" href="#" id="ss-clips" onclick="Subscription.toggle_input('ss-clips'); return false;">Clips</a>
+      <br style="clear: both;" />
+      <div style="padding: 7px 0px 0px 25px;">
+        <a class="radio" href="#" id="ss-episodes-all" onclick="Subscription.toggle_input('ss-episodes-all'); return false;">all</a>
+        <br />
+        <a class="radio" href="#" id="ss-episodes-first" onclick="Subscription.toggle_input('ss-episodes-first'); return false;">TV first-run only</a>
+      </div>
+    </div>
+    <a class="checkbox" href="#" id="ss-email" onclick="Subscription.toggle_input('ss-email'); return false;">Send me an alert when new videos are added to my queue.</a>
+    <img alt="Loading-animated-circle" border="0" height="16" id="ss-loading" src="http://static.hulu.com/images/loading-animated-circle.gif?1250172980" style="position:absolute; margin: 19px 0px 0px 45px; display: none;" title="Loading-animated-circle" width="16" />
+    <img alt="Icon-check" border="0" height="16" id="ss-done" src="http://static.hulu.com/images/icon-check.gif?1250172980" style="position:absolute; margin: 19px 0px 0px 45px; display: none;" title="Checkmark" width="16" />
+    <div style="width: 143px; height: 20px; margin: 17px auto 0px;">
+      <a href="#" onclick="Subscription.hide_popup(); return false;"><img alt="Close" border="0" class="hover-me" height="20" id="cancel-subsciption" src="http://static.hulu.com/images/btn-close.gif?1250172980" style="float: right;" title="Close" width="65" /></a>
+      <a href="#" onclick="Subscription.submit_options(this); return false;"><img alt="Submit" border="0" class="hover-me" height="20" id="submit-subsciption" src="http://static.hulu.com/images/btn-submit-small.gif?1250172980" title="Submit" width="65" /></a>
+      <br style="clear: both;" />
+    </div>
+  </div>
+  <div class="shw-top-right"></div>
+  <div class="shw-right"></div>
+  <div class="shw-bottom-right"></div>
+  <div class="shw-bottom"></div>
+  <div class="shw-bottom-left"></div>
+</div>
+
+  <div class="channels-dock" style="display:none"><table><tr class="first"><td class="first"><a href="http://www.hulu.com/channels">All</a></td><td><a href="http://www.hulu.com/channels/Action-and-Adventure">Action and Adventure</a></td><td><a href="http://www.hulu.com/channels/Animation-and-Cartoons">Animation and Cartoons</a></td><td><a href="http://www.hulu.com/channels/Comedy">Comedy</a></td><td><a href="http://www.hulu.com/channels/Drama">Drama</a></td><td><a href="http://www.hulu.com/channels/Family">Family</a></td></tr><tr><td class="first"><a href="http://www.hulu.com/channels/Food-and-Leisure">Food and Leisure</a></td><td><a href="http://www.hulu.com/channels/Home-and-Garden">Home and Garden</a></td><td><a href="http://www.hulu.com/channels/Horror-and-Suspense">Horror and Suspense</a></td><td><a href="http://www.hulu.com/channels/Music">Music</a></td><td><a href="http://www.hulu.com/channels/News-and-Information">News and Information</a></td><td><a href="http://www.hulu.com/channels/Other">Other</a></td></tr><tr><td class="first"><a href="http://www.hulu.com/channels/Reality-and-Game-Shows">Reality and Game Shows</a></td><td><a href="http://www.hulu.com/channels/Science-Fiction">Science Fiction</a></td><td><a href="http://www.hulu.com/channels/Sports">Sports</a></td><td><a href="http://www.hulu.com/channels/Talk-and-Interview">Talk and Interview</a></td><td><a href="http://www.hulu.com/channels/Videogames">Videogames</a></td><td><a href="http://www.hulu.com/channels/Web">Web</a></td></tr></table></div>
+  
+  <br style="clear:both" />
+  <div class="fluid bar" style="clear:both">
+    <div class="fixed-lg container">
+      <div class="searchnav" style="width:90%;text-align:center; height: 20px;margin-left:80px;">
+          <form id="bottom_search_form" name="search_form" action="/search" method="get" onsubmit="if(!$('search_query_auto_complete').visible()){SearchTracking.trackSearchForm('bottom_search_form')}">
+                <input id="bottom_video_search_term" class="search" type="text"  value=""  autocomplete="off" name="query" style="margin-right: -3px;" />
+                <a href="javascript:$('bottom_search_form').submit();"><img alt="Search" border="0" class="hover-me" id="bottom-nav-search-button" onclick="SearchTracking.trackSearchForm('bottom_search_form')" src="http://static.hulu.com/images/btn-search.gif?1250172980" style="vertical-align: middle; margin-left: -1px;margin-bottom:2px;" title="Search" /></a>
+                <script type="text/javascript">
+                //<![CDATA[
+                var bottom_search_query_auto_completer = new Ajax.HuluAutocompleter('bottom_video_search_term', 'search_query_auto_complete', '/search/suggest_html', 
+                                                                                                      {  onSelected : function() {
+                                                                                                          $('bottom_search_form').submit();
+                                                                                                          },
+                                                                                                          method : 'get'
+                                                                                                      } 
+                                                                  )
+                //]]>
+            </script>
+
+              <a class="search-footer-link" href="/support/search_tips" style="margin-left:15px;">Search Tips</a> <span class="search-footer-spacer">|</span>
+              <a class="search-footer-link" href="#" onclick="javascript:installOpenSearch(); return false;" >Search Plugin</a>                
+          </form>
+      </div>
+    </div>
+  </div>
+  <br style="clear:both" />
+  <div class="fluid footer">
+    <div class="fixed-lg container">
+      <div style="width:68%">
+        <div style="float:none;margin-bottom:6px">Discover</div>
+        <div class="footer-column">
+          <a href="/" class="footer-link">Home</a>
+          <a href="/tv" class="footer-link">TV</a>
+          <a href="/movies" class="footer-link">Movies</a>
+        </div>
+        <div class="footer-column">
+          <a href="/channels" class="footer-link">Channels</a>
+          <a href="/labs" class="footer-link">Labs</a>
+          <a href="/collections" class="footer-link">Collections</a>  
+        </div>
+        <div class="footer-column">
+          <a href="/trailers" class="footer-link">Trailers</a>
+          <a href="/discussions" class="footer-link">Discussions</a>
+          <a href="http://www.hulu.com/spotlight" class="footer-link">Spotlight</a>
+          </div>
+        <div class="footer-column" style="width:90px;">
+          <a href="/distribution" class="footer-link">Distribution</a>
+          <a href="http://blog.hulu.com" class="footer-link">Blog</a>
+          <a href="/feed" class="footer-link" style="display:inline;">RSS</a> <a href="/feed"><img alt="Hulu RSS Feeds" border="0" class="hover-me" id="rss-footer-link" src="http://static.hulu.com/images/btn-rss.gif?1250172980" style="vertical-align:bottom;display:inline;margin-left:5px;padding-bottom:2px;" title="Hulu RSS Feeds" /></a>
+        </div>
+      </div>
+
+      <div style="float:right; width: 32%;">
+        <div style="float:none;margin-bottom:6px">Support</div>
+        <div class="footer-column">
+          <a href="/jobs" class="footer-link">Jobs</a>
+          <a href="/about" class="footer-link">Media Info</a>
+          
+        </div>
+        <div class="footer-column">
+          <a href="/support" class="footer-link">Support/FAQ</a>
+          <a href="/about/product_tour" class="footer-link">Product Tour</a>
+        </div> 
+      </div>
+      <div class="disclaimer-container">
+        <div style="float:right;padding-right:66px;">Copyright &copy; 2009 Hulu LLC. All rights reserved.</div>
+        <div style="float:left;">Use of this Web site constitutes acceptance of the Hulu <a href="/terms">Terms of Use</a> and <a href="/privacy">Privacy Policy</a>.</div>
+      </div>
+      <br style="clear:both;"/><br style="clear:both;"/>
+    </div>
+  </div>
+
+  <div id="video_search_term_suggestion" style="display: none;"></div> 
+  <div id="video_search_term_suggestion_js" style="display:none;"></div>
+
+  <div id="info_hover" class="info_hover_box" style="display:none">
+    <div class="pointer"> </div>
+    <div class="content"></div>
+    <div class="gra-top-left"> </div><div class="gra-top-right"> </div>
+    <div class="gra-bottom-left"> </div><div class="gra-bottom-right"> </div>
+    <div class="gra-h"> </div><div class="gra-v-left"> </div><div class="gra-v-right"> </div>
+  </div>
+
+  
+
+  <img src="http://static.hulu.com/images/_.gif" style="display:none;" height="0" width="0" />
+  <script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script><script type="text/javascript">
+//<![CDATA[
+var _pt=_gat._getTracker("UA-1384159-3");_pt._initData();_pt._trackPageview();
+//]]>
+</script>
+  <script type="text/javascript">
+//<![CDATA[
+Comscore.update({"c15": "", "c2": "3000007", "baseURL": "http://beacon.scorecardresearch.com/scripts/beacon.dll", "c3": "3000007", "c4": "hulu.com/", "c5": "home", "c1": "2"}); Comscore.track();
+//]]>
+</script><noscript><img src="http://beacon.scorecardresearch.com/scripts/beacon.dll?c10=&c11=&c12=&c13=&c14=&c15=&c1=2&c2=3000007&c3=3000007&c4=hulu.com%2F&c5=home&c6=&c7=&c8=&c9=&x=NOJAVASCRIPT" alt="" /></noscript>
+  
+  <script type="text/javascript">_qoptions={qacct:"p-85E9Mbo27Crs6",labels:"Web.Hulu.Home"};</script><script type="text/javascript">/*<![CDATA[*/setTimeout(function() {var body = $$('body').first();if (body) {var script = document.createElement('script');script.src = 'http://edge.quantserve.com/quant.js';script.type = 'text/javascript';body.appendChild(script);}}, 1500);/*]]>*/</script><noscript><a href="http://www.quantcast.com/p-85E9Mbo27Crs6" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-85E9Mbo27Crs6.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a></noscript>
+  <script type="text/javascript">
+//<![CDATA[
+Cufon.now(); document.charset = 'utf-8';
+//]]>
+</script>
+</body>
+</html>
+
