@@ -1,0 +1,2390 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="canonical" href="http://digg.com/" />
+<meta property="og:url" content="http://digg.com/" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Digg - What the Internet is talking about right now" />
+<meta property="og:image" content="http://static.digg.com/a/static/images/logo-digg@2x.png" />
+
+<meta name="keywords" content="Digg, pictures, technology, breaking news, entertainment, politics, headline news, celebrity news, offbeat, world business, sports, funny videos">
+
+
+<meta name="description" content="The most interesting and talked about stories, videos and pictures on the web. Breaking news on Technology, Politics, Entertainment, and more!">
+<meta property="og:description" content="The most interesting and talked about stories, videos and pictures on the web. Breaking news on Technology, Politics, Entertainment, and more!" />
+
+<title>Digg - What the Internet is talking about right now</title>
+<link rel="alternate" type="application/rss+xml" title="Digg Top Stories RSS" href="http://digg.com/rss/topstories.xml" />
+<link rel="stylesheet" href="http://static.digg.com/a/static/css/external/normalize/1.0.1/normalize.min.css?v=1fd86" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" href="http://static.digg.com/a/static/css/1.1.0/login.css?v=57548" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://static.digg.com/a/static/css/1.1.0/modal.css?v=f85f6" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" href="http://static.digg.com/a/static/css/1.1.0/style.css?v=b2845" type="text/css" media="screen" charset="utf-8" />
+
+
+
+
+
+<script src="http://static.digg.com/a/static/js/external/modernizr/2.6.1/modernizr.min.js?v=cf69c" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" src="//use.typekit.net/bdt8ody.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript">var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-33556916-1']); _gaq.push(['_setDomainName', '.digg.com']); _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); </script><noscript><img src="http://www.google-analytics.com/__utm.gif?utmwv=3&utmn=5179619369&utme=&utmcs=-&utmsr=-&utmsc=-&utmul=-&utmje=0&utmfl=-&utmdt=-&utmhn=digg.com&utmhid=5179619369&utmr=-&utmp=/nojs/&utmac=UA-33556916-1&utmcc=__utma%3D40834907.1508024218.1353294004.1353294004.1353294004.2%3B%2B__utmz%3D40834907.1353294004.2.2.utmcsr%3D_SOURCE_%7Cutmccn%3D_CAMPAIGN_%7Cutmcmd%3D_MEDIUM_%7Cutmctr%3D_KEYWORD_%7Cutmcct%3D_CONTENT_%3B%2B__utmv%3D40834907.-%3B;" border="0" /></noscript>
+</head>
+<body class="homepage">
+
+
+
+<div class="site-header-container page-container" id="site-header-container">
+<div class="banner-notification">
+Help make Digg better. <a href="http://blog.digg.com/survey">Take our survey &#8594;</a>
+<div id="btn-banner-notification-close">&#215;</div>
+</div>
+<div class="header-wrapper">
+<header class="site-header">
+<h1 class="site-header-logo-container"><a href="/" id="site-header-logo" class="image-replace">Digg</a></h1>
+<ul id="page-nav" class="horizontal-list">
+<li class="page-nav-top-stories"><a href="/#top-stories" class="page-anchor-link">Top Stories</a></li>
+
+<li class="page-nav-popular-stories"><a href="/#popular-stories" class="page-anchor-link">Popular</a></li>
+
+
+<li class="page-nav-new-stories"><a href="/#new-stories" class="page-anchor-link page-nav-new-stories">Upcoming</a></li>
+
+</ul>
+<ul id="site-nav" class="horizontal-list">
+
+<li><a href="/submit" id="btn-hdr-submit-link">Submit a Link</a></li>
+
+<li class="site-nav-anonymous"><a href="/#subscribe" class="page-anchor-link" id="nav-subscribe-link">Subscribe</a></li>
+<li><a href="/ios-download" id="btn-hdr-iphone-link">Digg for iOS</a></li>
+
+<li id="site-nav-user-widget"></li>
+
+</ul>
+<div id="site-header-digg-social">
+<ul class="horizontal-list">
+<li><a href="https://twitter.com/digg" target="_blank" class="digg-social-twitter digg-social-icon image-replace">Twitter</a></li>
+<li><a href="https://www.facebook.com/digg" target="_blank" class="digg-social-fb digg-social-icon image-replace">Facebook</a></li>
+<li><a href="https://plus.google.com/110161668219507409668/posts" target="_blank" class="digg-social-gplus digg-social-icon image-replace">Google+</a></li>
+</ul>
+</div>
+</header>
+</div>
+</div>
+
+
+<div id="container" class="page-container">
+
+
+
+<div id="top-stories" class="stories-container clearfix">
+
+
+
+
+<div class="digg-story-el story-container story-SGs7Op story-col-0" data-content-id="SGs7Op" data-contenturl="http://www.businessweek.com/articles/2012-11-18/how-airport-security-is-killing-us#r=hp-ls" data-position="0" data-diggs="8" data-tweets="40" data-fb-shares="58" data-digg-score="106">
+<div class="story-details">
+
+
+<div class="story-image">
+<a data-position="0" data-content-id="SGs7Op" class="story-link" href="http://www.businessweek.com/articles/2012-11-18/how-airport-security-is-killing-us#r=hp-ls"><img src="http://static.digg.com/images/SGs7Op_1_www_large_thumb.jpeg" alt="" width="312" height="170" /><div class="story-image-shadow" style="width:310px;height:168px;"></div>
+</a>
+</div>
+
+
+
+<div class="story-kicker">
+UNINTENDED CONSEQUENCES
+</div>
+
+<div class="story-headline">
+<a data-position="0" data-content-id="SGs7Op" class="story-link" href="http://www.businessweek.com/articles/2012-11-18/how-airport-security-is-killing-us#r=hp-ls">
+
+How Airport Security Is Killing Us
+
+</a>
+</div>
+<div class="story-domain">
+<a data-position="0" data-content-id="SGs7Op" class="story-link" href="http://www.businessweek.com/articles/2012-11-18/how-airport-security-is-killing-us#r=hp-ls">businessweek.com</a> 
+</div>
+
+<div class="story-preview">These days, the TSA’s major role appears to be to make plane trips more unpleasant. And by doing so, it’s encouraging people to take the considerably more dangerous option of traveling by road.</div>
+
+<ul class="story-actions">
+<li class="btn-story-action-container btn-story-action-container-digg">
+<div class="story-score-details">
+<ul class="story-score-details-list">
+<li class="story-score-thumb-SGs7Op story-score-thumb">8</li>
+<li class="story-score-tweets-SGs7Op story-score-twitter">40</li>
+<li class="story-score-fb_shares-SGs7Op story-score-facebook">58</li>
+</ul>
+</div>
+<div class="btn-story-action btn-story-action-digg btn-story-action-digg-SGs7Op">
+<div class="btn-story-action-off">
+<div class="story-score">
+<div class="story-score-SGs7Op">106</div>
+</div>
+<div class="story-digg-label">Digg</div>
+</div>
+<div class="btn-story-action-on">
+<div class="story-score">
+<div class="story-score-SGs7Op">106</div>
+</div>
+<div class="story-digg-label">Dugg</div>
+</div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-save">
+<div class="btn-story-action btn-story-action-save btn-story-action-save-SGs7Op">
+<div class="btn-story-action-off"><b>Save</b></div>
+<div class="btn-story-action-on"><b>Saved</b></div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-share">
+<div class="tooltip tooltip-grey tooltip-bottom tooltip-fade tooltip-story-share">
+<ul class="plain-list">
+<li class="story-share-tweet"><a href="https://twitter.com/intent/tweet?url=http://on.digg.com/SGs7Op&amp;via=Digg&amp;text=How Airport Security Is Killing Us" class="btn-share-story-link share-story-link" data-contenturl="http://www.businessweek.com/articles/2012-11-18/how-airport-security-is-killing-us#r=hp-ls" data-position="0">Tweet this</a></li>
+<li class="story-share-fb"><a href="https://www.facebook.com/dialog/feed?display=popup&amp;app_id=123277257693179&amp;link=http://on.digg.com/SGs7Op&amp;redirect_uri=http://digg.com/fbshare" class="btn-share-story-link share-story-link" data-contenturl="http://www.businessweek.com/articles/2012-11-18/how-airport-security-is-killing-us#r=hp-ls" data-position="0">Share to Facebook</a></li>
+</ul>
+</div>
+<div class="btn-story-action-share">
+<div class="btn-story-action-off"><b>Share</b></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+<div class="digg-story-el story-container story-UONYti story-col-1" data-content-id="UONYti" data-contenturl="http://www.theatlanticwire.com/technology/2012/11/john-mcafee-blogging-lam/59118/" data-position="1" data-diggs="7" data-tweets="35" data-fb-shares="5" data-digg-score="47">
+<div class="story-details">
+
+
+<div class="story-image">
+<a data-position="1" data-content-id="UONYti" class="story-link" href="http://www.theatlanticwire.com/technology/2012/11/john-mcafee-blogging-lam/59118/"><img src="http://static.digg.com/images/UONYti_1_www_large_thumb.jpeg" alt="" width="312" height="170" /><div class="story-image-shadow" style="width:310px;height:168px;"></div>
+</a>
+</div>
+
+
+
+<div class="story-kicker">
+HE NEEDS A TWITTER ACCOUNT STAT
+</div>
+
+<div class="story-headline">
+<a data-position="1" data-content-id="UONYti" class="story-link" href="http://www.theatlanticwire.com/technology/2012/11/john-mcafee-blogging-lam/59118/">
+
+John McAfee Is Blogging While Hiding From Police
+
+</a>
+</div>
+<div class="story-domain">
+<a data-position="1" data-content-id="UONYti" class="story-link" href="http://www.theatlanticwire.com/technology/2012/11/john-mcafee-blogging-lam/59118/">theatlanticwire.com</a> 
+</div>
+
+<div class="story-preview">John McAfee, the man responsible for the anti-virus software on your computer and currently a murder suspect, has started to blog about life on the run.</div>
+
+<ul class="story-actions">
+<li class="btn-story-action-container btn-story-action-container-digg">
+<div class="story-score-details">
+<ul class="story-score-details-list">
+<li class="story-score-thumb-UONYti story-score-thumb">7</li>
+<li class="story-score-tweets-UONYti story-score-twitter">35</li>
+<li class="story-score-fb_shares-UONYti story-score-facebook">5</li>
+</ul>
+</div>
+<div class="btn-story-action btn-story-action-digg btn-story-action-digg-UONYti">
+<div class="btn-story-action-off">
+<div class="story-score">
+<div class="story-score-UONYti">47</div>
+</div>
+<div class="story-digg-label">Digg</div>
+</div>
+<div class="btn-story-action-on">
+<div class="story-score">
+<div class="story-score-UONYti">47</div>
+</div>
+<div class="story-digg-label">Dugg</div>
+</div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-save">
+<div class="btn-story-action btn-story-action-save btn-story-action-save-UONYti">
+<div class="btn-story-action-off"><b>Save</b></div>
+<div class="btn-story-action-on"><b>Saved</b></div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-share">
+<div class="tooltip tooltip-grey tooltip-bottom tooltip-fade tooltip-story-share">
+<ul class="plain-list">
+<li class="story-share-tweet"><a href="https://twitter.com/intent/tweet?url=http://on.digg.com/UONYti&amp;via=Digg&amp;text=John McAfee Is Blogging While Hiding From Police" class="btn-share-story-link share-story-link" data-contenturl="http://www.theatlanticwire.com/technology/2012/11/john-mcafee-blogging-lam/59118/" data-position="1">Tweet this</a></li>
+<li class="story-share-fb"><a href="https://www.facebook.com/dialog/feed?display=popup&amp;app_id=123277257693179&amp;link=http://on.digg.com/UONYti&amp;redirect_uri=http://digg.com/fbshare" class="btn-share-story-link share-story-link" data-contenturl="http://www.theatlanticwire.com/technology/2012/11/john-mcafee-blogging-lam/59118/" data-position="1">Share to Facebook</a></li>
+</ul>
+</div>
+<div class="btn-story-action-share">
+<div class="btn-story-action-off"><b>Share</b></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+<div class="digg-story-el story-container story-PZxFXE story-col-2" data-content-id="PZxFXE" data-contenturl="http://blogs.wsj.com/digits/2012/11/16/behind-nintendos-development-of-the-wii-u/" data-position="2" data-diggs="8" data-tweets="97" data-fb-shares="11" data-digg-score="116">
+<div class="story-details">
+
+
+<div class="story-image">
+<a data-position="2" data-content-id="PZxFXE" class="story-link" href="http://blogs.wsj.com/digits/2012/11/16/behind-nintendos-development-of-the-wii-u/"><img src="http://static.digg.com/images/PZxFXE_1_www_large_thumb.jpeg" alt="" width="312" height="170" /><div class="story-image-shadow" style="width:310px;height:168px;"></div>
+</a>
+</div>
+
+
+
+<div class="story-kicker">
+Wii U
+</div>
+
+<div class="story-headline">
+<a data-position="2" data-content-id="PZxFXE" class="story-link" href="http://blogs.wsj.com/digits/2012/11/16/behind-nintendos-development-of-the-wii-u/">
+
+Behind Nintendo's Development Of The Wii U
+
+</a>
+</div>
+<div class="story-domain">
+<a data-position="2" data-content-id="PZxFXE" class="story-link" href="http://blogs.wsj.com/digits/2012/11/16/behind-nintendos-development-of-the-wii-u/">blogs.wsj.com</a> 
+</div>
+
+<div class="story-preview">The three-year development process of the Wii U offers a glimpse into how the Japanese videogame manufacturer comes up with its new consoles.</div>
+
+<ul class="story-actions">
+<li class="btn-story-action-container btn-story-action-container-digg">
+<div class="story-score-details">
+<ul class="story-score-details-list">
+<li class="story-score-thumb-PZxFXE story-score-thumb">8</li>
+<li class="story-score-tweets-PZxFXE story-score-twitter">97</li>
+<li class="story-score-fb_shares-PZxFXE story-score-facebook">11</li>
+</ul>
+</div>
+<div class="btn-story-action btn-story-action-digg btn-story-action-digg-PZxFXE">
+<div class="btn-story-action-off">
+<div class="story-score">
+<div class="story-score-PZxFXE">116</div>
+</div>
+<div class="story-digg-label">Digg</div>
+</div>
+<div class="btn-story-action-on">
+<div class="story-score">
+<div class="story-score-PZxFXE">116</div>
+</div>
+<div class="story-digg-label">Dugg</div>
+</div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-save">
+<div class="btn-story-action btn-story-action-save btn-story-action-save-PZxFXE">
+<div class="btn-story-action-off"><b>Save</b></div>
+<div class="btn-story-action-on"><b>Saved</b></div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-share">
+<div class="tooltip tooltip-grey tooltip-bottom tooltip-fade tooltip-story-share">
+<ul class="plain-list">
+<li class="story-share-tweet"><a href="https://twitter.com/intent/tweet?url=http://on.digg.com/PZxFXE&amp;via=Digg&amp;text=Behind Nintendo's Development Of The Wii U" class="btn-share-story-link share-story-link" data-contenturl="http://blogs.wsj.com/digits/2012/11/16/behind-nintendos-development-of-the-wii-u/" data-position="2">Tweet this</a></li>
+<li class="story-share-fb"><a href="https://www.facebook.com/dialog/feed?display=popup&amp;app_id=123277257693179&amp;link=http://on.digg.com/PZxFXE&amp;redirect_uri=http://digg.com/fbshare" class="btn-share-story-link share-story-link" data-contenturl="http://blogs.wsj.com/digits/2012/11/16/behind-nintendos-development-of-the-wii-u/" data-position="2">Share to Facebook</a></li>
+</ul>
+</div>
+<div class="btn-story-action-share">
+<div class="btn-story-action-off"><b>Share</b></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+<div class="digg-story-el story-container story-Xpiw6i story-col-0" data-content-id="Xpiw6i" data-contenturl="http://www.guardian.co.uk/media/2012/nov/18/dan-houser-grand-theft-auto" data-position="3" data-diggs="9" data-tweets="81" data-fb-shares="20" data-digg-score="110">
+<div class="story-details">
+
+
+<div class="story-image">
+<a data-position="3" data-content-id="Xpiw6i" class="story-link" href="http://www.guardian.co.uk/media/2012/nov/18/dan-houser-grand-theft-auto"><img src="http://static.digg.com/images/Xpiw6i_1_www_large_thumb.jpeg" alt="" width="312" height="170" /><div class="story-image-shadow" style="width:310px;height:168px;"></div>
+</a>
+</div>
+
+
+
+<div class="story-kicker">
+ANATOMY OF A HIT
+</div>
+
+<div class="story-headline">
+<a data-position="3" data-content-id="Xpiw6i" class="story-link" href="http://www.guardian.co.uk/media/2012/nov/18/dan-houser-grand-theft-auto">
+
+How Two Guys Turned 'Grand Theft Auto' Into A Cultural Phenomenon
+
+</a>
+</div>
+<div class="story-domain">
+<a data-position="3" data-content-id="Xpiw6i" class="story-link" href="http://www.guardian.co.uk/media/2012/nov/18/dan-houser-grand-theft-auto">guardian.co.uk</a> 
+</div>
+
+<div class="story-preview">Dan Houser and his brother Sam are responsible for some of the most fascinating (and controversial) video games ever.</div>
+
+<ul class="story-actions">
+<li class="btn-story-action-container btn-story-action-container-digg">
+<div class="story-score-details">
+<ul class="story-score-details-list">
+<li class="story-score-thumb-Xpiw6i story-score-thumb">9</li>
+<li class="story-score-tweets-Xpiw6i story-score-twitter">81</li>
+<li class="story-score-fb_shares-Xpiw6i story-score-facebook">20</li>
+</ul>
+</div>
+<div class="btn-story-action btn-story-action-digg btn-story-action-digg-Xpiw6i">
+<div class="btn-story-action-off">
+<div class="story-score">
+<div class="story-score-Xpiw6i">110</div>
+</div>
+<div class="story-digg-label">Digg</div>
+</div>
+<div class="btn-story-action-on">
+<div class="story-score">
+<div class="story-score-Xpiw6i">110</div>
+</div>
+<div class="story-digg-label">Dugg</div>
+</div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-save">
+<div class="btn-story-action btn-story-action-save btn-story-action-save-Xpiw6i">
+<div class="btn-story-action-off"><b>Save</b></div>
+<div class="btn-story-action-on"><b>Saved</b></div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-share">
+<div class="tooltip tooltip-grey tooltip-bottom tooltip-fade tooltip-story-share">
+<ul class="plain-list">
+<li class="story-share-tweet"><a href="https://twitter.com/intent/tweet?url=http://on.digg.com/Xpiw6i&amp;via=Digg&amp;text=How Two Guys Turned 'Grand Theft Auto' Into A Cultural Phenomenon" class="btn-share-story-link share-story-link" data-contenturl="http://www.guardian.co.uk/media/2012/nov/18/dan-houser-grand-theft-auto" data-position="3">Tweet this</a></li>
+<li class="story-share-fb"><a href="https://www.facebook.com/dialog/feed?display=popup&amp;app_id=123277257693179&amp;link=http://on.digg.com/Xpiw6i&amp;redirect_uri=http://digg.com/fbshare" class="btn-share-story-link share-story-link" data-contenturl="http://www.guardian.co.uk/media/2012/nov/18/dan-houser-grand-theft-auto" data-position="3">Share to Facebook</a></li>
+</ul>
+</div>
+<div class="btn-story-action-share">
+<div class="btn-story-action-off"><b>Share</b></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+<div class="digg-story-el story-container story-TNIESl story-col-1" data-content-id="TNIESl" data-contenturl="http://blogs.scientificamerican.com/talking-back/2012/11/16/einsteins-brain-more-special-than-we-ever-knew/" data-position="4" data-diggs="26" data-tweets="132" data-fb-shares="1,950" data-digg-score="2,108">
+<div class="story-details">
+
+
+<div class="story-image">
+<a data-position="4" data-content-id="TNIESl" class="story-link" href="http://blogs.scientificamerican.com/talking-back/2012/11/16/einsteins-brain-more-special-than-we-ever-knew/"><img src="http://static.digg.com/images/TNIESl_1_www_large_thumb.jpeg" alt="" width="312" height="170" /><div class="story-image-shadow" style="width:310px;height:168px;"></div>
+</a>
+</div>
+
+
+
+<div class="story-kicker">
+ROOTS OF GENIUS
+</div>
+
+<div class="story-headline">
+<a data-position="4" data-content-id="TNIESl" class="story-link" href="http://blogs.scientificamerican.com/talking-back/2012/11/16/einsteins-brain-more-special-than-we-ever-knew/">
+
+Einstein's Brain More Special Than We Ever Knew
+
+</a>
+</div>
+<div class="story-domain">
+<a data-position="4" data-content-id="TNIESl" class="story-link" href="http://blogs.scientificamerican.com/talking-back/2012/11/16/einsteins-brain-more-special-than-we-ever-knew/">blogs.scientificamerican.com</a> 
+</div>
+
+<div class="story-preview">Ever since his death in 1955, scientists have asked what features of Einstein’s brain contributed to his extraordinary insights into physical laws.</div>
+
+<ul class="story-actions">
+<li class="btn-story-action-container btn-story-action-container-digg">
+<div class="story-score-details">
+<ul class="story-score-details-list">
+<li class="story-score-thumb-TNIESl story-score-thumb">26</li>
+<li class="story-score-tweets-TNIESl story-score-twitter">132</li>
+<li class="story-score-fb_shares-TNIESl story-score-facebook">1,950</li>
+</ul>
+</div>
+<div class="btn-story-action btn-story-action-digg btn-story-action-digg-TNIESl">
+<div class="btn-story-action-off">
+<div class="story-score">
+<div class="story-score-TNIESl">2,108</div>
+</div>
+<div class="story-digg-label">Digg</div>
+</div>
+<div class="btn-story-action-on">
+<div class="story-score">
+<div class="story-score-TNIESl">2,108</div>
+</div>
+<div class="story-digg-label">Dugg</div>
+</div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-save">
+<div class="btn-story-action btn-story-action-save btn-story-action-save-TNIESl">
+<div class="btn-story-action-off"><b>Save</b></div>
+<div class="btn-story-action-on"><b>Saved</b></div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-share">
+<div class="tooltip tooltip-grey tooltip-bottom tooltip-fade tooltip-story-share">
+<ul class="plain-list">
+<li class="story-share-tweet"><a href="https://twitter.com/intent/tweet?url=http://on.digg.com/TNIESl&amp;via=Digg&amp;text=Einstein's Brain More Special Than We Ever Knew" class="btn-share-story-link share-story-link" data-contenturl="http://blogs.scientificamerican.com/talking-back/2012/11/16/einsteins-brain-more-special-than-we-ever-knew/" data-position="4">Tweet this</a></li>
+<li class="story-share-fb"><a href="https://www.facebook.com/dialog/feed?display=popup&amp;app_id=123277257693179&amp;link=http://on.digg.com/TNIESl&amp;redirect_uri=http://digg.com/fbshare" class="btn-share-story-link share-story-link" data-contenturl="http://blogs.scientificamerican.com/talking-back/2012/11/16/einsteins-brain-more-special-than-we-ever-knew/" data-position="4">Share to Facebook</a></li>
+</ul>
+</div>
+<div class="btn-story-action-share">
+<div class="btn-story-action-off"><b>Share</b></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+<div class="digg-story-el story-container story-SWHa7b story-col-2" data-content-id="SWHa7b" data-contenturl="http://techcrunch.com/2012/11/18/corruption-or-carelessness-gop-deletes-their-own-progressive-patent-reform-report/" data-position="5" data-diggs="10" data-tweets="386" data-fb-shares="75" data-digg-score="471">
+<div class="story-details">
+
+
+<div class="story-image">
+<a data-position="5" data-content-id="SWHa7b" class="story-link" href="http://techcrunch.com/2012/11/18/corruption-or-carelessness-gop-deletes-their-own-progressive-patent-reform-report/"><img src="http://static.digg.com/images/SWHa7b_1_www_large_thumb.jpeg" alt="" width="312" height="170" /><div class="story-image-shadow" style="width:310px;height:168px;"></div>
+</a>
+</div>
+
+
+
+<div class="story-kicker">
+CORRUPTION OR CARELESSNESS?
+</div>
+
+<div class="story-headline">
+<a data-position="5" data-content-id="SWHa7b" class="story-link" href="http://techcrunch.com/2012/11/18/corruption-or-carelessness-gop-deletes-their-own-progressive-patent-reform-report/">
+
+GOP Deletes Its Own Progressive Patent Reform Report
+
+</a>
+</div>
+<div class="story-domain">
+<a data-position="5" data-content-id="SWHa7b" class="story-link" href="http://techcrunch.com/2012/11/18/corruption-or-carelessness-gop-deletes-their-own-progressive-patent-reform-report/">techcrunch.com</a> 
+</div>
+
+<div class="story-preview">A remarkably bold policy report calling for radical changes to the patent system has been deleted from a Republican Congressional website, just 24 hours after it was released.</div>
+
+<ul class="story-actions">
+<li class="btn-story-action-container btn-story-action-container-digg">
+<div class="story-score-details">
+<ul class="story-score-details-list">
+<li class="story-score-thumb-SWHa7b story-score-thumb">10</li>
+<li class="story-score-tweets-SWHa7b story-score-twitter">386</li>
+<li class="story-score-fb_shares-SWHa7b story-score-facebook">75</li>
+</ul>
+</div>
+<div class="btn-story-action btn-story-action-digg btn-story-action-digg-SWHa7b">
+<div class="btn-story-action-off">
+<div class="story-score">
+<div class="story-score-SWHa7b">471</div>
+</div>
+<div class="story-digg-label">Digg</div>
+</div>
+<div class="btn-story-action-on">
+<div class="story-score">
+<div class="story-score-SWHa7b">471</div>
+</div>
+<div class="story-digg-label">Dugg</div>
+</div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-save">
+<div class="btn-story-action btn-story-action-save btn-story-action-save-SWHa7b">
+<div class="btn-story-action-off"><b>Save</b></div>
+<div class="btn-story-action-on"><b>Saved</b></div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-share">
+<div class="tooltip tooltip-grey tooltip-bottom tooltip-fade tooltip-story-share">
+<ul class="plain-list">
+<li class="story-share-tweet"><a href="https://twitter.com/intent/tweet?url=http://on.digg.com/SWHa7b&amp;via=Digg&amp;text=GOP Deletes Its Own Progressive Patent Reform Report" class="btn-share-story-link share-story-link" data-contenturl="http://techcrunch.com/2012/11/18/corruption-or-carelessness-gop-deletes-their-own-progressive-patent-reform-report/" data-position="5">Tweet this</a></li>
+<li class="story-share-fb"><a href="https://www.facebook.com/dialog/feed?display=popup&amp;app_id=123277257693179&amp;link=http://on.digg.com/SWHa7b&amp;redirect_uri=http://digg.com/fbshare" class="btn-share-story-link share-story-link" data-contenturl="http://techcrunch.com/2012/11/18/corruption-or-carelessness-gop-deletes-their-own-progressive-patent-reform-report/" data-position="5">Share to Facebook</a></li>
+</ul>
+</div>
+<div class="btn-story-action-share">
+<div class="btn-story-action-off"><b>Share</b></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+<div class="digg-story-el story-container story-FQBpDO story-col-0" data-content-id="FQBpDO" data-contenturl="http://www.lifeslittlemysteries.com/165-whats-the-coolest-place-in-the-universe.html" data-position="6" data-diggs="11" data-tweets="11" data-fb-shares="155" data-digg-score="177">
+<div class="story-details">
+
+
+<div class="story-image">
+<a data-position="6" data-content-id="FQBpDO" class="story-link" href="http://www.lifeslittlemysteries.com/165-whats-the-coolest-place-in-the-universe.html"><img src="http://static.digg.com/images/FQBpDO_1_www_large_thumb.jpeg" alt="" width="312" height="170" /><div class="story-image-shadow" style="width:310px;height:168px;"></div>
+</a>
+</div>
+
+
+
+<div class="story-kicker">
+NEARLY ABSOLUTE ZERO
+</div>
+
+<div class="story-headline">
+<a data-position="6" data-content-id="FQBpDO" class="story-link" href="http://www.lifeslittlemysteries.com/165-whats-the-coolest-place-in-the-universe.html">
+
+What's The Coolest Place In The Universe
+
+</a>
+</div>
+<div class="story-domain">
+<a data-position="6" data-content-id="FQBpDO" class="story-link" href="http://www.lifeslittlemysteries.com/165-whats-the-coolest-place-in-the-universe.html">lifeslittlemysteries.com</a> 
+</div>
+
+<div class="story-preview">The coldest place known is inside the Boomerang Nebula. It is in the constellation of Centaurus, 5000 light-years from Earth.</div>
+
+<ul class="story-actions">
+<li class="btn-story-action-container btn-story-action-container-digg">
+<div class="story-score-details">
+<ul class="story-score-details-list">
+<li class="story-score-thumb-FQBpDO story-score-thumb">11</li>
+<li class="story-score-tweets-FQBpDO story-score-twitter">11</li>
+<li class="story-score-fb_shares-FQBpDO story-score-facebook">155</li>
+</ul>
+</div>
+<div class="btn-story-action btn-story-action-digg btn-story-action-digg-FQBpDO">
+<div class="btn-story-action-off">
+<div class="story-score">
+<div class="story-score-FQBpDO">177</div>
+</div>
+<div class="story-digg-label">Digg</div>
+</div>
+<div class="btn-story-action-on">
+<div class="story-score">
+<div class="story-score-FQBpDO">177</div>
+</div>
+<div class="story-digg-label">Dugg</div>
+</div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-save">
+<div class="btn-story-action btn-story-action-save btn-story-action-save-FQBpDO">
+<div class="btn-story-action-off"><b>Save</b></div>
+<div class="btn-story-action-on"><b>Saved</b></div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-share">
+<div class="tooltip tooltip-grey tooltip-bottom tooltip-fade tooltip-story-share">
+<ul class="plain-list">
+<li class="story-share-tweet"><a href="https://twitter.com/intent/tweet?url=http://on.digg.com/FQBpDO&amp;via=Digg&amp;text=What's The Coolest Place In The Universe" class="btn-share-story-link share-story-link" data-contenturl="http://www.lifeslittlemysteries.com/165-whats-the-coolest-place-in-the-universe.html" data-position="6">Tweet this</a></li>
+<li class="story-share-fb"><a href="https://www.facebook.com/dialog/feed?display=popup&amp;app_id=123277257693179&amp;link=http://on.digg.com/FQBpDO&amp;redirect_uri=http://digg.com/fbshare" class="btn-share-story-link share-story-link" data-contenturl="http://www.lifeslittlemysteries.com/165-whats-the-coolest-place-in-the-universe.html" data-position="6">Share to Facebook</a></li>
+</ul>
+</div>
+<div class="btn-story-action-share">
+<div class="btn-story-action-off"><b>Share</b></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+<div class="digg-story-el story-container story-XpthWl story-col-1" data-content-id="XpthWl" data-contenturl="http://arstechnica.com/information-technology/2012/11/romney-campaign-got-its-it-from-best-buy-staples-and-friends/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+arstechnica%2Findex+%28Ars+Technica+-+All+content%29" data-position="7" data-diggs="16" data-tweets="344" data-fb-shares="385" data-digg-score="745">
+<div class="story-details">
+
+
+<div class="story-image">
+<a data-position="7" data-content-id="XpthWl" class="story-link" href="http://arstechnica.com/information-technology/2012/11/romney-campaign-got-its-it-from-best-buy-staples-and-friends/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+arstechnica%2Findex+%28Ars+Technica+-+All+content%29"><img src="http://static.digg.com/images/XpthWl_2_www_large_thumb.jpeg" alt="" width="312" height="170" /><div class="story-image-shadow" style="width:310px;height:168px;"></div>
+</a>
+</div>
+
+
+
+<div class="story-kicker">
+GEEK SQUAD DOES NOT WIN ELECTIONS
+</div>
+
+<div class="story-headline">
+<a data-position="7" data-content-id="XpthWl" class="story-link" href="http://arstechnica.com/information-technology/2012/11/romney-campaign-got-its-it-from-best-buy-staples-and-friends/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+arstechnica%2Findex+%28Ars+Technica+-+All+content%29">
+
+Romney Campaign Got Its IT From Best Buy, Staples And Friends
+
+</a>
+</div>
+<div class="story-domain">
+<a data-position="7" data-content-id="XpthWl" class="story-link" href="http://arstechnica.com/information-technology/2012/11/romney-campaign-got-its-it-from-best-buy-staples-and-friends/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+arstechnica%2Findex+%28Ars+Technica+-+All+content%29">arstechnica.com</a> 
+</div>
+
+<div class="story-preview">MindShift Technologies and small firms handled most of campaign's internal tech.</div>
+
+<ul class="story-actions">
+<li class="btn-story-action-container btn-story-action-container-digg">
+<div class="story-score-details">
+<ul class="story-score-details-list">
+<li class="story-score-thumb-XpthWl story-score-thumb">16</li>
+<li class="story-score-tweets-XpthWl story-score-twitter">344</li>
+<li class="story-score-fb_shares-XpthWl story-score-facebook">385</li>
+</ul>
+</div>
+<div class="btn-story-action btn-story-action-digg btn-story-action-digg-XpthWl">
+<div class="btn-story-action-off">
+<div class="story-score">
+<div class="story-score-XpthWl">745</div>
+</div>
+<div class="story-digg-label">Digg</div>
+</div>
+<div class="btn-story-action-on">
+<div class="story-score">
+<div class="story-score-XpthWl">745</div>
+</div>
+<div class="story-digg-label">Dugg</div>
+</div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-save">
+<div class="btn-story-action btn-story-action-save btn-story-action-save-XpthWl">
+<div class="btn-story-action-off"><b>Save</b></div>
+<div class="btn-story-action-on"><b>Saved</b></div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-share">
+<div class="tooltip tooltip-grey tooltip-bottom tooltip-fade tooltip-story-share">
+<ul class="plain-list">
+<li class="story-share-tweet"><a href="https://twitter.com/intent/tweet?url=http://on.digg.com/XpthWl&amp;via=Digg&amp;text=Romney Campaign Got Its IT From Best Buy, Staples And Friends" class="btn-share-story-link share-story-link" data-contenturl="http://arstechnica.com/information-technology/2012/11/romney-campaign-got-its-it-from-best-buy-staples-and-friends/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+arstechnica%2Findex+%28Ars+Technica+-+All+content%29" data-position="7">Tweet this</a></li>
+<li class="story-share-fb"><a href="https://www.facebook.com/dialog/feed?display=popup&amp;app_id=123277257693179&amp;link=http://on.digg.com/XpthWl&amp;redirect_uri=http://digg.com/fbshare" class="btn-share-story-link share-story-link" data-contenturl="http://arstechnica.com/information-technology/2012/11/romney-campaign-got-its-it-from-best-buy-staples-and-friends/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+arstechnica%2Findex+%28Ars+Technica+-+All+content%29" data-position="7">Share to Facebook</a></li>
+</ul>
+</div>
+<div class="btn-story-action-share">
+<div class="btn-story-action-off"><b>Share</b></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+<div class="digg-story-el story-container story-T9yCfY story-col-2" data-content-id="T9yCfY" data-contenturl="http://www.cracked.com/article_19887_6-baffling-modern-day-disasters-biblical-proportions.html" data-position="8" data-diggs="17" data-tweets="54" data-fb-shares="1,296" data-digg-score="1,367">
+<div class="story-details">
+
+
+<div class="story-image">
+<a data-position="8" data-content-id="T9yCfY" class="story-link" href="http://www.cracked.com/article_19887_6-baffling-modern-day-disasters-biblical-proportions.html"><img src="http://static.digg.com/images/T9yCfY_1_www_large_thumb.jpeg" alt="" width="312" height="170" /><div class="story-image-shadow" style="width:310px;height:168px;"></div>
+</a>
+</div>
+
+
+
+<div class="story-kicker">
+A FIRE TORNADO THAT KILLED 38,000 PEOPLE
+</div>
+
+<div class="story-headline">
+<a data-position="8" data-content-id="T9yCfY" class="story-link" href="http://www.cracked.com/article_19887_6-baffling-modern-day-disasters-biblical-proportions.html">
+
+6 Baffling Modern-Day Disasters Of Biblical Proportions
+
+</a>
+</div>
+<div class="story-domain">
+<a data-position="8" data-content-id="T9yCfY" class="story-link" href="http://www.cracked.com/article_19887_6-baffling-modern-day-disasters-biblical-proportions.html">cracked.com</a> 
+</div>
+
+<div class="story-preview">The disasters that happened in the Bible tended to be pretty weird -- you knew it wasn't just a regular storm when the clouds dropped frogs and the seas turned to blood. That's the kind of stuff that just never happens anymore. Well, almost never.</div>
+
+<ul class="story-actions">
+<li class="btn-story-action-container btn-story-action-container-digg">
+<div class="story-score-details">
+<ul class="story-score-details-list">
+<li class="story-score-thumb-T9yCfY story-score-thumb">17</li>
+<li class="story-score-tweets-T9yCfY story-score-twitter">54</li>
+<li class="story-score-fb_shares-T9yCfY story-score-facebook">1,296</li>
+</ul>
+</div>
+<div class="btn-story-action btn-story-action-digg btn-story-action-digg-T9yCfY">
+<div class="btn-story-action-off">
+<div class="story-score">
+<div class="story-score-T9yCfY">1,367</div>
+</div>
+<div class="story-digg-label">Digg</div>
+</div>
+<div class="btn-story-action-on">
+<div class="story-score">
+<div class="story-score-T9yCfY">1,367</div>
+</div>
+<div class="story-digg-label">Dugg</div>
+</div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-save">
+<div class="btn-story-action btn-story-action-save btn-story-action-save-T9yCfY">
+<div class="btn-story-action-off"><b>Save</b></div>
+<div class="btn-story-action-on"><b>Saved</b></div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-share">
+<div class="tooltip tooltip-grey tooltip-bottom tooltip-fade tooltip-story-share">
+<ul class="plain-list">
+<li class="story-share-tweet"><a href="https://twitter.com/intent/tweet?url=http://on.digg.com/T9yCfY&amp;via=Digg&amp;text=6 Baffling Modern-Day Disasters Of Biblical Proportions" class="btn-share-story-link share-story-link" data-contenturl="http://www.cracked.com/article_19887_6-baffling-modern-day-disasters-biblical-proportions.html" data-position="8">Tweet this</a></li>
+<li class="story-share-fb"><a href="https://www.facebook.com/dialog/feed?display=popup&amp;app_id=123277257693179&amp;link=http://on.digg.com/T9yCfY&amp;redirect_uri=http://digg.com/fbshare" class="btn-share-story-link share-story-link" data-contenturl="http://www.cracked.com/article_19887_6-baffling-modern-day-disasters-biblical-proportions.html" data-position="8">Share to Facebook</a></li>
+</ul>
+</div>
+<div class="btn-story-action-share">
+<div class="btn-story-action-off"><b>Share</b></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+<div class="digg-story-el story-container story-S4XRyq story-col-0" data-content-id="S4XRyq" data-contenturl="http://www.businessinsider.com/supercell-is-suddenly-worth-600-million-2012-11?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+typepad%2Falleyinsider%2Fsilicon_alley_insider+%28Silicon+Alley+Insider%29" data-position="9" data-diggs="10" data-tweets="279" data-fb-shares="317" data-digg-score="606">
+<div class="story-details">
+
+
+<div class="story-image">
+<a data-position="9" data-content-id="S4XRyq" class="story-link" href="http://www.businessinsider.com/supercell-is-suddenly-worth-600-million-2012-11?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+typepad%2Falleyinsider%2Fsilicon_alley_insider+%28Silicon+Alley+Insider%29"><img src="http://static.digg.com/images/S4XRyq_1_www_large_thumb.jpeg" alt="" width="312" height="170" /><div class="story-image-shadow" style="width:310px;height:168px;"></div>
+</a>
+</div>
+
+
+
+<div class="story-kicker">
+TOO LATE TO INVEST
+</div>
+
+<div class="story-headline">
+<a data-position="9" data-content-id="S4XRyq" class="story-link" href="http://www.businessinsider.com/supercell-is-suddenly-worth-600-million-2012-11?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+typepad%2Falleyinsider%2Fsilicon_alley_insider+%28Silicon+Alley+Insider%29">
+
+A Startup You've Never Heard Of Called Supercell Is Suddenly Worth $600 Million
+
+</a>
+</div>
+<div class="story-domain">
+<a data-position="9" data-content-id="S4XRyq" class="story-link" href="http://www.businessinsider.com/supercell-is-suddenly-worth-600-million-2012-11?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+typepad%2Falleyinsider%2Fsilicon_alley_insider+%28Silicon+Alley+Insider%29">businessinsider.com</a> 
+</div>
+
+<div class="story-preview">The 60-person gaming company is rolling in revenue, so much so that it makes many Silicon Valley app companies &quot;look like a humble paper route.&quot;</div>
+
+<ul class="story-actions">
+<li class="btn-story-action-container btn-story-action-container-digg">
+<div class="story-score-details">
+<ul class="story-score-details-list">
+<li class="story-score-thumb-S4XRyq story-score-thumb">10</li>
+<li class="story-score-tweets-S4XRyq story-score-twitter">279</li>
+<li class="story-score-fb_shares-S4XRyq story-score-facebook">317</li>
+</ul>
+</div>
+<div class="btn-story-action btn-story-action-digg btn-story-action-digg-S4XRyq">
+<div class="btn-story-action-off">
+<div class="story-score">
+<div class="story-score-S4XRyq">606</div>
+</div>
+<div class="story-digg-label">Digg</div>
+</div>
+<div class="btn-story-action-on">
+<div class="story-score">
+<div class="story-score-S4XRyq">606</div>
+</div>
+<div class="story-digg-label">Dugg</div>
+</div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-save">
+<div class="btn-story-action btn-story-action-save btn-story-action-save-S4XRyq">
+<div class="btn-story-action-off"><b>Save</b></div>
+<div class="btn-story-action-on"><b>Saved</b></div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-share">
+<div class="tooltip tooltip-grey tooltip-bottom tooltip-fade tooltip-story-share">
+<ul class="plain-list">
+<li class="story-share-tweet"><a href="https://twitter.com/intent/tweet?url=http://on.digg.com/S4XRyq&amp;via=Digg&amp;text=A Startup You've Never Heard Of Called Supercell Is Suddenly Worth $600 Million" class="btn-share-story-link share-story-link" data-contenturl="http://www.businessinsider.com/supercell-is-suddenly-worth-600-million-2012-11?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+typepad%2Falleyinsider%2Fsilicon_alley_insider+%28Silicon+Alley+Insider%29" data-position="9">Tweet this</a></li>
+<li class="story-share-fb"><a href="https://www.facebook.com/dialog/feed?display=popup&amp;app_id=123277257693179&amp;link=http://on.digg.com/S4XRyq&amp;redirect_uri=http://digg.com/fbshare" class="btn-share-story-link share-story-link" data-contenturl="http://www.businessinsider.com/supercell-is-suddenly-worth-600-million-2012-11?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+typepad%2Falleyinsider%2Fsilicon_alley_insider+%28Silicon+Alley+Insider%29" data-position="9">Share to Facebook</a></li>
+</ul>
+</div>
+<div class="btn-story-action-share">
+<div class="btn-story-action-off"><b>Share</b></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+<div class="digg-story-el story-container story-SWySMD story-col-1" data-content-id="SWySMD" data-contenturl="http://news.cnet.com/8301-17938_105-57551534-1/steve-jobs-yacht-gives-insights-into-his-design-process/" data-position="10" data-diggs="24" data-tweets="181" data-fb-shares="76" data-digg-score="281">
+<div class="story-details">
+
+
+<div class="story-image">
+<a data-position="10" data-content-id="SWySMD" class="story-link" href="http://news.cnet.com/8301-17938_105-57551534-1/steve-jobs-yacht-gives-insights-into-his-design-process/"><img src="http://static.digg.com/images/SWySMD_1_www_large_thumb.jpeg" alt="" width="312" height="170" /><div class="story-image-shadow" style="width:310px;height:168px;"></div>
+</a>
+</div>
+
+
+
+<div class="story-kicker">
+iYACHT
+</div>
+
+<div class="story-headline">
+<a data-position="10" data-content-id="SWySMD" class="story-link" href="http://news.cnet.com/8301-17938_105-57551534-1/steve-jobs-yacht-gives-insights-into-his-design-process/">
+
+Steve Jobs' Yacht Gives Insights Into His Design Process
+
+</a>
+</div>
+<div class="story-domain">
+<a data-position="10" data-content-id="SWySMD" class="story-link" href="http://news.cnet.com/8301-17938_105-57551534-1/steve-jobs-yacht-gives-insights-into-his-design-process/">news.cnet.com</a> 
+</div>
+
+<div class="story-preview">Jobs and noted designer Philippe Starck spent five years working out the details of the super yacht Venus.</div>
+
+<ul class="story-actions">
+<li class="btn-story-action-container btn-story-action-container-digg">
+<div class="story-score-details">
+<ul class="story-score-details-list">
+<li class="story-score-thumb-SWySMD story-score-thumb">24</li>
+<li class="story-score-tweets-SWySMD story-score-twitter">181</li>
+<li class="story-score-fb_shares-SWySMD story-score-facebook">76</li>
+</ul>
+</div>
+<div class="btn-story-action btn-story-action-digg btn-story-action-digg-SWySMD">
+<div class="btn-story-action-off">
+<div class="story-score">
+<div class="story-score-SWySMD">281</div>
+</div>
+<div class="story-digg-label">Digg</div>
+</div>
+<div class="btn-story-action-on">
+<div class="story-score">
+<div class="story-score-SWySMD">281</div>
+</div>
+<div class="story-digg-label">Dugg</div>
+</div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-save">
+<div class="btn-story-action btn-story-action-save btn-story-action-save-SWySMD">
+<div class="btn-story-action-off"><b>Save</b></div>
+<div class="btn-story-action-on"><b>Saved</b></div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-share">
+<div class="tooltip tooltip-grey tooltip-bottom tooltip-fade tooltip-story-share">
+<ul class="plain-list">
+<li class="story-share-tweet"><a href="https://twitter.com/intent/tweet?url=http://on.digg.com/SWySMD&amp;via=Digg&amp;text=Steve Jobs' Yacht Gives Insights Into His Design Process" class="btn-share-story-link share-story-link" data-contenturl="http://news.cnet.com/8301-17938_105-57551534-1/steve-jobs-yacht-gives-insights-into-his-design-process/" data-position="10">Tweet this</a></li>
+<li class="story-share-fb"><a href="https://www.facebook.com/dialog/feed?display=popup&amp;app_id=123277257693179&amp;link=http://on.digg.com/SWySMD&amp;redirect_uri=http://digg.com/fbshare" class="btn-share-story-link share-story-link" data-contenturl="http://news.cnet.com/8301-17938_105-57551534-1/steve-jobs-yacht-gives-insights-into-his-design-process/" data-position="10">Share to Facebook</a></li>
+</ul>
+</div>
+<div class="btn-story-action-share">
+<div class="btn-story-action-off"><b>Share</b></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+<div class="digg-story-el story-container story-S4VyLV story-col-2" data-content-id="S4VyLV" data-contenturl="http://www.bbc.co.uk/news/uk-scotland-glasgow-west-20377784" data-position="11" data-diggs="19" data-tweets="0" data-fb-shares="0" data-digg-score="19">
+<div class="story-details">
+
+
+<div class="story-image">
+<a data-position="11" data-content-id="S4VyLV" class="story-link" href="http://www.bbc.co.uk/news/uk-scotland-glasgow-west-20377784"><img src="http://static.digg.com/images/S4VyLV_1_www_large_thumb.jpeg" alt="" width="312" height="170" /><div class="story-image-shadow" style="width:310px;height:168px;"></div>
+</a>
+</div>
+
+
+
+<div class="story-kicker">
+FAITH IN HUMANITY RESTORED
+</div>
+
+<div class="story-headline">
+<a data-position="11" data-content-id="S4VyLV" class="story-link" href="http://www.bbc.co.uk/news/uk-scotland-glasgow-west-20377784">
+
+ATM Gives Out Free Cash, People Form Orderly Line
+
+</a>
+</div>
+<div class="story-domain">
+<a data-position="11" data-content-id="S4VyLV" class="story-link" href="http://www.bbc.co.uk/news/uk-scotland-glasgow-west-20377784">bbc.co.uk</a> 
+</div>
+
+<div class="story-preview">Dozens of people have been queuing to withdraw money after a bank machine began dispensing extra cash.</div>
+
+<ul class="story-actions">
+<li class="btn-story-action-container btn-story-action-container-digg">
+<div class="story-score-details">
+<ul class="story-score-details-list">
+<li class="story-score-thumb-S4VyLV story-score-thumb">19</li>
+<li class="story-score-tweets-S4VyLV story-score-twitter">0</li>
+<li class="story-score-fb_shares-S4VyLV story-score-facebook">0</li>
+</ul>
+</div>
+<div class="btn-story-action btn-story-action-digg btn-story-action-digg-S4VyLV">
+<div class="btn-story-action-off">
+<div class="story-score">
+<div class="story-score-S4VyLV">19</div>
+</div>
+<div class="story-digg-label">Digg</div>
+</div>
+<div class="btn-story-action-on">
+<div class="story-score">
+<div class="story-score-S4VyLV">19</div>
+</div>
+<div class="story-digg-label">Dugg</div>
+</div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-save">
+<div class="btn-story-action btn-story-action-save btn-story-action-save-S4VyLV">
+<div class="btn-story-action-off"><b>Save</b></div>
+<div class="btn-story-action-on"><b>Saved</b></div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-share">
+<div class="tooltip tooltip-grey tooltip-bottom tooltip-fade tooltip-story-share">
+<ul class="plain-list">
+<li class="story-share-tweet"><a href="https://twitter.com/intent/tweet?url=http://on.digg.com/S4VyLV&amp;via=Digg&amp;text=ATM Gives Out Free Cash, People Form Orderly Line" class="btn-share-story-link share-story-link" data-contenturl="http://www.bbc.co.uk/news/uk-scotland-glasgow-west-20377784" data-position="11">Tweet this</a></li>
+<li class="story-share-fb"><a href="https://www.facebook.com/dialog/feed?display=popup&amp;app_id=123277257693179&amp;link=http://on.digg.com/S4VyLV&amp;redirect_uri=http://digg.com/fbshare" class="btn-share-story-link share-story-link" data-contenturl="http://www.bbc.co.uk/news/uk-scotland-glasgow-west-20377784" data-position="11">Share to Facebook</a></li>
+</ul>
+</div>
+<div class="btn-story-action-share">
+<div class="btn-story-action-off"><b>Share</b></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+<div class="digg-story-el story-container story-U8EjeH story-col-0" data-content-id="U8EjeH" data-contenturl="http://www.youtube.com/watch?feature=player_embedded&amp;v=NFR-ADakI-c" data-position="12" data-diggs="17" data-tweets="0" data-fb-shares="0" data-digg-score="17">
+<div class="story-details">
+
+
+<div class="story-image">
+<a data-position="12" data-content-id="U8EjeH" class="story-link" href="http://www.youtube.com/watch?feature=player_embedded&amp;v=NFR-ADakI-c"><img src="http://static.digg.com/images/U8EjeH_1_www_large_thumb.jpeg" alt="" width="312" height="170" /><div class="story-image-shadow" style="width:310px;height:168px;"></div>
+</a>
+</div>
+
+
+
+<div class="story-kicker">
+TAKES ABOUT THREE AND A HALF HOURS
+</div>
+
+<div class="story-headline">
+<a data-position="12" data-content-id="U8EjeH" class="story-link" href="http://www.youtube.com/watch?feature=player_embedded&amp;v=NFR-ADakI-c">
+
+Watch The Longest Word In English Pronounced
+
+</a>
+</div>
+<div class="story-domain">
+<a data-position="12" data-content-id="U8EjeH" class="story-link" href="http://www.youtube.com/watch?feature=player_embedded&amp;v=NFR-ADakI-c">youtube.com</a> 
+</div>
+
+<div class="story-preview">The official name for the protein titin is technically the longest word in English.</div>
+
+<ul class="story-actions">
+<li class="btn-story-action-container btn-story-action-container-digg">
+<div class="story-score-details">
+<ul class="story-score-details-list">
+<li class="story-score-thumb-U8EjeH story-score-thumb">17</li>
+<li class="story-score-tweets-U8EjeH story-score-twitter">0</li>
+<li class="story-score-fb_shares-U8EjeH story-score-facebook">0</li>
+</ul>
+</div>
+<div class="btn-story-action btn-story-action-digg btn-story-action-digg-U8EjeH">
+<div class="btn-story-action-off">
+<div class="story-score">
+<div class="story-score-U8EjeH">17</div>
+</div>
+<div class="story-digg-label">Digg</div>
+</div>
+<div class="btn-story-action-on">
+<div class="story-score">
+<div class="story-score-U8EjeH">17</div>
+</div>
+<div class="story-digg-label">Dugg</div>
+</div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-save">
+<div class="btn-story-action btn-story-action-save btn-story-action-save-U8EjeH">
+<div class="btn-story-action-off"><b>Save</b></div>
+<div class="btn-story-action-on"><b>Saved</b></div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-share">
+<div class="tooltip tooltip-grey tooltip-bottom tooltip-fade tooltip-story-share">
+<ul class="plain-list">
+<li class="story-share-tweet"><a href="https://twitter.com/intent/tweet?url=http://on.digg.com/U8EjeH&amp;via=Digg&amp;text=Watch The Longest Word In English Pronounced" class="btn-share-story-link share-story-link" data-contenturl="http://www.youtube.com/watch?feature=player_embedded&amp;v=NFR-ADakI-c" data-position="12">Tweet this</a></li>
+<li class="story-share-fb"><a href="https://www.facebook.com/dialog/feed?display=popup&amp;app_id=123277257693179&amp;link=http://on.digg.com/U8EjeH&amp;redirect_uri=http://digg.com/fbshare" class="btn-share-story-link share-story-link" data-contenturl="http://www.youtube.com/watch?feature=player_embedded&amp;v=NFR-ADakI-c" data-position="12">Share to Facebook</a></li>
+</ul>
+</div>
+<div class="btn-story-action-share">
+<div class="btn-story-action-off"><b>Share</b></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+<div class="digg-story-el story-container story-SR8Vy3 story-col-1" data-content-id="SR8Vy3" data-contenturl="http://www.poynter.org/latest-news/regret-the-error/192540/new-editor-fergus-bell-explains-how-ap-verifies-user-generated-content-from-sandy-to-syria/" data-position="13" data-diggs="6" data-tweets="225" data-fb-shares="59" data-digg-score="290">
+<div class="story-details">
+
+
+<div class="story-image">
+<a data-position="13" data-content-id="SR8Vy3" class="story-link" href="http://www.poynter.org/latest-news/regret-the-error/192540/new-editor-fergus-bell-explains-how-ap-verifies-user-generated-content-from-sandy-to-syria/"><img src="http://static.digg.com/images/SR8Vy3_1_www_large_thumb.jpeg" alt="" width="312" height="170" /><div class="story-image-shadow" style="width:310px;height:168px;"></div>
+</a>
+</div>
+
+
+
+<div class="story-kicker">
+REAL OR FAKE?
+</div>
+
+<div class="story-headline">
+<a data-position="13" data-content-id="SR8Vy3" class="story-link" href="http://www.poynter.org/latest-news/regret-the-error/192540/new-editor-fergus-bell-explains-how-ap-verifies-user-generated-content-from-sandy-to-syria/">
+
+How The Associated Press Verifies User-Generated Content From Sandy To Syria
+
+</a>
+</div>
+<div class="story-domain">
+<a data-position="13" data-content-id="SR8Vy3" class="story-link" href="http://www.poynter.org/latest-news/regret-the-error/192540/new-editor-fergus-bell-explains-how-ap-verifies-user-generated-content-from-sandy-to-syria/">poynter.org</a> 
+</div>
+
+<div class="story-preview">A look at how the AP sifts through the deluge of UGC produced by events like Hurricane Sandy and verifies what is real and what is fake.</div>
+
+<ul class="story-actions">
+<li class="btn-story-action-container btn-story-action-container-digg">
+<div class="story-score-details">
+<ul class="story-score-details-list">
+<li class="story-score-thumb-SR8Vy3 story-score-thumb">6</li>
+<li class="story-score-tweets-SR8Vy3 story-score-twitter">225</li>
+<li class="story-score-fb_shares-SR8Vy3 story-score-facebook">59</li>
+</ul>
+</div>
+<div class="btn-story-action btn-story-action-digg btn-story-action-digg-SR8Vy3">
+<div class="btn-story-action-off">
+<div class="story-score">
+<div class="story-score-SR8Vy3">290</div>
+</div>
+<div class="story-digg-label">Digg</div>
+</div>
+<div class="btn-story-action-on">
+<div class="story-score">
+<div class="story-score-SR8Vy3">290</div>
+</div>
+<div class="story-digg-label">Dugg</div>
+</div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-save">
+<div class="btn-story-action btn-story-action-save btn-story-action-save-SR8Vy3">
+<div class="btn-story-action-off"><b>Save</b></div>
+<div class="btn-story-action-on"><b>Saved</b></div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-share">
+<div class="tooltip tooltip-grey tooltip-bottom tooltip-fade tooltip-story-share">
+<ul class="plain-list">
+<li class="story-share-tweet"><a href="https://twitter.com/intent/tweet?url=http://on.digg.com/SR8Vy3&amp;via=Digg&amp;text=How The Associated Press Verifies User-Generated Content From Sandy To Syria" class="btn-share-story-link share-story-link" data-contenturl="http://www.poynter.org/latest-news/regret-the-error/192540/new-editor-fergus-bell-explains-how-ap-verifies-user-generated-content-from-sandy-to-syria/" data-position="13">Tweet this</a></li>
+<li class="story-share-fb"><a href="https://www.facebook.com/dialog/feed?display=popup&amp;app_id=123277257693179&amp;link=http://on.digg.com/SR8Vy3&amp;redirect_uri=http://digg.com/fbshare" class="btn-share-story-link share-story-link" data-contenturl="http://www.poynter.org/latest-news/regret-the-error/192540/new-editor-fergus-bell-explains-how-ap-verifies-user-generated-content-from-sandy-to-syria/" data-position="13">Share to Facebook</a></li>
+</ul>
+</div>
+<div class="btn-story-action-share">
+<div class="btn-story-action-off"><b>Share</b></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+<div class="digg-story-el story-container story-SVqPQe story-col-2" data-content-id="SVqPQe" data-contenturl="http://www.engadget.com/wii-u-review/nintendo-wii-u-review/" data-position="14" data-diggs="35" data-tweets="510" data-fb-shares="252" data-digg-score="797">
+<div class="story-details">
+
+
+<div class="story-image">
+<a data-position="14" data-content-id="SVqPQe" class="story-link" href="http://www.engadget.com/wii-u-review/nintendo-wii-u-review/"><img src="http://static.digg.com/images/SVqPQe_1_www_large_thumb.jpeg" alt="" width="312" height="170" /><div class="story-image-shadow" style="width:310px;height:168px;"></div>
+</a>
+</div>
+
+
+
+<div class="story-kicker">
+REVIEW
+</div>
+
+<div class="story-headline">
+<a data-position="14" data-content-id="SVqPQe" class="story-link" href="http://www.engadget.com/wii-u-review/nintendo-wii-u-review/">
+
+Is The Wii U A Must-Buy?
+
+</a>
+</div>
+<div class="story-domain">
+<a data-position="14" data-content-id="SVqPQe" class="story-link" href="http://www.engadget.com/wii-u-review/nintendo-wii-u-review/">engadget.com</a> 
+</div>
+
+<div class="story-preview">Nintendo's new console is an anomaly in the game console ecosystem, but not for Nintendo.</div>
+
+<ul class="story-actions">
+<li class="btn-story-action-container btn-story-action-container-digg">
+<div class="story-score-details">
+<ul class="story-score-details-list">
+<li class="story-score-thumb-SVqPQe story-score-thumb">35</li>
+<li class="story-score-tweets-SVqPQe story-score-twitter">510</li>
+<li class="story-score-fb_shares-SVqPQe story-score-facebook">252</li>
+</ul>
+</div>
+<div class="btn-story-action btn-story-action-digg btn-story-action-digg-SVqPQe">
+<div class="btn-story-action-off">
+<div class="story-score">
+<div class="story-score-SVqPQe">797</div>
+</div>
+<div class="story-digg-label">Digg</div>
+</div>
+<div class="btn-story-action-on">
+<div class="story-score">
+<div class="story-score-SVqPQe">797</div>
+</div>
+<div class="story-digg-label">Dugg</div>
+</div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-save">
+<div class="btn-story-action btn-story-action-save btn-story-action-save-SVqPQe">
+<div class="btn-story-action-off"><b>Save</b></div>
+<div class="btn-story-action-on"><b>Saved</b></div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-share">
+<div class="tooltip tooltip-grey tooltip-bottom tooltip-fade tooltip-story-share">
+<ul class="plain-list">
+<li class="story-share-tweet"><a href="https://twitter.com/intent/tweet?url=http://on.digg.com/SVqPQe&amp;via=Digg&amp;text=Is The Wii U A Must-Buy?" class="btn-share-story-link share-story-link" data-contenturl="http://www.engadget.com/wii-u-review/nintendo-wii-u-review/" data-position="14">Tweet this</a></li>
+<li class="story-share-fb"><a href="https://www.facebook.com/dialog/feed?display=popup&amp;app_id=123277257693179&amp;link=http://on.digg.com/SVqPQe&amp;redirect_uri=http://digg.com/fbshare" class="btn-share-story-link share-story-link" data-contenturl="http://www.engadget.com/wii-u-review/nintendo-wii-u-review/" data-position="14">Share to Facebook</a></li>
+</ul>
+</div>
+<div class="btn-story-action-share">
+<div class="btn-story-action-off"><b>Share</b></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+<div class="digg-story-el story-container story-1074cwZ story-col-0" data-content-id="1074cwZ" data-contenturl="http://www.theatlantic.com/business/archive/2012/11/attention-people-buying-twinkies-for-50-online-the-twinkie-is-not-extinct/265387/" data-position="15" data-diggs="29" data-tweets="68" data-fb-shares="608" data-digg-score="705">
+<div class="story-details">
+
+
+<div class="story-image">
+<a data-position="15" data-content-id="1074cwZ" class="story-link" href="http://www.theatlantic.com/business/archive/2012/11/attention-people-buying-twinkies-for-50-online-the-twinkie-is-not-extinct/265387/"><img src="http://static.digg.com/images/1074cwZ_1_www_large_thumb.jpeg" alt="" width="312" height="170" /><div class="story-image-shadow" style="width:310px;height:168px;"></div>
+</a>
+</div>
+
+
+
+<div class="story-kicker">
+PSA FOR THOSE BUYING $50 TWINKIES
+</div>
+
+<div class="story-headline">
+<a data-position="15" data-content-id="1074cwZ" class="story-link" href="http://www.theatlantic.com/business/archive/2012/11/attention-people-buying-twinkies-for-50-online-the-twinkie-is-not-extinct/265387/">
+
+The Twinkie Is Not Extinct
+
+</a>
+</div>
+<div class="story-domain">
+<a data-position="15" data-content-id="1074cwZ" class="story-link" href="http://www.theatlantic.com/business/archive/2012/11/attention-people-buying-twinkies-for-50-online-the-twinkie-is-not-extinct/265387/">theatlantic.com</a> 
+</div>
+
+<div class="story-preview">Quick reminder: The difference between liquidation and extinction is like the difference between a fire sale and an actual fire</div>
+
+<ul class="story-actions">
+<li class="btn-story-action-container btn-story-action-container-digg">
+<div class="story-score-details">
+<ul class="story-score-details-list">
+<li class="story-score-thumb-1074cwZ story-score-thumb">29</li>
+<li class="story-score-tweets-1074cwZ story-score-twitter">68</li>
+<li class="story-score-fb_shares-1074cwZ story-score-facebook">608</li>
+</ul>
+</div>
+<div class="btn-story-action btn-story-action-digg btn-story-action-digg-1074cwZ">
+<div class="btn-story-action-off">
+<div class="story-score">
+<div class="story-score-1074cwZ">705</div>
+</div>
+<div class="story-digg-label">Digg</div>
+</div>
+<div class="btn-story-action-on">
+<div class="story-score">
+<div class="story-score-1074cwZ">705</div>
+</div>
+<div class="story-digg-label">Dugg</div>
+</div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-save">
+<div class="btn-story-action btn-story-action-save btn-story-action-save-1074cwZ">
+<div class="btn-story-action-off"><b>Save</b></div>
+<div class="btn-story-action-on"><b>Saved</b></div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-share">
+<div class="tooltip tooltip-grey tooltip-bottom tooltip-fade tooltip-story-share">
+<ul class="plain-list">
+<li class="story-share-tweet"><a href="https://twitter.com/intent/tweet?url=http://on.digg.com/1074cwZ&amp;via=Digg&amp;text=The Twinkie Is Not Extinct" class="btn-share-story-link share-story-link" data-contenturl="http://www.theatlantic.com/business/archive/2012/11/attention-people-buying-twinkies-for-50-online-the-twinkie-is-not-extinct/265387/" data-position="15">Tweet this</a></li>
+<li class="story-share-fb"><a href="https://www.facebook.com/dialog/feed?display=popup&amp;app_id=123277257693179&amp;link=http://on.digg.com/1074cwZ&amp;redirect_uri=http://digg.com/fbshare" class="btn-share-story-link share-story-link" data-contenturl="http://www.theatlantic.com/business/archive/2012/11/attention-people-buying-twinkies-for-50-online-the-twinkie-is-not-extinct/265387/" data-position="15">Share to Facebook</a></li>
+</ul>
+</div>
+<div class="btn-story-action-share">
+<div class="btn-story-action-off"><b>Share</b></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+<div class="digg-story-el story-container story-XS35CJ story-col-1" data-content-id="XS35CJ" data-contenturl="http://pandodaily.com/2012/11/18/how-a-toothbrush-explains-the-power-of-swedish-design-and-one-of-stockholms-hottest-startups/" data-position="16" data-diggs="33" data-tweets="118" data-fb-shares="167" data-digg-score="318">
+<div class="story-details">
+
+
+<div class="story-image">
+<a data-position="16" data-content-id="XS35CJ" class="story-link" href="http://pandodaily.com/2012/11/18/how-a-toothbrush-explains-the-power-of-swedish-design-and-one-of-stockholms-hottest-startups/"><img src="http://static.digg.com/images/XS35CJ_1_www_large_thumb.jpeg" alt="" width="312" height="170" /><div class="story-image-shadow" style="width:310px;height:168px;"></div>
+</a>
+</div>
+
+
+
+<div class="story-kicker">
+LESS IS MORE
+</div>
+
+<div class="story-headline">
+<a data-position="16" data-content-id="XS35CJ" class="story-link" href="http://pandodaily.com/2012/11/18/how-a-toothbrush-explains-the-power-of-swedish-design-and-one-of-stockholms-hottest-startups/">
+
+How A Toothbrush Explains The Power Of Swedish Design
+
+</a>
+</div>
+<div class="story-domain">
+<a data-position="16" data-content-id="XS35CJ" class="story-link" href="http://pandodaily.com/2012/11/18/how-a-toothbrush-explains-the-power-of-swedish-design-and-one-of-stockholms-hottest-startups/">pandodaily.com</a> 
+</div>
+
+<div class="story-preview">Although Japan and Sweden are 8,613 kilometers apart and their people are as ethnically divergent as is possible within the planet’s boundaries, the two countries share a remarkably similar aesthetic.</div>
+
+<ul class="story-actions">
+<li class="btn-story-action-container btn-story-action-container-digg">
+<div class="story-score-details">
+<ul class="story-score-details-list">
+<li class="story-score-thumb-XS35CJ story-score-thumb">33</li>
+<li class="story-score-tweets-XS35CJ story-score-twitter">118</li>
+<li class="story-score-fb_shares-XS35CJ story-score-facebook">167</li>
+</ul>
+</div>
+<div class="btn-story-action btn-story-action-digg btn-story-action-digg-XS35CJ">
+<div class="btn-story-action-off">
+<div class="story-score">
+<div class="story-score-XS35CJ">318</div>
+</div>
+<div class="story-digg-label">Digg</div>
+</div>
+<div class="btn-story-action-on">
+<div class="story-score">
+<div class="story-score-XS35CJ">318</div>
+</div>
+<div class="story-digg-label">Dugg</div>
+</div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-save">
+<div class="btn-story-action btn-story-action-save btn-story-action-save-XS35CJ">
+<div class="btn-story-action-off"><b>Save</b></div>
+<div class="btn-story-action-on"><b>Saved</b></div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-share">
+<div class="tooltip tooltip-grey tooltip-bottom tooltip-fade tooltip-story-share">
+<ul class="plain-list">
+<li class="story-share-tweet"><a href="https://twitter.com/intent/tweet?url=http://on.digg.com/XS35CJ&amp;via=Digg&amp;text=How A Toothbrush Explains The Power Of Swedish Design" class="btn-share-story-link share-story-link" data-contenturl="http://pandodaily.com/2012/11/18/how-a-toothbrush-explains-the-power-of-swedish-design-and-one-of-stockholms-hottest-startups/" data-position="16">Tweet this</a></li>
+<li class="story-share-fb"><a href="https://www.facebook.com/dialog/feed?display=popup&amp;app_id=123277257693179&amp;link=http://on.digg.com/XS35CJ&amp;redirect_uri=http://digg.com/fbshare" class="btn-share-story-link share-story-link" data-contenturl="http://pandodaily.com/2012/11/18/how-a-toothbrush-explains-the-power-of-swedish-design-and-one-of-stockholms-hottest-startups/" data-position="16">Share to Facebook</a></li>
+</ul>
+</div>
+<div class="btn-story-action-share">
+<div class="btn-story-action-off"><b>Share</b></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+<div class="digg-story-el story-container story-WlJB92 story-col-2" data-content-id="WlJB92" data-contenturl="http://gizmodo.com/5961558/android-42-is-missing-a-very-important-feature-december" data-position="17" data-diggs="25" data-tweets="745" data-fb-shares="1,522" data-digg-score="2,292">
+<div class="story-details">
+
+
+<div class="story-image">
+<a data-position="17" data-content-id="WlJB92" class="story-link" href="http://gizmodo.com/5961558/android-42-is-missing-a-very-important-feature-december"><img src="http://static.digg.com/images/WlJB92_1_www_large_thumb.jpeg" alt="" width="312" height="170" /><div class="story-image-shadow" style="width:310px;height:168px;"></div>
+</a>
+</div>
+
+
+
+<div class="story-kicker">
+GOOGLE CLEARLY HATES SANTA
+</div>
+
+<div class="story-headline">
+<a data-position="17" data-content-id="WlJB92" class="story-link" href="http://gizmodo.com/5961558/android-42-is-missing-a-very-important-feature-december">
+
+Android 4.2 Is Missing A Very Important Feature: December
+
+</a>
+</div>
+<div class="story-domain">
+<a data-position="17" data-content-id="WlJB92" class="story-link" href="http://gizmodo.com/5961558/android-42-is-missing-a-very-important-feature-december">gizmodo.com</a> 
+</div>
+
+<div class="story-preview">Android 4.2 Still-Jelly Bean is pretty sweet. You've got your Photo Sphere Camera, you've got your Gesture Keyboard. But there's one thing you might notice is missing.</div>
+
+<ul class="story-actions">
+<li class="btn-story-action-container btn-story-action-container-digg">
+<div class="story-score-details">
+<ul class="story-score-details-list">
+<li class="story-score-thumb-WlJB92 story-score-thumb">25</li>
+<li class="story-score-tweets-WlJB92 story-score-twitter">745</li>
+<li class="story-score-fb_shares-WlJB92 story-score-facebook">1,522</li>
+</ul>
+</div>
+<div class="btn-story-action btn-story-action-digg btn-story-action-digg-WlJB92">
+<div class="btn-story-action-off">
+<div class="story-score">
+<div class="story-score-WlJB92">2,292</div>
+</div>
+<div class="story-digg-label">Digg</div>
+</div>
+<div class="btn-story-action-on">
+<div class="story-score">
+<div class="story-score-WlJB92">2,292</div>
+</div>
+<div class="story-digg-label">Dugg</div>
+</div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-save">
+<div class="btn-story-action btn-story-action-save btn-story-action-save-WlJB92">
+<div class="btn-story-action-off"><b>Save</b></div>
+<div class="btn-story-action-on"><b>Saved</b></div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-share">
+<div class="tooltip tooltip-grey tooltip-bottom tooltip-fade tooltip-story-share">
+<ul class="plain-list">
+<li class="story-share-tweet"><a href="https://twitter.com/intent/tweet?url=http://on.digg.com/WlJB92&amp;via=Digg&amp;text=Android 4.2 Is Missing A Very Important Feature: December" class="btn-share-story-link share-story-link" data-contenturl="http://gizmodo.com/5961558/android-42-is-missing-a-very-important-feature-december" data-position="17">Tweet this</a></li>
+<li class="story-share-fb"><a href="https://www.facebook.com/dialog/feed?display=popup&amp;app_id=123277257693179&amp;link=http://on.digg.com/WlJB92&amp;redirect_uri=http://digg.com/fbshare" class="btn-share-story-link share-story-link" data-contenturl="http://gizmodo.com/5961558/android-42-is-missing-a-very-important-feature-december" data-position="17">Share to Facebook</a></li>
+</ul>
+</div>
+<div class="btn-story-action-share">
+<div class="btn-story-action-off"><b>Share</b></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+<div class="digg-story-el story-container story-S28HGS story-col-0" data-content-id="S28HGS" data-contenturl="http://news.yahoo.com/dolphins-found-shot-slashed-stabbed-tool-221125669.html" data-position="18" data-diggs="9" data-tweets="264" data-fb-shares="2,744" data-digg-score="3,017">
+<div class="story-details">
+
+
+<div class="story-image">
+<a data-position="18" data-content-id="S28HGS" class="story-link" href="http://news.yahoo.com/dolphins-found-shot-slashed-stabbed-tool-221125669.html"><img src="http://static.digg.com/images/S28HGS_1_www_large_thumb.jpeg" alt="" width="312" height="170" /><div class="story-image-shadow" style="width:310px;height:168px;"></div>
+</a>
+</div>
+
+
+
+<div class="story-kicker">
+THIS IS TERRIBLE
+</div>
+
+<div class="story-headline">
+<a data-position="18" data-content-id="S28HGS" class="story-link" href="http://news.yahoo.com/dolphins-found-shot-slashed-stabbed-tool-221125669.html">
+
+Dolphins Found Shot, Slashed, Stabbed With Tool
+
+</a>
+</div>
+<div class="story-domain">
+<a data-position="18" data-content-id="S28HGS" class="story-link" href="http://news.yahoo.com/dolphins-found-shot-slashed-stabbed-tool-221125669.html">news.yahoo.com</a> 
+</div>
+
+<div class="story-preview">Authorities are investigating several attacks on dolphins in the northern Gulf of Mexico after some were found with gunshot wounds, cuts and missing jaws.</div>
+
+<ul class="story-actions">
+<li class="btn-story-action-container btn-story-action-container-digg">
+<div class="story-score-details">
+<ul class="story-score-details-list">
+<li class="story-score-thumb-S28HGS story-score-thumb">9</li>
+<li class="story-score-tweets-S28HGS story-score-twitter">264</li>
+<li class="story-score-fb_shares-S28HGS story-score-facebook">2,744</li>
+</ul>
+</div>
+<div class="btn-story-action btn-story-action-digg btn-story-action-digg-S28HGS">
+<div class="btn-story-action-off">
+<div class="story-score">
+<div class="story-score-S28HGS">3,017</div>
+</div>
+<div class="story-digg-label">Digg</div>
+</div>
+<div class="btn-story-action-on">
+<div class="story-score">
+<div class="story-score-S28HGS">3,017</div>
+</div>
+<div class="story-digg-label">Dugg</div>
+</div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-save">
+<div class="btn-story-action btn-story-action-save btn-story-action-save-S28HGS">
+<div class="btn-story-action-off"><b>Save</b></div>
+<div class="btn-story-action-on"><b>Saved</b></div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-share">
+<div class="tooltip tooltip-grey tooltip-bottom tooltip-fade tooltip-story-share">
+<ul class="plain-list">
+<li class="story-share-tweet"><a href="https://twitter.com/intent/tweet?url=http://on.digg.com/S28HGS&amp;via=Digg&amp;text=Dolphins Found Shot, Slashed, Stabbed With Tool" class="btn-share-story-link share-story-link" data-contenturl="http://news.yahoo.com/dolphins-found-shot-slashed-stabbed-tool-221125669.html" data-position="18">Tweet this</a></li>
+<li class="story-share-fb"><a href="https://www.facebook.com/dialog/feed?display=popup&amp;app_id=123277257693179&amp;link=http://on.digg.com/S28HGS&amp;redirect_uri=http://digg.com/fbshare" class="btn-share-story-link share-story-link" data-contenturl="http://news.yahoo.com/dolphins-found-shot-slashed-stabbed-tool-221125669.html" data-position="18">Share to Facebook</a></li>
+</ul>
+</div>
+<div class="btn-story-action-share">
+<div class="btn-story-action-off"><b>Share</b></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+<div class="digg-story-el story-container story-T3jwq5 story-col-1" data-content-id="T3jwq5" data-contenturl="http://foodbeast.com/content/2012/11/17/meat-shot-glasses-for-bacon-flavored-vodka-shots/" data-position="19" data-diggs="15" data-tweets="34" data-fb-shares="276" data-digg-score="325">
+<div class="story-details">
+
+
+<div class="story-image">
+<a data-position="19" data-content-id="T3jwq5" class="story-link" href="http://foodbeast.com/content/2012/11/17/meat-shot-glasses-for-bacon-flavored-vodka-shots/"><img src="http://static.digg.com/images/T3jwq5_1_www_large_thumb.jpeg" alt="" width="312" height="170" /><div class="story-image-shadow" style="width:310px;height:168px;"></div>
+</a>
+</div>
+
+
+
+<div class="story-kicker">
+THE POSSIBILITIES ARE ENDLESS
+</div>
+
+<div class="story-headline">
+<a data-position="19" data-content-id="T3jwq5" class="story-link" href="http://foodbeast.com/content/2012/11/17/meat-shot-glasses-for-bacon-flavored-vodka-shots/">
+
+Meat Shot Glasses For Bacon-Flavored Vodka Shots
+
+</a>
+</div>
+<div class="story-domain">
+<a data-position="19" data-content-id="T3jwq5" class="story-link" href="http://foodbeast.com/content/2012/11/17/meat-shot-glasses-for-bacon-flavored-vodka-shots/">foodbeast.com</a> 
+</div>
+
+<div class="story-preview">These cups of ground beef can be used to consume melted cheese, bacon-flavored vodka, “enhanced” barbecue sauce, and pretty much anything else you’d want to eat  with bite-sized quantities of meat.</div>
+
+<ul class="story-actions">
+<li class="btn-story-action-container btn-story-action-container-digg">
+<div class="story-score-details">
+<ul class="story-score-details-list">
+<li class="story-score-thumb-T3jwq5 story-score-thumb">15</li>
+<li class="story-score-tweets-T3jwq5 story-score-twitter">34</li>
+<li class="story-score-fb_shares-T3jwq5 story-score-facebook">276</li>
+</ul>
+</div>
+<div class="btn-story-action btn-story-action-digg btn-story-action-digg-T3jwq5">
+<div class="btn-story-action-off">
+<div class="story-score">
+<div class="story-score-T3jwq5">325</div>
+</div>
+<div class="story-digg-label">Digg</div>
+</div>
+<div class="btn-story-action-on">
+<div class="story-score">
+<div class="story-score-T3jwq5">325</div>
+</div>
+<div class="story-digg-label">Dugg</div>
+</div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-save">
+<div class="btn-story-action btn-story-action-save btn-story-action-save-T3jwq5">
+<div class="btn-story-action-off"><b>Save</b></div>
+<div class="btn-story-action-on"><b>Saved</b></div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-share">
+<div class="tooltip tooltip-grey tooltip-bottom tooltip-fade tooltip-story-share">
+<ul class="plain-list">
+<li class="story-share-tweet"><a href="https://twitter.com/intent/tweet?url=http://on.digg.com/T3jwq5&amp;via=Digg&amp;text=Meat Shot Glasses For Bacon-Flavored Vodka Shots" class="btn-share-story-link share-story-link" data-contenturl="http://foodbeast.com/content/2012/11/17/meat-shot-glasses-for-bacon-flavored-vodka-shots/" data-position="19">Tweet this</a></li>
+<li class="story-share-fb"><a href="https://www.facebook.com/dialog/feed?display=popup&amp;app_id=123277257693179&amp;link=http://on.digg.com/T3jwq5&amp;redirect_uri=http://digg.com/fbshare" class="btn-share-story-link share-story-link" data-contenturl="http://foodbeast.com/content/2012/11/17/meat-shot-glasses-for-bacon-flavored-vodka-shots/" data-position="19">Share to Facebook</a></li>
+</ul>
+</div>
+<div class="btn-story-action-share">
+<div class="btn-story-action-off"><b>Share</b></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+<div class="digg-story-el story-container story-SUYsBy story-col-2" data-content-id="SUYsBy" data-contenturl="http://news.cnet.com/8301-17852_3-57551505-71/british-airways-lofts-spectacular-four-letter-retweet/" data-position="20" data-diggs="17" data-tweets="292" data-fb-shares="47" data-digg-score="356">
+<div class="story-details">
+
+
+<div class="story-image">
+<a data-position="20" data-content-id="SUYsBy" class="story-link" href="http://news.cnet.com/8301-17852_3-57551505-71/british-airways-lofts-spectacular-four-letter-retweet/"><img src="http://static.digg.com/images/SUYsBy_1_www_large_thumb.jpeg" alt="" width="312" height="170" /><div class="story-image-shadow" style="width:310px;height:168px;"></div>
+</a>
+</div>
+
+
+
+<div class="story-kicker">
+SOCIAL MEDIA SNAFUs
+</div>
+
+<div class="story-headline">
+<a data-position="20" data-content-id="SUYsBy" class="story-link" href="http://news.cnet.com/8301-17852_3-57551505-71/british-airways-lofts-spectacular-four-letter-retweet/">
+
+British Airways Leaves Up Ridiculously Offensive Retweet For More Than An Hour
+
+</a>
+</div>
+<div class="story-domain">
+<a data-position="20" data-content-id="SUYsBy" class="story-link" href="http://news.cnet.com/8301-17852_3-57551505-71/british-airways-lofts-spectacular-four-letter-retweet/">news.cnet.com</a> 
+</div>
+
+<div class="story-preview">Sometimes when people send me an abusive, ignorant tweet, I retweet it.
+Because, well, it seems somehow the right thing to do to make them feel better. However, I am not Britain's flagship airline, with customers whose sensibilities are touchy at best.</div>
+
+<ul class="story-actions">
+<li class="btn-story-action-container btn-story-action-container-digg">
+<div class="story-score-details">
+<ul class="story-score-details-list">
+<li class="story-score-thumb-SUYsBy story-score-thumb">17</li>
+<li class="story-score-tweets-SUYsBy story-score-twitter">292</li>
+<li class="story-score-fb_shares-SUYsBy story-score-facebook">47</li>
+</ul>
+</div>
+<div class="btn-story-action btn-story-action-digg btn-story-action-digg-SUYsBy">
+<div class="btn-story-action-off">
+<div class="story-score">
+<div class="story-score-SUYsBy">356</div>
+</div>
+<div class="story-digg-label">Digg</div>
+</div>
+<div class="btn-story-action-on">
+<div class="story-score">
+<div class="story-score-SUYsBy">356</div>
+</div>
+<div class="story-digg-label">Dugg</div>
+</div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-save">
+<div class="btn-story-action btn-story-action-save btn-story-action-save-SUYsBy">
+<div class="btn-story-action-off"><b>Save</b></div>
+<div class="btn-story-action-on"><b>Saved</b></div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-share">
+<div class="tooltip tooltip-grey tooltip-bottom tooltip-fade tooltip-story-share">
+<ul class="plain-list">
+<li class="story-share-tweet"><a href="https://twitter.com/intent/tweet?url=http://on.digg.com/SUYsBy&amp;via=Digg&amp;text=British Airways Leaves Up Ridiculously Offensive Retweet For More Than An Hour" class="btn-share-story-link share-story-link" data-contenturl="http://news.cnet.com/8301-17852_3-57551505-71/british-airways-lofts-spectacular-four-letter-retweet/" data-position="20">Tweet this</a></li>
+<li class="story-share-fb"><a href="https://www.facebook.com/dialog/feed?display=popup&amp;app_id=123277257693179&amp;link=http://on.digg.com/SUYsBy&amp;redirect_uri=http://digg.com/fbshare" class="btn-share-story-link share-story-link" data-contenturl="http://news.cnet.com/8301-17852_3-57551505-71/british-airways-lofts-spectacular-four-letter-retweet/" data-position="20">Share to Facebook</a></li>
+</ul>
+</div>
+<div class="btn-story-action-share">
+<div class="btn-story-action-off"><b>Share</b></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+<div class="digg-story-el story-container story-S1M0Tm story-col-0" data-content-id="S1M0Tm" data-contenturl="http://www.nytimes.com/2012/11/18/business/as-boom-lures-app-creators-tough-part-is-making-a-living.html" data-position="21" data-diggs="29" data-tweets="2,741" data-fb-shares="0" data-digg-score="2,770">
+<div class="story-details">
+
+
+<div class="story-image">
+<a data-position="21" data-content-id="S1M0Tm" class="story-link" href="http://www.nytimes.com/2012/11/18/business/as-boom-lures-app-creators-tough-part-is-making-a-living.html"><img src="http://static.digg.com/images/S1M0Tm_1_www_large_thumb.jpeg" alt="" width="312" height="170" /><div class="story-image-shadow" style="width:310px;height:168px;"></div>
+</a>
+</div>
+
+
+
+<div class="story-kicker">
+NOT EVERYBODY CAN MAKE AN ANGRY BIRDS
+</div>
+
+<div class="story-headline">
+<a data-position="21" data-content-id="S1M0Tm" class="story-link" href="http://www.nytimes.com/2012/11/18/business/as-boom-lures-app-creators-tough-part-is-making-a-living.html">
+
+As Boom Lures App Creators, Tough Part Is Making A Living
+
+</a>
+</div>
+<div class="story-domain">
+<a data-position="21" data-content-id="S1M0Tm" class="story-link" href="http://www.nytimes.com/2012/11/18/business/as-boom-lures-app-creators-tough-part-is-making-a-living.html">nytimes.com</a> 
+</div>
+
+<div class="story-preview">Despite the rumors of hordes of hip programmers starting million-dollar businesses from their kitchen tables, only a small minority of developers actually make a living by creating their own apps.</div>
+
+<ul class="story-actions">
+<li class="btn-story-action-container btn-story-action-container-digg">
+<div class="story-score-details">
+<ul class="story-score-details-list">
+<li class="story-score-thumb-S1M0Tm story-score-thumb">29</li>
+<li class="story-score-tweets-S1M0Tm story-score-twitter">2,741</li>
+<li class="story-score-fb_shares-S1M0Tm story-score-facebook">0</li>
+</ul>
+</div>
+<div class="btn-story-action btn-story-action-digg btn-story-action-digg-S1M0Tm">
+<div class="btn-story-action-off">
+<div class="story-score">
+<div class="story-score-S1M0Tm">2,770</div>
+</div>
+<div class="story-digg-label">Digg</div>
+</div>
+<div class="btn-story-action-on">
+<div class="story-score">
+<div class="story-score-S1M0Tm">2,770</div>
+</div>
+<div class="story-digg-label">Dugg</div>
+</div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-save">
+<div class="btn-story-action btn-story-action-save btn-story-action-save-S1M0Tm">
+<div class="btn-story-action-off"><b>Save</b></div>
+<div class="btn-story-action-on"><b>Saved</b></div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-share">
+<div class="tooltip tooltip-grey tooltip-bottom tooltip-fade tooltip-story-share">
+<ul class="plain-list">
+<li class="story-share-tweet"><a href="https://twitter.com/intent/tweet?url=http://on.digg.com/S1M0Tm&amp;via=Digg&amp;text=As Boom Lures App Creators, Tough Part Is Making A Living" class="btn-share-story-link share-story-link" data-contenturl="http://www.nytimes.com/2012/11/18/business/as-boom-lures-app-creators-tough-part-is-making-a-living.html" data-position="21">Tweet this</a></li>
+<li class="story-share-fb"><a href="https://www.facebook.com/dialog/feed?display=popup&amp;app_id=123277257693179&amp;link=http://on.digg.com/S1M0Tm&amp;redirect_uri=http://digg.com/fbshare" class="btn-share-story-link share-story-link" data-contenturl="http://www.nytimes.com/2012/11/18/business/as-boom-lures-app-creators-tough-part-is-making-a-living.html" data-position="21">Share to Facebook</a></li>
+</ul>
+</div>
+<div class="btn-story-action-share">
+<div class="btn-story-action-off"><b>Share</b></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+<div class="digg-story-el story-container story-S6AoNj story-col-1" data-content-id="S6AoNj" data-contenturl="http://www.petapixel.com/2012/11/17/the-camera-versus-the-human-eye/" data-position="22" data-diggs="33" data-tweets="313" data-fb-shares="706" data-digg-score="1,052">
+<div class="story-details">
+
+
+<div class="story-image">
+<a data-position="22" data-content-id="S6AoNj" class="story-link" href="http://www.petapixel.com/2012/11/17/the-camera-versus-the-human-eye/"><img src="http://static.digg.com/images/S6AoNj_1_www_large_thumb.jpeg" alt="" width="312" height="170" /><div class="story-image-shadow" style="width:310px;height:168px;"></div>
+</a>
+</div>
+
+
+
+<div class="story-kicker">
+WHICH IS SUPERIOR?
+</div>
+
+<div class="story-headline">
+<a data-position="22" data-content-id="S6AoNj" class="story-link" href="http://www.petapixel.com/2012/11/17/the-camera-versus-the-human-eye/">
+
+The Camera Versus The Human Eye
+
+</a>
+</div>
+<div class="story-domain">
+<a data-position="22" data-content-id="S6AoNj" class="story-link" href="http://www.petapixel.com/2012/11/17/the-camera-versus-the-human-eye/">petapixel.com</a> 
+</div>
+
+<div class="story-preview">Basically in doing all this research about how the human eye is like a camera, what I really learned is how human vision is not like a photograph</div>
+
+<ul class="story-actions">
+<li class="btn-story-action-container btn-story-action-container-digg">
+<div class="story-score-details">
+<ul class="story-score-details-list">
+<li class="story-score-thumb-S6AoNj story-score-thumb">33</li>
+<li class="story-score-tweets-S6AoNj story-score-twitter">313</li>
+<li class="story-score-fb_shares-S6AoNj story-score-facebook">706</li>
+</ul>
+</div>
+<div class="btn-story-action btn-story-action-digg btn-story-action-digg-S6AoNj">
+<div class="btn-story-action-off">
+<div class="story-score">
+<div class="story-score-S6AoNj">1,052</div>
+</div>
+<div class="story-digg-label">Digg</div>
+</div>
+<div class="btn-story-action-on">
+<div class="story-score">
+<div class="story-score-S6AoNj">1,052</div>
+</div>
+<div class="story-digg-label">Dugg</div>
+</div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-save">
+<div class="btn-story-action btn-story-action-save btn-story-action-save-S6AoNj">
+<div class="btn-story-action-off"><b>Save</b></div>
+<div class="btn-story-action-on"><b>Saved</b></div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-share">
+<div class="tooltip tooltip-grey tooltip-bottom tooltip-fade tooltip-story-share">
+<ul class="plain-list">
+<li class="story-share-tweet"><a href="https://twitter.com/intent/tweet?url=http://on.digg.com/S6AoNj&amp;via=Digg&amp;text=The Camera Versus The Human Eye" class="btn-share-story-link share-story-link" data-contenturl="http://www.petapixel.com/2012/11/17/the-camera-versus-the-human-eye/" data-position="22">Tweet this</a></li>
+<li class="story-share-fb"><a href="https://www.facebook.com/dialog/feed?display=popup&amp;app_id=123277257693179&amp;link=http://on.digg.com/S6AoNj&amp;redirect_uri=http://digg.com/fbshare" class="btn-share-story-link share-story-link" data-contenturl="http://www.petapixel.com/2012/11/17/the-camera-versus-the-human-eye/" data-position="22">Share to Facebook</a></li>
+</ul>
+</div>
+<div class="btn-story-action-share">
+<div class="btn-story-action-off"><b>Share</b></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+<div class="digg-story-el story-container story-QlMdST story-col-2" data-content-id="QlMdST" data-contenturl="http://www.guardian.co.uk/music/2012/nov/18/gangnam-style-psy" data-position="23" data-diggs="10" data-tweets="314" data-fb-shares="393" data-digg-score="717">
+<div class="story-details">
+
+
+<div class="story-image">
+<a data-position="23" data-content-id="QlMdST" class="story-link" href="http://www.guardian.co.uk/music/2012/nov/18/gangnam-style-psy"><img src="http://static.digg.com/images/QlMdST_1_www_large_thumb.jpeg" alt="" width="312" height="170" /><div class="story-image-shadow" style="width:310px;height:168px;"></div>
+</a>
+</div>
+
+
+
+<div class="story-kicker">
+SO EASY A PRIME MINISTER CAN DO IT
+</div>
+
+<div class="story-headline">
+<a data-position="23" data-content-id="QlMdST" class="story-link" href="http://www.guardian.co.uk/music/2012/nov/18/gangnam-style-psy">
+
+How Psy Taught Me Gangnam Style
+
+</a>
+</div>
+<div class="story-domain">
+<a data-position="23" data-content-id="QlMdST" class="story-link" href="http://www.guardian.co.uk/music/2012/nov/18/gangnam-style-psy">guardian.co.uk</a> 
+</div>
+
+<div class="story-preview">Korean pop star Psy invented 'Gangnam style' to mock the pretensions of Seoul's wealthy citizens. Since then, thanks to 700m YouTube hits, David Cameron, Barack Obama and Ban Ki-moon have learned the moves. But who is he, and can he teach Jay Rayner? Eh, sexy lady...</div>
+
+<ul class="story-actions">
+<li class="btn-story-action-container btn-story-action-container-digg">
+<div class="story-score-details">
+<ul class="story-score-details-list">
+<li class="story-score-thumb-QlMdST story-score-thumb">10</li>
+<li class="story-score-tweets-QlMdST story-score-twitter">314</li>
+<li class="story-score-fb_shares-QlMdST story-score-facebook">393</li>
+</ul>
+</div>
+<div class="btn-story-action btn-story-action-digg btn-story-action-digg-QlMdST">
+<div class="btn-story-action-off">
+<div class="story-score">
+<div class="story-score-QlMdST">717</div>
+</div>
+<div class="story-digg-label">Digg</div>
+</div>
+<div class="btn-story-action-on">
+<div class="story-score">
+<div class="story-score-QlMdST">717</div>
+</div>
+<div class="story-digg-label">Dugg</div>
+</div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-save">
+<div class="btn-story-action btn-story-action-save btn-story-action-save-QlMdST">
+<div class="btn-story-action-off"><b>Save</b></div>
+<div class="btn-story-action-on"><b>Saved</b></div>
+</div>
+</li>
+<li class="btn-story-action-container btn-story-action-container-share">
+<div class="tooltip tooltip-grey tooltip-bottom tooltip-fade tooltip-story-share">
+<ul class="plain-list">
+<li class="story-share-tweet"><a href="https://twitter.com/intent/tweet?url=http://on.digg.com/QlMdST&amp;via=Digg&amp;text=How Psy Taught Me Gangnam Style" class="btn-share-story-link share-story-link" data-contenturl="http://www.guardian.co.uk/music/2012/nov/18/gangnam-style-psy" data-position="23">Tweet this</a></li>
+<li class="story-share-fb"><a href="https://www.facebook.com/dialog/feed?display=popup&amp;app_id=123277257693179&amp;link=http://on.digg.com/QlMdST&amp;redirect_uri=http://digg.com/fbshare" class="btn-share-story-link share-story-link" data-contenturl="http://www.guardian.co.uk/music/2012/nov/18/gangnam-style-psy" data-position="23">Share to Facebook</a></li>
+</ul>
+</div>
+<div class="btn-story-action-share">
+<div class="btn-story-action-off"><b>Share</b></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
+
+</div>
+<div id="stories-realtime">
+
+<div id="popular-stories" class="stories-container">
+<hgroup class="stories-section-header">
+<h2 class="stories-section-header-hed">Popular</h2>
+<h3 class="stories-section-header-subhed">The most-shared stories on Digg in the last 18 hours</h3>
+</hgroup>
+<ul id="stories-popular-container" class="plain-list stories-table">
+<div class="stories-realtime-loading">
+<div class="ico-spinner">
+<div class="ico-spinner-bar ico-spinner-bar-1"></div>
+<div class="ico-spinner-bar ico-spinner-bar-2"></div>
+<div class="ico-spinner-bar ico-spinner-bar-3"></div>
+<div class="ico-spinner-bar ico-spinner-bar-4"></div>
+<div class="ico-spinner-bar ico-spinner-bar-5"></div>
+<div class="ico-spinner-bar ico-spinner-bar-6"></div>
+<div class="ico-spinner-bar ico-spinner-bar-7"></div>
+<div class="ico-spinner-bar ico-spinner-bar-8"></div>
+<div class="ico-spinner-bar ico-spinner-bar-9"></div>
+<div class="ico-spinner-bar ico-spinner-bar-10"></div>
+<div class="ico-spinner-bar ico-spinner-bar-11"></div>
+<div class="ico-spinner-bar ico-spinner-bar-12"></div>
+</div>
+</div>
+</ul>
+</div>
+
+
+<div id="new-stories" class="stories-container">
+<hgroup class="stories-section-header">
+<h2 class="stories-section-header-hed">Upcoming</h2>
+<h3 class="stories-section-header-subhed">The newest stories on Digg</h3>
+</hgroup>
+<table cellspacing="0" cellpadding="0" border="0" class="stories-table">
+<thead id="stories-realtime-container" class="stories-container">
+<tr>
+<td colspan="6" class="stories-realtime-loading">
+<div class="ico-spinner">
+<div class="ico-spinner-bar ico-spinner-bar-1"></div>
+<div class="ico-spinner-bar ico-spinner-bar-2"></div>
+<div class="ico-spinner-bar ico-spinner-bar-3"></div>
+<div class="ico-spinner-bar ico-spinner-bar-4"></div>
+<div class="ico-spinner-bar ico-spinner-bar-5"></div>
+<div class="ico-spinner-bar ico-spinner-bar-6"></div>
+<div class="ico-spinner-bar ico-spinner-bar-7"></div>
+<div class="ico-spinner-bar ico-spinner-bar-8"></div>
+<div class="ico-spinner-bar ico-spinner-bar-9"></div>
+<div class="ico-spinner-bar ico-spinner-bar-10"></div>
+<div class="ico-spinner-bar ico-spinner-bar-11"></div>
+<div class="ico-spinner-bar ico-spinner-bar-12"></div>
+</div>
+</div>
+</tr>
+</thead>
+</table>
+</div>
+
+</div>
+
+<div id="dugg-success-container" class="tooltip tooltip-grey tooltip-bottom">
+<div class="btn-close">&#x2716;</div>
+<h4>Success!</h4>
+<p>Your diggs will appear in your Facebook timeline.</p>
+<p><a href="#settings" id="btn-display-settings-timeline">Go to Settings</a> to change this preference.</p>
+</div>
+
+
+<div id="saved-success-container" class="tooltip tooltip-grey tooltip-top">
+<div class="btn-close">&#x2716;</div>
+<h4>Saved!</h4>
+<p>Your saved stories are also syned to your Reading List on Digg for iPhone and iPad.</p>
+<p class="supporting-text">Don't have Digg for iOS?<br/><a href="/iphone-download" target="_blank">Download it now &#8594;</a></p>
+</div>
+
+
+<div id="modal-saved-stories" class="modal fade hide">
+<div class="modal-header">
+<span class="modal-header-text">Reading List</span>
+<div id="btn-savedstories-modal-close" class="btn-modal-close">&#x2716;</div>
+</div>
+<div class="modal-body">
+<table class="stories-table">
+<tbody id="saved-stories-tbody-container"></tbody>
+</table>
+</div>
+</div>
+
+
+
+</div>
+
+
+<div id="footer">
+<div class="footer-container page-container">
+<div id="footer-company">
+<h4>Company</h4>
+<ul class="plain-list">
+<li><a href="/about">About</a></li>
+<li><a href="/jobs">Jobs</a></li>
+<li><a href="/contact">Contact</a></li>
+<li><a href="/tos">Terms</a></li>
+<li><a href="/privacy">Privacy</a></li>
+<li><a href="http://nytm.org/made-in-nyc/" target="_blank">Made in NYC</a></li>
+</ul>
+</div>
+<div id="footer-community">
+<h4>Community</h4>
+<ul class="plain-list">
+<li><a href="http://blog.digg.com/">Blog</a></li>
+<li><a href="https://twitter.com/digg" target="_blank">Twitter</a></li>
+<li><a href="https://www.facebook.com/digg" target="_blank">Facebook</a></li>
+<li><a href="/faq">Help</a></li>
+</ul>
+</div>
+<div id="subscribe">
+<h4>Subscribe to the Daily Digg</h4>
+<div id="daily-digg-email-form">
+<p>Top stories from Digg delivered to your inbox</p>
+<div>
+<input type="text" placeholder="Enter your email address" name="email" class="form-field" id="daily-digg-email-input" /> <input type="button" value="Submit" class="button" id="daily-digg-email-submit-btn"/>
+<div id="daily-digg-email-error">&nbsp;</div>
+</div>
+<p class="legalese">
+Opt-out anytime with one click and we'll never share your information.
+</p>
+</div>
+<div id="daily-digg-email-form-thanks" style="display:none;">
+Thanks for subscribing!
+</div>
+</div>
+<div id="ftr-iphone-promo">
+<h4>Digg for iPhone &amp; iPad</h4>
+<p>Introducing the new Digg iOS app. Save stories on Digg.com and read them on your iPhone or iPad.</p>
+<p><a id="btn-ftr-iphone-link" href="/ios-download" class="button">Free Download</a></p>
+</div>
+<div class="footer-copyright">
+&copy; <span id="footer-copyright-year"></span> News.me Inc | <a href="/enable/mobile">Mobile Site</a>
+</div>
+</div>
+</div>
+
+
+
+<div id="fb-root"></div>
+<div id="facebook-auth-container" class="tooltip tooltip-grey tooltip-bottom">
+<h4>Sign in</h4>
+<p>Please sign in to <span id="auth-story-action">Save</span> a story.</p>
+<a id="btn-twitter-auth" class="btn-service-auth btn-twitter-auth" href="#twitter">
+<div class="auth-ico"></div>
+Sign in
+</a>
+<a id="btn-facebook-auth" class="btn-service-auth btn-facebook-auth" href="#fb">
+<div class="auth-ico"></div>
+Sign in
+</a>
+</div>
+<div id="session-forms"></div>
+<div id="site-nav-signin" class="tooltip tooltip-grey tooltip-fade tooltip-top">
+<a id="btn-facebook-auth-topnav" class="btn-service-auth btn-facebook-auth" href="#fb">
+<div class="auth-ico"></div>
+Sign in with Facebook
+</a>
+<a id="btn-twitter-auth-topnav" class="btn-service-auth btn-twitter-auth" href="#twitter">
+<div class="auth-ico"></div>
+Sign in with Twitter
+</a>
+</div>
+<div id="site-nav-user-module" class="tooltip tooltip-grey tooltip-fade tooltip-top">
+<ul class="plain-list">
+<li><a href="#settings" id="btn-display-settings">Settings</a></li>
+<li><a href="/logout" class="logout-link" id="logout-link-nav">Sign Out</a></li>
+</ul>
+</div>
+<div id="user-settings-modal" class="modal fade hide"></div>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://static.digg.com/a/static/js/external/jquery/1.8.2/jquery.min.js?v=0b6ec"><\/script>')</script>
+
+
+<script type="text/javascript" src="http://static.digg.com/a/static/js/external/jquery-mousewheel/jquery.mousewheel.min.js?v=25db0"></script>
+<script type="text/javascript" src="http://static.digg.com/a/static/js/external/bootstrap/bootstrap-modal.js?v=5fe4c"></script>
+
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/lodash.js/0.4.1/lodash.min.js"></script>
+
+<script type="text/javascript" src="http://static.digg.com/a/static/js/1.1.0/bs.min.js?v=3fd10" ></script>
+
+<script type="text/javascript">
+(function (window, $) {
+BS.extend(BS, { config : { FB_APP_ID : '123277257693179' } });
+var
+siteHdr = $("#site-header-container"),
+pageContainer = $("#container");
+
+$(window).k(function () {
+$("#site-header-logo").css({ backgroundImage : 'url("http://static.tumblr.com/5ho50dx/zTalt280g/41816_2202949079_2801_n.jpg")', width : '85px', height : '42px', 'background-size' : '85px 42px' });
+$("#page-nav")
+.css({ left : '125px' })
+.find("a").css({ 'padding' : '24px 0' });
+$("#site-nav").css({ 'top' : '24px' });
+$("#site-header-digg-social").css({ 'top' : '23px' });
+$("#container").css({ 'margin-top' : '70px' });
+BS.pubsub.fire("spreadgun", "http://digg.com/");
+});
+$(function () { $("#footer-copyright-year").html(new Date().getFullYear()) });
+function submitDailyDiggEmail(){
+var email = $.trim($("#daily-digg-email-input").val());
+var
+el = $(this),
+url = '/api/dailydiggemail.json',
+diggDailyEmailProvider = new BS.util.xhr.dataProvider({
+url : url,
+type : 'POST',
+data : {
+email : email,
+_xsrf : BS.util.cookies.get("_xsrf")
+},
+success : function (response) {
+$("#daily-digg-email-form").hide();
+$("#daily-digg-email-form-thanks").show();
+saveDailyDiggSubmitCompleteEvent();
+},
+error : function (error){
+console.log("error", error);
+$("#daily-digg-email-error").html("There was a problem submitting your email. Please try again.").show();
+}
+});
+diggDailyEmailProvider.request();
+return false;
+}
+$("#daily-digg-email-input").on("keyup", function(event){
+if(event.keyCode == 13){
+submitDailyDiggEmail();
+}else{
+$("#daily-digg-email-error").html("&nbsp;");
+}
+});
+$(function () {
+$("#session-forms").load("/session/forms");
+});
+$("#daily-digg-email-submit-btn").on("click", function(event){
+submitDailyDiggEmail();
+});
+// Load the SDK Asynchronously
+(function(d){
+var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+js = d.createElement('script'); js.id = id; js.async = true;
+js.src = "//connect.facebook.net/en_US/all.js";
+d.getElementsByTagName('head')[0].appendChild(js);
+}(document));
+}(this, this.jQuery));
+</script>
+
+<script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="http://static.digg.com/a/static/js/external/raphael/raphael.js?v=fb0f3"></script>
+<script type="text/javascript" src="http://static.digg.com/a/static/js/external/g.raphael/g.raphael.js?v=97a3b"></script>
+<script type="text/javascript" src="http://static.digg.com/a/static/js/external/g.raphael/g.line.js?v=12d13"></script>
+
+<script type="text/javascript" charset="utf-8">
+(function (window, document, $, _, BS) {
+
+BS.extend(BS, { features : {"polling_scores": false, "saved_stories": true, "homepage_new_stories": true, "signin": true, "homepage_popular_stories": true, "readlater": true, "submit_link": true, "homepage_new_stories_polling": false, "digg": true} });
+
+BS.savedstories.initialize({ elID : "#modal-saved-stories" });
+
+
+var
+storyEls = $(".story-container"),
+contentIDs = _.map(storyEls, function (storyEl) {
+return $(storyEl).data('contentId')
+}),
+topStoriesScoresUpdater = BS.story_scores.factory('top_stories');
+if (contentIDs.length) {
+topStoriesScoresUpdater
+.register(contentIDs);
+}
+BS.util.pubsub.on('score_updates', BS.pubsub.channels.scores_update, function (data) {
+$(function () { BS.storyactions.renderStoryScores(data); });
+});
+
+$(document)
+.on("click", ".story-link", BS.storyactions.redirectStoryLink);
+$(".btn-story-action-container-digg")
+.on("mouseenter", ".story-score", BS.storyactions.showScoreDetails)
+.on("mouseleave", ".story-score", BS.storyactions.hideScoreDetails);
+
+$(".btn-story-action-digg")
+.on("click", ".btn-story-action-off", BS.userdata.authorized(BS.storyactions.submitDigg, "Digg"))
+.on("click", ".btn-story-action-on", BS.storyactions.deleteDigg);
+
+
+$(document)
+.on("click", ".btn-story-action-save, .btn-deleted-undo", BS.userdata.authorized(BS.storyactions.addReadingList, "Save"))
+.on("click", ".btn-story-action-delete-save", BS.storyactions.deleteReadingList);
+
+$(document)
+.on("click", ".btn-story-action-share", BS.storyactions.showShareToolTip)
+.on("click", ".btn-share-story-link", BS.storyactions.shareStory)
+.on("click", ".btn-story-trending-share-img", BS.storyactions.showShareDetails);
+BS.pageSectionMonitor.registerSection("top-stories", "nav-top-stories");
+function getSectionLabel (sectionSelector) {
+var parts = sectionSelector.replace("#", "").split("-");
+return _.map(parts, function (part) {
+return part.charAt(0).toUpperCase() + part.substring(1);
+}).join(" ");
+}
+function scrollToSection (event) {
+var
+targ = this.href.replace(/(.*)(#.*)$/, "$2"),
+headerHeight = $(".site-header").outerHeight(),
+targTop = $(targ).offset().top - headerHeight,
+targLabel = getSectionLabel(targ);
+BS.pubsub.fire("homepage_topnav_section_click", targLabel);
+BS.pubsub.fire('autoscroll_start');
+event.stopPropagation();
+event.preventDefault();
+$("body")
+.removeClass("nav-top-stories nav-popular-stories nav-new-stories")
+.addClass("nav-" + targ.replace("#", ""));
+$(this).removeClass("down");
+$('html,body').animate({ scrollTop : targTop}, 1000, function () {
+BS.pubsub.fire('autoscroll_stop');
+return false;
+});
+return false;
+}
+$(function () {
+/*
+if ($.support.touch) {
+$(".page-anchor-link")
+.on("touchstart", function (event) {
+event.stopPropagation();
+event.preventDefault();
+})
+.on("touchend", scrollToSection);
+} else {
+*/
+$(".page-anchor-link")
+.on("click", function (event) {
+return false;
+})
+.on("mousedown", function (event) {
+event.stopPropagation();
+event.preventDefault();
+$(this).addClass("down");
+return false;
+})
+.on("mouseup", scrollToSection);
+//}
+});
+BS.pageSectionMonitor.initialize();
+BS.pubsub.on("scroll", "page_section_change", BS.pageSectionMonitor.updateBodyClass);
+BS.pageSectionMonitor.scrollTopHandler($(window).scrollTop());
+
+// bootstrap new stories
+BS.pubsub.one('scroll', BS.pubsub.channels.new_stories_rendered, function () {
+BS.pageSectionMonitor.registerSection("new-stories", "nav-new-stories");
+})
+BS.pubsub.one('story_scores', BS.pubsub.channels.new_stories_rendered, function () {
+$("#new-stories").find(".btn-story-action-container-digg")
+.on("mouseenter", ".story-score", BS.storyactions.showScoreDetails)
+.on("mouseleave", ".story-score", BS.storyactions.hideScoreDetails)
+.on("click", ".btn-story-action-off", BS.userdata.authorized(BS.storyactions.submitDigg, "Digg"))
+.on("click", ".btn-story-action-on", BS.storyactions.deleteDigg);
+})
+BS.news_new.start();
+
+
+// bootstrap popular
+BS.pubsub.one('scroll', BS.pubsub.channels.popular_stories_rendered, function () {
+BS.pageSectionMonitor.registerSection("popular-stories", "nav-popular-stories");
+});
+BS.pubsub.one('story_scores', BS.pubsub.channels.popular_stories_rendered, function () {
+$("#popular-stories").find(".btn-story-action-container-digg")
+.on("mouseenter", ".story-score", BS.storyactions.showScoreDetails)
+.on("mouseleave", ".story-score", BS.storyactions.hideScoreDetails)
+.on("click", ".btn-story-action-off", BS.userdata.authorized(BS.storyactions.submitDigg, "Digg"))
+.on("click", ".btn-story-action-on", BS.storyactions.deleteDigg);
+});
+BS.news_popular.start();
+$("#popular-stories").on("mouseenter", ".story-trending-share-img", BS.storyactions.showShareDetails);
+
+BS.pubsub.on('story_scores', 'saved_stories_rendered', function (storiesRendered) {
+var readingListScoresUpdater = BS.story_scores.factory('saved_stories_' + new Date().valueOf());
+readingListScoresUpdater.register(storiesRendered);
+});
+$("#modal-saved-stories")
+.on("click", ".btn-story-action-container-digg .btn-story-action-off", BS.userdata.authorized(BS.storyactions.submitDigg, "Digg"))
+.on("click", ".btn-story-action-container-digg .btn-story-action-on", BS.storyactions.deleteDigg);
+// ensure top story heights
+_.each($(".story-col-0"), function (el) {
+var
+rowMembers = $(el).nextUntil(".story-col-0"),
+height;
+rowMembers = rowMembers.add(el);
+height = _.max(_.map(rowMembers, function (el) {
+return $(el).height();
+}));
+rowMembers.height(height);
+});
+var lastRowEl = $(".story-col-0").last(),
+lastRowMembers = lastRowEl.nextAll(".story-container");
+lastRowMembers.add(lastRowEl).addClass("story-row-last");
+function setSurveyCookie() {
+BS.util.cookies.set({
+name : surveyCookie,
+value : 1,
+expires : 31536000000
+});
+}
+var surveyCookie = "survey_opt_out";
+$(function () {
+if ( ! BS.util.cookies.get(surveyCookie)) {
+$(".banner-notification").show();
+$("#container").css("margin-top", "97px");
+$(document)
+.on("click", "#btn-banner-notification-close", function (event) {
+$(".banner-notification").slideUp(400);
+$("#container").animate({
+"margin-top" : "52px"
+}, 400);
+setSurveyCookie();
+})
+.on("click", ".banner-notification a", setSurveyCookie);
+}
+});
+}(this, this.document, this.jQuery, this._, this.BS));
+</script>
+
+
+<script type="text/javascript">
+var _sf_async_config={uid:30608,domain:"digg.com"};
+(function(){
+function loadChartbeat() {
+window._sf_endpt=(new Date()).getTime();
+var e = document.createElement('script');
+e.setAttribute('language', 'javascript');
+e.setAttribute('type', 'text/javascript');
+e.setAttribute('src',
+(("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+"js/chartbeat.js");
+document.body.appendChild(e);
+}
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ?
+loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+
+<!-- built with love by an amateur! -->
+</body>
+</html>
