@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>FreshlyPressed</title>
+	<atom:link href="http://freshlypressed.wordpress.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://freshlypressed.wordpress.com</link>
+	<description>Just another Wordpress.com weblog</description>
+	<lastBuildDate>Tue, 15 Feb 2011 16:14:39 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='freshlypressed.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>http://s2.wp.com/i/buttonw-com.png</url>
+		<title>FreshlyPressed</title>
+		<link>http://freshlypressed.wordpress.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="http://freshlypressed.wordpress.com/osd.xml" title="FreshlyPressed" />
+	<atom:link rel='hub' href='http://freshlypressed.wordpress.com/?pushpress=hub'/>
+		<item>
+		<title>How Does Watson Know What Watson Knows?</title>
+		<link>http://npinopunintended.wordpress.com/2011/02/15/how-does-watson-know-what-watson-knows/</link>
+		<comments>http://npinopunintended.wordpress.com/2011/02/15/how-does-watson-know-what-watson-knows/#comments</comments>
+		<pubDate>Tue, 15 Feb 2011 12:00:06 +0000</pubDate>
+		<dc:creator>John S</dc:creator>
+				<category><![CDATA[Culture]]></category>
+		<category><![CDATA[TV]]></category>
+		<category><![CDATA[Education]]></category>
+		<category><![CDATA[Miley Cyrus]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[Jeopardy]]></category>
+		<category><![CDATA[Watson]]></category>
+		<category><![CDATA[IBM]]></category>
+		<category><![CDATA[computers]]></category>
+		<category><![CDATA[supercomputers]]></category>
+		<category><![CDATA[Deep Blue]]></category>
+		<category><![CDATA[chess]]></category>
+		<category><![CDATA[Ken Jennings]]></category>
+		<category><![CDATA[Brad Rutter]]></category>
+		<category><![CDATA[Alex Trebek]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[Macaulay Culkin]]></category>
+		<category><![CDATA[My Girl]]></category>
+		<category><![CDATA[nondairy creamer]]></category>
+		<category><![CDATA[our future computer overlords]]></category>
+
+		<guid isPermaLink="false">http://npinopunintended.wordpress.com/?p=6535</guid>
+		<description><![CDATA[Watson, the IBM supercomputer designed to play Jeopardy!, made his television debut yesterday, and while the game may not be over, it was a very auspicious start. Watson is currently tied with one of Jeopardy’s most successful champions, Brad Rutter, and is currently leading the most famous contestant ever, Ken Jennings. This is pretty amazing [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=6535&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p><a href="http://npinopunintended.files.wordpress.com/2011/02/tout_alex_ken_brad_advisory_fin_photo-courtesy-of-jeopardy-productions-inc-1-_long_image.jpg"><img class="aligncenter size-full wp-image-6536" title="I wonder what anecdote Watson will tell Alex Trebek..." src="http://npinopunintended.files.wordpress.com/2011/02/tout_alex_ken_brad_advisory_fin_photo-courtesy-of-jeopardy-productions-inc-1-_long_image.jpg?w=570&#038;h=340" alt="" width="570" height="340" /></a></p>
+<p>Watson, the IBM supercomputer designed to play <em>Jeopardy!</em>, made his television debut yesterday, and while the game may not be over, it was a very auspicious start. Watson is currently tied with one of <em>Jeopardy</em>’s most successful champions, Brad Rutter, and is currently leading the most famous contestant ever, Ken Jennings.</p>
+<p>This is pretty amazing on a lot of levels. Computers have been “smart” for a very long time (dating back to at least whenever we started teaching them chess), but Watson takes it to another level. For one, it’s worth pointing out that Watson is not connected to the Internet. In other words, Watson is storing all of the information it has for itself. More impressive, the computer can understand the intricacies of human language better than any other machine, since it has to not only generate information, but also generate the <em>specific </em>piece of information that the clue is looking for. Not to mention the fact that <em>Jeopardy<ins datetime="2011-02-15T00:44" cite="mailto:Tim%20Britton">!</ins> </em>clues are known for being full of wordplay and allusions that seem particularly troubling for a computer to digest.</p>
+<p>While all this is impressive and <a href="http://www.pcmag.com/article2/0,2817,2380329,00.asp">important to the world of artificial intelligence</a>, I’m more interested in another epistemological component of Watson’s thought process: How does Watson know what it knows?<span id="more-6535"></span></p>
+<p>This, after all, is far more crucial to playing <em>Jeopardy! </em>than it is to, say, playing chess. In chess, a player has to make a move when his turn comes up. Furthermore, a player knows all the most crucial elements of a game of chess before the game even begins (what the goal of the game is, the rules governing each piece’s movements, the relative value of each piece, etc.). With <em>Jeopardy!</em>, however, choosing when to answer is almost as important as choosing what to answer, and the windows for both of these decisions is about one to three seconds long.</p>
+<p>So Watson’s ability to know stuff is less impressive than its ability to know what it knows.* Watson apparently works by using the language of the clue to generate lists of potential responses, and then running complex algorithms to select the best one,** all in a matter of seconds. As the processes are run, Watson’s “confidence” in each answer, represented by a percentage, changes until one hits the “buzz threshold,” at which point Watson rings in with that response (the buzz threshold appears to change throughout the game, presumably based on the scores and the round).</p>
+<p>*<em>After all, it’s hardly shocking in 2011 to see a computer that can contain massive quantities of information (particularly a computer as gigantic as Watson, which takes up an entire room and is the size of about three refrigerators).</em></p>
+<p>** <em>Of course, this is easier said than done: A clip shown of an early version of Watson showed the computer responding to a clue asking for the first nondairy creamer with “What is milk?” presumably since “nondairy” includes the word “dairy.”</em></p>
+<p><em> </em></p>
+<p>It’s worth pointing out how different this is from how humans tend to think, and play <em>Jeopardy!</em>. Watson’s thought processes seem to operate something like guess-and-check on a massive and rapid scale. Human brains, on the other hand, simply cannot process all that information at once. Instead, human brains use clues to get closer to the correct answer, rather than evaluating a multitude of choices at once. More important with regard to <em>Jeopardy!</em>, Watson doesn’t play like most good contestants. Most contestants will buzz in when they have an inkling of the correct response, and finish their thought<ins datetime="2011-02-15T00:49" cite="mailto:Tim%20Britton"> </ins>process before the time goes out. Jennings, in fact, has made an art of this—at one point last night he buzzed in and said, “Hmm, I don’t know,” before ultimately getting the correct response.</p>
+<p>Helpfully, <em>Jeopardy! </em>included an answer panel at the bottom of the screen last night which helped illustrate just how different Watson’s thought processes actually are. For example, in <a href="http://www.youtube.com/watch?v=WFR3lOm_xhE&amp;feature=player_embedded#at=216">this video of a pre-show taping</a>, we see that one of Watson’s possible responses to “This child star got his first on-screen kiss on the set of <em>My Girl</em>” was “Miley Cyrus.” Of course, no human would ever guess this—even if you had no idea who was in <em>My Girl</em>, the male pronoun in the clue would immediately eliminate Miley Cyrus from consideration. But since the clue contained “child star” as well as “kiss” and “girl,” Watson had Cyrus as the second most-likely choice. Of course, Watson ultimately did get the right answer (Macaulay Culkin, though Jennings buzzed in first), but not in the way any human ever would have.</p>
+<p>Of course, the fact that Watson thinks differently than Jennings or another human shouldn’t matter, since its IBM designers have addressed the two crucial epistemological concerns: Watson generally knows what is right, and it knows that what is right is right. So it seems that Watson certainly <em>does</em> know things, but <em>how</em> it knows things is totally unique. When you consider that, until very recently, humans were the only things in the world that could be said to “know” things at all, this is pretty remarkable.</p>
+<p>Whether or not it means that our future computer overlords will be friendly (<a href="http://www.youtube.com/watch?v=4Gd5_8K7ES8&amp;feature=related">or more like this</a>), I can’t say. But I’ll be watching tonight to find out…</p>
+<br />Filed under: <a href='http://npinopunintended.wordpress.com/category/culture/'>Culture</a>, <a href='http://npinopunintended.wordpress.com/category/education/'>Education</a>, <a href='http://npinopunintended.wordpress.com/category/tv/'>TV</a>  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/6535/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/6535/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/6535/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/6535/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/6535/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/6535/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/6535/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/6535/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/6535/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/6535/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/6535/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/6535/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/6535/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/6535/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=6535&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://npinopunintended.wordpress.com/2011/02/15/how-does-watson-know-what-watson-knows/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	
+		<media:content url="http://1.gravatar.com/avatar/992e4da0faa7e4fd0db3572a1d2e6fd7?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">John S</media:title>
+		</media:content>
+
+		<media:content url="http://npinopunintended.files.wordpress.com/2011/02/tout_alex_ken_brad_advisory_fin_photo-courtesy-of-jeopardy-productions-inc-1-_long_image.jpg" medium="image">
+			<media:title type="html">I wonder what anecdote Watson will tell Alex Trebek...</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Soon .. Soon Spring will Arrive!</title>
+		<link>http://therunninggarlic.wordpress.com/2011/02/15/soon-soon-spring-will-arrive/</link>
+		<comments>http://therunninggarlic.wordpress.com/2011/02/15/soon-soon-spring-will-arrive/#comments</comments>
+		<pubDate>Tue, 15 Feb 2011 12:58:05 +0000</pubDate>
+		<dc:creator>therunninggarlic</dc:creator>
+				<category><![CDATA[Gardening]]></category>
+		<category><![CDATA[Post a Day 2011]]></category>
+		<category><![CDATA[RandomBlog2011]]></category>
+		<category><![CDATA[postaday2011]]></category>
+		<category><![CDATA[randomblog2011]]></category>
+		<category><![CDATA[spring arrival]]></category>
+
+		<guid isPermaLink="false">http://therunninggarlic.wordpress.com/?p=1857</guid>
+		<description><![CDATA[Browsing through my picture files last night I found the above Crocus dated March 17, 2010.   Now that puts the pep back in my step!   Have you ever noticed when you become excited about something, your actions become quicker and you are more animated..could it be a sign of happiness?!?   I definitely feel that way [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=1857&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p><a href="http://therunninggarlic.files.wordpress.com/2011/02/crocus-3-17-10.jpg"><img class="aligncenter size-medium wp-image-1858" title="Crocus 3-17-10" src="http://therunninggarlic.files.wordpress.com/2011/02/crocus-3-17-10.jpg?w=225&#038;h=300" alt="" width="225" height="300" /></a></p>
+<p>Browsing through my picture files last night I found the above Crocus dated March 17, 2010.   Now that puts the pep back in my step!   Have you ever noticed when you become excited about something, your actions become quicker and you are more animated..could it be a sign of happiness?!?   I definitely feel that way thinking about gardening and anticipating the beauty of the flowers arriving in a few weeks.</p>
+<p><a href="http://therunninggarlic.files.wordpress.com/2011/02/daffs.jpg"><img class="aligncenter size-medium wp-image-1860" title="daffs" src="http://therunninggarlic.files.wordpress.com/2011/02/daffs.jpg?w=300&#038;h=225" alt="" width="300" height="225" /></a></p>
+<p style="text-align:center;">Daffodils taken April 2, 2010 &#8230;&#8230; soon</p>
+<p>Soon spring will arrive and I will be ready!   We attended a Garden Show this past weekend and there was much talk about preparing for the  arrival of the garden season.   One of the speakers talked of native plants and proudly showed picture after picture of her beautiful efforts in the garden and how to achieve the same results.   Pictures are such an important reminder to refresh our memory and bring happiness but also as a note of comparison and reflection from year to year.   Wondering if my grandkids grandkids would enjoy a Gardening Journal full of beautiful pictures from Great Great Granny!  </p>
+<p>A few herb plants I purchased at the show are Rosemary, Stevia and Lemongrass.   I have found these a little difficult to start from seed and seeing them growing right along in little pots I had to bring them home.</p>
+<p><a href="http://therunninggarlic.files.wordpress.com/2011/02/herb-show.jpg"><img class="aligncenter size-medium wp-image-1864" title="herb show" src="http://therunninggarlic.files.wordpress.com/2011/02/herb-show.jpg?w=300&#038;h=225" alt="" width="300" height="225" /></a></p>
+<p>Also thank you very much Mary Ann  for sending me these vegetable seeds which I can&#8217;t wait to start.   I will be adding them to my <a href="http://therunninggarlic.wordpress.com/gardening/">Gardening List </a>for 2011 &#8211; Purple Beauty Sweet Pepper, Amana Orange Tomato, Black Cherry Tomato and Black Krim Tomato.</p>
+<p style="text-align:center;"><span style="color:#006161;"><em>Soon .. Soon Spring will Arrive and I am ready!!</em></span></p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/1857/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/1857/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/1857/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/1857/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/1857/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/1857/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/1857/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/1857/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/1857/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/1857/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/1857/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/1857/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/1857/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/1857/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=1857&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://therunninggarlic.wordpress.com/2011/02/15/soon-soon-spring-will-arrive/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/0ecef145434a7ef1696b7b48eba6546f?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">therunninggarlic</media:title>
+		</media:content>
+
+		<media:content url="http://therunninggarlic.files.wordpress.com/2011/02/crocus-3-17-10.jpg?w=225" medium="image">
+			<media:title type="html">Crocus 3-17-10</media:title>
+		</media:content>
+
+		<media:content url="http://therunninggarlic.files.wordpress.com/2011/02/daffs.jpg?w=300" medium="image">
+			<media:title type="html">daffs</media:title>
+		</media:content>
+
+		<media:content url="http://therunninggarlic.files.wordpress.com/2011/02/herb-show.jpg?w=300" medium="image">
+			<media:title type="html">herb show</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>I can&#8217;t shop anymore. My ears are killing me.</title>
+		<link>http://blueplatespecialcafe.wordpress.com/2011/02/13/i-cant-shop-anymore-my-ears-are-killing-me/</link>
+		<comments>http://blueplatespecialcafe.wordpress.com/2011/02/13/i-cant-shop-anymore-my-ears-are-killing-me/#comments</comments>
+		<pubDate>Mon, 14 Feb 2011 02:20:55 +0000</pubDate>
+		<dc:creator>Alison Gunn</dc:creator>
+				<category><![CDATA[Complaining]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Children]]></category>
+		<category><![CDATA[Clothes]]></category>
+		<category><![CDATA[Anxiety]]></category>
+		<category><![CDATA[Irksome things]]></category>
+		<category><![CDATA[Truth]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Anything new and suspect]]></category>
+		<category><![CDATA[Shopping]]></category>
+		<category><![CDATA[Clothing]]></category>
+		<category><![CDATA[grandmothers]]></category>
+		<category><![CDATA[Aristotle]]></category>
+		<category><![CDATA[children]]></category>
+		<category><![CDATA[Hot Topic]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[mothers]]></category>
+		<category><![CDATA[fathers]]></category>
+		<category><![CDATA[grandfathers]]></category>
+		<category><![CDATA[teenagers]]></category>
+		<category><![CDATA[malls]]></category>
+
+		<guid isPermaLink="false">http://blueplatespecialcafe.wordpress.com/?p=370</guid>
+		<description><![CDATA[You&#8217;ve probably noticed that in the past 10 years, music has gotten louder and louder everywhere you go. Oh hell, everything has gotten louder and more obnoxious, but if I don&#8217;t focus, I&#8217;ll lose track of my point, so I&#8217;m going to focus on the cacophony of noises we are bombarded with when we shop, [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=370&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p><a href="http://blueplatespecialcafe.files.wordpress.com/2011/02/2912209307_21e9d23ce6.jpeg"><img class="alignright size-medium wp-image-482" title="The nice police officer is here to help us. Listen to him." src="http://blueplatespecialcafe.files.wordpress.com/2011/02/2912209307_21e9d23ce6.jpeg?w=220&#038;h=300" alt="" width="220" height="300" /></a>You&#8217;ve probably noticed that in the past 10 years, music has gotten louder and louder everywhere you go. Oh hell, <em>everything</em> has gotten louder and more obnoxious, but if I don&#8217;t focus, I&#8217;ll lose track of my point, so I&#8217;m going to focus on the cacophony of noises we are bombarded with when we shop, particularly in stores that want to drive us out. This phenomenon is insidious, and quite deliberate. You&#8217;re not wrong if you feel like you&#8217;re being run out of stores with goodies on shelves targeted to 13 year olds. You are.</p>
+<p>Apparently, according to marketing gurus, music is being deliberately targeted in stores to its desired age group, and it should come as no surprise that you and I are not it. If you go into almost any mall in America, you will immediately hear what I mean. Your ears start to bleed when you&#8217;re paying for that $48 rag—ooops, I mean t-shirt—your child or grandchild simply <em>has</em> to have. The kid, of course, does not want to be seen with you, and so the store blasts music that splits your head open until you&#8217;re forced to leave. Handily, your sanity has a time limit precisely aligned with how long it takes you to swipe a credit card and sign on the dotted line; after that, you and your little ingrate can leave, thanks for the money, don&#8217;t dawdle on your way out.</p>
+<p>About 10 years ago, <a class="zem_slink" title="Marketing" rel="wikipedia" href="http://en.wikipedia.org/wiki/Marketing">marketers</a> starting making use of age-related statistics being supplied to them by various focus groups. Even the <a class="zem_slink" title="United States Census Bureau" rel="homepage" href="http://www.census.gov">U.S. Census Bureau</a> supplies marketers with valuable <a class="zem_slink" title="Demographics" rel="wikipedia" href="http://en.wikipedia.org/wiki/Demographics">demographic information</a>, leading nowadays to what&#8217;s called <a href="http://www.buzzle.com/articles/demographic-segmentation.html">demographic segmentation</a>, which leads to 18 different types of toothpaste on the shelves at Target, it turns out. Each type of toothpaste is being targeted, no pun intended, to different segments of the buying population, hence the explosion of choices. You&#8217;re not going crazy—there really <em>are</em> too many products nowadays, all presumably with the &#8220;<a class="zem_slink" title="Burger King" rel="homepage" href="http://www.burgerking.com/bkglobal/">have it YOUR way</a>&#8221; generation in mind.</p>
+<p><a href="http://www.buzzle.com/articles/psychographic-segmentation.html">Psychographic segmentation</a>, which sounds vaguely pornographic, is what marketing Santa Clauses rely on to shimmy down your particular chimney. Raw numbers aren&#8217;t enough anymore. Now they want to know your:</p>
+<ul>
+<li>Interests</li>
+<li>Activities</li>
+<li>Opinions</li>
+<li>Behavioral patterns</li>
+<li>Habits</li>
+<li>Lifestyle</li>
+<li>Hobbies</li>
+</ul>
+<div id="attachment_483" class="wp-caption alignleft" style="width: 310px"><a href="http://blueplatespecialcafe.files.wordpress.com/2011/02/1332-when-is-wind-energy-noise-pollution.jpeg"><img class="size-medium wp-image-483" title="The way I look nowadays" src="http://blueplatespecialcafe.files.wordpress.com/2011/02/1332-when-is-wind-energy-noise-pollution.jpeg?w=300&#038;h=269" alt="" width="300" height="269" /></a><p class="wp-caption-text">This is me, when I&#039;m shopping</p></div>
+<p>In other words, your personality or lifestyle determines how they target you. This gets creepy, because it means that marketers nowadays are stalking you. The best, easiest place to do that is online, but don&#8217;t overestimate how much time they spend looking at your Facebook page. Instead, they form their biased opinions about you simply from shoving you into a cohort based on statistics they&#8217;ve picked up from the U.S. Census Bureau, and deciding, well, you’re an over-50, overweight white woman, that means you want [no need to think for yourself, they can fill in this blank <strong>for you</strong>].</p>
+<p><strong><span style="color:#33cccc;">Thank god I don&#8217;t have to determine what would make me happy anymore! I&#8217;ve got 30 year-old marketers I&#8217;ve never met to do it for me, based on their perception of my needs, which are based on their personal prejudices about their mothers and all women they have ever seen on TV and in movies!</span></strong></p>
+<p>(Does anyone else see the fly in this bottle of snake oil, or am I whistling my tune alone in the dark here?)</p>
+<p>Here&#8217;s a comment from someone on a forum. The initial question was, &#8220;Is it insensitive for stores to blast loud Christmas music?&#8221; This commentator&#8217;s response is:</p>
+<blockquote><p>I hate going to Hot Topic because of their music. I have actually left the store after telling the clerk that I couldn&#8217;t handle the music anymore. The store is geared toward teens and young people, but these people are spending their parents&#8217; money. Some respect should be given to the parent.</p></blockquote>
+<p>I think some respect <em>should</em> be given to the parent&#8217;s ears and sanity, as well as our pocketbooks. In this, marketers are cutting off their noses to spite their face, because, even though your ungrateful spoiled child doesn&#8217;t <em>want</em> to be seen with you, and even if you aren&#8217;t the store&#8217;s target demographic, the fact remains that if they played music you could tolerate—not &#8220;listen to,&#8221; merely <strong>tolerate</strong>—you&#8217;d be inclined to spend much more money in that store. This is the &#8220;you attract more flies with honey than with vinegar&#8221; theory mentioned by Aristotle back when the Greeks were first coming up with theories.</p>
+<p>This fact is based on simple logic. No matter<em> how</em> much my kid hates being seen with me, the fact is, if s/he&#8217;s 13, s/he doesn&#8217;t have her own money, not enough to be able to afford this over-priced garbage being sold nowadays (rags masquerading as clothes springs to mind). That means that if you seriously want me to spend real money, reconsider the idea that somehow I myself am verboten. You want my money, cater a little bit to <em>me</em>, not to my child, who is not the boss of me, by the way.</p>
+<p>Music-as-torture works in reverse, too. Crafty older business owners are getting some of their own back, and have been heard to crank Frank (Sinatra) over parking lot speakers, effectively running off teenagers whose parents have told them not to come home before midnight.</p>
+<br />Filed under: <a href='http://blueplatespecialcafe.wordpress.com/category/anxiety/'>Anxiety</a>, <a href='http://blueplatespecialcafe.wordpress.com/category/anything-new-and-suspect/'>Anything new and suspect</a>, <a href='http://blueplatespecialcafe.wordpress.com/category/children/'>Children</a>, <a href='http://blueplatespecialcafe.wordpress.com/category/clothes/'>Clothes</a>, <a href='http://blueplatespecialcafe.wordpress.com/category/complaining/'>Complaining</a>, <a href='http://blueplatespecialcafe.wordpress.com/category/irksome-things/'>Irksome things</a>, <a href='http://blueplatespecialcafe.wordpress.com/category/rants/'>Rants</a>, <a href='http://blueplatespecialcafe.wordpress.com/category/technology/'>Technology</a>, <a href='http://blueplatespecialcafe.wordpress.com/category/truth/'>Truth</a> Tagged: <a href='http://blueplatespecialcafe.wordpress.com/tag/aristotle/'>Aristotle</a>, <a href='http://blueplatespecialcafe.wordpress.com/tag/children-2/'>children</a>, <a href='http://blueplatespecialcafe.wordpress.com/tag/clothing/'>Clothing</a>, <a href='http://blueplatespecialcafe.wordpress.com/tag/fathers/'>fathers</a>, <a href='http://blueplatespecialcafe.wordpress.com/tag/government/'>Government</a>, <a href='http://blueplatespecialcafe.wordpress.com/tag/grandfathers/'>grandfathers</a>, <a href='http://blueplatespecialcafe.wordpress.com/tag/grandmothers/'>grandmothers</a>, <a href='http://blueplatespecialcafe.wordpress.com/tag/hot-topic/'>Hot Topic</a>, <a href='http://blueplatespecialcafe.wordpress.com/tag/malls/'>malls</a>, <a href='http://blueplatespecialcafe.wordpress.com/tag/mothers/'>mothers</a>, <a href='http://blueplatespecialcafe.wordpress.com/tag/music/'>music</a>, <a href='http://blueplatespecialcafe.wordpress.com/tag/shopping/'>Shopping</a>, <a href='http://blueplatespecialcafe.wordpress.com/tag/teenagers/'>teenagers</a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/370/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/370/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/370/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/370/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/370/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/370/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/370/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/370/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/370/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/370/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/370/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/370/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/370/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/370/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=370&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://blueplatespecialcafe.wordpress.com/2011/02/13/i-cant-shop-anymore-my-ears-are-killing-me/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:content url="http://1.gravatar.com/avatar/7fb863545f8378e62b5fc8faff58dbdb?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">beyondthestarsastrology</media:title>
+		</media:content>
+
+		<media:content url="http://blueplatespecialcafe.files.wordpress.com/2011/02/2912209307_21e9d23ce6.jpeg?w=220" medium="image">
+			<media:title type="html">The nice police officer is here to help us. Listen to him.</media:title>
+		</media:content>
+
+		<media:content url="http://blueplatespecialcafe.files.wordpress.com/2011/02/1332-when-is-wind-energy-noise-pollution.jpeg?w=300" medium="image">
+			<media:title type="html">The way I look nowadays</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Sledding in the Swiss Alps!</title>
+		<link>http://khollin.wordpress.com/2011/02/13/sledding-in-the-swiss-alps/</link>
+		<comments>http://khollin.wordpress.com/2011/02/13/sledding-in-the-swiss-alps/#comments</comments>
+		<pubDate>Sun, 13 Feb 2011 18:07:33 +0000</pubDate>
+		<dc:creator>khollin</dc:creator>
+				<category><![CDATA[travel]]></category>
+		<category><![CDATA[study abroad]]></category>
+		<category><![CDATA[alps]]></category>
+		<category><![CDATA[switzerland]]></category>
+		<category><![CDATA[sledding]]></category>
+
+		<guid isPermaLink="false">http://khollin.wordpress.com/?p=1210</guid>
+		<description><![CDATA[Yesterday&#8230; My study abroad program organized an optional day trip &#8211; skiing/sledding on the Alps in Switzerland! I went hiking and sledding with about 20 other people, while around 10 others (who already had some experience!) opted to ski or snowboard. There was something amazing to do there for everyone! It was an early morning [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=1210&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p>Yesterday&#8230;</p>
+<p>My study abroad program organized an optional day trip &#8211; skiing/sledding on the Alps in Switzerland! I went hiking and sledding with about 20 other people, while around 10 others (who already had some experience!) opted to ski or snowboard. There was something amazing to do there for everyone!</p>
+<p>It was an early morning and a 3 hour bus ride to Grindelwald, a town in the midst of the Alps&#8230;.</p>
+<p><img class="aligncenter" src="http://farm6.static.flickr.com/5175/5442142726_95e4bf895a.jpg" alt="Grindelwald" width="375" height="500" /></p>
+<p>Once we arrived, those of us who were sledding took another 30 min bus ride up one of the mountains. From there, we continued up with a hike for about an hour! It was a good workout, and we got pretty hot despite the snow and altitude!</p>
+<p><img class="aligncenter" src="http://farm5.static.flickr.com/4073/5441526041_77ac57f195.jpg" alt="uphill." width="375" height="500" /></p>
+<p>Both hiking up and sledding back down were filled with the most amazing views&#8230;.<br />
+<img class="aligncenter" src="http://farm6.static.flickr.com/5177/5442131622_9763d35923.jpg" alt="the swiss alps." width="500" height="329" /><a title="sun and snow. by khollin, on Flickr" href="http://www.flickr.com/photos/khollin/5442136740/"><img class="aligncenter" src="http://farm6.static.flickr.com/5174/5442136740_7388fff533.jpg" alt="sun and snow." width="375" height="500" /></a></p>
+<p>It was unreal! And after sledding back down the hiking route, we got to keep sledding for most of the rest of the way down the mountain&#8230;. a 5 mile course!</p>
+<p><img class="aligncenter" src="http://farm5.static.flickr.com/4094/5441536547_2838323528.jpg" alt="downhill." width="500" height="375" /></p>
+<p>This place is home to the longest sledding route in Europe, and it was the most snow I&#8217;d ever seen in my life!</p>
+<p>And! I found a little bit of Atlanta in Switzerland&#8230;.</p>
+<p><img class="aligncenter" src="http://farm6.static.flickr.com/5057/5441541613_2873d71090.jpg" alt="atlanta in switzerland." width="500" height="375" /></p>
+<p>: )</p>
+<p>It was a great weekend! Sledding in the Swiss Alps was one of the most fun things ever, and everybody had a blast! : D</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/1210/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/1210/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/1210/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/1210/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/1210/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/1210/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/1210/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/1210/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/1210/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/1210/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/1210/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/1210/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/1210/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/1210/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=1210&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://khollin.wordpress.com/2011/02/13/sledding-in-the-swiss-alps/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:content url="http://1.gravatar.com/avatar/d4ed66419a2b7e80cec5b99e38237c26?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">khollin</media:title>
+		</media:content>
+
+		<media:content url="http://farm6.static.flickr.com/5175/5442142726_95e4bf895a.jpg" medium="image">
+			<media:title type="html">Grindelwald</media:title>
+		</media:content>
+
+		<media:content url="http://farm5.static.flickr.com/4073/5441526041_77ac57f195.jpg" medium="image">
+			<media:title type="html">uphill.</media:title>
+		</media:content>
+
+		<media:content url="http://farm6.static.flickr.com/5177/5442131622_9763d35923.jpg" medium="image">
+			<media:title type="html">the swiss alps.</media:title>
+		</media:content>
+
+		<media:content url="http://farm6.static.flickr.com/5174/5442136740_7388fff533.jpg" medium="image">
+			<media:title type="html">sun and snow.</media:title>
+		</media:content>
+
+		<media:content url="http://farm5.static.flickr.com/4094/5441536547_2838323528.jpg" medium="image">
+			<media:title type="html">downhill.</media:title>
+		</media:content>
+
+		<media:content url="http://farm6.static.flickr.com/5057/5441541613_2873d71090.jpg" medium="image">
+			<media:title type="html">atlanta in switzerland.</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>52 Week Project: WK5</title>
+		<link>http://luvandcupcakes.wordpress.com/2011/02/11/52-week-project-wk5/</link>
+		<comments>http://luvandcupcakes.wordpress.com/2011/02/11/52-week-project-wk5/#comments</comments>
+		<pubDate>Fri, 11 Feb 2011 20:00:12 +0000</pubDate>
+		<dc:creator>love and cupcakes</dc:creator>
+				<category><![CDATA[Craft & DIY]]></category>
+		<category><![CDATA[Home]]></category>
+		<category><![CDATA[diy]]></category>
+		<category><![CDATA[headboard]]></category>
+		<category><![CDATA[reclaimed wood]]></category>
+
+		<guid isPermaLink="false">http://luvandcupcakes.wordpress.com/?p=1607</guid>
+		<description><![CDATA[We got started on painting our bedroom last week. Got the walls partially primed and ready for actual paint. We still have a ways to go with painting but we&#8217;ll get there. Since both my husband and I work freelance, our hours are often long (read crazy) and unpredictable and this really stifles our nesting [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=1607&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p><a href="http://luvandcupcakes.files.wordpress.com/2011/02/52_weeks_wk5.jpg"><img class="aligncenter size-full wp-image-1608" title="52_weeks_wk5" src="http://luvandcupcakes.files.wordpress.com/2011/02/52_weeks_wk5.jpg?w=600&#038;h=124" alt="" width="600" height="124" /></a></p>
+<p>We got started on painting our bedroom last week. Got the walls partially primed and ready for actual paint. We still have a ways to go with painting but we&#8217;ll get there. Since both my husband and I work freelance, our hours are often long (read crazy) and unpredictable and this really stifles our nesting progress. Luckily, we&#8217;re in no particular rush, other than the fact that  we would love to move on to the next project. On a happy note, we received our <a href="http://www.tempurpedic.com/TEMPUR-Cloud-Collection/Tempur-Pedic-TEMPUR-Cloud.asp" target="_blank">Tempurpedic Cloud</a> mattress yesterday and we&#8217;re super excited about that. I can&#8217;t wait to sleep on it and all of its memory foamy goodness. Now all we need is a bed! Which brings me to this post. About a week ago, we were pretty much set on purchasing this <a href="http://www.westelm.com/products/diamond-tufted-headboard-g024/?pkey=cheadboards-bed-frames" target="_blank">headboard</a> and this <a href="http://www.westelm.com/products/chunky-wood-bed-frame-f710/?pkey=cheadboards-bed-frames" target="_blank">bed frame </a> from West Elm but then I saw this guy over on <a href="http://www.greylikesnesting.com/rooms/bedroom-rooms/ochre/" target="_blank">Grey Likes Nesting</a> via <a href="http://www.housetweaking.com/2011/01/12/up/" target="_blank">House*Tweaking</a>:</p>
+<p style="text-align:center;"><a href="http://luvandcupcakes.files.wordpress.com/2011/02/love-bed-2.jpg"><img class="aligncenter size-full wp-image-1609" title="love-bed-2" src="http://luvandcupcakes.files.wordpress.com/2011/02/love-bed-2.jpg?w=600&#038;h=900" alt="" width="600" height="900" /></a> <a href="http://www.housetweaking.com/" target="_blank">{photo credit: http://www.housetweaking.com/}</a></p>
+<p>My mission was clear. And since hubby was onboard after one glance, I was all the more sure that this was the right headboard for us. So, to the <a href="http://www.thereclaimer.net/" target="_blank">reclaimed wood yard</a> we went. Here are a few pictures I snapped. The owner told us stories about some of the wood being as old as 500 years! Their wood comes from all over the west coast and some surrounding states. They drive far and wide to tear down old wood buildings and to forest fire sites where they salvage whatever wood they can. I know it&#8217;s completely silly, but as he was talking to us, I welled up a bit thinking about the tree that our headboard might be coming from. It was quite moving to think about its journey from nature to barn to wood yard to headboard in suburban Los Angeles.</p>
+<p style="text-align:center;"><a href="http://luvandcupcakes.files.wordpress.com/2011/02/photo-42.jpg"><img class="aligncenter size-full wp-image-1610" style="border:1px solid black;" title="photo-42" src="http://luvandcupcakes.files.wordpress.com/2011/02/photo-42.jpg?w=600&#038;h=600" alt="" width="600" height="600" /></a></p>
+<p>Somewhere in this pile of redwood is our headboard. This wood came from a torn down barn in Hollister, Ca. I&#8217;m so glad we&#8217;ll be repurposing it and giving it a new, loving home to retire in.</p>
+<p style="text-align:center;"><a href="http://luvandcupcakes.files.wordpress.com/2011/02/photo-38.jpg"><img class="aligncenter size-full wp-image-1614" style="border:1px solid black;" title="photo-38" src="http://luvandcupcakes.files.wordpress.com/2011/02/photo-38.jpg?w=600&#038;h=600" alt="" width="600" height="600" /></a><a href="http://luvandcupcakes.files.wordpress.com/2011/02/photo-40.jpg"></a></p>
+<p style="text-align:center;"><a href="http://luvandcupcakes.files.wordpress.com/2011/02/photo-40.jpg"><img class="aligncenter size-full wp-image-1613" style="border:1px solid black;" title="photo-40" src="http://luvandcupcakes.files.wordpress.com/2011/02/photo-40.jpg?w=600&#038;h=600" alt="" width="600" height="600" /></a><a href="http://luvandcupcakes.files.wordpress.com/2011/02/photo-39.jpg"></a></p>
+<p style="text-align:center;"><a href="http://luvandcupcakes.files.wordpress.com/2011/02/photo-39.jpg"><img class="aligncenter size-full wp-image-1612" style="border:1px solid black;" title="photo-39" src="http://luvandcupcakes.files.wordpress.com/2011/02/photo-39.jpg?w=600&#038;h=600" alt="" width="600" height="600" /></a><a href="http://luvandcupcakes.files.wordpress.com/2011/02/photo-41.jpg"></a></p>
+<p style="text-align:center;"><a href="http://luvandcupcakes.files.wordpress.com/2011/02/photo-41.jpg"><img class="aligncenter size-full wp-image-1611" style="border:1px solid black;" title="photo-41" src="http://luvandcupcakes.files.wordpress.com/2011/02/photo-41.jpg?w=600&#038;h=600" alt="" width="600" height="600" /></a></p>
+<p style="text-align:left;">By making our own headboard from reclaimed wood, not only are we making the greener choice, we&#8217;re also saving about $250! We&#8217;re still in strategy mode about how exactly we&#8217;re going to construct said headboard so stay tuned, I&#8217;ll post after pictures as soon as we&#8217;re done. xoxo!</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/1607/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/1607/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/1607/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/1607/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/1607/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/1607/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/1607/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/1607/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/1607/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/1607/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/1607/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/1607/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/1607/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/1607/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=1607&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://luvandcupcakes.wordpress.com/2011/02/11/52-week-project-wk5/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	
+		<media:content url="http://1.gravatar.com/avatar/581cd5a0a2887af0d804a9c3f17bdb20?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">paola</media:title>
+		</media:content>
+
+		<media:content url="http://luvandcupcakes.files.wordpress.com/2011/02/52_weeks_wk5.jpg" medium="image">
+			<media:title type="html">52_weeks_wk5</media:title>
+		</media:content>
+
+		<media:content url="http://luvandcupcakes.files.wordpress.com/2011/02/love-bed-2.jpg" medium="image">
+			<media:title type="html">love-bed-2</media:title>
+		</media:content>
+
+		<media:content url="http://luvandcupcakes.files.wordpress.com/2011/02/photo-42.jpg" medium="image">
+			<media:title type="html">photo-42</media:title>
+		</media:content>
+
+		<media:content url="http://luvandcupcakes.files.wordpress.com/2011/02/photo-38.jpg" medium="image">
+			<media:title type="html">photo-38</media:title>
+		</media:content>
+
+		<media:content url="http://luvandcupcakes.files.wordpress.com/2011/02/photo-40.jpg" medium="image">
+			<media:title type="html">photo-40</media:title>
+		</media:content>
+
+		<media:content url="http://luvandcupcakes.files.wordpress.com/2011/02/photo-39.jpg" medium="image">
+			<media:title type="html">photo-39</media:title>
+		</media:content>
+
+		<media:content url="http://luvandcupcakes.files.wordpress.com/2011/02/photo-41.jpg" medium="image">
+			<media:title type="html">photo-41</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>1970 Plymouth Cuda 400</title>
+		<link>http://twilightprod.wordpress.com/2011/02/14/1970-plymouth-cuda-400/</link>
+		<comments>http://twilightprod.wordpress.com/2011/02/14/1970-plymouth-cuda-400/#comments</comments>
+		<pubDate>Mon, 14 Feb 2011 20:21:59 +0000</pubDate>
+		<dc:creator>twilightprod</dc:creator>
+				<category><![CDATA[Cars]]></category>
+		<category><![CDATA[1970]]></category>
+		<category><![CDATA[aluminium]]></category>
+		<category><![CDATA[auto]]></category>
+		<category><![CDATA[autoshow]]></category>
+		<category><![CDATA[baracuda]]></category>
+		<category><![CDATA[belts]]></category>
+		<category><![CDATA[cars]]></category>
+		<category><![CDATA[cuda]]></category>
+		<category><![CDATA[engine]]></category>
+		<category><![CDATA[engines]]></category>
+		<category><![CDATA[plymouth]]></category>
+		<category><![CDATA[Twilight Productions]]></category>
+
+		<guid isPermaLink="false">http://twilightprod.wordpress.com/?p=85</guid>
+		<description><![CDATA[For the car people out there&#8230; I did a photoshoot at a local car show&#8230;We&#8217;re featuring the engine and the work that went into this beautiful car. It&#8217;s a 1970 Plymouth Cuda (Baracuda) 400&#8230;this lady is worth over 110k&#8230; and the engine work was done in polished aluminium. Hope you like her&#8230;<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=85&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p>For the car people out there&#8230;<br />
+I did a photoshoot at a local car show&#8230;We&#8217;re featuring the engine and the work that went into this beautiful car.</p>
+<p>It&#8217;s a 1970 Plymouth Cuda (Baracuda) 400&#8230;this lady is worth over 110k&#8230; and the engine work was done in polished aluminium.<br />
+Hope you like her&#8230;</p>
+<p><a href="http://twilightprod.files.wordpress.com/2011/02/600_blog-0356.jpg"><img class="alignleft size-full wp-image-87" title="1970 Plymouth Cuda 400" src="http://twilightprod.files.wordpress.com/2011/02/600_blog-0356.jpg?w=604&#038;h=403" alt="" width="604" height="403" /></a><br />
+<a href="http://twilightprod.files.wordpress.com/2011/02/600_blog-0348.jpg"><img class="alignleft size-full wp-image-96" title="600_blog-0348" src="http://twilightprod.files.wordpress.com/2011/02/600_blog-0348.jpg?w=604&#038;h=403" alt="" width="604" height="403" /></a></p>
+<p><a href="http://twilightprod.files.wordpress.com/2011/02/600_blog-0338.jpg"><img class="alignleft size-full wp-image-92" title="600_blog-0338" src="http://twilightprod.files.wordpress.com/2011/02/600_blog-0338.jpg?w=604&#038;h=403" alt="" width="604" height="403" /></a></p>
+<p><a href="http://twilightprod.files.wordpress.com/2011/02/600_blog-0345.jpg"><img class="alignleft size-full wp-image-95" title="600_blog-0345" src="http://twilightprod.files.wordpress.com/2011/02/600_blog-0345.jpg?w=604&#038;h=403" alt="" width="604" height="403" /></a></p>
+<p><a href="http://twilightprod.files.wordpress.com/2011/02/600_blog-0343.jpg"><img class="alignleft size-full wp-image-94" title="600_blog-0343" src="http://twilightprod.files.wordpress.com/2011/02/600_blog-0343.jpg?w=604&#038;h=403" alt="" width="604" height="403" /></a></p>
+<p><a href="http://twilightprod.files.wordpress.com/2011/02/600_blog-0341.jpg"><img class="alignleft size-full wp-image-93" title="600_blog-0341" src="http://twilightprod.files.wordpress.com/2011/02/600_blog-0341.jpg?w=604&#038;h=403" alt="" width="604" height="403" /></a></p>
+<p><a href="http://twilightprod.files.wordpress.com/2011/02/600_blog-0336.jpg"><img class="alignleft size-full wp-image-90" title="600_blog-0336" src="http://twilightprod.files.wordpress.com/2011/02/600_blog-0336.jpg?w=604&#038;h=381" alt="" width="604" height="381" /></a><br />
+<a href="http://twilightprod.files.wordpress.com/2011/02/600_blog-0331.jpg"><img class="alignleft size-full wp-image-89" title="600_blog-0331" src="http://twilightprod.files.wordpress.com/2011/02/600_blog-0331.jpg?w=403&#038;h=604" alt="" width="403" height="604" /></a><br />
+<a href="http://twilightprod.files.wordpress.com/2011/02/600_blog-0327.jpg"><img class="alignleft size-full wp-image-88" title="600_blog-0327" src="http://twilightprod.files.wordpress.com/2011/02/600_blog-0327.jpg?w=604&#038;h=403" alt="" width="604" height="403" /></a></p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/85/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/85/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/85/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/85/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/85/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/85/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/85/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/85/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/85/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/85/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/85/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/85/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/85/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/85/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=85&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://twilightprod.wordpress.com/2011/02/14/1970-plymouth-cuda-400/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:content url="http://1.gravatar.com/avatar/f2f10166b0ad5c5ad1680a8610cf5a81?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">twilightprod</media:title>
+		</media:content>
+
+		<media:content url="http://twilightprod.files.wordpress.com/2011/02/600_blog-0356.jpg" medium="image">
+			<media:title type="html">1970 Plymouth Cuda 400</media:title>
+		</media:content>
+
+		<media:content url="http://twilightprod.files.wordpress.com/2011/02/600_blog-0348.jpg" medium="image">
+			<media:title type="html">600_blog-0348</media:title>
+		</media:content>
+
+		<media:content url="http://twilightprod.files.wordpress.com/2011/02/600_blog-0338.jpg" medium="image">
+			<media:title type="html">600_blog-0338</media:title>
+		</media:content>
+
+		<media:content url="http://twilightprod.files.wordpress.com/2011/02/600_blog-0345.jpg" medium="image">
+			<media:title type="html">600_blog-0345</media:title>
+		</media:content>
+
+		<media:content url="http://twilightprod.files.wordpress.com/2011/02/600_blog-0343.jpg" medium="image">
+			<media:title type="html">600_blog-0343</media:title>
+		</media:content>
+
+		<media:content url="http://twilightprod.files.wordpress.com/2011/02/600_blog-0341.jpg" medium="image">
+			<media:title type="html">600_blog-0341</media:title>
+		</media:content>
+
+		<media:content url="http://twilightprod.files.wordpress.com/2011/02/600_blog-0336.jpg" medium="image">
+			<media:title type="html">600_blog-0336</media:title>
+		</media:content>
+
+		<media:content url="http://twilightprod.files.wordpress.com/2011/02/600_blog-0331.jpg" medium="image">
+			<media:title type="html">600_blog-0331</media:title>
+		</media:content>
+
+		<media:content url="http://twilightprod.files.wordpress.com/2011/02/600_blog-0327.jpg" medium="image">
+			<media:title type="html">600_blog-0327</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>The Price of Everything</title>
+		<link>http://naturallyadvanced.wordpress.com/2011/02/10/the-price-of-everything/</link>
+		<comments>http://naturallyadvanced.wordpress.com/2011/02/10/the-price-of-everything/#comments</comments>
+		<pubDate>Thu, 10 Feb 2011 14:30:36 +0000</pubDate>
+		<dc:creator>naturallyadvanced</dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Economy]]></category>
+		<category><![CDATA[Environment]]></category>
+		<category><![CDATA[Sustainability]]></category>
+		<category><![CDATA[Business and Economics]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Eduardo Porter]]></category>
+		<category><![CDATA[Financial Crisis]]></category>
+		<category><![CDATA[The Price of Everything]]></category>
+		<category><![CDATA[Work]]></category>
+
+		<guid isPermaLink="false">http://naturallyadvanced.wordpress.com/?p=807</guid>
+		<description><![CDATA[The Price of Everything, a book by Eduardo Porter is about finding the true value of things that don’t exactly have a price tag. The book has an observational stance and different points of view are presented.  It’s up to the readers to make up their own mind about what’s really valuable and what’s not.  [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=807&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p><span style="text-align:center; display: block;"><a href="http://naturallyadvanced.wordpress.com/2011/02/10/the-price-of-everything/"><img src="http://img.youtube.com/vi/QdOUWy8X4EM/2.jpg" alt="" /></a></span></p>
+<p><a onclick="return mugicPopWin(this,event);" oncontextmenu="mugicRightClick(this);" href="http://www.amazon.com/Price-Everything-Solving-Mystery-What/dp/1591843626/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1295995724&amp;sr=1-1"></a>The Price of Everything, a book by <a href="http://eduardoporter.com/">Eduardo Porter</a> is about finding the true value of things that don’t exactly have a price tag.</p>
+<p>The book has an observational stance and different points of view are presented.  It’s up to the readers to make up their own mind about what’s really valuable and what’s not.  This is the whole point of the book, the fact that personal perspective plays a big role in decision making and cost/benefit analysis.</p>
+<p>Porter is interested in more than factoids.  Most of his attention is devoted to teasing out the rationale underlying the “cold accounting” that determines the value of things people think are priceless, like human life and national security.  What he relates has unmistakable urgency.  How much should we spend today to address environmental problems that may be more cheaply tackled by future generations, especially given the number of development projects that clamor for financing now?  Should we even attempt to protect against risks that would be more costly to prevent than the damage they would cause?</p>
+<p>At a time of seemingly proliferating risks, Porter’s searching book is a welcome reminder of the necessity of prudent decision making.  “The truth is,” he writes, “we can’t afford it all.”</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/807/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/807/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/807/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/807/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/807/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/807/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/807/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/807/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/807/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/807/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/807/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/807/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/807/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/807/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=807&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://naturallyadvanced.wordpress.com/2011/02/10/the-price-of-everything/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:content url="http://1.gravatar.com/avatar/11b5ea45b25bcaba479b17740acb8169?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">naturallyadvanced</media:title>
+		</media:content>
+
+		<media:content url="http://img.youtube.com/vi/QdOUWy8X4EM/2.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Borneo</title>
+		<link>http://bcurdt.wordpress.com/2011/02/10/borneo/</link>
+		<comments>http://bcurdt.wordpress.com/2011/02/10/borneo/#comments</comments>
+		<pubDate>Thu, 10 Feb 2011 10:34:19 +0000</pubDate>
+		<dc:creator>baijie</dc:creator>
+				<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Nature]]></category>
+		<category><![CDATA[Nikon d3100]]></category>
+
+		<guid isPermaLink="false">http://bcurdt.wordpress.com/?p=332</guid>
+		<description><![CDATA[The long winter days in Copenhagen make me dream of a not-so-distant past, summering in Borneo. &#160; We chartered a boat to the national park. When I say &#8220;park&#8221;, I actually mean crazy, humid, dense jungle populated by cheeky apes and other bonobos. Kinda scary, yet kinda cute. I&#8217;ll let the rest of pictures do [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=332&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p>The long winter days in Copenhagen make me dream of a not-so-distant past, summering in Borneo.</p>
+<p style="text-align:center;"><a href="http://bcurdt.files.wordpress.com/2011/02/olddude.jpg"><img class="aligncenter size-large wp-image-336" title="OldDude" src="http://bcurdt.files.wordpress.com/2011/02/olddude.jpg?w=397&#038;h=614" alt="" width="397" height="614" /></a></p>
+<p style="text-align:center;"><a href="http://bcurdt.files.wordpress.com/2011/02/market.jpg"><img class="aligncenter size-large wp-image-335" title="market" src="http://bcurdt.files.wordpress.com/2011/02/market.jpg?w=614&#038;h=409" alt="" width="614" height="409" /></a></p>
+<p style="text-align:center;">&nbsp;</p>
+<p style="text-align:center;"><a href="http://bcurdt.files.wordpress.com/2011/02/orangutan.jpg"><img class="aligncenter size-large wp-image-337" title="orangutan" src="http://bcurdt.files.wordpress.com/2011/02/orangutan.jpg?w=409&#038;h=614" alt="" width="409" height="614" /></a></p>
+<p style="text-align:center;">We chartered a boat to the national park. When I say &#8220;park&#8221;, I actually mean crazy, humid, dense jungle populated by cheeky apes and other bonobos. Kinda scary, yet kinda cute. I&#8217;ll let the rest of pictures do the talking.</p>
+<p style="text-align:center;"><a href="http://bcurdt.files.wordpress.com/2011/02/dsc_0956.jpg"><img class="aligncenter size-large wp-image-340" title="DSC_0956" src="http://bcurdt.files.wordpress.com/2011/02/dsc_0956.jpg?w=614&#038;h=409" alt="" width="614" height="409" /></a></p>
+<p style="text-align:center;"><a href="http://bcurdt.files.wordpress.com/2011/02/sea2.jpg"><img class="aligncenter size-large wp-image-339" title="sea2" src="http://bcurdt.files.wordpress.com/2011/02/sea2.jpg?w=614&#038;h=409" alt="" width="614" height="409" /></a><a href="http://bcurdt.files.wordpress.com/2011/02/dsc_0965.jpg"></a></p>
+<p style="text-align:center;"><a href="http://bcurdt.files.wordpress.com/2011/02/dsc_0965.jpg"><img class="aligncenter size-large wp-image-341" title="DSC_0965" src="http://bcurdt.files.wordpress.com/2011/02/dsc_0965.jpg?w=614&#038;h=409" alt="" width="614" height="409" /></a></p>
+<p style="text-align:center;"><a href="http://bcurdt.files.wordpress.com/2011/02/dsc_0885.jpg"><img class="aligncenter size-large wp-image-343" title="DSC_0885" src="http://bcurdt.files.wordpress.com/2011/02/dsc_0885.jpg?w=614&#038;h=409" alt="" width="614" height="409" /></a></p>
+<p style="text-align:center;"><a href="http://bcurdt.files.wordpress.com/2011/02/dsc_0882.jpg"><img class="aligncenter size-large wp-image-342" title="DSC_0882" src="http://bcurdt.files.wordpress.com/2011/02/dsc_0882.jpg?w=614&#038;h=409" alt="" width="614" height="409" /></a></p>
+<p style="text-align:center;"><a href="http://bcurdt.files.wordpress.com/2011/02/sea.jpg"><img class="aligncenter size-large wp-image-338" title="sea" src="http://bcurdt.files.wordpress.com/2011/02/sea.jpg?w=614&#038;h=409" alt="" width="614" height="409" /></a></p>
+<p style="text-align:center;">We visited Longhouses, where some of the locals have lived for hundred of years. There were a lot of stray cats, chickens and dogs. <a href="http://bcurdt.files.wordpress.com/2011/02/longhouse.jpg"><img class="aligncenter size-large wp-image-334" title="longhouse" src="http://bcurdt.files.wordpress.com/2011/02/longhouse.jpg?w=614&#038;h=409" alt="" width="614" height="409" /></a></p>
+<p style="text-align:center;"><a href="http://bcurdt.files.wordpress.com/2011/02/kittykat.jpg"><img class="aligncenter size-large wp-image-333" title="kittykat" src="http://bcurdt.files.wordpress.com/2011/02/kittykat.jpg?w=614&#038;h=409" alt="" width="614" height="409" /></a>They didn&#8217;t have running water, but they did have a satellite antenna.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/332/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/332/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/332/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/332/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/332/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/332/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/332/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/332/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/332/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/332/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/332/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/332/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/332/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/332/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=332&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://bcurdt.wordpress.com/2011/02/10/borneo/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/c27ad55d971381d0d50f735d766a1646?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">baijiecurdt</media:title>
+		</media:content>
+
+		<media:content url="http://bcurdt.files.wordpress.com/2011/02/olddude.jpg?w=661" medium="image">
+			<media:title type="html">OldDude</media:title>
+		</media:content>
+
+		<media:content url="http://bcurdt.files.wordpress.com/2011/02/market.jpg?w=1024" medium="image">
+			<media:title type="html">market</media:title>
+		</media:content>
+
+		<media:content url="http://bcurdt.files.wordpress.com/2011/02/orangutan.jpg?w=682" medium="image">
+			<media:title type="html">orangutan</media:title>
+		</media:content>
+
+		<media:content url="http://bcurdt.files.wordpress.com/2011/02/dsc_0956.jpg?w=1024" medium="image">
+			<media:title type="html">DSC_0956</media:title>
+		</media:content>
+
+		<media:content url="http://bcurdt.files.wordpress.com/2011/02/sea2.jpg?w=1024" medium="image">
+			<media:title type="html">sea2</media:title>
+		</media:content>
+
+		<media:content url="http://bcurdt.files.wordpress.com/2011/02/dsc_0965.jpg?w=1024" medium="image">
+			<media:title type="html">DSC_0965</media:title>
+		</media:content>
+
+		<media:content url="http://bcurdt.files.wordpress.com/2011/02/dsc_0885.jpg?w=1024" medium="image">
+			<media:title type="html">DSC_0885</media:title>
+		</media:content>
+
+		<media:content url="http://bcurdt.files.wordpress.com/2011/02/dsc_0882.jpg?w=1024" medium="image">
+			<media:title type="html">DSC_0882</media:title>
+		</media:content>
+
+		<media:content url="http://bcurdt.files.wordpress.com/2011/02/sea.jpg?w=1024" medium="image">
+			<media:title type="html">sea</media:title>
+		</media:content>
+
+		<media:content url="http://bcurdt.files.wordpress.com/2011/02/longhouse.jpg?w=1024" medium="image">
+			<media:title type="html">longhouse</media:title>
+		</media:content>
+
+		<media:content url="http://bcurdt.files.wordpress.com/2011/02/kittykat.jpg?w=1024" medium="image">
+			<media:title type="html">kittykat</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Granola Bars</title>
+		<link>http://cookietalk.wordpress.com/2011/02/07/granola-bars/</link>
+		<comments>http://cookietalk.wordpress.com/2011/02/07/granola-bars/#comments</comments>
+		<pubDate>Mon, 07 Feb 2011 15:06:40 +0000</pubDate>
+		<dc:creator>Tara</dc:creator>
+				<category><![CDATA[granola]]></category>
+		<category><![CDATA[almonds]]></category>
+		<category><![CDATA[baking]]></category>
+		<category><![CDATA[food & wine]]></category>
+		<category><![CDATA[honey]]></category>
+		<category><![CDATA[old fashioned oats]]></category>
+		<category><![CDATA[postaweek2011]]></category>
+		<category><![CDATA[quick]]></category>
+		<category><![CDATA[white chocolate]]></category>
+
+		<guid isPermaLink="false">http://cookietalk.wordpress.com/?p=407</guid>
+		<description><![CDATA[I&#8217;ve been making granola for a couple of years now. It&#8217;s great to sprinkle on yogurt or just have as a snack. However, this was my first time making granola bars. I was browsing through an old Food &#38; Wine Magazine and found a delicious  recipe for granola bars. However, I didn&#8217;t have everything in the [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=407&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;ve been making granola for a couple of years now. It&#8217;s great to sprinkle on yogurt or just have as a snack. However, this was my first time making granola bars. I was browsing through an old <a href="http://www.foodandwine.com/" target="_blank">Food &amp; Wine Magazine</a> and found a delicious  recipe for granola bars. However, I didn&#8217;t have everything in the ingredient list, nor did I want everything in the ingredient list. So I modified it and came out with a very addicting granola bar. It&#8217;s not perfect, in fact, they are a bit gooey, but for a first time making these, I&#8217;m in love!</p>
+<p><a href="http://cookietalk.files.wordpress.com/2011/01/stack-of-granola-bars.jpg"><img class="aligncenter size-full wp-image-414" title="stack of granola bars" src="http://cookietalk.files.wordpress.com/2011/01/stack-of-granola-bars.jpg?w=480&#038;h=640" alt="" width="480" height="640" /></a></p>
+<p>Here&#8217;s a link to the original recipe, <a href="http://www.foodandwine.com/recipes/sticky-oat-and-pine-nut-bars">Sticky Oat and Pine Nut Bars</a></p>
+<p>I like pine nuts, but they aren&#8217;t my favorite. And I love pepper, but just not in my sweets. I can&#8217;t seem to get into the pepper and sweet thing (though I love chocolate and chilis&#8230;). So I took both of those out and substituted almonds and cinnamon. Ah, that&#8217;s more like it! Oh, and instead of dipping the bars in white chocolate, I put the chocolate in the batter.</p>
+<p>These are super easy to make, the hardest part is waiting for them to cool!</p>
+<p><strong>Almond &amp; Cinnamon Granola bars</strong></p>
+<p>Modified slightly from Food &amp; Wine Sticky Oat and Pine Nut Bars</p>
+<ul>
+<li>1 stick unsalted butter, plus more for greasing pan</li>
+<li>3/4 cup honey</li>
+<li>1/2 cup packed brown sugar</li>
+<li>2 cups old fashioned oats</li>
+<li>1 1/2 cups chopped almonds</li>
+<li>1 tsp cinnamon</li>
+<li>Pinch of salt</li>
+<li>4 oz white chocolate</li>
+</ul>
+<p>1. Preheat the oven to 325F. Butter an 8 inch square baking pan. Line the bottom and sides with parchment paper.</p>
+<p>2. In a large saucepan, melt the butter with the honey and sugar and cook over moderate heat, stirring constantly until an amber caramel forms, about 5 minutes.</p>
+<p><a href="http://cookietalk.files.wordpress.com/2011/01/butter-and-sugars.jpg"><img class="aligncenter size-full wp-image-410" title="butter and sugars" src="http://cookietalk.files.wordpress.com/2011/01/butter-and-sugars.jpg?w=500&#038;h=375" alt="" width="500" height="375" /></a></p>
+<p>Stir in the oats, almonds, cinnamon, and salt and cook, stirring constantly, about 2 minutes. Remove from heat and stir in the white chocolate. It will melt. Scrape the mixture into the prepared pan and smooth the surface.</p>
+<p><a href="http://cookietalk.files.wordpress.com/2011/01/granola-bars-before-baking.jpg"><img class="aligncenter size-full wp-image-412" title="granola bars before baking" src="http://cookietalk.files.wordpress.com/2011/01/granola-bars-before-baking.jpg?w=500&#038;h=375" alt="" width="500" height="375" /></a></p>
+<p>Bake for about 20 minutes, or until bubbling and brown on the edges.</p>
+<p><a href="http://cookietalk.files.wordpress.com/2011/01/granola-bars-after-baking.jpg"><img class="aligncenter size-full wp-image-411" title="granola bars after baking" src="http://cookietalk.files.wordpress.com/2011/01/granola-bars-after-baking.jpg?w=500&#038;h=375" alt="" width="500" height="375" /></a></p>
+<p>It will smell absolutely intoxicating at this point, but you must resist the urge to remove the bars from the pan! They need to cool completely in order to have any hope of staying together. Mine were gooey, so I probably should have let them cool longer, but it was just about impossible! They smelled  so yummy! After they are cooled, lift parchment from pan and move bars to cutting board. Cut into whatever size you desire. I did pretty small squares since they are sweet.</p>
+<p>I found these to be a great pre-running snack, but I think they&#8217;d be great just about anywhere. Just wrap a bar in parchment and away you go!</p>
+<p><a href="http://cookietalk.files.wordpress.com/2011/01/wrapped-up-for-a-snack.jpg"><img class="aligncenter size-full wp-image-416" title="wrapped up for a snack" src="http://cookietalk.files.wordpress.com/2011/01/wrapped-up-for-a-snack.jpg?w=500&#038;h=375" alt="" width="500" height="375" /></a></p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/407/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/407/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/407/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/407/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/407/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/407/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/407/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/407/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/407/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/407/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/407/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/407/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/407/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/407/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=407&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://cookietalk.wordpress.com/2011/02/07/granola-bars/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:content url="" medium="image">
+			<media:title type="html">tll2003</media:title>
+		</media:content>
+
+		<media:content url="http://cookietalk.files.wordpress.com/2011/01/stack-of-granola-bars.jpg" medium="image">
+			<media:title type="html">stack of granola bars</media:title>
+		</media:content>
+
+		<media:content url="http://cookietalk.files.wordpress.com/2011/01/butter-and-sugars.jpg" medium="image">
+			<media:title type="html">butter and sugars</media:title>
+		</media:content>
+
+		<media:content url="http://cookietalk.files.wordpress.com/2011/01/granola-bars-before-baking.jpg" medium="image">
+			<media:title type="html">granola bars before baking</media:title>
+		</media:content>
+
+		<media:content url="http://cookietalk.files.wordpress.com/2011/01/granola-bars-after-baking.jpg" medium="image">
+			<media:title type="html">granola bars after baking</media:title>
+		</media:content>
+
+		<media:content url="http://cookietalk.files.wordpress.com/2011/01/wrapped-up-for-a-snack.jpg" medium="image">
+			<media:title type="html">wrapped up for a snack</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Hot Air Balloon Affair</title>
+		<link>http://travelsnapshots.wordpress.com/2011/02/06/hot-air-balloon-affair/</link>
+		<comments>http://travelsnapshots.wordpress.com/2011/02/06/hot-air-balloon-affair/#comments</comments>
+		<pubDate>Sun, 06 Feb 2011 15:35:55 +0000</pubDate>
+		<dc:creator>Colleen McGuire</dc:creator>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[Hot Air Balloons]]></category>
+		<category><![CDATA[Wisconsin]]></category>
+
+		<guid isPermaLink="false">http://travelsnapshots.wordpress.com/?p=1378</guid>
+		<description><![CDATA[Keeping with my theme of &#8220;things to do in the North when it&#8217;s cold outside,&#8221; I couldn&#8217;t let winter slip by without mentioning the Hudson Hot Air Affair, a celebration of hot air ballooning in Hudson, Wisconsin. Held in early February, the event brings ballooners from Minnesota, Wisconsin, Iowa, the Dakotas, Illinois and Nebraska. Thousands [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=1378&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p><a href="http://travelsnapshots.files.wordpress.com/2011/02/haba_1_web.jpg"><img class="aligncenter size-full wp-image-1379" title="HABA_1_WEB" src="http://travelsnapshots.files.wordpress.com/2011/02/haba_1_web.jpg?w=500&#038;h=333" alt="" width="500" height="333" /></a></p>
+<p>Keeping with my theme of &#8220;things to do in the North when it&#8217;s cold outside,&#8221; I couldn&#8217;t let winter slip by without mentioning the <a title="Hudson Hot Air Affair" href="http://www.hudsonhotairaffair.com/" target="_blank">Hudson Hot Air Affair,</a> a celebration of hot air ballooning in Hudson, Wisconsin. Held in early February, the event brings ballooners from Minnesota, Wisconsin, Iowa, the Dakotas, Illinois and Nebraska. Thousands of spectators flock to the event for family activities, a pancake breakfast, a silent auction, and to an open field to watch the balloons launch into the winter sky each morning. One of the more popular events is &#8220;Moon Glow,&#8221; when balloonists fire up their balloons in the twilight hours, which is what I caught this weekend.</p>
+<p style="text-align:center;"><a href="http://travelsnapshots.files.wordpress.com/2011/02/haba_5_nemo_web.jpg"><img class="aligncenter size-full wp-image-1380" title="HABA_5_Nemo_WEB" src="http://travelsnapshots.files.wordpress.com/2011/02/haba_5_nemo_web.jpg?w=500&#038;h=333" alt="" width="500" height="333" /></a></p>
+<p style="text-align:center;"><a href="http://travelsnapshots.files.wordpress.com/2011/02/haba_6_web.jpg"><img class="aligncenter size-full wp-image-1381" title="HABA_6_WEB" src="http://travelsnapshots.files.wordpress.com/2011/02/haba_6_web.jpg?w=500&#038;h=333" alt="" width="500" height="333" /></a><a href="http://travelsnapshots.files.wordpress.com/2011/02/haba_4_web.jpg"></a></p>
+<p style="text-align:center;"><a href="http://travelsnapshots.files.wordpress.com/2011/02/haba_4_web.jpg"><img class="aligncenter size-full wp-image-1382" title="HABA_4_WEB" src="http://travelsnapshots.files.wordpress.com/2011/02/haba_4_web.jpg?w=500&#038;h=751" alt="" width="500" height="751" /></a></p>
+<p style="text-align:center;"><a href="http://travelsnapshots.files.wordpress.com/2011/02/haba_3_faces_web.jpg"><img class="aligncenter size-full wp-image-1383" title="HABA_3_Faces_WEB" src="http://travelsnapshots.files.wordpress.com/2011/02/haba_3_faces_web.jpg?w=500&#038;h=751" alt="" width="500" height="751" /></a></p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/1378/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/1378/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/1378/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/1378/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/1378/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/1378/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/1378/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/1378/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/1378/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/1378/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/1378/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/1378/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/1378/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/1378/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=1378&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://travelsnapshots.wordpress.com/2011/02/06/hot-air-balloon-affair/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+	
+		<media:content url="http://1.gravatar.com/avatar/ffb4834c0674cb551327c81069d2a4b6?s=96&#38;d=identicon&#38;r=PG" medium="image">
+			<media:title type="html">colleenmickg</media:title>
+		</media:content>
+
+		<media:content url="http://travelsnapshots.files.wordpress.com/2011/02/haba_1_web.jpg" medium="image">
+			<media:title type="html">HABA_1_WEB</media:title>
+		</media:content>
+
+		<media:content url="http://travelsnapshots.files.wordpress.com/2011/02/haba_5_nemo_web.jpg" medium="image">
+			<media:title type="html">HABA_5_Nemo_WEB</media:title>
+		</media:content>
+
+		<media:content url="http://travelsnapshots.files.wordpress.com/2011/02/haba_6_web.jpg" medium="image">
+			<media:title type="html">HABA_6_WEB</media:title>
+		</media:content>
+
+		<media:content url="http://travelsnapshots.files.wordpress.com/2011/02/haba_4_web.jpg" medium="image">
+			<media:title type="html">HABA_4_WEB</media:title>
+		</media:content>
+
+		<media:content url="http://travelsnapshots.files.wordpress.com/2011/02/haba_3_faces_web.jpg" medium="image">
+			<media:title type="html">HABA_3_Faces_WEB</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>

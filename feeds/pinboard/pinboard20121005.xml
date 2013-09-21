@@ -1,0 +1,1132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xmlns="http://purl.org/rss/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/">
+  <channel rdf:about="http://pinboard.in">
+    <title>Pinboard (popular bookmarks)</title>
+    <link>https://pinboard.in/popular/</link>
+    <description>popular items from Pinboard</description>
+    <items>
+      <rdf:Seq>	<rdf:li rdf:resource="http://betterspecs.org/"/>
+	<rdf:li rdf:resource="http://coding.smashingmagazine.com/2012/10/04/the-code-side-of-color/"/>
+	<rdf:li rdf:resource="http://rainypixels.com/words/the-story-of-the-new-microsoft-com/"/>
+	<rdf:li rdf:resource="https://join.app.net/"/>
+	<rdf:li rdf:resource="http://www.igvita.com/slides/2012/devtools-tips-and-tricks/#1"/>
+	<rdf:li rdf:resource="http://killdream.github.com/blog/2011/10/understanding-javascript-oop/"/>
+	<rdf:li rdf:resource="https://lockitron.com/preorder"/>
+	<rdf:li rdf:resource="http://craigkerstiens.com/2012/10/01/understanding-postgres-performance/"/>
+	<rdf:li rdf:resource="http://gorban.org/post/32873465932/software-architecture-cheat-sheet"/>
+	<rdf:li rdf:resource="https://blog.mailchimp.com/social-login-buttons-arent-worth-it/"/>
+	<rdf:li rdf:resource="http://www.forbes.com/sites/connieguglielmo/2012/10/02/untold-stories-about-steve-jobs-friends-and-colleagues-share-their-memories/"/>
+	<rdf:li rdf:resource="http://refer.ly/blog/most-revealing-interview-question/"/>
+	<rdf:li rdf:resource="http://pythontutor.com/"/>
+	<rdf:li rdf:resource="http://archiveofourown.org/works/527330"/>
+	<rdf:li rdf:resource="http://lifelibertytech.com/2012/10/02/the-lost-steve-jobs-speech-from-1983-foreshadowing-wireless-networking-the-ipad-and-the-app-store/"/>
+	<rdf:li rdf:resource="http://blog.mailchimp.com/social-login-buttons-arent-worth-it/"/>
+	<rdf:li rdf:resource="http://www.theatlantic.com/technology/archive/2012/10/the-forgotten-mapmaker-nokia-has-better-maps-than-apple-and-maybe-even-google/263150/"/>
+	<rdf:li rdf:resource="http://prog21.dadgum.com/154.html"/>
+	<rdf:li rdf:resource="http://tympanus.net/codrops/2012/10/04/custom-drop-down-list-styling/"/>
+	<rdf:li rdf:resource="http://mikecr.it/ramblings/drupals-golden-handcuffs"/>
+	<rdf:li rdf:resource="http://kottke.org/12/10/stop-motion-lego-dr-strangelove"/>
+	<rdf:li rdf:resource="http://www.wired.com/wiredscience/2012/09/ff-corning-gorilla-glass/all/"/>
+	<rdf:li rdf:resource="http://arstechnica.com/tech-policy/2012/10/i-am-calling-you-from-windows-a-tech-support-scammer-dials-ars-technica/"/>
+	<rdf:li rdf:resource="http://www.mail-archive.com/dri-devel@lists.sourceforge.net/msg39091.html"/>
+	<rdf:li rdf:resource="http://wheningit.tumblr.com/"/>
+	<rdf:li rdf:resource="http://www.slate.com/articles/technology/technology/2012/10/website_pagination_stories_should_load_into_a_single_page_every_time_.html"/>
+	<rdf:li rdf:resource="http://archiveofourown.org/works/528078"/>
+	<rdf:li rdf:resource="http://qu33riousity.tumblr.com/post/32659337104/racist-moments-of-2012-pt-1-the-workplace"/>
+	<rdf:li rdf:resource="http://tapbots.com/blog/news/say-hello-to-netbot"/>
+	<rdf:li rdf:resource="http://www.codinghorror.com/blog/2012/10/todont.html"/>
+	<rdf:li rdf:resource="http://stevelosh.com/blog/2012/10/a-modern-space-cadet/"/>
+	<rdf:li rdf:resource="http://www.microsoft.com"/>
+	<rdf:li rdf:resource="http://thenounproject.com/"/>
+	<rdf:li rdf:resource="http://cratesandribbons.com/2012/09/30/the-kissing-sailor-or-the-selective-blindness-of-rape-culture-vj-day-times-square/"/>
+	<rdf:li rdf:resource="http://enjalot.github.com/dot-enter/"/>
+	<rdf:li rdf:resource="http://www.typescriptlang.org/"/>
+	<rdf:li rdf:resource="http://tapbots.com/software/netbot/"/>
+	<rdf:li rdf:resource="http://specificity.keegan.st/"/>
+	<rdf:li rdf:resource="http://www.dpreview.com/articles/6867454450/quick-review-apple-iphone-5-camera"/>
+	<rdf:li rdf:resource="http://codepen.io/jaysalvat/pen/HaqBf"/>
+	<rdf:li rdf:resource="http://worrydream.com/LearnableProgramming/"/>
+	<rdf:li rdf:resource="http://thegreatdiscontent.com/jason-santa-maria"/>
+	<rdf:li rdf:resource="https://tent.is/"/>
+	<rdf:li rdf:resource="http://byfat.xxx/if-hemingway-wrote-javascript"/>
+	<rdf:li rdf:resource="http://www.igvita.com/slides/2012/devtools-tips-and-tricks/"/>
+	<rdf:li rdf:resource="http://www.npr.org/blogs/krulwich/2012/10/02/162147810/are-those-spidery-black-things-on-mars-dangerous-yup"/>
+	<rdf:li rdf:resource="http://highscalability.com/blog/2012/10/4/linkedin-moved-from-rails-to-node-27-servers-cut-and-up-to-2.html"/>
+	<rdf:li rdf:resource="http://stevelosh.com/blog/2012/10/the-homely-mutt/"/>
+	<rdf:li rdf:resource="http://twitter.com/ericgrant/status/253673901698199552/photo/1"/>
+	<rdf:li rdf:resource="https://pictonic.co/free"/>
+	<rdf:li rdf:resource="http://www.webdesignerdepot.com/2012/10/creating-a-modal-window-with-html5-and-css3/"/>
+	<rdf:li rdf:resource="http://www.pbs.org/about/news/archive/2012/statement-presidential-debate/"/>
+	<rdf:li rdf:resource="http://apify.heroku.com/resources"/>
+	<rdf:li rdf:resource="http://www.morethanamap.com/"/>
+	<rdf:li rdf:resource="https://www.foldable.me/"/>
+	<rdf:li rdf:resource="http://doctestjs.org/"/>
+	<rdf:li rdf:resource="http://www-sul.stanford.edu/mac/parc.html"/>
+	<rdf:li rdf:resource="http://www.panic.com/blog/2012/10/waritsuki-drive-icons/"/>
+	<rdf:li rdf:resource="http://coding.smashingmagazine.com/2012/10/02/csscomb-tool-sort-css-properties/"/>
+	<rdf:li rdf:resource="http://www.site44.com/"/>
+	<rdf:li rdf:resource="http://www.businessinsider.com/state-of-internet-slides-2012-10?op=1"/>
+	<rdf:li rdf:resource="http://quicksprints.com/"/>
+	<rdf:li rdf:resource="http://mobile.smashingmagazine.com/2009/08/11/how-to-create-your-first-iphone-application/"/>
+	<rdf:li rdf:resource="http://joshnh.com/2012/08/16/drawing-things-with-box-shadow/"/>
+	<rdf:li rdf:resource="http://labs.newsint.co.uk/blog/2012/10/why-mozilla-persona-is-the-right-answer-to-the-question-of-identity/"/>
+	<rdf:li rdf:resource="http://dave.fayr.am/posts/2012-10-4-finding-fizzbuzz.html"/>
+	<rdf:li rdf:resource="http://blogs.discovermagazine.com/cosmicvariance/2012/10/01/you-are-getting-sleeeeeeepy/"/>
+	<rdf:li rdf:resource="http://csscomb.com/"/>
+	<rdf:li rdf:resource="http://amp-what.com/"/>
+	<rdf:li rdf:resource="http://unbored.net/gary-panters-drawing-tips/"/>
+	<rdf:li rdf:resource="http://www.nest.com/blog/2012/10/02/the-next-generation-nest-thermostat/"/>
+	<rdf:li rdf:resource="http://jetstrap.com/"/>
+	<rdf:li rdf:resource="https://github.com/jllord/sheetsee.js"/>
+	<rdf:li rdf:resource="https://github.com/jigish/slate"/>
+	<rdf:li rdf:resource="http://trentwalton.com/2012/10/03/a-new-microsoft-com/"/>
+	<rdf:li rdf:resource="http://conversionxl.com/dont-use-automatic-image-sliders-or-carousels-ignore-the-fad/"/>
+	<rdf:li rdf:resource="http://gallivant.com/"/>
+	<rdf:li rdf:resource="http://www.techhive.com/article/2010924/i-love-my-kindle-but-it-drives-me-crazy.html"/>
+	<rdf:li rdf:resource="http://www.creativereview.co.uk/cr-blog/2012/october/typographic-chess-set"/>
+	<rdf:li rdf:resource="http://thenextweb.com/apps/2012/10/03/tweetbot-creator-launches-netbot-a-mature-and-polished-app-net-client-for-iphone-and-ipad/"/>
+	<rdf:li rdf:resource="http://lizbee.dreamwidth.org/1218431.html"/>
+	<rdf:li rdf:resource="https://tech.dropbox.com/?p=393"/>
+	<rdf:li rdf:resource="http://www.collegehumor.com/video/6830834/mitt-romney-style-gangnam-style-parody"/>
+	<rdf:li rdf:resource="http://arstechnica.com/information-technology/2012/10/microsoft-typescript-the-javascript-we-need-or-a-solution-looking-for-a-problem/"/>
+	<rdf:li rdf:resource="http://geekblog.oneandoneis2.org/index.php/2012/09/30/to-understand-the-command-line"/>
+	<rdf:li rdf:resource="http://informationarchitects.net/blog/sweep-the-sleaze/"/>
+	<rdf:li rdf:resource="http://badassjs.com/post/32812527381/doppio-a-java-virtual-machine-compiler-and"/>
+	<rdf:li rdf:resource="http://storify.com/tapbot_paul/conversation-with-moe-faris-and-tweetbot"/>
+	<rdf:li rdf:resource="http://massivegreatness.com/bloated"/>
+	<rdf:li rdf:resource="http://html5blank.com/"/>
+	<rdf:li rdf:resource="http://jterrace.github.com/sphinxtr/singlehtml/index.html"/>
+	<rdf:li rdf:resource="http://www.tor.com/blogs/2012/10/most-citizens-of-the-star-wars-galaxy-are-probably-totally-illiterate"/>
+	<rdf:li rdf:resource="http://www.businessweek.com/innovate/content/jul2009/id20090713_332802.htm"/>
+	<rdf:li rdf:resource="http://www.teslamotors.com/blog/update-elon-musk"/>
+	<rdf:li rdf:resource="http://www.macstories.net/reviews/netbot-tweetbot-reborn-for-app-net/"/>
+	<rdf:li rdf:resource="http://www.uistencils.com/products/pixel-ruler"/>
+	<rdf:li rdf:resource="http://www.kungfugrippe.com/post/32346212930/speaking-for-yourself"/>
+	<rdf:li rdf:resource="http://mathematica.stackexchange.com/questions/11350/xkcd-style-graphs"/>
+	<rdf:li rdf:resource="http://coding.smashingmagazine.com/2012/09/23/useful-javascript-libraries-jquery-plugins-web-developers/"/>
+	<rdf:li rdf:resource="http://www.linkedin.com/today/post/article/20121002125913-3279-how-to-create-time"/>
+      </rdf:Seq>
+    </items>
+  </channel><item rdf:about="http://betterspecs.org/">
+    <title>Better Specs</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://betterspecs.org/</link>
+    <dc:creator>matt-button</dc:creator><description><![CDATA[Set of tips for writing better specs]]></description>
+<dc:subject>ruby testing programming specs rspec</dc:subject>
+<dc:identifier>http://pinboard.in/u:matt-button/b:4916d485193b/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:matt-button/t:ruby"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:matt-button/t:testing"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:matt-button/t:programming"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:matt-button/t:specs"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:matt-button/t:rspec"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://coding.smashingmagazine.com/2012/10/04/the-code-side-of-color/">
+    <title>The Code Side Of Color | Smashing Coding</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://coding.smashingmagazine.com/2012/10/04/the-code-side-of-color/</link>
+    <dc:creator>zeroelink</dc:creator><dc:subject>colors hex</dc:subject>
+<dc:identifier>http://pinboard.in/u:zeroelink/b:8190497d4b9a/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:zeroelink/t:colors"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:zeroelink/t:hex"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://rainypixels.com/words/the-story-of-the-new-microsoft-com/">
+    <title>The Story of the New Microsoft.com — Rainypixels</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://rainypixels.com/words/the-story-of-the-new-microsoft-com/</link>
+    <dc:creator>kimroen</dc:creator><description><![CDATA[Some background on the the new responsive  from @rainypixels #rwd ]]></description>
+<dc:subject>rwd</dc:subject>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:kimroen/b:ce08d456215a/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:kimroen/t:rwd"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://join.app.net/">
+    <title>Join the Movement - App.net</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>https://join.app.net/</link>
+    <dc:creator>kinlane</dc:creator><description><![CDATA[ is crowd-funding the development of their platform - ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:kinlane/b:07b3f45c326d/</dc:identifier>
+</item>
+<item rdf:about="http://www.igvita.com/slides/2012/devtools-tips-and-tricks/#1">
+    <title>DevTools Tips and Tricks</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://www.igvita.com/slides/2012/devtools-tips-and-tricks/#1</link>
+    <dc:creator>svnlto</dc:creator><description><![CDATA[RT @addyosmani: Fantastic performance slides: "Wait, DevTools could do THAT?"  by @igrigorik  #devtools]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:svnlto/b:19faa161dd09/</dc:identifier>
+</item>
+<item rdf:about="http://killdream.github.com/blog/2011/10/understanding-javascript-oop/">
+    <title>Understanding JavaScript OOP — Sorella's Basement</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://killdream.github.com/blog/2011/10/understanding-javascript-oop/</link>
+    <dc:creator>iredwards</dc:creator><dc:subject>javascript oo blog</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:iredwards/b:823a9eb35875/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:iredwards/t:javascript"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:iredwards/t:oo"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:iredwards/t:blog"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://lockitron.com/preorder">
+    <title>Lockitron</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>https://lockitron.com/preorder</link>
+    <dc:creator>og</dc:creator><dc:subject>door lock unlock iphone future awesome to buy</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:og/b:fcea0c8e5907/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:og/t:door"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:og/t:lock"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:og/t:unlock"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:og/t:iphone"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:og/t:future"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:og/t:awesome"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:og/t:to"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:og/t:buy"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://craigkerstiens.com/2012/10/01/understanding-postgres-performance/">
+    <title>Understanding Postgres Performance - Craig Kerstiens</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://craigkerstiens.com/2012/10/01/understanding-postgres-performance/</link>
+    <dc:creator>jhsu</dc:creator><description><![CDATA[RT @craigkerstiens: New blog post up - Understanding Postgres Performance ]]></description>
+<dc:subject>postgres performance</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:jhsu/b:2c523d85670f/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:jhsu/t:postgres"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:jhsu/t:performance"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://gorban.org/post/32873465932/software-architecture-cheat-sheet">
+    <title>Software Architecture cheat sheet</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://gorban.org/post/32873465932/software-architecture-cheat-sheet</link>
+    <dc:creator>brookr</dc:creator><description><![CDATA[I wrote a "cheat sheet" of software architecture principles and put it on my wall. Read about it and download at .]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:brookr/b:cdcd0a682853/</dc:identifier>
+</item>
+<item rdf:about="https://blog.mailchimp.com/social-login-buttons-arent-worth-it/">
+    <title>Social Login Buttons Aren’t Worth It | MailChimp Email Marketing Blog</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>https://blog.mailchimp.com/social-login-buttons-arent-worth-it/</link>
+    <dc:creator>brianboyer</dc:creator><description><![CDATA[RT @LucidPictures “@MailChimp: Social Login Buttons Aren’t Worth It  - new MailChimp blog post by @Aarron” @iA]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:brianboyer/b:f7ec2c978df1/</dc:identifier>
+</item>
+<item rdf:about="http://www.forbes.com/sites/connieguglielmo/2012/10/02/untold-stories-about-steve-jobs-friends-and-colleagues-share-their-memories/">
+    <title>Untold Stories About Steve Jobs: Friends and Colleagues Share Their Memories - Forbes</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://www.forbes.com/sites/connieguglielmo/2012/10/02/untold-stories-about-steve-jobs-friends-and-colleagues-share-their-memories/</link>
+    <dc:creator>wahoo5</dc:creator><dc:source>http://instapaper.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:wahoo5/b:fb0ca501f5e8/</dc:identifier>
+</item>
+<item rdf:about="http://refer.ly/blog/most-revealing-interview-question/">
+    <title>The Most Revealing Interview Question - Referly Blog</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://refer.ly/blog/most-revealing-interview-question/</link>
+    <dc:creator>icharles</dc:creator><dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:icharles/b:abb0e7210950/</dc:identifier>
+</item>
+<item rdf:about="http://pythontutor.com/">
+    <title>Online Python Tutor - Learn programming by visualizing code execution</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://pythontutor.com/</link>
+    <dc:creator>edsu</dc:creator><dc:subject>python education</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:edsu/b:16e807bd343c/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:edsu/t:python"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:edsu/t:education"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://archiveofourown.org/works/527330">
+    <title>TW: We've Written Volumes (in Blood and Scars and Ink), Derek/Stiles, NC-17, 25K</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://archiveofourown.org/works/527330</link>
+    <dc:creator>meitachi</dc:creator><description><![CDATA[Stiles is on his back on hard-packed dirt. He's cold and there are leaves stuck to his neck and there's a four inch gash in his side that he thinks he can feel his ribs through. There's so much blood around him he feels like he's floating on a pond and everything is so much dimmer above him than it was a minute ago, which is saying something because he's in the dark center of the forest in the middle of the night. And the worst of it is that he's alone, totally alone with the smell of his own blood drowning him and the soft side of him run through by a tree.
+
+As his eyes slip shut, the last thing he thinks is, "This is going to kill my dad."]]></description>
+<dc:subject>fandom:teenwolf pairing:derek/stiles rating:nc-17 author:notthequiettype !♥ h/c</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:meitachi/b:403dd258c93c/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:meitachi/t:fandom:teenwolf"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:meitachi/t:pairing:derek/stiles"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:meitachi/t:rating:nc-17"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:meitachi/t:author:notthequiettype"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:meitachi/t:!♥"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:meitachi/t:h/c"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://lifelibertytech.com/2012/10/02/the-lost-steve-jobs-speech-from-1983-foreshadowing-wireless-networking-the-ipad-and-the-app-store/">
+    <title>The “Lost” Steve Jobs Speech from 1983; Foreshadowing Wireless Networking, the iPad, and the App Store</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://lifelibertytech.com/2012/10/02/the-lost-steve-jobs-speech-from-1983-foreshadowing-wireless-networking-the-ipad-and-the-app-store/</link>
+    <dc:creator>manton</dc:creator><description><![CDATA[Jobs on computers in 1983 (before I was born) quite incredible ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:manton/b:ba333b17b7ad/</dc:identifier>
+</item>
+<item rdf:about="http://blog.mailchimp.com/social-login-buttons-arent-worth-it/">
+    <title>Social Login Buttons Aren’t Worth It | MailChimp Email Marketing Blog</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://blog.mailchimp.com/social-login-buttons-arent-worth-it/</link>
+    <dc:creator>pixelnated</dc:creator><description><![CDATA[Social Login Buttons Aren't Worth It ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:pixelnated/b:3ad66d487da5/</dc:identifier>
+</item>
+<item rdf:about="http://www.theatlantic.com/technology/archive/2012/10/the-forgotten-mapmaker-nokia-has-better-maps-than-apple-and-maybe-even-google/263150/">
+    <title>The Forgotten Mapmaker: Nokia Has Better Maps Than Apple and Maybe Even Google</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://www.theatlantic.com/technology/archive/2012/10/the-forgotten-mapmaker-nokia-has-better-maps-than-apple-and-maybe-even-google/263150/</link>
+    <dc:creator>kristiancee</dc:creator><dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:kristiancee/b:ac4f08d9c584/</dc:identifier>
+</item>
+<item rdf:about="http://prog21.dadgum.com/154.html">
+    <title>Do You Really Want to be Doing this When You're 50?</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://prog21.dadgum.com/154.html</link>
+    <dc:creator>stilist</dc:creator><dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:stilist/b:0db8d5ff0c88/</dc:identifier>
+</item>
+<item rdf:about="http://tympanus.net/codrops/2012/10/04/custom-drop-down-list-styling/">
+    <title>Custom Drop-Down List Styling | Codrops</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://tympanus.net/codrops/2012/10/04/custom-drop-down-list-styling/</link>
+    <dc:creator>thulstrup</dc:creator><dc:subject>css dropdown</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:thulstrup/b:90ff301d9561/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:thulstrup/t:css"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:thulstrup/t:dropdown"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://mikecr.it/ramblings/drupals-golden-handcuffs">
+    <title>Drupal's Golden Handcuffs | Mike Crittenden</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://mikecr.it/ramblings/drupals-golden-handcuffs</link>
+    <dc:creator>thecosas</dc:creator><dc:source>http://instapaper.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:thecosas/b:56b35a717832/</dc:identifier>
+</item>
+<item rdf:about="http://kottke.org/12/10/stop-motion-lego-dr-strangelove">
+    <title>Stop-motion Lego Dr. Strangelove</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://kottke.org/12/10/stop-motion-lego-dr-strangelove</link>
+    <dc:creator>olacarlsson</dc:creator><dc:identifier>http://pinboard.in/u:olacarlsson/b:3f239e88f33b/</dc:identifier>
+</item>
+<item rdf:about="http://www.wired.com/wiredscience/2012/09/ff-corning-gorilla-glass/all/">
+    <title>Glass Works: How Corning Created the Ultrathin, Ultrastrong Material of the Future | Wired Science | Wired.com</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://www.wired.com/wiredscience/2012/09/ff-corning-gorilla-glass/all/</link>
+    <dc:creator>marks</dc:creator><description><![CDATA[Great article about Gorilla Glass:  Is it cool to have favorite materials? This is definitely one of mine.]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:marks/b:0623f924ace7/</dc:identifier>
+</item>
+<item rdf:about="http://arstechnica.com/tech-policy/2012/10/i-am-calling-you-from-windows-a-tech-support-scammer-dials-ars-technica/">
+    <title>&quot;I am calling you from Windows&quot;: A tech support scammer dials Ars Technica</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://arstechnica.com/tech-policy/2012/10/i-am-calling-you-from-windows-a-tech-support-scammer-dials-ars-technica/</link>
+    <dc:creator>nocko</dc:creator><dc:subject>Law &amp;amp; Disorder scam</dc:subject>
+<dc:identifier>http://pinboard.in/u:nocko/b:129a9fb54be2/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:nocko/t:Law"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:nocko/t:&amp;amp;"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:nocko/t:Disorder"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:nocko/t:scam"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www.mail-archive.com/dri-devel@lists.sourceforge.net/msg39091.html">
+    <title>Re: [git pull] drm-next</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://www.mail-archive.com/dri-devel@lists.sourceforge.net/msg39091.html</link>
+    <dc:creator>bad-batz</dc:creator><dc:subject>git process scm tools programming dvcs</dc:subject>
+<dc:identifier>http://pinboard.in/u:bad-batz/b:89bfd678900a/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:bad-batz/t:git"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:bad-batz/t:process"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:bad-batz/t:scm"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:bad-batz/t:tools"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:bad-batz/t:programming"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:bad-batz/t:dvcs"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://wheningit.tumblr.com/">
+    <title>When in git</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://wheningit.tumblr.com/</link>
+    <dc:creator>plhw</dc:creator><description><![CDATA[ — geekiest use of animated GIFs yet. Via @prisonerjohn cc @rachelbinx]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:plhw/b:387df2aa50a7/</dc:identifier>
+</item>
+<item rdf:about="http://www.slate.com/articles/technology/technology/2012/10/website_pagination_stories_should_load_into_a_single_page_every_time_.html">
+    <title>Website pagination: Stories should load into a single page every time. - Slate Magazine</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://www.slate.com/articles/technology/technology/2012/10/website_pagination_stories_should_load_into_a_single_page_every_time_.html</link>
+    <dc:creator>shehab</dc:creator><dc:source>http://instapaper.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:shehab/b:44d4bb78c8c1/</dc:identifier>
+</item>
+<item rdf:about="http://archiveofourown.org/works/528078">
+    <title>violets are blue - HalfFizzbin - Teen Wolf (TV) [Archive of Our Own]</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://archiveofourown.org/works/528078</link>
+    <dc:creator>alamerysl</dc:creator><description><![CDATA[PROMPT—"Derek the super cranky florist delivery guy (it's the family business!) and Stiles the underemployed, overeducated, bored as fuck receptionist. and obviously Stiles works with Allison, whose besotted fiance is always sending her flowers."
+
+With helpless crushes, stealthy pizza dates, Jenga, and overly-subtle declarations of intent.]]></description>
+<dc:subject>teenwolf derek/stiles universe:au genre:fluff oblivious!stiles author:halffizzbin fanfiction rereadable fuzzies</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:alamerysl/b:b03c96b64576/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:alamerysl/t:teenwolf"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:alamerysl/t:derek/stiles"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:alamerysl/t:universe:au"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:alamerysl/t:genre:fluff"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:alamerysl/t:oblivious!stiles"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:alamerysl/t:author:halffizzbin"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:alamerysl/t:fanfiction"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:alamerysl/t:rereadable"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:alamerysl/t:fuzzies"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://qu33riousity.tumblr.com/post/32659337104/racist-moments-of-2012-pt-1-the-workplace">
+    <title>Racist Moments of 2012, Pt.1 ~The Workplace~ - Qu33riousity</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://qu33riousity.tumblr.com/post/32659337104/racist-moments-of-2012-pt-1-the-workplace</link>
+    <dc:creator>aaronm</dc:creator><description><![CDATA[“Let me tell you, it’s ok to make jokes about slavery because that’s over.” ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:aaronm/b:98ad9a5970f7/</dc:identifier>
+</item>
+<item rdf:about="http://tapbots.com/blog/news/say-hello-to-netbot">
+    <title>Say Hello to Netbot —  Tapbots Blog</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://tapbots.com/blog/news/say-hello-to-netbot</link>
+    <dc:creator>trentmkays</dc:creator><description><![CDATA[Say Hello to Netbot.
+]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:trentmkays/b:ccc9c50bc18b/</dc:identifier>
+</item>
+<item rdf:about="http://www.codinghorror.com/blog/2012/10/todont.html">
+    <title>Coding Horror: Todon't</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://www.codinghorror.com/blog/2012/10/todont.html</link>
+    <dc:creator>cdmorris</dc:creator><description><![CDATA[Todon't ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:cdmorris/b:2ddf4945d595/</dc:identifier>
+</item>
+<item rdf:about="http://stevelosh.com/blog/2012/10/a-modern-space-cadet/">
+    <title>A Modern Space Cadet / Steve Losh</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://stevelosh.com/blog/2012/10/a-modern-space-cadet/</link>
+    <dc:creator>stevelosh</dc:creator><description><![CDATA[New blog post: A Modern Space Cadet
+
+]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:stevelosh/b:a82a7d2fad88/</dc:identifier>
+</item>
+<item rdf:about="http://www.microsoft.com">
+    <title>Microsoft Corporate Website</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://www.microsoft.com</link>
+    <dc:creator>mnathani</dc:creator><dc:subject>Microsoft</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:mnathani/b:7672f7d16224/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:mnathani/t:Microsoft"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://thenounproject.com/">
+    <title>NounProject</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://thenounproject.com/</link>
+    <dc:creator>benjaminf</dc:creator><description><![CDATA[The Noun Project collects, organizes and adds to the highly recognizable symbols that form the world's visual language, so we may share them in a fun and meaningful way.
+]]></description>
+<dc:subject>noun symbols free universal visual language collection organize share</dc:subject>
+<dc:identifier>http://pinboard.in/u:benjaminf/b:1b0523c18b60/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:benjaminf/t:noun"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:benjaminf/t:symbols"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:benjaminf/t:free"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:benjaminf/t:universal"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:benjaminf/t:visual"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:benjaminf/t:language"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:benjaminf/t:collection"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:benjaminf/t:organize"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:benjaminf/t:share"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://cratesandribbons.com/2012/09/30/the-kissing-sailor-or-the-selective-blindness-of-rape-culture-vj-day-times-square/">
+    <title>The Kissing Sailor, or “The Selective Blindness of Rape Culture”   | Crates and Ribbons</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://cratesandribbons.com/2012/09/30/the-kissing-sailor-or-the-selective-blindness-of-rape-culture-vj-day-times-square/</link>
+    <dc:creator>gr4y</dc:creator><description><![CDATA[RT @FrauSchussel: Der küssende Matrose - das Bild ist bekannt, die Geschichte leider nicht. - ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:gr4y/b:b610e02625be/</dc:identifier>
+</item>
+<item rdf:about="http://enjalot.github.com/dot-enter/">
+    <title>Untitled (http://enjalot.github.com/dot-enter/)</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://enjalot.github.com/dot-enter/</link>
+    <dc:creator>vntn</dc:creator><description><![CDATA[dot enter: code mixtape, d3.js instructional videos  #d3js #tributary #tribstyle]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:vntn/b:80309649af53/</dc:identifier>
+</item>
+<item rdf:about="http://www.typescriptlang.org/">
+    <title>Welcome to TypeScript</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://www.typescriptlang.org/</link>
+    <dc:creator>wallrat</dc:creator><description><![CDATA[Watch Anders Hejlsberg introduce TypeScript  on @ch9 ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:wallrat/b:5dbf5195271a/</dc:identifier>
+</item>
+<item rdf:about="http://tapbots.com/software/netbot/">
+    <title>Netbot — Tapbots</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://tapbots.com/software/netbot/</link>
+    <dc:creator>waltonjones</dc:creator><dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:waltonjones/b:2a09080d47ed/</dc:identifier>
+</item>
+<item rdf:about="http://specificity.keegan.st/">
+    <title>Specificity Calculator</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://specificity.keegan.st/</link>
+    <dc:creator>bensmithett</dc:creator><description><![CDATA[RT @kstre: Here's a tool to help new FEDs understand CSS Specificity ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:bensmithett/b:917f204f2677/</dc:identifier>
+</item>
+<item rdf:about="http://www.dpreview.com/articles/6867454450/quick-review-apple-iphone-5-camera">
+    <title>Quick Review: Apple iPhone 5 Camera</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://www.dpreview.com/articles/6867454450/quick-review-apple-iphone-5-camera</link>
+    <dc:creator>kellymackey</dc:creator><dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:kellymackey/b:bc141d3ec86c/</dc:identifier>
+</item>
+<item rdf:about="http://codepen.io/jaysalvat/pen/HaqBf">
+    <title>Mona Lisa with pure CSS · CodePen</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://codepen.io/jaysalvat/pen/HaqBf</link>
+    <dc:creator>damncabbage</dc:creator><dc:subject>css3 wtf</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:damncabbage/b:31434285450a/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:damncabbage/t:css3"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:damncabbage/t:wtf"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://worrydream.com/LearnableProgramming/">
+    <title>Learnable Programming</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://worrydream.com/LearnableProgramming/</link>
+    <dc:creator>tealtan</dc:creator><description><![CDATA[<blockquote>An environment that does neither -- forcing learners to imagine the state and make sense of functions that produce no visible effect -- is irresponsible design, and disrespectful to the learner.</blockquote>
+
+<blockquote>An essential aspect of a painter's canvas and a musical instrument is the immediacy with which the artist gets something there to react to. A canvas or sketchbook serves as an "external imagination", where an artist can grow an idea from birth to maturity by continuously reacting to what's in front of him.</blockquote>]]></description>
+<dc:subject>learning programming design</dc:subject>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:tealtan/b:34d4e3b1dbdd/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:tealtan/t:learning"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:tealtan/t:programming"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:tealtan/t:design"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://thegreatdiscontent.com/jason-santa-maria">
+    <title>The Great Discontent: Jason Santa Maria</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://thegreatdiscontent.com/jason-santa-maria</link>
+    <dc:creator>dirtystylus</dc:creator><description><![CDATA[Our conversation with designer, teacher, and all-around awesome guy, @jasonsantamaria, is live!
+
+]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:dirtystylus/b:c7c6be243b60/</dc:identifier>
+</item>
+<item rdf:about="https://tent.is/">
+    <title>Join Tent.is (alpha) - Tent.is Simple Tent Hosting</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>https://tent.is/</link>
+    <dc:creator>davidhund</dc:creator><description><![CDATA[so the new-new post-twitter is running your own micro blogging server:  get one too at  /cc @alper]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:davidhund/b:7c126a20f561/</dc:identifier>
+</item>
+<item rdf:about="http://byfat.xxx/if-hemingway-wrote-javascript">
+    <title>If Hemingway wrote JavaScript by fat xxx</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://byfat.xxx/if-hemingway-wrote-javascript</link>
+    <dc:creator>marks</dc:creator><description><![CDATA[If Hemingway wrote JavaScript  (by @fat)]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:marks/b:ebaa9764bb3c/</dc:identifier>
+</item>
+<item rdf:about="http://www.igvita.com/slides/2012/devtools-tips-and-tricks/">
+    <title>DevTools Tips and Tricks</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://www.igvita.com/slides/2012/devtools-tips-and-tricks/</link>
+    <dc:creator>sunpig</dc:creator><description><![CDATA["Wait, DevTools could do THAT?" by @igrigorik ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:sunpig/b:857d4e87ae9c/</dc:identifier>
+</item>
+<item rdf:about="http://www.npr.org/blogs/krulwich/2012/10/02/162147810/are-those-spidery-black-things-on-mars-dangerous-yup">
+    <title>Are Those Spidery Black Things On Mars Dangerous? (Maybe) : Krulwich Wonders... : NPR</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://www.npr.org/blogs/krulwich/2012/10/02/162147810/are-those-spidery-black-things-on-mars-dangerous-yup</link>
+    <dc:creator>mackenziefegan</dc:creator><description><![CDATA[Photos from Mars show...giant spiders? Giant spiders that get bigger as the sun gets hotter? ?]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:mackenziefegan/b:2382b55ad275/</dc:identifier>
+</item>
+<item rdf:about="http://highscalability.com/blog/2012/10/4/linkedin-moved-from-rails-to-node-27-servers-cut-and-up-to-2.html">
+    <title>High Scalability - High Scalability - LinkedIn Moved from Rails to Node:  27 Servers Cut and Up to 20x Faster</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://highscalability.com/blog/2012/10/4/linkedin-moved-from-rails-to-node-27-servers-cut-and-up-to-2.html</link>
+    <dc:creator>wallrat</dc:creator><description><![CDATA[LinkedIn Moved from Rails to Node: 27 Servers Cut and Up to 20x Faster: 
+Ryan Paul has written an excellent behi... ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:wallrat/b:d4a36c47e927/</dc:identifier>
+</item>
+<item rdf:about="http://stevelosh.com/blog/2012/10/the-homely-mutt/">
+    <title>The Homely Mutt / Steve Losh</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://stevelosh.com/blog/2012/10/the-homely-mutt/</link>
+    <dc:creator>stevelosh</dc:creator><description><![CDATA[New blog post: The Homely Mutt.
+
+]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:stevelosh/b:a1f5d5799614/</dc:identifier>
+</item>
+<item rdf:about="http://twitter.com/ericgrant/status/253673901698199552/photo/1">
+    <title>Twitter / ericgrant: On a lighter note: If Romney ...</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://twitter.com/ericgrant/status/253673901698199552/photo/1</link>
+    <dc:creator>selenamarie</dc:creator><description><![CDATA[On a lighter note: If Romney & Obama switched hair. #tcot #p2 #debate ]]></description>
+<dc:subject>p2 debate tcot</dc:subject>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:selenamarie/b:4f558963cff7/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:selenamarie/t:p2"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:selenamarie/t:debate"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:selenamarie/t:tcot"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://pictonic.co/free">
+    <title>Pictonic - free</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>https://pictonic.co/free</link>
+    <dc:creator>wkorfhage</dc:creator><description><![CDATA[Icons for social sites, sharing, programming, database, version control.]]></description>
+<dc:subject>icons</dc:subject>
+<dc:identifier>http://pinboard.in/u:wkorfhage/b:d22fb2d5cf8d/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:wkorfhage/t:icons"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www.webdesignerdepot.com/2012/10/creating-a-modal-window-with-html5-and-css3/">
+    <title>Creating a modal window with HTML5 &amp; CSS3 | Webdesigner Depot</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://www.webdesignerdepot.com/2012/10/creating-a-modal-window-with-html5-and-css3/</link>
+    <dc:creator>swest</dc:creator><dc:subject>html5 css3 modal</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:swest/b:07a7eba139c8/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:swest/t:html5"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:swest/t:css3"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:swest/t:modal"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www.pbs.org/about/news/archive/2012/statement-presidential-debate/">
+    <title>PBS Statement Regarding October 3 Presidential Debate : PBS</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://www.pbs.org/about/news/archive/2012/statement-presidential-debate/</link>
+    <dc:creator>stevelosh</dc:creator><description><![CDATA[RT @PBS: PBS Statement Regarding October 3 Presidential Debate: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:stevelosh/b:5e7c17ed2e33/</dc:identifier>
+</item>
+<item rdf:about="http://apify.heroku.com/resources">
+    <title>APIfy</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://apify.heroku.com/resources</link>
+    <dc:creator>dannygarcia</dc:creator><description><![CDATA[APIfy converts data in existing HTML sites and wikipedia pages to JSON APIs.]]></description>
+<dc:subject>api html crawl</dc:subject>
+<dc:identifier>http://pinboard.in/u:dannygarcia/b:0425669f4a65/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:dannygarcia/t:api"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:dannygarcia/t:html"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:dannygarcia/t:crawl"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www.morethanamap.com/">
+    <title>http://www.morethanamap.com</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://www.morethanamap.com/</link>
+    <dc:creator>mrmartineau</dc:creator><description><![CDATA[Google debuts  to celebrate 800k sites and apps using its Maps API  by @EmilProtalinski]]></description>
+<dc:subject>google</dc:subject>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:mrmartineau/b:d2cb867c8f6b/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:mrmartineau/t:google"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.foldable.me/">
+    <title>Foldable.Me</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>https://www.foldable.me/</link>
+    <dc:creator>jhsn</dc:creator><dc:subject>diy papercraft</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:jhsn/b:1130cfd37d2b/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:jhsn/t:diy"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:jhsn/t:papercraft"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://doctestjs.org/">
+    <title>Doctest.js: the humane Javascript test framework</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://doctestjs.org/</link>
+    <dc:creator>gotoplanb</dc:creator><dc:subject>2012 javascript testing</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:gotoplanb/b:b7b613f1dfd7/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:gotoplanb/t:2012"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:gotoplanb/t:javascript"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:gotoplanb/t:testing"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www-sul.stanford.edu/mac/parc.html">
+    <title>The Xerox PARC Visit</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://www-sul.stanford.edu/mac/parc.html</link>
+    <dc:creator>ddribin</dc:creator><description><![CDATA["It's a good story. Unfortunately, it's also wrong in almost every way a story can be wrong."]]></description>
+<dc:subject>computer history mac</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:ddribin/b:d54d896bd705/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:ddribin/t:computer"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:ddribin/t:history"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:ddribin/t:mac"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www.panic.com/blog/2012/10/waritsuki-drive-icons/">
+    <title>Panic Blog  » Waritsuki Drive Icons</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://www.panic.com/blog/2012/10/waritsuki-drive-icons/</link>
+    <dc:creator>bfolberth</dc:creator><description><![CDATA[A Panic treat for you. Japanese pattern-inspired drive icons, from our very own @kenichi. Enjoy! ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:bfolberth/b:8a88cf221f61/</dc:identifier>
+</item>
+<item rdf:about="http://coding.smashingmagazine.com/2012/10/02/csscomb-tool-sort-css-properties/">
+    <title>CSScomb: Sorting CSS Properties, The Better Way | Smashing Coding</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://coding.smashingmagazine.com/2012/10/02/csscomb-tool-sort-css-properties/</link>
+    <dc:creator>_m_space</dc:creator><description><![CDATA[Find out about the new free CSS tool by @miripiruni on SmashingCoding: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:_m_space/b:e738be2fef82/</dc:identifier>
+</item>
+<item rdf:about="http://www.site44.com/">
+    <title>site44 - absurdly simple web hosting</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://www.site44.com/</link>
+    <dc:creator>vladvino</dc:creator><dc:subject>hosting tools</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:vladvino/b:d07f1c91c00d/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:vladvino/t:hosting"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:vladvino/t:tools"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www.businessinsider.com/state-of-internet-slides-2012-10?op=1">
+    <title>The State Of The Internet [SLIDE DECK] - Business Insider</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://www.businessinsider.com/state-of-internet-slides-2012-10?op=1</link>
+    <dc:creator>mattpoland</dc:creator><description><![CDATA[Via @thenextdraft, Business Insider's slide deck about the state of commerce on the Web ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:mattpoland/b:ce51d2ee979e/</dc:identifier>
+</item>
+<item rdf:about="http://quicksprints.com/">
+    <title>How we increased landing page conversion from 5% to 55%</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://quicksprints.com/</link>
+    <dc:creator>rbaset</dc:creator><dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:rbaset/b:dd6378a5c468/</dc:identifier>
+</item>
+<item rdf:about="http://mobile.smashingmagazine.com/2009/08/11/how-to-create-your-first-iphone-application/">
+    <title>How To Create Your First iPhone Application | Smashing Mobile</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://mobile.smashingmagazine.com/2009/08/11/how-to-create-your-first-iphone-application/</link>
+    <dc:creator>phil404</dc:creator><description><![CDATA[How to Create Your First iPhone Application -  #archive (please RT)]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:phil404/b:34492908b24d/</dc:identifier>
+</item>
+<item rdf:about="http://joshnh.com/2012/08/16/drawing-things-with-box-shadow/">
+    <title>Drawing Things with Box-Shadow · Joshua Hibbert</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://joshnh.com/2012/08/16/drawing-things-with-box-shadow/</link>
+    <dc:creator>staudi</dc:creator><dc:subject>article css trick</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:staudi/b:f16417af68f4/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:staudi/t:article"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:staudi/t:css"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:staudi/t:trick"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://labs.newsint.co.uk/blog/2012/10/why-mozilla-persona-is-the-right-answer-to-the-question-of-identity/">
+    <title>Why Mozilla Persona is the right answer to the question of Identity</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://labs.newsint.co.uk/blog/2012/10/why-mozilla-persona-is-the-right-answer-to-the-question-of-identity/</link>
+    <dc:creator>cpswan</dc:creator><dc:subject>web security idm</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:cpswan/b:095352df42ba/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:cpswan/t:web"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:cpswan/t:security"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:cpswan/t:idm"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://dave.fayr.am/posts/2012-10-4-finding-fizzbuzz.html">
+    <title>FizzBuzz, A Deep Navel to Gaze Into</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://dave.fayr.am/posts/2012-10-4-finding-fizzbuzz.html</link>
+    <dc:creator>tlockney</dc:creator><description><![CDATA[RT @KirinDave: First blog post in awhile. Another one of those navel gazer programmer posts. On FizzBuzz and monoids: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:tlockney/b:395d2460fd0b/</dc:identifier>
+</item>
+<item rdf:about="http://blogs.discovermagazine.com/cosmicvariance/2012/10/01/you-are-getting-sleeeeeeepy/">
+    <title>You are getting sleeeeeeepy….. | Cosmic Variance | Discover Magazine</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://blogs.discovermagazine.com/cosmicvariance/2012/10/01/you-are-getting-sleeeeeeepy/</link>
+    <dc:creator>mulkey</dc:creator><description><![CDATA[Self synchronizing metronomes.  Seriously cool science: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:mulkey/b:95c52b30c97e/</dc:identifier>
+</item>
+<item rdf:about="http://csscomb.com/">
+    <title>Greatest tool for sorting CSS properties in specific order</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://csscomb.com/</link>
+    <dc:creator>nsteiner</dc:creator><description><![CDATA[Will re-sort selectors in your CSS in a pre-determined way. Automates this process of staying uber organized. The practice in general seems like overkill to me, but nice that there's a tool for it.]]></description>
+<dc:subject>css selector sort organize tool service</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:nsteiner/b:00e0aaa8306d/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:nsteiner/t:css"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:nsteiner/t:selector"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:nsteiner/t:sort"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:nsteiner/t:organize"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:nsteiner/t:tool"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:nsteiner/t:service"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://amp-what.com/">
+    <title>&amp;what;</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://amp-what.com/</link>
+    <dc:creator>alderete</dc:creator><description><![CDATA[A quick, interactive reference of 11,500 HTML character entities and common Unicode characters, 8859-1 characters, quotation marks, punctuation marks, accented characters, symbols, mathematical symbols, and Greek letters, icons, and markup-significant & internationalization characters.]]></description>
+<dc:subject>development</dc:subject>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:alderete/b:145bce99b4d0/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:alderete/t:development"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://unbored.net/gary-panters-drawing-tips/">
+    <title>Gary Panter's drawing tips - UNBORED</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://unbored.net/gary-panters-drawing-tips/</link>
+    <dc:creator>marks</dc:creator><description><![CDATA[I love love love Gary Panter, and his tips for drawing over at : ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:marks/b:2252d4ee9016/</dc:identifier>
+</item>
+<item rdf:about="http://www.nest.com/blog/2012/10/02/the-next-generation-nest-thermostat/">
+    <title>Nest | The Learning Thermostat | The next generation Nest thermostat.</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://www.nest.com/blog/2012/10/02/the-next-generation-nest-thermostat/</link>
+    <dc:creator>robertvesco</dc:creator><description><![CDATA[Huge announcement: We've made a new Nest Learning Thermostat!  #thenewnest]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:robertvesco/b:92029fa90c24/</dc:identifier>
+</item>
+<item rdf:about="http://jetstrap.com/">
+    <title>Jetstrap - The Bootstrap Interface Builder</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://jetstrap.com/</link>
+    <dc:creator>jimpick</dc:creator><dc:subject>twitter bootstrap</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:jimpick/b:55b768993722/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:jimpick/t:twitter"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:jimpick/t:bootstrap"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://github.com/jllord/sheetsee.js">
+    <title>jllord/sheetsee.js · GitHub</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>https://github.com/jllord/sheetsee.js</link>
+    <dc:creator>perhakansson</dc:creator><description><![CDATA[Wow, sheetsee.js rocks. Dynamically render a google doc's content in a web page.  #cfasummit]]></description>
+<dc:subject>cfasummit</dc:subject>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:perhakansson/b:9e26cfd29b49/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:perhakansson/t:cfasummit"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://github.com/jigish/slate">
+    <title>slate - GitHub - Window Tiling Manager for OSX</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>https://github.com/jigish/slate</link>
+    <dc:creator>tub55</dc:creator><description><![CDATA[Window Tiling Manager]]></description>
+<dc:subject>mac osx-utility</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:tub55/b:abe2c9141d43/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:tub55/t:mac"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:tub55/t:osx-utility"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://trentwalton.com/2012/10/03/a-new-microsoft-com/">
+    <title>A New Microsoft.com | Trent Walton</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://trentwalton.com/2012/10/03/a-new-microsoft-com/</link>
+    <dc:creator>cpdis</dc:creator><description><![CDATA[I wrote a post about @paravelinc's collaboration on the newly responsive @microsoft homepage: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:cpdis/b:a3f4aa05a051/</dc:identifier>
+</item>
+<item rdf:about="http://conversionxl.com/dont-use-automatic-image-sliders-or-carousels-ignore-the-fad/">
+    <title>Don’t Use Automatic Image Sliders or Carousels, Ignore the Fad | ConversionXL</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://conversionxl.com/dont-use-automatic-image-sliders-or-carousels-ignore-the-fad/</link>
+    <dc:creator>stuarth</dc:creator><description><![CDATA[We've created a fair few for ecomm sites, but do YOU ever actually see/read content sliders? I know that I don't ]]></description>
+<dc:subject>slider carousel discussion</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:stuarth/b:ba33e3803ba8/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:stuarth/t:slider"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:stuarth/t:carousel"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:stuarth/t:discussion"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://gallivant.com/">
+    <title>Gallivant | The Travel Guide For Guys</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://gallivant.com/</link>
+    <dc:creator>mwarkentin</dc:creator><description><![CDATA[Gallivant.  My bucket list just got a lot longer. 
+
+/via @mikeindustries]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:mwarkentin/b:5167ceaa0e51/</dc:identifier>
+</item>
+<item rdf:about="http://www.techhive.com/article/2010924/i-love-my-kindle-but-it-drives-me-crazy.html">
+    <title>I love my Kindle, but it drives me crazy | TechHive</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://www.techhive.com/article/2010924/i-love-my-kindle-but-it-drives-me-crazy.html</link>
+    <dc:creator>dr3wster</dc:creator><description><![CDATA[I love my Kindle, I hate my Kindle. A list of complaints. ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:dr3wster/b:c9d214c73ef9/</dc:identifier>
+</item>
+<item rdf:about="http://www.creativereview.co.uk/cr-blog/2012/october/typographic-chess-set">
+    <title>K is for King, Q is for Queen</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://www.creativereview.co.uk/cr-blog/2012/october/typographic-chess-set</link>
+    <dc:creator>splorp</dc:creator><description><![CDATA[Jim Sutherland of the UK’s Hat-trick Design created a typographic chess set based on characters from Hoefler & Frere-Jones’ Champion typeface.]]></description>
+<dc:subject>tn113 typedia typography type design champion chess game hattrick uk jimsutherland creativereview</dc:subject>
+<dc:identifier>http://pinboard.in/u:splorp/b:e162fef7c603/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:splorp/t:tn113"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:splorp/t:typedia"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:splorp/t:typography"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:splorp/t:type"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:splorp/t:design"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:splorp/t:champion"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:splorp/t:chess"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:splorp/t:game"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:splorp/t:hattrick"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:splorp/t:uk"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:splorp/t:jimsutherland"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:splorp/t:creativereview"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://thenextweb.com/apps/2012/10/03/tweetbot-creator-launches-netbot-a-mature-and-polished-app-net-client-for-iphone-and-ipad/">
+    <title>Tweetbot creator launches Netbot, a mature and polished App.net client for iPhone and iPad - The Next Web</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://thenextweb.com/apps/2012/10/03/tweetbot-creator-launches-netbot-a-mature-and-polished-app-net-client-for-iphone-and-ipad/</link>
+    <dc:creator>danielbentley</dc:creator><description><![CDATA[WIN! RT @MartinSFP: Tweetbot… for  >  ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:danielbentley/b:f7bb1e402508/</dc:identifier>
+</item>
+<item rdf:about="http://lizbee.dreamwidth.org/1218431.html">
+    <title>lizbee | FIC: Detectives, Adventurers and Girls Who Don't Wait Around (DW, Amy, other companions, G)</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://lizbee.dreamwidth.org/1218431.html</link>
+    <dc:creator>neotoma_albi</dc:creator><description><![CDATA[
+Between her debut in 1938 and her death in 1993, Amelia J. Williams probably wrote over five hundred novels, short stories and articles. We say "probably" because she frequently employed pseudonyms, some obvious, others as imaginative as her stories.
+
+A small but fervent community of fans delight in finding vintage magazines from the last century, scouring the pages for a new Williams story. Her anti-Nazi, anti-isolationist polemics easily spotted, of course, but a piece for Vogue in 1962 (At Last, The Miniskirt) seems less likely.
+]]></description>
+<dc:subject>Fandom:DoctorWho Char:AmyPond Trope:FutureFic Reaction:WarmAndFuzzyFeeling Type:EpisodeCoda</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:neotoma_albi/b:85b08992c8e1/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:neotoma_albi/t:Fandom:DoctorWho"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:neotoma_albi/t:Char:AmyPond"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:neotoma_albi/t:Trope:FutureFic"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:neotoma_albi/t:Reaction:WarmAndFuzzyFeeling"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:neotoma_albi/t:Type:EpisodeCoda"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://tech.dropbox.com/?p=393">
+    <title>Dropbox tech blog  » Blog Archive   » Comtypes: How Dropbox learned to stop worrying and love the COM</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>https://tech.dropbox.com/?p=393</link>
+    <dc:creator>cpdis</dc:creator><description><![CDATA[Check out the latest post on our tech blog! Comtypes: How Dropbox learned to stop worrying and love the COM: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:cpdis/b:b185881965e6/</dc:identifier>
+</item>
+<item rdf:about="http://www.collegehumor.com/video/6830834/mitt-romney-style-gangnam-style-parody">
+    <title>Mitt Romney Style (Gangnam Style Parody) - CollegeHumor Video</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://www.collegehumor.com/video/6830834/mitt-romney-style-gangnam-style-parody</link>
+    <dc:creator>nausley</dc:creator><description><![CDATA[Mitt Romney Style (Gangnam Style Parody) - CollegeHumor Video  ^IN]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:nausley/b:affe6eefe991/</dc:identifier>
+</item>
+<item rdf:about="http://arstechnica.com/information-technology/2012/10/microsoft-typescript-the-javascript-we-need-or-a-solution-looking-for-a-problem/">
+    <title>Microsoft TypeScript: the JavaScript we need, or a solution looking for a problem? | Ars Technica</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://arstechnica.com/information-technology/2012/10/microsoft-typescript-the-javascript-we-need-or-a-solution-looking-for-a-problem/</link>
+    <dc:creator>jeremyday</dc:creator><description><![CDATA[from Ars Technica http://arstechnica.com]]></description>
+<dc:subject>ifttt googlereader</dc:subject>
+<dc:identifier>http://pinboard.in/u:jeremyday/b:70bfd5ee978e/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:jeremyday/t:ifttt"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:jeremyday/t:googlereader"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://geekblog.oneandoneis2.org/index.php/2012/09/30/to-understand-the-command-line">
+    <title>To understand the command line...</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://geekblog.oneandoneis2.org/index.php/2012/09/30/to-understand-the-command-line</link>
+    <dc:creator>ahall</dc:creator><description><![CDATA[The creators of Unix went home one evening, and came back the next morning to find Thompson had put pipes into everything.]]></description>
+<dc:subject>unix</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:ahall/b:5189d4662d26/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:ahall/t:unix"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://informationarchitects.net/blog/sweep-the-sleaze/">
+    <title>Sweep the Sleaze | Information Architects</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://informationarchitects.net/blog/sweep-the-sleaze/</link>
+    <dc:creator>mwarkentin</dc:creator><description><![CDATA[The sound of cracking skulls. New iA blog entry. Sweep the Sleaze: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:mwarkentin/b:9f4dc8b17f6c/</dc:identifier>
+</item>
+<item rdf:about="http://badassjs.com/post/32812527381/doppio-a-java-virtual-machine-compiler-and">
+    <title>Doppio: A Java Virtual Machine, Compiler and Disassembler in JavaScript - Badass JavaScript</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://badassjs.com/post/32812527381/doppio-a-java-virtual-machine-compiler-and</link>
+    <dc:creator>gkamp</dc:creator><description><![CDATA[js seems to become lingua franca. RT @badass_js: Doppio: A Java Virtual Machine, Compiler & Disassembler in JavaScript ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:gkamp/b:6c8059ef5b64/</dc:identifier>
+</item>
+<item rdf:about="http://storify.com/tapbot_paul/conversation-with-moe-faris-and-tweetbot">
+    <title>Conversation with @moe_faris and @tweetbot (with image) · tapbot_paul · Storify</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://storify.com/tapbot_paul/conversation-with-moe-faris-and-tweetbot</link>
+    <dc:creator>leppert</dc:creator><dc:subject>Reading.am</dc:subject>
+<dc:identifier>http://pinboard.in/u:leppert/b:59f98e47c53f/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:leppert/t:Reading.am"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://massivegreatness.com/bloated">
+    <title>Dear Chrome, Slow Your Roll | massive greatness by MG Siegler</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://massivegreatness.com/bloated</link>
+    <dc:creator>fake_steve</dc:creator><description><![CDATA[Dear Chrome, Slow Your Roll ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:fake_steve/b:5b4406148063/</dc:identifier>
+</item>
+<item rdf:about="http://html5blank.com/">
+    <title>HTML5 Blank for WordPress | Rapid deployment, preloaded, reliable.</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://html5blank.com/</link>
+    <dc:creator>seb_collet</dc:creator><dc:subject>html5 wordpress</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:seb_collet/b:d272fa7eee8c/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:seb_collet/t:html5"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:seb_collet/t:wordpress"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://jterrace.github.com/sphinxtr/singlehtml/index.html">
+    <title>The Sphinx Thesis Resource (sphinxtr)</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://jterrace.github.com/sphinxtr/singlehtml/index.html</link>
+    <dc:creator>raphman</dc:creator><description><![CDATA[This project is a collection of extensions and monkey patches to Sphinx to better format a PhD thesis.]]></description>
+<dc:subject>sphinx dissertation writing opensource toolchain latex</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:raphman/b:de1cc5aec694/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:raphman/t:sphinx"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:raphman/t:dissertation"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:raphman/t:writing"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:raphman/t:opensource"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:raphman/t:toolchain"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:raphman/t:latex"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www.tor.com/blogs/2012/10/most-citizens-of-the-star-wars-galaxy-are-probably-totally-illiterate">
+    <title>Most Citizens of the Star Wars Galaxy are Probably Totally Illiterate | Tor.com</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://www.tor.com/blogs/2012/10/most-citizens-of-the-star-wars-galaxy-are-probably-totally-illiterate</link>
+    <dc:creator>katesherrill</dc:creator><description><![CDATA[We didn't believe it at first but the evidence is pretty damning: Most people in the Star Wars galaxy are illiterate. ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:katesherrill/b:cd492ed40154/</dc:identifier>
+</item>
+<item rdf:about="http://www.businessweek.com/innovate/content/jul2009/id20090713_332802.htm">
+    <title>Innovation Calls For I-Shaped People - BusinessWeek</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://www.businessweek.com/innovate/content/jul2009/id20090713_332802.htm</link>
+    <dc:creator>natasjagiezen</dc:creator><dc:subject>innovation career advice businessweek ishapedpeople billbuxton</dc:subject>
+<dc:identifier>http://pinboard.in/u:natasjagiezen/b:d5ebc5e502f0/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:natasjagiezen/t:innovation"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:natasjagiezen/t:career"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:natasjagiezen/t:advice"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:natasjagiezen/t:businessweek"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:natasjagiezen/t:ishapedpeople"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:natasjagiezen/t:billbuxton"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www.teslamotors.com/blog/update-elon-musk">
+    <title>An Update from Elon Musk  | Blog | Tesla Motors</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://www.teslamotors.com/blog/update-elon-musk</link>
+    <dc:creator>somite</dc:creator><description><![CDATA[RT @elonmusk: An update about Tesla 
+]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:somite/b:ecf15736b61c/</dc:identifier>
+</item>
+<item rdf:about="http://www.macstories.net/reviews/netbot-tweetbot-reborn-for-app-net/">
+    <title>Netbot: Tweetbot Reborn for App.net</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://www.macstories.net/reviews/netbot-tweetbot-reborn-for-app-net/</link>
+    <dc:creator>jtyost2</dc:creator><description><![CDATA[Netbot: Tweetbot Reborn for  ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:jtyost2/b:fc433fe9fddd/</dc:identifier>
+</item>
+<item rdf:about="http://www.uistencils.com/products/pixel-ruler">
+    <title>UI Stencils—Pixel Ruler</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://www.uistencils.com/products/pixel-ruler</link>
+    <dc:creator>doobeh</dc:creator><dc:subject>want</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:doobeh/b:50cd757f45f3/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:doobeh/t:want"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www.kungfugrippe.com/post/32346212930/speaking-for-yourself">
+    <title>kung fu grippe • Speaking for Yourself</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://www.kungfugrippe.com/post/32346212930/speaking-for-yourself</link>
+    <dc:creator>leisa</dc:creator><description><![CDATA[Essay: “Speaking for Yourself"
+
+How to start speaking for money without funding your own clusterfuck.
+
+]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:leisa/b:282697eb2e87/</dc:identifier>
+</item>
+<item rdf:about="http://mathematica.stackexchange.com/questions/11350/xkcd-style-graphs">
+    <title>plotting - xkcd style graphs - Mathematica</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://mathematica.stackexchange.com/questions/11350/xkcd-style-graphs</link>
+    <dc:creator>tim</dc:creator><dc:subject>charts</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:tim/b:4a55e86bbec3/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:tim/t:charts"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://coding.smashingmagazine.com/2012/09/23/useful-javascript-libraries-jquery-plugins-web-developers/">
+    <title>useful javascript libraries</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://coding.smashingmagazine.com/2012/09/23/useful-javascript-libraries-jquery-plugins-web-developers/</link>
+    <dc:creator>spearwolf</dc:creator><dc:subject>html5 javascript jquery responsive links fonts</dc:subject>
+<dc:identifier>http://pinboard.in/u:spearwolf/b:22688daa2406/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:spearwolf/t:html5"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:spearwolf/t:javascript"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:spearwolf/t:jquery"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:spearwolf/t:responsive"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:spearwolf/t:links"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:spearwolf/t:fonts"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www.linkedin.com/today/post/article/20121002125913-3279-how-to-create-time">
+    <title>How to Create Time | LinkedIn</title>
+    <dc:date>2012-10-05T14:12:04+00:00</dc:date>
+    <link>http://www.linkedin.com/today/post/article/20121002125913-3279-how-to-create-time</link>
+    <dc:creator>johndodds</dc:creator><dc:subject>time timesaving</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:johndodds/b:5f6c230453a0/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:johndodds/t:time"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:johndodds/t:timesaving"/>
+</rdf:Bag></taxo:topics>
+</item>
+</rdf:RDF>

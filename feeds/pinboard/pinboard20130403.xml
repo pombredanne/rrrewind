@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xmlns="http://purl.org/rss/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/">
+  <channel rdf:about="http://pinboard.in">
+    <title>Pinboard (popular bookmarks)</title>
+    <link>https://pinboard.in/popular/</link>
+    <description>popular items from Pinboard</description>
+    <items>
+      <rdf:Seq>	<rdf:li rdf:resource="http://helios.io/"/>
+	<rdf:li rdf:resource="http://restcookbook.com/"/>
+	<rdf:li rdf:resource="http://thebaffler.com/past/the_meme_hustler"/>
+	<rdf:li rdf:resource="https://github.com/Mashape/mashape-oauth/blob/master/FLOWS.md"/>
+	<rdf:li rdf:resource="http://divshot.github.com/geo-bootstrap/"/>
+	<rdf:li rdf:resource="http://trifacta.github.com/vega/"/>
+	<rdf:li rdf:resource="http://blog.jcoglan.com/2013/03/30/callbacks-are-imperative-promises-are-functional-nodes-biggest-missed-opportunity/"/>
+	<rdf:li rdf:resource="http://haiku.nytimes.com/"/>
+	<rdf:li rdf:resource="http://blog.zackshapiro.com/want-to-learn-to-code-start-here"/>
+	<rdf:li rdf:resource="http://www.berriart.com/sidr/"/>
+	<rdf:li rdf:resource="http://www.alexwlchan.net/blog/2013/03/pinboard-backups/"/>
+	<rdf:li rdf:resource="http://blogs.hbr.org/cs/2013/04/the_hidden_biases_in_big_data.html"/>
+	<rdf:li rdf:resource="http://www.slideshare.net/egarbugli/26-time-management-hacks-i-wish-id-known-at-20"/>
+	<rdf:li rdf:resource="http://blog.bufferapp.com/how-much-sleep-do-we-really-need-to-work-productively"/>
+	<rdf:li rdf:resource="http://jury.me/blog/2013/3/31/understanding-app-store-pricing-part-1"/>
+	<rdf:li rdf:resource="http://qz.com/67991/you-didnt-make-the-harlem-shake-go-viral-corporations-did/"/>
+	<rdf:li rdf:resource="http://darkskyapp.github.com/skycons/"/>
+	<rdf:li rdf:resource="http://www.alfredworkflow.com/"/>
+	<rdf:li rdf:resource="http://oleb.net/blog/2013/03/things-you-need-to-know-about-cocoa-autolayout/"/>
+	<rdf:li rdf:resource="http://heelhook.github.com/chardin.js/?hn"/>
+	<rdf:li rdf:resource="http://mylinuxbook.com/linux-netcat-command/#"/>
+	<rdf:li rdf:resource="http://bsumm.net/2013/03/31/analyzing-mbostocks-queue-js.html"/>
+	<rdf:li rdf:resource="http://www.wired.com/threatlevel/2013/03/alfred-anaya/all/"/>
+	<rdf:li rdf:resource="http://joshnh.com/tools/em-baseline-generator.html"/>
+	<rdf:li rdf:resource="https://github.com/thomasdavis/best-practices"/>
+	<rdf:li rdf:resource="http://rms2.tumblr.com/post/46505165521/the-gathering-storm-our-travails-with-icloud-sync"/>
+	<rdf:li rdf:resource="https://medium.com/future-tech-future-market/7b1a7ddb6ffe"/>
+	<rdf:li rdf:resource="http://joehewitt.com/2013/04/01/growing-tomatoes"/>
+	<rdf:li rdf:resource="http://philbit.com/svgpatterns/"/>
+	<rdf:li rdf:resource="http://reederapp.com/reader"/>
+	<rdf:li rdf:resource="http://b.jonw.com/post/46853309918/making-a-physical-product"/>
+	<rdf:li rdf:resource="http://www.berriart.com/sidr/#usage"/>
+	<rdf:li rdf:resource="http://effectivedjango.com/"/>
+	<rdf:li rdf:resource="https://www.evernote.com/shard/s10/sh/0580fed9-10ec-4ef6-8349-4b260ef8d257/a5264623e4234d6958727c0b67fa9512"/>
+	<rdf:li rdf:resource="http://simplicitybliss.com/2013/03/comprehensive-backup-emergency-data-access-strategy-for-mac/"/>
+	<rdf:li rdf:resource="http://james.padolsey.com/javascript/sonic-the-state-of-spinners/"/>
+	<rdf:li rdf:resource="http://blog.fictivekin.com/post/46860403233/the-jokes-on-us"/>
+	<rdf:li rdf:resource="http://blog.cloudfour.com/8-guidelines-and-1-rule-for-responsive-images/"/>
+	<rdf:li rdf:resource="http://heelhook.github.com/chardin.js/"/>
+	<rdf:li rdf:resource="http://jury.me/blog/2013/4/1/understanding-app-store-pricing-part-5-pricing-kaleidoscope"/>
+	<rdf:li rdf:resource="http://robertheaton.com/2013/04/01/check-youre-wearing-trousers-first/"/>
+	<rdf:li rdf:resource="https://github.com/colinta/kiln"/>
+	<rdf:li rdf:resource="http://brettterpstra.com/2013/03/31/a-few-more-of-my-favorite-shell-aliases/"/>
+	<rdf:li rdf:resource="http://conor.cc/posts/icon-stacks"/>
+	<rdf:li rdf:resource="http://techland.time.com/2013/04/02/an-interview-with-computing-pioneer-alan-kay/"/>
+	<rdf:li rdf:resource="http://www.neowin.net/news/meet-gabriel-weinberg-the-man-taking-on-google-and-bing"/>
+	<rdf:li rdf:resource="http://www.rosshudgens.com/thoughts-from-paul-graham/"/>
+	<rdf:li rdf:resource="https://www.ubiquityservers.com/cloud"/>
+	<rdf:li rdf:resource="http://nathanmarz.com/blog/principles-of-software-engineering-part-1.html"/>
+	<rdf:li rdf:resource="http://rein.pk/online-educations-dirty-secret-awful-retention/"/>
+	<rdf:li rdf:resource="http://www.designculturelab.org/2013/03/31/5-things-about-ubiquitous-computing-that-make-me-nervous/"/>
+	<rdf:li rdf:resource="http://archiveofourown.org/works/742798"/>
+	<rdf:li rdf:resource="http://helios.io"/>
+	<rdf:li rdf:resource="http://io9.com/ive-seen-the-worst-memes-of-my-generation-destroyed-by-464948581"/>
+	<rdf:li rdf:resource="http://kentonv.github.com/capnproto/"/>
+	<rdf:li rdf:resource="http://feltpresence.com/articles/19-what-ui-really-is-and-how-ux-confuses-matters"/>
+	<rdf:li rdf:resource="http://arstechnica.com/gadgets/2013/03/bullseye-from-1000-yards-shooting-the-17000-linux-powered-rifle/"/>
+	<rdf:li rdf:resource="http://jury.me/blog/2013/3/31/understanding-app-store-pricing-part-4"/>
+	<rdf:li rdf:resource="http://jury.me/blog/2013/3/31/understanding-app-store-pricing-part-2"/>
+	<rdf:li rdf:resource="http://daverupert.com/2013/04/responsive-deliverables/"/>
+	<rdf:li rdf:resource="http://vimeo.com/62831216"/>
+	<rdf:li rdf:resource="http://www.uxapprentice.com/"/>
+	<rdf:li rdf:resource="http://www.held.org.il/blog/2013/03/navigating-through-the-git-history-like-a-boss/"/>
+	<rdf:li rdf:resource="http://www.theverge.com/2013/4/1/4170312/aereo-wins-major-court-battle-against-tv-networks"/>
+	<rdf:li rdf:resource="http://simplesciencefitness.com/"/>
+	<rdf:li rdf:resource="http://vimeo.com/63116209"/>
+	<rdf:li rdf:resource="http://shopify.github.com/dashing/"/>
+	<rdf:li rdf:resource="http://jury.me/blog/2013/3/31/understanding-app-store-pricing-part-3"/>
+	<rdf:li rdf:resource="http://hackoftheday.securitytube.net/2013/03/wi-fi-sniffer-in-10-lines-of-python.html"/>
+	<rdf:li rdf:resource="http://reederapp.com/reader/"/>
+	<rdf:li rdf:resource="http://brettterpstra.com/2013/04/01/web-excursions-for-april-01-2013-alfred-2-edition/"/>
+	<rdf:li rdf:resource="http://visual.ly/cuts-beef"/>
+	<rdf:li rdf:resource="http://lifehacker.com/5993235/this-guide-to-cuts-of-beef-makes-sure-youre-never-confused-at-the-meat-counter-again"/>
+	<rdf:li rdf:resource="https://feedbin.me/"/>
+	<rdf:li rdf:resource="http://agentfin.tumblr.com/post/46712547856/the-ux-of-community-in-contested-space"/>
+	<rdf:li rdf:resource="http://saddle.github.com/"/>
+	<rdf:li rdf:resource="http://blog.ted.com/2007/08/03/100_websites_yo/"/>
+	<rdf:li rdf:resource="http://www.elasticspace.com/2013/03/no-to-no-ui"/>
+	<rdf:li rdf:resource="https://medium.com/i-3-video-games/6b10cfbc0ab0#7382"/>
+	<rdf:li rdf:resource="http://i.imgur.com/4ixIiAy.jpg"/>
+	<rdf:li rdf:resource="http://bits.blogs.nytimes.com/2013/03/31/disruptions-what-does-a-tablet-do-to-the-childs-mind/"/>
+	<rdf:li rdf:resource="http://simplystatistics.org/2013/04/02/introducing-the-healthvis-r-package-one-line-d3-graphics-with-r/"/>
+	<rdf:li rdf:resource="http://www.theatlantic.com/technology/archive/2013/03/how-memes-are-orchestrated-by-the-man/274466/"/>
+	<rdf:li rdf:resource="http://www.nngroup.com/articles/mobile-usability-cats/"/>
+	<rdf:li rdf:resource="http://nshipster.com/icloud/"/>
+	<rdf:li rdf:resource="https://github.com/tpope/vim-dispatch"/>
+	<rdf:li rdf:resource="http://www.theatlantic.com/business/archive/2013/04/the-simple-reason-why-goodreads-is-so-valuable-to-amazon/274548/"/>
+	<rdf:li rdf:resource="http://infogr.am/"/>
+	<rdf:li rdf:resource="https://www.google.com/intl/en/landing/nose/"/>
+	<rdf:li rdf:resource="https://medium.com/life-hacks/808159b4cf81"/>
+	<rdf:li rdf:resource="http://www.slideshare.net/cjbayesian/introduction-to-bayesian-methodes"/>
+	<rdf:li rdf:resource="http://blog.ezyang.com/2010/01/advanced-git-merge/"/>
+	<rdf:li rdf:resource="http://pandodaily.com/2013/04/02/an-acquisition-is-always-a-failure/"/>
+	<rdf:li rdf:resource="http://i.imgur.com/d4LEzJT.jpg?1"/>
+	<rdf:li rdf:resource="https://github.com/airbnb/rendr"/>
+	<rdf:li rdf:resource="http://adamwhitcroft.com/climacons/"/>
+	<rdf:li rdf:resource="http://www.modern.ie/en-us/virtualization-tools"/>
+	<rdf:li rdf:resource="http://tympanus.net/codrops/2013/04/01/app-showcase-with-grid-overlay/"/>
+	<rdf:li rdf:resource="http://i.imgur.com/cR2yQ1i.jpg?1"/>
+	<rdf:li rdf:resource="http://charlie.bz/blog/things-that-clear-rubys-method-cache"/>
+      </rdf:Seq>
+    </items>
+  </channel><item rdf:about="http://helios.io/">
+    <title>Helios</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://helios.io/</link>
+    <dc:creator>stympy</dc:creator><description><![CDATA[an extensible open-source mobile backend framework]]></description>
+<dc:subject>mobile ios api</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:stympy/b:9034127b1040/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:stympy/t:mobile"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:stympy/t:ios"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:stympy/t:api"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://restcookbook.com/">
+    <title>- The RESTful cookbook</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://restcookbook.com/</link>
+    <dc:creator>ottsch</dc:creator><dc:subject>rest resource</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:ottsch/b:5e46faaf7bb7/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:ottsch/t:rest"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:ottsch/t:resource"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://thebaffler.com/past/the_meme_hustler">
+    <title>The Meme Hustler | Evgeny Morozov | The Baffler</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://thebaffler.com/past/the_meme_hustler</link>
+    <dc:creator>bojo</dc:creator><description><![CDATA[Morozov's latest victim? @timoreilly in @theBaffler going live at 8:30  Sadly Evgeny's addicted to personal attack.]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:bojo/b:28f7a5044c3b/</dc:identifier>
+</item>
+<item rdf:about="https://github.com/Mashape/mashape-oauth/blob/master/FLOWS.md">
+    <title>mashape-oauth/FLOWS.md at master · Mashape/mashape-oauth · GitHub</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>https://github.com/Mashape/mashape-oauth/blob/master/FLOWS.md</link>
+    <dc:creator>edan</dc:creator><description><![CDATA[The OAuth bible http://t.co/yVirmxj0ni
+– Brandon Brown (brandonb927) http://twitter.com/brandonb927/status/319556187995643906]]></description>
+<dc:subject>faved dev</dc:subject>
+<dc:identifier>http://pinboard.in/u:edan/b:9647519a2ac4/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:edan/t:faved"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:edan/t:dev"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://divshot.github.com/geo-bootstrap/">
+    <title>Geo for Bootstrap, a Timeless Theme by Divshot</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://divshot.github.com/geo-bootstrap/</link>
+    <dc:creator>thejefflarson</dc:creator><description><![CDATA[Gunna go ahead and start using bootstrap for all my apps:
+
+]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:thejefflarson/b:87c94f9ed79c/</dc:identifier>
+</item>
+<item rdf:about="http://trifacta.github.com/vega/">
+    <title>Vega: A Visualization Grammar</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://trifacta.github.com/vega/</link>
+    <dc:creator>tdhopper</dc:creator><description><![CDATA[!! RT @d3visualization: Big News: @trifacta just released Vega, a visualization grammar using #d3js ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:tdhopper/b:8b5696a69adb/</dc:identifier>
+</item>
+<item rdf:about="http://blog.jcoglan.com/2013/03/30/callbacks-are-imperative-promises-are-functional-nodes-biggest-missed-opportunity/">
+    <title>Callbacks are imperative, promises are functional: Node’s biggest missed opportunity – The If Works</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://blog.jcoglan.com/2013/03/30/callbacks-are-imperative-promises-are-functional-nodes-biggest-missed-opportunity/</link>
+    <dc:creator>jackfranklin</dc:creator><description><![CDATA[Blogged: callbacks are imperative, promises are functional: Node’s biggest missed opportunity ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:jackfranklin/b:d85a4ed9df1a/</dc:identifier>
+</item>
+<item rdf:about="http://haiku.nytimes.com/">
+    <title>Times Haiku</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://haiku.nytimes.com/</link>
+    <dc:creator>dannydb</dc:creator><dc:subject>nytimes jacobharris</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:dannydb/b:177a2f24be3e/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:dannydb/t:nytimes"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:dannydb/t:jacobharris"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://blog.zackshapiro.com/want-to-learn-to-code-start-here">
+    <title>Want to learn to code? Start here. | Zack Shapiro</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://blog.zackshapiro.com/want-to-learn-to-code-start-here</link>
+    <dc:creator>riklomas</dc:creator><description><![CDATA[Want to learn to code? Start here: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:riklomas/b:8ef3de4f190f/</dc:identifier>
+</item>
+<item rdf:about="http://www.berriart.com/sidr/">
+    <title>Sidr - A jQuery plugin for creating side menus</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://www.berriart.com/sidr/</link>
+    <dc:creator>flocke</dc:creator><dc:subject>jquery plugin navigation menue responsive-webdesign</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:flocke/b:1b69f82330b7/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:flocke/t:jquery"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:flocke/t:plugin"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:flocke/t:navigation"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:flocke/t:menue"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:flocke/t:responsive-webdesign"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www.alexwlchan.net/blog/2013/03/pinboard-backups/">
+    <title>Automatic Pinboard backups - Alex Chan</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://www.alexwlchan.net/blog/2013/03/pinboard-backups/</link>
+    <dc:creator>noahsussman</dc:creator><description><![CDATA[I wrote a script to back up my @Pinboard bookmarks automatically: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:noahsussman/b:c29a4b95ad3c/</dc:identifier>
+</item>
+<item rdf:about="http://blogs.hbr.org/cs/2013/04/the_hidden_biases_in_big_data.html">
+    <title>The Hidden Biases in Big Data - Kate Crawford - Harvard Business Review</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://blogs.hbr.org/cs/2013/04/the_hidden_biases_in_big_data.html</link>
+    <dc:creator>jenlowe</dc:creator><dc:subject>bigdata bias ethnography katecrawford</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:jenlowe/b:d80eda2df1a6/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:jenlowe/t:bigdata"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:jenlowe/t:bias"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:jenlowe/t:ethnography"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:jenlowe/t:katecrawford"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www.slideshare.net/egarbugli/26-time-management-hacks-i-wish-id-known-at-20">
+    <title>26 Time Management Hacks I Wish I'd Known at 20</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://www.slideshare.net/egarbugli/26-time-management-hacks-i-wish-id-known-at-20</link>
+    <dc:creator>poikonen</dc:creator><description><![CDATA[RT @DrDannySands: 26 Time Management Hacks I Wish I'd Known at 20 by @egarbugli on @slideshare ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:poikonen/b:76c4bdfb0c83/</dc:identifier>
+</item>
+<item rdf:about="http://blog.bufferapp.com/how-much-sleep-do-we-really-need-to-work-productively">
+    <title>How much sleep do we really need to work productively? | The Buffer blog: productivity, life hacks, writing, user experience, customer happiness and business.</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://blog.bufferapp.com/how-much-sleep-do-we-really-need-to-work-productively</link>
+    <dc:creator>awhite</dc:creator><dc:subject>sleep</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:awhite/b:62db5c85e1f3/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:awhite/t:sleep"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://jury.me/blog/2013/3/31/understanding-app-store-pricing-part-1">
+    <title>Understanding App Store Pricing — Part 1 — Jury.me</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://jury.me/blog/2013/3/31/understanding-app-store-pricing-part-1</link>
+    <dc:creator>fake_steve</dc:creator><description><![CDATA[Understanding App Store Pricing — Part 1 —  ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:fake_steve/b:5ab29ae3e93f/</dc:identifier>
+</item>
+<item rdf:about="http://qz.com/67991/you-didnt-make-the-harlem-shake-go-viral-corporations-did/">
+    <title>You didn’t make the Harlem Shake go viral—corporations did  –  Quartz</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://qz.com/67991/you-didnt-make-the-harlem-shake-go-viral-corporations-did/</link>
+    <dc:creator>guan</dc:creator><description><![CDATA[Memes are orchestrated by companies for profit, says the guy who coined "Internet of Things" ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:guan/b:ce72c1abb199/</dc:identifier>
+</item>
+<item rdf:about="http://darkskyapp.github.com/skycons/">
+    <title>Skycons</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://darkskyapp.github.com/skycons/</link>
+    <dc:creator>disinfeqt</dc:creator><dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:disinfeqt/b:531cf3a48668/</dc:identifier>
+</item>
+<item rdf:about="http://www.alfredworkflow.com/">
+    <title>Alfred 2 Workflow List | Search, Install and Share</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://www.alfredworkflow.com/</link>
+    <dc:creator>mybeky</dc:creator><description><![CDATA[#Alfred 2 workflows collection website released, Download and Share great workflows easily!  ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:mybeky/b:0d17fac8aed6/</dc:identifier>
+</item>
+<item rdf:about="http://oleb.net/blog/2013/03/things-you-need-to-know-about-cocoa-autolayout/">
+    <title>10 Things You Need To Know About Cocoa Autolayout – Ole Begemann</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://oleb.net/blog/2013/03/things-you-need-to-know-about-cocoa-autolayout/</link>
+    <dc:creator>ecksor</dc:creator><description><![CDATA[10 things you need to know about Cocoa autolayout: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:ecksor/b:6f876f2f4bf4/</dc:identifier>
+</item>
+<item rdf:about="http://heelhook.github.com/chardin.js/?hn">
+    <title>Chardin.js</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://heelhook.github.com/chardin.js/?hn</link>
+    <dc:creator>emmacunningham</dc:creator><dc:subject>javascript jquery library TRY utility</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:emmacunningham/b:dda52be04b66/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:emmacunningham/t:javascript"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:emmacunningham/t:jquery"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:emmacunningham/t:library"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:emmacunningham/t:TRY"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:emmacunningham/t:utility"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://mylinuxbook.com/linux-netcat-command/#">
+    <title>Linux Netcat command - The swiss army knife of networking - MyLinuxBook | MyLinuxBook</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://mylinuxbook.com/linux-netcat-command/#</link>
+    <dc:creator>mstover</dc:creator><dc:subject>linux network</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:mstover/b:7fa6019d49dc/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:mstover/t:linux"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:mstover/t:network"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://bsumm.net/2013/03/31/analyzing-mbostocks-queue-js.html">
+    <title>Bryan Summersett | Analyzing mbostock's queue.js</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://bsumm.net/2013/03/31/analyzing-mbostocks-queue-js.html</link>
+    <dc:creator>look</dc:creator><description><![CDATA[Annotated source code.]]></description>
+<dc:subject>coderead javascript</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:look/b:7b0c13540003/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:look/t:coderead"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:look/t:javascript"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www.wired.com/threatlevel/2013/03/alfred-anaya/all/">
+    <title>See No Evil: The Case of Alfred Anaya | Threat Level | Wired.com</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://www.wired.com/threatlevel/2013/03/alfred-anaya/all/</link>
+    <dc:creator>amargomonger</dc:creator><description><![CDATA[Allegories for academics: on hackerism and value-neutrality. "See No Evil: The Case of Alfred Anaya":]]></description>
+<dc:subject>security</dc:subject>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:amargomonger/b:b1812972bd0d/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:amargomonger/t:security"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://joshnh.com/tools/em-baseline-generator.html">
+    <title>Em Baseline Generator</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://joshnh.com/tools/em-baseline-generator.html</link>
+    <dc:creator>eddysvensson</dc:creator><dc:subject>html css tools</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:eddysvensson/b:d370ab63e16e/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:eddysvensson/t:html"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:eddysvensson/t:css"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:eddysvensson/t:tools"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://github.com/thomasdavis/best-practices">
+    <title>Programming Best Practices Tidbits</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>https://github.com/thomasdavis/best-practices</link>
+    <dc:creator>tdjones</dc:creator><dc:subject>programming bestpractices tips reference</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:tdjones/b:054fe1da3785/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:tdjones/t:programming"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:tdjones/t:bestpractices"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:tdjones/t:tips"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:tdjones/t:reference"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://rms2.tumblr.com/post/46505165521/the-gathering-storm-our-travails-with-icloud-sync">
+    <title>Mistitled | The Gathering Storm: Our Travails with iCloud Sync</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://rms2.tumblr.com/post/46505165521/the-gathering-storm-our-travails-with-icloud-sync</link>
+    <dc:creator>josephschmitt</dc:creator><description><![CDATA[from Daring Fireball
+
+Detailed, thoughtful piece by Rich Siegel of Bare Bones Software:
+
+Core Data syncing: This is where the rubber meets the road for database-backed applications. Core Data is the application-level database framework supplied by OS X and iOS that provides the means for applications to store items, and data about those items, in a single database. Yojimbo, our product, was one of the very first to ship using Core Data storage — we’ve used it since 2006, and it works great for storing data locally in the way that the product needs it to. Syncing database changes with iCloud, however, is a very complicated and difficult job for Core Data.
+
+That’s really the heart of it. Core Data really does “just work” for local storage, both on OS X and iOS, but that’s not the case with Core Data and iCloud.
+
+ ★ ]]></description>
+<dc:subject>ifttt daringfireball</dc:subject>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:josephschmitt/b:0cfba58d4c81/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:josephschmitt/t:ifttt"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:josephschmitt/t:daringfireball"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://medium.com/future-tech-future-market/7b1a7ddb6ffe">
+    <title>Our Regressive Web — Future Tech/Future Market — Medium</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>https://medium.com/future-tech-future-market/7b1a7ddb6ffe</link>
+    <dc:creator>nvk</dc:creator><description><![CDATA[“Our Regressive Web”  #ux #startup #design #dev]]></description>
+<dc:subject>design ux dev startup</dc:subject>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:nvk/b:f84a31663896/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:nvk/t:design"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:nvk/t:ux"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:nvk/t:dev"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:nvk/t:startup"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://joehewitt.com/2013/04/01/growing-tomatoes">
+    <title>Growing Tomatoes - Joe Hewitt</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://joehewitt.com/2013/04/01/growing-tomatoes</link>
+    <dc:creator>holtwick</dc:creator><description><![CDATA[My first blog post since 2011, about growing tomatoes in my backyard ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:holtwick/b:e510d218d401/</dc:identifier>
+</item>
+<item rdf:about="http://philbit.com/svgpatterns/">
+    <title>SVG Patterns Gallery</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://philbit.com/svgpatterns/</link>
+    <dc:creator>davidhund</dc:creator><description><![CDATA[Wow!  by @progers_ is an awesome SVG (hi-res) version of @LeaVerou's cool CSS3 Patterns Gallery ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:davidhund/b:e2536c39b7ef/</dc:identifier>
+</item>
+<item rdf:about="http://reederapp.com/reader">
+    <title>The Future of Reeder</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://reederapp.com/reader</link>
+    <dc:creator>jabancroft</dc:creator><description><![CDATA[Reeder for Mac and iPad are now free. 
+See here for more information: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:jabancroft/b:fc89e52b4359/</dc:identifier>
+</item>
+<item rdf:about="http://b.jonw.com/post/46853309918/making-a-physical-product">
+    <title>Jon Wheatley / Blog, Making a physical product.</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://b.jonw.com/post/46853309918/making-a-physical-product</link>
+    <dc:creator>lilulo</dc:creator><dc:subject>hardware</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:lilulo/b:844ec493c325/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:lilulo/t:hardware"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www.berriart.com/sidr/#usage">
+    <title>Sidr - A jQuery plugin for creating side menus</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://www.berriart.com/sidr/#usage</link>
+    <dc:creator>frato</dc:creator><description><![CDATA[RT @walterstephanie: Sidr, a jQuery plugin to create "off canvas" menus (and a responsive sort of modal) ]]></description>
+<dc:subject>responsive javascript jquery menu</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:frato/b:8a6d2648d309/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:frato/t:responsive"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:frato/t:javascript"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:frato/t:jquery"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:frato/t:menu"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://effectivedjango.com/">
+    <title>Effective Django — Effective Django 0.1 documentation</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://effectivedjango.com/</link>
+    <dc:creator>nyergler</dc:creator><description><![CDATA[Effective Django, my #PyOhio talk, available at ]]></description>
+<dc:subject>PyOhio</dc:subject>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:nyergler/b:f1ec4acb644c/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:nyergler/t:PyOhio"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.evernote.com/shard/s10/sh/0580fed9-10ec-4ef6-8349-4b260ef8d257/a5264623e4234d6958727c0b67fa9512">
+    <title>Inspire Talk</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>https://www.evernote.com/shard/s10/sh/0580fed9-10ec-4ef6-8349-4b260ef8d257/a5264623e4234d6958727c0b67fa9512</link>
+    <dc:creator>cstanhope</dc:creator><description><![CDATA["technology is about improving the human condition, helping us on our journey from ape to angel" ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:cstanhope/b:ca5a7073b5f9/</dc:identifier>
+</item>
+<item rdf:about="http://simplicitybliss.com/2013/03/comprehensive-backup-emergency-data-access-strategy-for-mac/">
+    <title>Comprehensive Backup &amp; Emergency Data Access Strategy for Mac | SimplicityBliss</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://simplicitybliss.com/2013/03/comprehensive-backup-emergency-data-access-strategy-for-mac/</link>
+    <dc:creator>sjl</dc:creator><dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:sjl/b:69a75084982a/</dc:identifier>
+</item>
+<item rdf:about="http://james.padolsey.com/javascript/sonic-the-state-of-spinners/">
+    <title>Sonic &amp; The State Of Spinners – James Padolsey</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://james.padolsey.com/javascript/sonic-the-state-of-spinners/</link>
+    <dc:creator>roomthily</dc:creator><description><![CDATA[from James Padolsey http://james.padolsey.com]]></description>
+<dc:subject>ifttt googlereader</dc:subject>
+<dc:identifier>http://pinboard.in/u:roomthily/b:0e9f30f72c3f/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:roomthily/t:ifttt"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:roomthily/t:googlereader"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://blog.fictivekin.com/post/46860403233/the-jokes-on-us">
+    <title>Fictive Kin, The Joke's On Us?</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://blog.fictivekin.com/post/46860403233/the-jokes-on-us</link>
+    <dc:creator>akrabat</dc:creator><description><![CDATA[RT @FictiveCameron: The Joke's On Us? - A post we wrote on graceful exits, content ownership and Open Recipes: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:akrabat/b:80c4c4667871/</dc:identifier>
+</item>
+<item rdf:about="http://blog.cloudfour.com/8-guidelines-and-1-rule-for-responsive-images/">
+    <title>» 8 Guidelines and 1 Rule for Responsive Images Cloud Four Blog</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://blog.cloudfour.com/8-guidelines-and-1-rule-for-responsive-images/</link>
+    <dc:creator>andydavies</dc:creator><description><![CDATA[Let’s talk about the backend for responsive images for a change. 8 Guidelines and 1 Rule for Responsive Images ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:andydavies/b:e6624f3e06e9/</dc:identifier>
+</item>
+<item rdf:about="http://heelhook.github.com/chardin.js/">
+    <title>Chardin.js</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://heelhook.github.com/chardin.js/</link>
+    <dc:creator>bbenzinger</dc:creator><dc:subject>jquery instruction overlay</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:bbenzinger/b:67d2a314950f/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:bbenzinger/t:jquery"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:bbenzinger/t:instruction"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:bbenzinger/t:overlay"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://jury.me/blog/2013/4/1/understanding-app-store-pricing-part-5-pricing-kaleidoscope">
+    <title>Understanding App Store Pricing — Part 5 Pricing Kaleidoscope — Jury.me</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://jury.me/blog/2013/4/1/understanding-app-store-pricing-part-5-pricing-kaleidoscope</link>
+    <dc:creator>sechilds</dc:creator><dc:source>http://instapaper.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:sechilds/b:38ef59c9ac91/</dc:identifier>
+</item>
+<item rdf:about="http://robertheaton.com/2013/04/01/check-youre-wearing-trousers-first/">
+    <title>Check you're wearing trousers first | Robert Heaton</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://robertheaton.com/2013/04/01/check-youre-wearing-trousers-first/</link>
+    <dc:creator>kventil</dc:creator><dc:source>http://instapaper.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:kventil/b:b7f0cc8b0e4a/</dc:identifier>
+</item>
+<item rdf:about="https://github.com/colinta/kiln">
+    <title>colinta/kiln · GitHub</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>https://github.com/colinta/kiln</link>
+    <dc:creator>joseph</dc:creator><description><![CDATA[Announcing Kiln, as seen at #inspect2013.   @RubyMotion]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:joseph/b:d7515664f822/</dc:identifier>
+</item>
+<item rdf:about="http://brettterpstra.com/2013/03/31/a-few-more-of-my-favorite-shell-aliases/">
+    <title>A few more of my favorite Bash aliases - BrettTerpstra.com</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://brettterpstra.com/2013/03/31/a-few-more-of-my-favorite-shell-aliases/</link>
+    <dc:creator>waltonjones</dc:creator><description><![CDATA[via Brett Terpstra http://brettterpstra.com/]]></description>
+<dc:identifier>http://pinboard.in/u:waltonjones/b:538274cc3eb6/</dc:identifier>
+</item>
+<item rdf:about="http://conor.cc/posts/icon-stacks">
+    <title>Conor Muirhead // Designer</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://conor.cc/posts/icon-stacks</link>
+    <dc:creator>conormuirhead</dc:creator><description><![CDATA[Just posted a new article on creating complex icons with icon fonts:
+
+
+
+#webdev #icons #iconfonts]]></description>
+<dc:subject>iconfonts icons webdev</dc:subject>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:conormuirhead/b:b699375c1192/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:conormuirhead/t:iconfonts"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:conormuirhead/t:icons"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:conormuirhead/t:webdev"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://techland.time.com/2013/04/02/an-interview-with-computing-pioneer-alan-kay/">
+    <title>An Interview with Computing Pioneer Alan Kay | TIME.com</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://techland.time.com/2013/04/02/an-interview-with-computing-pioneer-alan-kay/</link>
+    <dc:creator>mrwerewolf</dc:creator><dc:subject>Compute</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:mrwerewolf/b:fc55de829046/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:mrwerewolf/t:Compute"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www.neowin.net/news/meet-gabriel-weinberg-the-man-taking-on-google-and-bing">
+    <title>The Man Taking on Google and Bing</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://www.neowin.net/news/meet-gabriel-weinberg-the-man-taking-on-google-and-bing</link>
+    <dc:creator>cardinale</dc:creator><description><![CDATA[Nice profile of DuckDuckGo and founder Gabriel Weinberg by Max Slater-Robins for Neowin:
+
+
+
+  But what sets DuckDuckGo apart from Bing or Google? According to
+Weinberg, it’s simple: Privacy. DuckDuckGo promises to never track
+a user’s clicks, or use previous searchers to aid current results.
+They describe the practice of targeting results based on past
+searches as placing a user in a “bubble,” where everything is
+controlled based on what you want to see (e.g. if you visit Fox
+News frequently, results for Fox News will rank higher than those
+for MSNBC).
+
+
+
+
+ ★ 
+]]></description>
+<dc:source>http://reader.google.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:cardinale/b:319185223555/</dc:identifier>
+</item>
+<item rdf:about="http://www.rosshudgens.com/thoughts-from-paul-graham/">
+    <title>76 Powerful Thoughts from Paul Graham</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://www.rosshudgens.com/thoughts-from-paul-graham/</link>
+    <dc:creator>sbmandal</dc:creator><description><![CDATA[
+
+    
+    
+    
+         Bookmark this on Delicious
+        - Saved by wholok
+                    to
+                                                paulgraham
+                                                psychology
+                                                productivity
+                                                quotes
+                                                life
+                                                philosophy
+                                                inspiration
+                                                business
+                                                interesting
+                                                startup
+                            - More about this bookmark
+            ]]></description>
+<dc:subject>paulgraham_psychology_productivity_quotes_life_philosophy_inspiration_business_interesting_startup</dc:subject>
+<dc:source>http://reader.google.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:sbmandal/b:8cf5622ba798/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:sbmandal/t:paulgraham_psychology_productivity_quotes_life_philosophy_inspiration_business_interesting_startup"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.ubiquityservers.com/cloud">
+    <title>SSD Cloud Servers - Ubiquity Servers</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>https://www.ubiquityservers.com/cloud</link>
+    <dc:creator>mattcrest</dc:creator><description><![CDATA[1GB Ram & SSD Cloud Hosting for $6 ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:mattcrest/b:1bdcd8725e26/</dc:identifier>
+</item>
+<item rdf:about="http://nathanmarz.com/blog/principles-of-software-engineering-part-1.html">
+    <title>Principles of Software Engineering, Part 1 - thoughts from the red planet - thoughts from the red planet</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://nathanmarz.com/blog/principles-of-software-engineering-part-1.html</link>
+    <dc:creator>therealadam</dc:creator><dc:source>http://instapaper.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:therealadam/b:779c2a4b5cf8/</dc:identifier>
+</item>
+<item rdf:about="http://rein.pk/online-educations-dirty-secret-awful-retention/">
+    <title>Online Education's Dirty Secret — Awful Retention by Peter Reinhardt</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://rein.pk/online-educations-dirty-secret-awful-retention/</link>
+    <dc:creator>ghaff</dc:creator><dc:subject>edx education</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:ghaff/b:caf0cf2149f0/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:ghaff/t:edx"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:ghaff/t:education"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www.designculturelab.org/2013/03/31/5-things-about-ubiquitous-computing-that-make-me-nervous/">
+    <title>5 Things About Ubiquitous Computing That Make Me Nervous | Design Culture Lab</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://www.designculturelab.org/2013/03/31/5-things-about-ubiquitous-computing-that-make-me-nervous/</link>
+    <dc:creator>zev</dc:creator><description><![CDATA[5 Things About Ubiquitous Computing That Make Me Nervous, and some thoughts on critical design and design critique: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:zev/b:1c81a720fd44/</dc:identifier>
+</item>
+<item rdf:about="http://archiveofourown.org/works/742798">
+    <title>This Cold Harbor Now Home - hapakitsune - Hockey RPF [Archive of Our Own]</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://archiveofourown.org/works/742798</link>
+    <dc:creator>vampirespider</dc:creator><description><![CDATA[The one person Geno wants to build a family with already has one.
+//
+
+All the kid fic? ALL THE KID FIC. Delightful & sweet & perf. ]]></description>
+<dc:subject>p:Geno/Sidney NHL RPF hearts! Fandom:fic</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:vampirespider/b:70f93f32a97a/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:vampirespider/t:p:Geno/Sidney"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:vampirespider/t:NHL"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:vampirespider/t:RPF"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:vampirespider/t:hearts!"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:vampirespider/t:Fandom:fic"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://helios.io">
+    <title>Helios 🚀</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://helios.io</link>
+    <dc:creator>javier</dc:creator><description><![CDATA[Helios is an open-source framework that provides essential backend services for iOS apps.
+
+]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:javier/b:52f518cc9e1e/</dc:identifier>
+</item>
+<item rdf:about="http://io9.com/ive-seen-the-worst-memes-of-my-generation-destroyed-by-464948581">
+    <title>I've Seen the Worst Memes of My Generation Destroyed by Madness</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://io9.com/ive-seen-the-worst-memes-of-my-generation-destroyed-by-464948581</link>
+    <dc:creator>audrey</dc:creator><description><![CDATA[My essay about open dystopia and @evgenymorozov and @timoreilly and The Baffler and memes and the 1990s. ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:audrey/b:60e21201188d/</dc:identifier>
+</item>
+<item rdf:about="http://kentonv.github.com/capnproto/">
+    <title>Cap'n Proto</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://kentonv.github.com/capnproto/</link>
+    <dc:creator>ry4an</dc:creator><description><![CDATA[binary data interchange format (h/t zooko)]]></description>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:ry4an/b:9e14eec88bd1/</dc:identifier>
+</item>
+<item rdf:about="http://feltpresence.com/articles/19-what-ui-really-is-and-how-ux-confuses-matters">
+    <title>What UI really is (and how UX confuses matters) - (Ryan Singer)</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://feltpresence.com/articles/19-what-ui-really-is-and-how-ux-confuses-matters</link>
+    <dc:creator>kimroen</dc:creator><description><![CDATA[New blog post: What UI really is (and how UX confuses matters) ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:kimroen/b:80037a08c0e9/</dc:identifier>
+</item>
+<item rdf:about="http://arstechnica.com/gadgets/2013/03/bullseye-from-1000-yards-shooting-the-17000-linux-powered-rifle/">
+    <title>Bullseye from 1,000 yards: Shooting the $17,000 Linux-powered rifle</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://arstechnica.com/gadgets/2013/03/bullseye-from-1000-yards-shooting-the-17000-linux-powered-rifle/</link>
+    <dc:creator>cardinale</dc:creator><description><![CDATA[
+      
+  
+    
+1000 yards is a long, long way away.
+
+
+Steven Michael
+
+  
+  
+ My photographer, Steve, squints through a computerized scope squatting atop a big hunting rifle. We're outdoors at a range just north of Austin, Texas, and the wind is blowing like crazy—enough so that we're having to dial in more and more wind adjustment on the rifle's computer. The spotter and I monitor Steve's sight through an iPad linked to the rifle via Wi-Fi, and we can see exactly what he's seeing through the scope. Steve lines up on his target downrange—a gently swinging metal plate with a fluorescent orange circle painted at its center—and depresses a button to illuminate it with the rifle's laser.
+
+"Good tag?" he asks, softly.
+
+"Good tag," replies the spotter, watching on the iPad. He leaves the device in my hands and looks through a conventional high-powered spotting scope at the target Steve has selected. The wind stops momentarily. "Send it," he calls out.
+
+Steve pulls the trigger, but nothing immediately happens. On the iPad's screen, his reticle shifts from blue to red and drifts toward the marked target. Even though I'm expecting it, the rifle's report is startling when it fires.
+
+A second later, the spotter calls out, "That's a hit!"
+
+Steve has just delivered a .338 Lapua Magnum round directly onto a target about the size of a big dinner plate at a range of 1,008 yards—that's ten football fields, or a tick over 0.91 kilometers. It's his very first try. He has never fired a rifle before today.
+
+A shot with the XS1 at 1,008 yards (922 meters). The shot-drop reorientation at this range is clearly visible. It also takes several seconds after the trigger is pulled (reticle turns red) for the rifle's computer to judge the alignment as favorable enough to fire. The spotter can be heard noting that the round impacts "center mass," or directly in the middle of the target. (The time & date displayed at the bottom of the scope are incorrect.) (video link)
+Through the shooting glass
+Of course, Steve isn't some kind of super mutant marksman—he had a bit of help. We were plinking targets with $17,000+ Linux-powered hunting rifles, made by a small Austin company called TrackingPoint. Earlier this year, Ars reported on TrackingPoint's "Precision Guided Firearm" at CES, where the 59-employee company was giving the press a sneak-peak at their product before its official introduction at the Shot Show convention a week later.
+
+The Precision Guided Firearm is a "whole widget" type of thing—it's not just a fancy scope on top of a fancy gun, but rather a tightly integrated system coupling a rifle, an ARM-powered scope running a modified version of Angström Linux (with some custom BitBake recipes and kernel modules to support the rifle's proprietary hardware), and a linked trigger mechanism whose weighting is controlled by the scope.
+
+TrackingPoint actually makes three different Precision Guided Firearms, two of which fire .300 Winchester Magnum rounds and one of which fires a larger .338 Lapua Magnum cartridge. The weapons themselves are crafted by Surgeon Rifles, and TrackingPoint adds the scope and trigger mechanism to the rifle and then sells it as a package. Since launch, TrackingPoint's sales have been very brisk: the company has nearly sold out of their entire allotment of PGFs for all of 2013.
+
+All three PGFs. Foreground is the .338 LM XS1, middle is the .300 WinMag XS2, and rear is the .300 WinMag XS3. .338LM magazine and cartridges are also shown in foreground. Steven Michael
+You might be led to think that the lighter XS3 is the most popular of the three rifles, but TrackingPoint VP Bret Boyd actually says that they've sold more of the .338 LM XS1 than any of the other models. This makes sense: the XS1 has the longest effective range of the three PGFs, up to 1200 yards, and the type of customer able to purchase TrackingPoint's high-dollar products is also the type of customer who likely does a whole lot of hunting, at home and abroad. The XS1's versatility is likely worth more to that kind of buyer than its price difference (about $22,000, compared to the XS3's $17,000).
+
+What's it like to shoot?
+I've fired a small number of bolt-action rifles before, but nothing as big as the .338 LM-chambered XS1, on which we spent most of our range time. The oddest thing about firing TrackingPoint's rifles, the thing wildly different from a standard hunting rifle, is the trigger mechanism. The rifle's "Tag-Track-Xact" technology means that there is a delay between when you pull the trigger and when the rifle fires—sometimes several seconds of delay, depending on how steady your aim is. This disconnect between trigger pull and firing can be weirdly disconcerting.
+
+All of the interaction with the rifle's computer is done through the computerized tracking scope, which displays an image of the world in front of the rifle, overlaid with data. It's reminiscent of a fighter jet heads-up display.
+
+Oblique view of the mid-range XS2 PGF. Visible is the data connection between the computerized tracking scope and the guided trigger mechanism. Also visible is the red "track" button, which can be operated ambidextrously. Steven Michael
+Through the tracking scope, you locate the thing you want to shoot, whether it's a metal plate like we were hitting on the range, a game animal, a tree, or whatever. You place the center reticle over the target and depress the red tagging button just forward of the trigger, which causes the tracking scope's range finder to briefly illuminate the target. The range finder is a powerful laser, rated at 75W and pulsed for an average power of 1mW, which measures the distance to the target in yards (1 yard is 0.9 meters, for metric readers) and displays that number in the upper left side of the scope's field of view. Once "tagged," the target gains a red pip. The scope image also reorients itself in a move that can be confusing the first few times it happens.
+
+A visual explanation of TrackingPoint's "Tag-Track-Xact" system. 
+The reorientation is to take into account the "drop" of the shot. As demonstrated by MythBusters, a bullet is affected by gravity as it flies, losing height at the same rate as it would if dropped directly out of your hand. At 1000 yards, the bullet loses about 20 feet (6 meters) of height, and so when you tag a target with the tracking scope, the field of view immediately shifts down, by an amount proportional to the target's distance. This is so that the center of the scope accurately shows you where the round will go, rather than some point far above it. Someone firing a long-range shot with a traditional scope must make the same adjustment manually, but here the ballistic computer takes care of it.
+
+Once the target is tagged, the laser ceases illuminating and the embedded system's image recognition routines take over. If the target is a game animal, the scope will track the animal's movement in the field of view, and the red pip will remain stuck to the point on the target where it was originally tagged. This level of precision obviously helps out at the range, but it also enables a hunter to more ethically harvest animals by precisely targeting specific areas—the tagging mechanism greatly simplifies the process of killing the game animal with a single shot, rather than wounding it and inflicting unnecessary suffering.
+
+After the target has been tagged, the scope's reticle changes to a large blue "X," and the weapon can be fired. To actually send a round downrange to the target, you depress the weapon's trigger. This doesn't cause the weapon to immediately fire, though—the reticle turns red, and while keeping the trigger held down, you must align the reticle with the tagged pip. Once the pip and the reticle coincide, the weapon fires.
+
+Scoring a hit at 750 yards (685 meters) with the .300 WinMag XS2 rifle. The shift in view at the beginning of the video is the scope's computer compensating for the anticipated bullet drop by realigning the sight picture so that the tagged spot on the target occupies the middle of the view. (video link)
+
+
+Yeah, but how does it feel?
+The hefty Surgeon rifle feels like a quality firearm should—it's solid and its bolt operates with a reassuring ka-chunk-ka-chunk. Like most firearms, it works best when operated authoritatively—you firmly seat the magazine and firmly close the bolt to put the weapon in battery. We spent less time on the .300 Winchester Magnum-chambered XS2 and XS3 rifles, but the operational feelings were similar. The XS2 and XS1 are very close in appearance, with the main visual difference being the barrel length. The XS3 is smaller, with a more traditional rifle stock grip instead of a pistol-style grip. All of the rifles come with forward bipods attached so that they can be fired from a supported position without requiring sandbags or any other kind of brace.
+
+Just about everyone who fires a pistol or rifle goes through an adjustment period where they anticipate and overcompensate for the recoil the weapon produces when fired. The overcompensation is an almost unconscious adaptation that the body makes. Overcoming it is part of learning to shoot. Firearms are loud, and when they are fired they jump back in your grip. So, less-experienced shooters cope with the recoil by bringing the weapon's barrel downward against the anticipated force—often before they've even fired the weapon.
+
+The only way to learn to cope effectively with a weapon's recoil is to practice, and the adjustment period lasts a different length of time for every person. There are things you can do to help (I've had instructors in the past recommended balancing a penny on your weapon's front sight and dry-firing until the penny doesn't move as a way to teach a steady trigger pull), but one way or another it's something everyone has to deal with.
+
+TrackingPoint's rifles, though, remove overcompensation from the equation by totally segregating the act of pulling the trigger from the weapon's firing. Also no longer necessary is holding your breath to avoid disturbing your sight picture or timing your shot to your heartbeat or other long-range tricks—the rifle's computer picks the most optimal time to fire. You pull and hold your trigger, and then carefully align the reticle with the floating red pip.
+
+There is a side effect, though. Rather than overcompensating for trigger pull, I found myself shying back from the rifle after I'd pulled the trigger. One issue with the preproduction PGFs we were shooting was that there was no eyepiece on the scope, and so you needed to manually judge how far back to position your eye so that the scope didn't bash you in the face when the rifle was fired (something that TrackingPoint repeatedly told us will be remedied on the production PGFs). But more than just not wanting a black eye, the removal of the instant feedback between trigger pull and firing gets rid of one type of anticipatory cringing and introduces another. At long-range, you need to hold the reticle over the pip for a moment before the computer fires, because the tiny perturbations in the rifle's aim introduced by your muscles' attempts at not moving translate into very large deviations at the end of a thousand yards. That means that there's sometimes a multi-second period where you're squeezing the trigger and braced for the rifle's kick.
+
+Every time the PGF fired, it was a surprise. Sometimes, my alignment would be great and it would send a round almost before I was ready (including on one instance where I was going to provide a countdown for my cameraman and managed to fire the rifle before I even got to "one"). Other times, especially at range, it would take two, three, four seconds of apparent dead-on coincidence between pip and reticle before the rifle would fire.
+
+The tech
+A lot of the delay is because what the user sees in the sight picture isn't always exactly what the rifle's computer is looking at. The rifle gets its view of the world through the computerized tracking scope, which looks out through a 35x fixed-magnification optic focused onto a digital imaging sensor with a vertical resolution of about 3600 pixels. Behind the optic assembly is an entire ARM-powered embedded system that knows everything there is to know about the characteristics of the rifle and its ammunition. The tracking scope also contains instrumentation to make it aware of ambient conditions, including temperature and humidity and atmospheric pressure, the incline and cant of the weapon, and its compass heading. The only thing you need to manually enter is the wind speed and direction, using a control on the top of the scope.
+
+A diagram of the computerized tracking scope, from TrackingPoint's marketing materials. TrackingPoint
+Though the actual optical assembly is fixed at 35x magnification, the image displayed on the viewfinder is downsampled to 640x480 and can be digitally zoomed out to an equivalent of 6x magnification. It gives the weapon's user a wide field of view when selecting targets.
+
+Not quite a robo-gun
+Even though you tag and track targets and the rifle picks the exact moment to release the round, TrackingPoint's Bret Boyd is quick to point out that the PGF systems don't fire "by themselves." The weapon's user is in full control of when the rifle fires and can safe the weapon at any time by releasing the trigger. An autonomously firing weapon simply isn't something that the US Bureau of Alcohol, Tobacco, and Firearms would allow to be sold.
+
+Rather than being connected mechanically to the firing pin, the "guided trigger assembly" includes a solenoid which actuates the firing mechanism. The solenoid releases only when the trigger is pulled and when the tagging pip coincides with the scope's reticle. According to TrackingPoint, the rifle's computer "dynamically inflates and deflates" the trigger weighting required to trip the solenoid and cause the weapon to fire.
+
+This sounds a little odd and might give the impression that the trigger actually moves under your finger as its weighting is varied. But this is incorrect: the trigger does not move on its own. You pull it and hold it to signal to the rifle that you want it to fire. Prior to lining up the reticle and tagged pip, the trigger's effective pull weight is set to higher than the force you're exerting on it. When the shot is lined up and the rifle's computer calculates it's the optimal moment for the weapon to be fired, the trigger's effective weight drops below the amount of force you're exerting and the weapon fires. TrackingPoint describes it as a "blocking" function, rather than a "self-firing" function. It's a somewhat thin line to walk, but it's compliant with the law. In practice, the differentiation is moot.
+
+Zooming and entering wind data is done through depressing rocker switches on top of the scope. Steven Michael
+Razors and razor blades
+The PGF is able to function at range because the system is preprogrammed with the ballistic characteristics of not just the three types of rifles, but also of the ammunition. TrackingPoint has partnered with ammunition manufacturer Barnes Bullets to turn out ammunition with very specific characteristics, effectively selling both the razor and the razor blades. Our original coverage of TrackingPoint from CES drew lots of questions about reloading or hand loading—that is, assembling one's own ammunition from casings and powder and bullets—so I brought this up with Bret Boyd while we were at the range.
+
+"Gun people are very passionate, and if you're into reloading and hand loading you're in the one percentile." We talked between shots, wearing identical Peltor electronic ear protectors. "The problem with hand loading is that you just have inconsistent results. Some people do it very good, and some don't. What I really want to avoid is the situation where someone says, 'Look, your gun doesn't work. I'm missing, and it's your fault.' And the real issue is, well, you're missing because you screwed up the ammunition—you have it loaded too hot and it's firing too high. But you're never going to believe me!" He laughed. "I'm really not trying to make a ton of money on ammo, but I want to control the outcome and I want people to have a good experience."
+
+TrackingPoint VP Bret Boyd during our range familiarization talk. Steven Michael
+The cost of TrackingPoint's ammunition is significant, but it's not out of range for the types of rounds being fired. The typical price range for 300 grain .338 Lapua Magnum ammunition—the type of round fired by the high-end XS1 rifle—is between $5-7 dollars per cartridge. "We'll be in that band, near the top," said Boyd. "We definitely won't be like twice the band or anything." At least for now, ammunition will have to be ordered through TrackingPoint, though Boyd would like to eventually have their branded ammunition available on the shelf in sporting goods shops in the future.
+
+
+A “paramilitary” rifle?
+The elephant in the room, though, is that these rifles could have applications beyond sport hunting—what could be used to lock onto and take down a running deer at 1000 yards could conceivably be used to lock onto and shoot a person, too. Venturebeat editor-in-chief Matt Marshall went so far as to call TrackingPoint's products "disgusting" and "truly repulsive," saying that the rifles "are paramilitary weapons." He invoked the image of a madman like John Allen Muhammad using one to pick off innocent people from "a mile away."
+
+That's the subtext behind a lot of the negative reaction to TrackingPoint's PGF technology: its potential use against people, either in the hands of a soldier, a policeman, or the proverbial crazy person. I'd argue that it's far more likely a mass shooting event would take place with conventional firearms than with a PGF; a bolt-action hunting rifle isn't exactly the quickest method of getting a lot of lead on a lot of different targets. The very nature of the PGF's "Tag-Track-Xact" scope encourages methodical target selection at range, and hauling even a hypothetical smaller PGF into a crowded place and letting loose would be enormously difficult. It's not a close-quarters weapon by any stretch of the imagination.
+
+Fear-mongering aside, two things are quite obvious about the three PGF rifles that TrackingPoint is launching with. First, they're not particularly good "paramilitary weapons," as paramilitary weapons go. Second, though, is that they're only the first round of PGFs.
+
+The lightest PGF, the XS3, has a 22" barrel and is chambered in .300 Winchester Magnum. Including the weight of the scope and bipod, it weighs 15lbs (about 7kg). The larger XS1, the only one of the three with which we were able to consistently hit targets at 1000 yards, is about 4lbs heavier. The weapons have a heavy and relatively fragile computer on top of them, filled with electronics and glass. They're not rugged enough to survive anything like a battlefield, urban or otherwise. You don't want to drop them out of a tree or slam them into a wall or get them wet.
+
+Oblique view of the XS3, the lightest and most portable of the three PGFs. "Portable" is relative, though, as the whole rifle still weighs more than 15lbs (about 7kg). Steven Michael
+There's also a question of cost versus benefit. In repeated firing on the range, we didn't even bother with any targets closer than 250 yards—that was the "warm-up" distance. It doesn't particularly make sense for a government or a law enforcement agency to spend more than $17,000 on a PGF when they simply don't need its capabilities.
+
+"This is just a lot of gun," explained Boyd. "The average [law enforcement] sniper engagement is 75 yards, like from the house across the street....You look at cops and they all have short-barreled Remington 700s that weigh eight pounds."
+
+That's not to say that TrackingPoint hasn't been demoing their products to law enforcement and some government agencies. "We've shot with the Austin SWAT guys," Boyd noted. "They all think it's great. We've flown out to DC and I've done demos with the Secret Service, their counter-sniper guys, and the FBI, their Hostage Rescue guys...and those are organizations we expect to be customers at some point."
+
+Certainly those are "paramilitary" applications, but sharpshooters like those on the FBI's Hostage Rescue Team are already world-class marksmen. "The thing that they like the most about it is not really the marksmanship and ballistics—they're already very good at that—but it's more the recording and the networking," elaborated Boyd. The PGF's integrated recording capabilities would function like the dashboard cameras in a police cruiser, documenting exactly what the shooter sees, exactly where his or her round was aimed, and the exact conditions under which a round was fired.
+
+The Wi-Fi connection and recording lets users analyze each shot and discuss it after. Steven Michael
+Ultimately, according to Boyd, TrackingPoint isn't interested in spinning too many plates in the first year or so, and the three PGFs that are on sale today will continue to be the only PGFs offered. "The government business is important to us, but we're focused right now on getting our commercial products out the door," he said.
+
+"From a business strategy perspective, we went very high-end long guns year one—building and explaining to people what a PGF is," he continued. "We intend to expand into other calibers and other action types next year. And then from there, standalone optics and other types of devices are a total possibility....My guess is that if we were to do something with pistols or a short-barrel rifle that would come a little further down."
+
+With different requirements and capabilities, though, comes potentially smaller weapons. The size and weight of the three PGFs on sale today are driven by the requirements: they're hunting rifles that need to be able to hit a target up to a thousand yards out. Easing those requirements means that the computerized scope can become smaller, too.
+
+"Keep in mind, there's a big laser in there and there's a lot of glass," said Boyd. "If you don't need to go as far, the laser doesn't need to be as big....And with that, power requirements shrink. The battery compartment is a lot of that center cabinet. We can make the form factor smaller if we didn't want to shoot as far."
+
+The computerized system itself, the tracking scope and trigger, could end up being quite modular: "Theoretically, we can align this with any system we want," Boyd continued. If a future customer were to approach TrackingPoint and ask to have an existing stock of firearms converted to precision guided weapons, explained Boyd, "...it's just an issue of shooting a lot of rounds, measuring how they fly in different environments and different angles and so on and so forth to profile how the gun shoots."
+
+Social shooting
+But shooting TrackingPoint's rifles isn't just about shooting the rifles. Hidden inside the tracking scope's guts is a Wi-Fi antenna, and the weapon can form an ad-hoc Wi-Fi network and link up with a specially crafted iOS app running on an iPad (TrackingPoint includes an iPad with the app pre-loaded when you buy a PGF—the marginal cost of adding an iPad into the mix on a $17k purchase is negligible).
+
+The iPad app displays video streamed from the scope over Wi-Fi. Everything that the weapon's user sees in the optic is shown on the iPad's screen—all the ambient condition data, the reticle, the tagged point, everything. It's a powerful tool to assist a new hunter with how and where to line up a shot. On the target range, our spotter flipped back and forth between the iPad and a traditional spotting scope as we fired, using the iPad to confirm where our tags were placed on the targets and using the spotting scope to check for hits on the targets too far away to hear the impact.
+
+While I fired the weapon, the rest of the group could see exactly what I was seeing through my scope via the Wi-Fi-linked iPad. Steven Michael
+The scope does more than just stream video—it records video, too, along with audio, and the two videos embedded in this article were taken from our time on the range. The rifle's computer also takes stills when a target is illuminated with the rangefinder laser and when the rifle is fired. The iPad app even gives users the ability to upload videos of their shots to Facebook or YouTube.
+
+The idea of duplicating the sight picture on a separate screen is only the start. The streaming video lets a spotter see exactly what the rifle's user sees, but it's passive—the iPad displays a live picture of the PGF's scope, but nothing more. TrackingPoint is kicking around the idea of eventually releasing an actual spotting scope equipped with the "Tag-Track-Xact" technology. It would be capable of linking up via Wi-Fi to a PGF and could be used to call shots, letting a spotter actually designate targets that would show up on the PGF's display.
+
+Something that's not particularly likely, at least for now, is integration with an augmented reality system like Google Glass. The idea seems like it could be a good fit—getting a sight picture beamed into your eye without having to peer into a scope—but TrackingPoint doesn't believe that Google would be interested in integrating with them and they haven't pursued any formal relationship. "Google actually has some reasonably prohibitive policies around firearms," explained Boyd. "I don't really think they're going to be a good partner for us."
+
+The next best thing to being there
+You don't necessarily have to buy an expensive rifle or join a hunting club to get some idea of how the PGF system works, though: TrackingPoint has released a free iOS app called Precision Hunter Lite that simulates the functionality of the XS1 rifle (although aside from the maximum range, the three rifles all work the same way).
+
+Precision Hunter Lite works with both the iPhone and iPad, but after trying it on both, I wouldn't particularly want to use it on a phone—the iPad's larger screen makes it a lot easier to see things. There's not a whole lot of "game" in the free game, but it provides a good simulation of the "Tag-Track-Xact" system.
+
+You can choose to play a brief tutorial or jump right into a three-animal hunt. There are a number of game animals to pick from, all the way up to bears and elk. The larger animals are perhaps a bit easier to hit (being larger), but seem to require more precision to kill with a single shot.
+
+Going after the big game. TrackingPoint
+The game presents you with what appears to be an almost pixel-perfect representation of the PGF's viewfinder. The tilt and cant of the view is controlled by the tilt and cant of your iOS device. I had the best luck playing the game in a swivel chair so that I could sweep the scope around effectively.
+
+Present in the game's field of view but not on the actual rifle are a tag button, a trigger button, controls to zoom the view in and out, and a pause button to summon the menu. It's a relatively simple matter to look around, locate an animal, and tag it with your left thumb. When holding down the tag button, the view stabilizes momentarily just like the real rifle, and after tagging a target the view disconcertingly reorients itself, just like on the real rifle. To fire, you hold down the trigger with your right thumb and bring the reticle over the pip.
+
+Tagged a bear at 334 yards. Aside from the polygons, this is pretty much exactly what using a Precision Guided Firearm looks like. TrackingPoint
+Tagging and shooting were easy, but actually scoring single-shot kills took a bit of practice. I ended up wounding far more virtual bears than I killed. After your simulated round of hunting is over, the game recaps your kills and shows you where each of your shots went; I learned that I have an apparent propensity for shooting bears in the hindquarters, even though I swear I wasn't trying to.
+
+To get the iOS app as accurate to the appearance and function of the real weapons as possible, TrackingPoint partnered with Austin-based development studio Chaotic Moon. The app is built in Unity, and although it doesn't share any actual code with the embedded ARM computer in a production PGF, it is using the same mathematics to calculate how the simulated weapons shoot.
+
+The game is a fun little thing that gives you a good idea of what firing the real weapon looks like but, again, there's not much game there yet. TrackingPoint has plans to eventually release a "pro" version, with a career mode and achievements and more varied environments, but that's some time out.
+
+The iOS app, while quite clearly a game, does look pretty much exactly like the production weapon's display, except that the world seen behind the floating letters isn't polygonal but very real. Adding a social media aspect on to hunting—an activity which involves taking life—is something that a lot of folks find troubling. It's one thing to get an achievement for scoring a thousand head-shots in Call of Duty or whatever, but not everyone would be thrilled about potentially seeing a PGF-generated "Jonny bagged his first kill!" notification pop up in their Facebook timeline.
+
+Who's buying?
+The average sport shooter likely doesn't have about $20k to drop on a single rifle, but even with the high barrier to entry, TrackingPoint's initial supply of rifles is almost totally allocated. No small number of sales have been to hunting clubs and other large organizations, too. Interest in acquiring one or two rifles for rental and club use has been high, and Boyd explained that the rifles could be employed by clubs to aid new hunters in learning how to properly and humanely hunt, and to allow older hunters to go out and bag an animal that they might not have the stamina to otherwise stalk and take down.
+
+TrackingPoint is exploring ways to make a PGF purchase a "white glove" type of experience. Though this isn't yet a possibility, TrackingPoint's PGFs might eventually be available as part of an entire "destination" package, where a customer purchases a PGF coupled with an African safari or something similar. TrackingPoint might also offer some training range time with each rifle's purchase, much like how BMW owners can choose to purchase a new BMW and take delivery of it at the company's South Carolina performance driving school along with a day of driving lessons.
+
+But for now private sales make up the majority of the orders. TrackingPoint isn't releasing detailed numbers yet, other than to say that they've taken preorders for "hundreds" of PGFs. They expect to begin delivering the weapons to customers in May of this year.
+
+Shots, made
+A view downrange, showing 250 yard, 500 yard, 750 yard, and 1000 yard target emplacements. At 128mm equivalent zoom, our camera's lens foreshortens the distance, making the targets appear much, much closer than they do to the naked eye. Steven Michael
+As with so many other tools, the technology will be used by people however it will be used. It's not really a question of trying to put the genie back in the bottle—this is no scientific breakthrough like the splitting of the atom. TrackingPoint simply applied ballistic and computer science and built a tool, and if they hadn't, then another company would have sooner or later. Bret Boyd sees this first generation of PGFs as the beginning of a long line of products.
+
+"In 10 years, precision guided firearms is just going to be another class of weapons that a ton of people are going to make," he predicted as we were packing up. We'd spent several hours shooting in the cool, dry Austin air, racking up hit after hit on targets so far away that they couldn't be seen unaided, watching each other's scopes through iPads. It all felt a little unreal.
+
+"I can't believe you've never shot a rifle before," Boyd commented to Steve, shaking his head.
+
+"Well, pistols, but not rifles," replied my photographer.
+
+"Not too many thousand-yard pistol shots, though?" asked Boyd.
+
+"Nope!" Steve agreed. We started walking back toward the car and home, all new members of the thousand yard club.
+
+Read Comments
+]]></description>
+<dc:subject>Features Gear_&amp;_Gadgets hunting iOS mobile_gaming precision_guided_firearm rifle trackingpoint weapon</dc:subject>
+<dc:source>http://reader.google.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:cardinale/b:49f17afba216/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:cardinale/t:Features"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:cardinale/t:Gear_&amp;_Gadgets"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:cardinale/t:hunting"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:cardinale/t:iOS"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:cardinale/t:mobile_gaming"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:cardinale/t:precision_guided_firearm"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:cardinale/t:rifle"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:cardinale/t:trackingpoint"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:cardinale/t:weapon"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://jury.me/blog/2013/3/31/understanding-app-store-pricing-part-4">
+    <title>Understanding App Store Pricing — Part 4 — Jury.me</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://jury.me/blog/2013/3/31/understanding-app-store-pricing-part-4</link>
+    <dc:creator>neonacho</dc:creator><description><![CDATA[Understanding App Store Pricing — Part 4 —  ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:neonacho/b:d51d446eee44/</dc:identifier>
+</item>
+<item rdf:about="http://jury.me/blog/2013/3/31/understanding-app-store-pricing-part-2">
+    <title>Understanding App Store Pricing — Part 2 — Jury.me</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://jury.me/blog/2013/3/31/understanding-app-store-pricing-part-2</link>
+    <dc:creator>amudi</dc:creator><description><![CDATA[Understanding App Store Pricing — Part 2 —  http://t.co/27exddl6BC]]></description>
+<dc:source>http://instapaper.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:amudi/b:e2ca2bab0d85/</dc:identifier>
+</item>
+<item rdf:about="http://daverupert.com/2013/04/responsive-deliverables/">
+    <title>Responsive Deliverables - daverupert.com</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://daverupert.com/2013/04/responsive-deliverables/</link>
+    <dc:creator>fake_steve</dc:creator><description><![CDATA[I wrote about #RWD Deliverables ]]></description>
+<dc:subject>RWD</dc:subject>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:fake_steve/b:ba61c240371e/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:fake_steve/t:RWD"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://vimeo.com/62831216">
+    <title>Teton Gravity Research Aerial Reel - The Bay Area in 4K on Vimeo</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://vimeo.com/62831216</link>
+    <dc:creator>jmvldz</dc:creator><description><![CDATA[I miss San Francisco. So beautiful. This amazing video uses a new stabilizing camera for helicopters: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:jmvldz/b:65e80a609d82/</dc:identifier>
+</item>
+<item rdf:about="http://www.uxapprentice.com/">
+    <title>UX Apprentice</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://www.uxapprentice.com/</link>
+    <dc:creator>johanhal</dc:creator><description><![CDATA[Want to learn #UX design? @balsamiq just introduced:  #UX]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:johanhal/b:1805b07a6387/</dc:identifier>
+</item>
+<item rdf:about="http://www.held.org.il/blog/2013/03/navigating-through-the-git-history-like-a-boss/">
+    <title>Navigating through the git history like a boss | Web 0.2</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://www.held.org.il/blog/2013/03/navigating-through-the-git-history-like-a-boss/</link>
+    <dc:creator>dstelow</dc:creator><description><![CDATA[Of course, the better we know git's secrets, the more effective use of git history we could make. I'll try to share here some useful tricks I've collected in the recent years... I bet you know some; I believe you may still find some of them useful.
+
+Alright, enough human communication - let the command-line part begin:]]></description>
+<dc:subject>dev sourcecontrol git</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:dstelow/b:d6d44bb040c4/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:dstelow/t:dev"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:dstelow/t:sourcecontrol"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:dstelow/t:git"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www.theverge.com/2013/4/1/4170312/aereo-wins-major-court-battle-against-tv-networks">
+    <title>Aereo wins major court battle against TV networks | The Verge</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://www.theverge.com/2013/4/1/4170312/aereo-wins-major-court-battle-against-tv-networks</link>
+    <dc:creator>erikmalinowski</dc:creator><description><![CDATA[Breaking: Aereo wins major court battle against TV networks ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:erikmalinowski/b:4bc07636c817/</dc:identifier>
+</item>
+<item rdf:about="http://simplesciencefitness.com/">
+    <title>Simple Science Fitness. Burn Fat &amp; Build Muscle for Healthy Humans.</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://simplesciencefitness.com/</link>
+    <dc:creator>hellsten</dc:creator><dc:subject>fitness health diet food</dc:subject>
+<dc:identifier>http://pinboard.in/u:hellsten/b:cd3d9c4a207c/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:hellsten/t:fitness"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:hellsten/t:health"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:hellsten/t:diet"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:hellsten/t:food"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://vimeo.com/63116209">
+    <title>Introducing dispatch.vim on Vimeo</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://vimeo.com/63116209</link>
+    <dc:creator>indra</dc:creator><description><![CDATA[the intro video  is very dramatic :) -  by @tpope]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:indra/b:4c7f6a3d8259/</dc:identifier>
+</item>
+<item rdf:about="http://shopify.github.com/dashing/">
+    <title>shopify.github.com/dashing/</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://shopify.github.com/dashing/</link>
+    <dc:creator>cmer</dc:creator><dc:subject>ruby sinatra dashboard dyi</dc:subject>
+<dc:identifier>http://pinboard.in/u:cmer/b:832673716dda/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:cmer/t:ruby"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:cmer/t:sinatra"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:cmer/t:dashboard"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:cmer/t:dyi"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://jury.me/blog/2013/3/31/understanding-app-store-pricing-part-3">
+    <title>Understanding App Store Pricing — Part 3 — Jury.me</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://jury.me/blog/2013/3/31/understanding-app-store-pricing-part-3</link>
+    <dc:creator>neonacho</dc:creator><description><![CDATA[Understanding App Store Pricing — Part 3 —  ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:neonacho/b:8f0941f4941f/</dc:identifier>
+</item>
+<item rdf:about="http://hackoftheday.securitytube.net/2013/03/wi-fi-sniffer-in-10-lines-of-python.html">
+    <title>Wi-Fi SSID Sniffer in 10 Lines of Python | SecurityTube.net Hack of the Day</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://hackoftheday.securitytube.net/2013/03/wi-fi-sniffer-in-10-lines-of-python.html</link>
+    <dc:creator>bmacauley</dc:creator><dc:subject>wifi</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:bmacauley/b:8e77e982403e/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:bmacauley/t:wifi"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://reederapp.com/reader/">
+    <title>The Future of Reeder</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://reederapp.com/reader/</link>
+    <dc:creator>keithb</dc:creator><description><![CDATA[Well, this isn’t confidence-inspiring. ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:keithb/b:4543b082516c/</dc:identifier>
+</item>
+<item rdf:about="http://brettterpstra.com/2013/04/01/web-excursions-for-april-01-2013-alfred-2-edition/">
+    <title>Web Excursions for April 01, 2013: Alfred 2 Edition - BrettTerpstra.com</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://brettterpstra.com/2013/04/01/web-excursions-for-april-01-2013-alfred-2-edition/</link>
+    <dc:creator>kimroen</dc:creator><description><![CDATA[Yes, I'm getting into the Alfred spirit: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:kimroen/b:64e68de5cf55/</dc:identifier>
+</item>
+<item rdf:about="http://visual.ly/cuts-beef">
+    <title>Cuts of Beef | Visual.ly</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://visual.ly/cuts-beef</link>
+    <dc:creator>cmason</dc:creator><dc:identifier>http://pinboard.in/u:cmason/b:78e077e50ce0/</dc:identifier>
+</item>
+<item rdf:about="http://lifehacker.com/5993235/this-guide-to-cuts-of-beef-makes-sure-youre-never-confused-at-the-meat-counter-again">
+    <title>This Guide to Cuts of Beef Makes Sure You’re Never Confused at the Meat Counter Again</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://lifehacker.com/5993235/this-guide-to-cuts-of-beef-makes-sure-youre-never-confused-at-the-meat-counter-again</link>
+    <dc:creator>ncurado</dc:creator><description><![CDATA[This Guide to Cuts of Beef Makes Sure You’re Never Confused at the Meat Counter Again ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:ncurado/b:a49fee704607/</dc:identifier>
+</item>
+<item rdf:about="https://feedbin.me/">
+    <title>Feedbin</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>https://feedbin.me/</link>
+    <dc:creator>nicolas</dc:creator><dc:subject>google reader alternative rss</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:nicolas/b:0c818b138e31/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:nicolas/t:google"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:nicolas/t:reader"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:nicolas/t:alternative"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:nicolas/t:rss"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://agentfin.tumblr.com/post/46712547856/the-ux-of-community-in-contested-space">
+    <title>agentfin | The UX of Community in Contested Space</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://agentfin.tumblr.com/post/46712547856/the-ux-of-community-in-contested-space</link>
+    <dc:creator>ljharb</dc:creator><description><![CDATA[RT @agentFin: The #UX of Community in Contested Space  Thank you @KuraFire & @TroyHenikoff for getting me to writ…]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:ljharb/b:704672c0ef64/</dc:identifier>
+</item>
+<item rdf:about="http://saddle.github.com/">
+    <title>SADDLE: Scala Data Library</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://saddle.github.com/</link>
+    <dc:creator>wesm</dc:creator><description><![CDATA[Congrats to pandas dev @atomklein on releasing a new #scala data toolkit Saddle today ]]></description>
+<dc:subject>scala</dc:subject>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:wesm/b:3fe4e92dcca9/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:wesm/t:scala"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://blog.ted.com/2007/08/03/100_websites_yo/">
+    <title>TED | TEDBlog: 100 Websites You Should Know and Use</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://blog.ted.com/2007/08/03/100_websites_yo/</link>
+    <dc:creator>patallen</dc:creator><description><![CDATA[
+
+]]></description>
+<dc:subject>websites topwebsites</dc:subject>
+<dc:identifier>http://pinboard.in/u:patallen/b:668cdb0bfb92/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:patallen/t:websites"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:patallen/t:topwebsites"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www.elasticspace.com/2013/03/no-to-no-ui">
+    <title>No to NoUI</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://www.elasticspace.com/2013/03/no-to-no-ui</link>
+    <dc:creator>tealtan</dc:creator><description><![CDATA[‘The best design is invisible’ is the interaction design phrase of the moment. The images above are from my ever-expanding collection of quotes about how design and technology will ‘disappear’, become ‘invisible’ or how the ‘best interface is no interface’.
+
+Intentionally hiding the phenomena and materiality of interfaces, smoothing over the natural edges, seams and transitions that constitute all technical systems, entails a loss of understanding and agency for both designers and users of computing. Lack of understanding leads to uncertainty and folk-theories that hinder our ability to use technical systems, and clouds the critique of technological developments.
+
+Invisible design leads us towards the horrors of Reality Clippy. Does my refrigerator light really go off? Why was my car unlocked this morning? How did my phone go silent all of a sudden? Without highly legible systems for managing and understanding all of this ‘smartness’ we are going to get very lost and highly frustrated. The tricky business of push notifications and the Facebook privacy train wreck is just the tip of the iceberg.
+
+The example of the Nest thermostat invisibly ‘learning’ your habits to control your home temperature is a good one. But the Nest has a highly visible interface that reassures you as to its status, tells you when it is learning, and a large dial for adjusting temperature. Beautiful, legible microinteractions. A Nest without these visual and direct manipulation interfaces would be useless, uncanny and frustrating. Nest wants UI.
+
+We might be better off instead taking our language from typography, and for instance talk about legibility and readability without denying that typography can call attention to itself in beautiful and spectacular ways. Our goal should be to ‘place as much control as possible in the hands of the end-user by making interfaces evident’.]]></description>
+<dc:subject>design legibility learning</dc:subject>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:tealtan/b:4eb7a5bb9682/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:tealtan/t:design"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:tealtan/t:legibility"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:tealtan/t:learning"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://medium.com/i-3-video-games/6b10cfbc0ab0#7382">
+    <title>A game when games were new — I &lt;3 Video Games — Medium</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>https://medium.com/i-3-video-games/6b10cfbc0ab0#7382</link>
+    <dc:creator>cuppy</dc:creator><description><![CDATA[A game when games were new ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:cuppy/b:ebc09762347f/</dc:identifier>
+</item>
+<item rdf:about="http://i.imgur.com/4ixIiAy.jpg">
+    <title>Untitled (http://i.imgur.com/4ixIiAy.jpg)</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://i.imgur.com/4ixIiAy.jpg</link>
+    <dc:creator>tupton</dc:creator><description><![CDATA[Netflix is winning April Fool's:    ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:tupton/b:3f8bc3b3a825/</dc:identifier>
+</item>
+<item rdf:about="http://bits.blogs.nytimes.com/2013/03/31/disruptions-what-does-a-tablet-do-to-the-childs-mind/">
+    <title>What Does a Tablet Do to the Child’s Mind? - NYTimes.com</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://bits.blogs.nytimes.com/2013/03/31/disruptions-what-does-a-tablet-do-to-the-childs-mind/</link>
+    <dc:creator>fake_steve</dc:creator><description><![CDATA[Disruptions: The Child, the Tablet and the Developing Mind. ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:fake_steve/b:311c7c738fd5/</dc:identifier>
+</item>
+<item rdf:about="http://simplystatistics.org/2013/04/02/introducing-the-healthvis-r-package-one-line-d3-graphics-with-r/">
+    <title>Introducing the healthvis R package  – one line D3 graphics with R | Simply Statistics</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://simplystatistics.org/2013/04/02/introducing-the-healthvis-r-package-one-line-d3-graphics-with-r/</link>
+    <dc:creator>dsparks</dc:creator><description><![CDATA[Introducing the healthvis R package  - one line D3 graphics with R #rstats ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:dsparks/b:7524044ae7bd/</dc:identifier>
+</item>
+<item rdf:about="http://www.theatlantic.com/technology/archive/2013/03/how-memes-are-orchestrated-by-the-man/274466/">
+    <title>How Memes Are Orchestrated by the Man - Kevin Ashton - The Atlantic</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://www.theatlantic.com/technology/archive/2013/03/how-memes-are-orchestrated-by-the-man/274466/</link>
+    <dc:creator>dpwolf</dc:creator><description><![CDATA[RT @claytoncubitt: Fascinating. Must read. RT @artsy: How memes are orchestrated by The Man: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:dpwolf/b:cccf55d2cbfa/</dc:identifier>
+</item>
+<item rdf:about="http://www.nngroup.com/articles/mobile-usability-cats/">
+    <title>Mobile Usability for Cats: Essential Design Principles for Felines</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://www.nngroup.com/articles/mobile-usability-cats/</link>
+    <dc:creator>kcarruthers</dc:creator><description><![CDATA[important research? Mobile Usability for Cats: Essential Design Principles for Felines  via @nngroup ht @stilgherrian]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:kcarruthers/b:c9566d47666b/</dc:identifier>
+</item>
+<item rdf:about="http://nshipster.com/icloud/">
+    <title>iCloud : NSHipster</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://nshipster.com/icloud/</link>
+    <dc:creator>amudi</dc:creator><description><![CDATA[RT @NSHipster: iCloud: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:amudi/b:4aaec95bdbae/</dc:identifier>
+</item>
+<item rdf:about="https://github.com/tpope/vim-dispatch">
+    <title>tpope/vim-dispatch · GitHub</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>https://github.com/tpope/vim-dispatch</link>
+    <dc:creator>indra</dc:creator><description><![CDATA[the intro video  is very dramatic :) -  by @tpope]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:indra/b:d0e10ceed1c7/</dc:identifier>
+</item>
+<item rdf:about="http://www.theatlantic.com/business/archive/2013/04/the-simple-reason-why-goodreads-is-so-valuable-to-amazon/274548/">
+    <title>The Simple Reason Why Goodreads Is So Valuable to Amazon - Jordan Weissmann - The Atlantic</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://www.theatlantic.com/business/archive/2013/04/the-simple-reason-why-goodreads-is-so-valuable-to-amazon/274548/</link>
+    <dc:creator>gnxp</dc:creator><dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:gnxp/b:9084c190a6d5/</dc:identifier>
+</item>
+<item rdf:about="http://infogr.am/">
+    <title>We make infographics - infogram</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://infogr.am/</link>
+    <dc:creator>jenlowe</dc:creator><dc:subject>app chart twitter easy</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:jenlowe/b:2300285f921e/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:jenlowe/t:app"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:jenlowe/t:chart"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:jenlowe/t:twitter"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:jenlowe/t:easy"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.google.com/intl/en/landing/nose/">
+    <title>Google Nose BETA</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>https://www.google.com/intl/en/landing/nose/</link>
+    <dc:creator>palafo</dc:creator><description><![CDATA[This smells like an April Fools Joke: .]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:palafo/b:1c2d74c75eac/</dc:identifier>
+</item>
+<item rdf:about="https://medium.com/life-hacks/808159b4cf81">
+    <title>The Best Conference Hack — Life Hacks — Medium</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>https://medium.com/life-hacks/808159b4cf81</link>
+    <dc:creator>freshtonic</dc:creator><dc:identifier>http://pinboard.in/u:freshtonic/b:277c2b854860/</dc:identifier>
+</item>
+<item rdf:about="http://www.slideshare.net/cjbayesian/introduction-to-bayesian-methodes">
+    <title>Introduction to Bayesian Methods</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://www.slideshare.net/cjbayesian/introduction-to-bayesian-methodes</link>
+    <dc:creator>jeremyday</dc:creator><dc:subject>statistics bayesian ifttt slides</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:jeremyday/b:2f895bb7572f/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:jeremyday/t:statistics"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:jeremyday/t:bayesian"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:jeremyday/t:ifttt"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:jeremyday/t:slides"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://blog.ezyang.com/2010/01/advanced-git-merge/">
+    <title>Five advanced Git merge techniques : Inside 245s</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://blog.ezyang.com/2010/01/advanced-git-merge/</link>
+    <dc:creator>cziltang</dc:creator><description><![CDATA[Useful advanced merge tactics
+]]></description>
+<dc:subject>git tips blogpost</dc:subject>
+<dc:identifier>http://pinboard.in/u:cziltang/b:75b85b4f6578/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:cziltang/t:git"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:cziltang/t:tips"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:cziltang/t:blogpost"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://pandodaily.com/2013/04/02/an-acquisition-is-always-a-failure/">
+    <title>An acquisition is always a failure</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://pandodaily.com/2013/04/02/an-acquisition-is-always-a-failure/</link>
+    <dc:creator>sillygwailo</dc:creator><dc:subject>Reading.am</dc:subject>
+<dc:identifier>http://pinboard.in/u:sillygwailo/b:8acf75bb5dbd/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:sillygwailo/t:Reading.am"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://i.imgur.com/d4LEzJT.jpg?1">
+    <title>Untitled (http://i.imgur.com/d4LEzJT.jpg?1)</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://i.imgur.com/d4LEzJT.jpg?1</link>
+    <dc:creator>tupton</dc:creator><description><![CDATA[Netflix is winning April Fool's:    ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:tupton/b:e5bed16ae87b/</dc:identifier>
+</item>
+<item rdf:about="https://github.com/airbnb/rendr">
+    <title>airbnb/rendr · GitHub</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>https://github.com/airbnb/rendr</link>
+    <dc:creator>nickalewis</dc:creator><dc:subject>ja</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:nickalewis/b:2564eef9f62e/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:nickalewis/t:ja"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://adamwhitcroft.com/climacons/">
+    <title>Climacons ≡ Climatically Categorised Pictographs</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://adamwhitcroft.com/climacons/</link>
+    <dc:creator>joecritchley</dc:creator><description><![CDATA[.@AdamWhitcroft made some incredibly gorgeous icons, and he's crazy enough to let you have them for free. Go! ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:joecritchley/b:bdc9b9663ad1/</dc:identifier>
+</item>
+<item rdf:about="http://www.modern.ie/en-us/virtualization-tools">
+    <title>Cross-browser testing &lt;br&gt;simplified | Testing made easier in Internet Explorer | modern.IE</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://www.modern.ie/en-us/virtualization-tools</link>
+    <dc:creator>ninjakttty</dc:creator><dc:subject>webdev testing</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:ninjakttty/b:70279a14e8d0/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:ninjakttty/t:webdev"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:ninjakttty/t:testing"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://tympanus.net/codrops/2013/04/01/app-showcase-with-grid-overlay/">
+    <title>App Showcase with Grid Overlay | Codrops</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://tympanus.net/codrops/2013/04/01/app-showcase-with-grid-overlay/</link>
+    <dc:creator>rmi0</dc:creator><dc:subject>iphone webdesign resources</dc:subject>
+<dc:source>http://pinboard.in/</dc:source>
+<dc:identifier>http://pinboard.in/u:rmi0/b:d947dd4357a4/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="http://pinboard.in/u:rmi0/t:iphone"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:rmi0/t:webdesign"/>
+	<rdf:li rdf:resource="http://pinboard.in/u:rmi0/t:resources"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://i.imgur.com/cR2yQ1i.jpg?1">
+    <title>Untitled (http://i.imgur.com/cR2yQ1i.jpg?1)</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://i.imgur.com/cR2yQ1i.jpg?1</link>
+    <dc:creator>tupton</dc:creator><description><![CDATA[Netflix is winning April Fool's:    ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:tupton/b:7f5c8ec7d8b0/</dc:identifier>
+</item>
+<item rdf:about="http://charlie.bz/blog/things-that-clear-rubys-method-cache">
+    <title>Things that clear Ruby's method cache — Charlie Somerville</title>
+    <dc:date>2013-04-03T14:12:02+00:00</dc:date>
+    <link>http://charlie.bz/blog/things-that-clear-rubys-method-cache</link>
+    <dc:creator>galtenberg</dc:creator><description><![CDATA[RT @charliesome: New article - Things that clear Ruby's method cache: ]]></description>
+<dc:source>http://twitter.com/</dc:source>
+<dc:identifier>http://pinboard.in/u:galtenberg/b:2c31c684a01c/</dc:identifier>
+</item>
+</rdf:RDF>

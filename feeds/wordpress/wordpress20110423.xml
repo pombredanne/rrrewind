@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>FreshlyPressed</title>
+	<atom:link href="http://freshlypressed.wordpress.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://freshlypressed.wordpress.com</link>
+	<description>Just another Wordpress.com weblog</description>
+	<lastBuildDate>Fri, 22 Apr 2011 16:20:38 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='freshlypressed.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>http://s2.wp.com/i/buttonw-com.png</url>
+		<title>FreshlyPressed</title>
+		<link>http://freshlypressed.wordpress.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="http://freshlypressed.wordpress.com/osd.xml" title="FreshlyPressed" />
+	<atom:link rel='hub' href='http://freshlypressed.wordpress.com/?pushpress=hub'/>
+		<item>
+		<title>3 Major Issues with the Latest iPhone Tracking &#8220;Discovery&#8221;</title>
+		<link>http://alexlevinson.wordpress.com/2011/04/21/3-major-issues-with-the-latest-iphone-tracking-discovery/</link>
+		<comments>http://alexlevinson.wordpress.com/2011/04/21/3-major-issues-with-the-latest-iphone-tracking-discovery/#comments</comments>
+		<pubDate>Wed, 20 Apr 2011 23:09:35 +0000</pubDate>
+		<dc:creator>alexlevinson</dc:creator>
+				<category><![CDATA[What's up with Alex]]></category>
+
+		<guid isPermaLink="false">http://alexlevinson.wordpress.com/?p=71</guid>
+		<description><![CDATA[Today, two researchers for O’Reilly media published an article claiming discovery of a hidden tracking system on the iOS 4 operating system. Using simple techniques, Alasdair Allan and Pete Warden extracted data off of an iOS version 4 device and wrote an open source software utility to effectively graph this data onto a map. As [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=71&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p>Today, two researchers for O’Reilly media published an <a href="http://radar.oreilly.com/2011/04/apple-location-tracking.html">article</a> claiming discovery of a hidden tracking system on the iOS 4 operating system. Using simple techniques, Alasdair Allan and Pete Warden extracted data off of an iOS version 4 device and wrote an <a href="http://petewarden.github.com/iPhoneTracker/">open source software utility</a> to effectively graph this data onto a map. As a fellow researcher, I champion their creativity and their development. As an expert in this field, I have three points of argument to raise.</p>
+<h1>1) Apple is <span style="color:#3366ff;"><em>not </em></span>collecting this data.</h1>
+<p>And to suggest otherwise is completely misrepresenting Apple. I quote:</p>
+<blockquote><p>Apple is gathering this data, but it&#8217;s clearly intentional, as the database is being restored across backups, and even device migrations.</p></blockquote>
+<p>Apple is not harvesting this data from your device. This is data on the device that you as the customer purchased and unless they can show concrete evidence supporting this claim &#8211; network traffic analysis of connections to Apple servers &#8211; I rebut this claim in full. Through my research in this field and all traffic analysis I have performed, not once have I seen this data traverse a network. As rich of data as this might be, it&#8217;s actually illegal under <a href="http://law.onecle.com/california/penal/637.7.html">California state law</a>:</p>
+<blockquote><p>(a) No person or entity in this state shall use an electronic tracking device to determine the location or movement of a person.</p></blockquote>
+<p>I don&#8217;t think that&#8217;s a legal battle Apple wants to face considering the sale of over 100 million iDevices worldwide. That raises the question &#8211; how is this data used? It&#8217;s used all the time by software running on the phone. Built-In applications such as Maps and Camera use this geolocational data to operate. Apple provides an API for access to location awareness called <a href="http://developer.apple.com/library/ios/#documentation/CoreLocation/Reference/CoreLocation_Framework/_index.html#//apple_ref/doc/uid/TP40007123">Core Location</a>. Here is Apple&#8217;s description of this softare library:</p>
+<blockquote><p>The Core Location framework lets you determine the current location or heading associated with a device. The framework uses the available hardware to determine the user’s position and heading. You use the classes and protocols in this framework to configure and schedule the delivery of location and heading events. You can also use it to define geographic regions and monitor when the user crosses the boundaries of those regions.</p></blockquote>
+<p>Seems pretty clear. So now the question becomes why did this &#8220;hidden&#8221; file secretly appear in iOS 4?</p>
+<h1>2) This <span style="color:#3366ff;">hidden</span> file is neither <span style="color:#ff9900;">new</span> nor <span style="color:#ff9900;">secret<span style="color:#000000;">.</span></span></h1>
+<p>It&#8217;s just moved. Location services have been available to the Apple device for some time. Understand what this file is &#8211; a log generated by the various radios and sensors located within the device. This file is utilized by several operations on the device that actually is what makes this device pretty &#8220;smart&#8221;. This file existed in a different form prior to iOS 4, but not in form it is today.</p>
+<p>Currently, <em><strong>consolidated.db</strong></em> lies within the &#8220;User Data Partition&#8221; on the device. This is a logical filesystem that maintains non-system level privileges and where most of the data is stored. When you perform an iOS Backup through iTunes, it is backing up this partition. Prior to iOS 4, a file called <em><strong>h-cells.plist</strong></em> actually existed in the /root/Library/caches/locationd folder, but with hidden access from other software and applications. <em><strong>h-cells.plist</strong></em> contained much of the same information regarding baseband radio locations as <strong><em>consolidated.db</em></strong> does now, but in Apple Property List format rather than sqlite3. Through my work with various law enforcement agencies, we&#8217;ve used <strong><em>h-cells.plist</em></strong> on devices older than iOS 4 to harvest geolocational evidence from iOS devices.</p>
+<p>So lets recap.</p>
+<p><em><strong>h-cells.plist</strong></em> = Pre iOS 4 / Radio Logs including Geolocational Data / Hidden from Forensic Extraction (usually)</p>
+<p><em><strong>consolidated.db</strong></em> = iOS 4+ / Radio logs including geolocational Data / Easily acquired through simple forensic techniques</p>
+<p>The change comes with a feature introduced in iOS 4 &#8211; <a href="http://developer.apple.com/technologies/ios/whats-new.html#multitasking">Mutlitasking and Background Location Services</a>. Apps now have to use Apple&#8217;s API to operate in the background &#8211; remember, this is not pure unix we&#8217;re dealing with &#8211; it is only a logical multitasking through Apple&#8217;s API. Because of these new APIs and the sandbox design of 3rd party applications, Apple had to move access to this data. Either way, it is not secret, malicious, or hidden. Users still have to approve location access to <em>any</em> application and have the ability to instantly turn off location services to applications inside the Settings menu on their device. That does not stop the generation of these logs, however, it simply prevents applications from utilizing the APIs to access the data.</p>
+<h1>3) This <span style="color:#3366ff;">&#8220;discovery&#8221;</span> was published months ago.</h1>
+<p>I understand that Mr. Allan and Mr. Warden are valued researchers for O&#8217;Reilly, but they have completely missed the boat on this one. In the spirit of academia, due diligence is a must to determine who else has done such research. Mr. Allan, Mr. Warden, and O&#8217;Reilly have overlooked and failed to cite an entire area of research that has already been done on this subject and claimed full authorship of it. Let&#8217;s break down my history:</p>
+<p>Back in 2010 when the iPad first came out, I did a research project at the Rochester Institute of Technology on Apple forensics. Professor Bill Stackpole of the Networking, Security, &amp; Systems Administration Department was teaching a computer forensics course and pitched the idea of doing forensic analysis on my recently acquired iPad. We purchased a few utilities and began studying the various components of apple mobile devices. We discovered three things:</p>
+<ul>
+<li>Third Party Application data can contain usernames, passwords, and interpersonal communication data, usually in plain text.</li>
+<li>Apple configurations and logs contain lots of network and communication related data.</li>
+<li>Geolocational Artifacts were one of the single most important forensic vectors found on these devices.</li>
+</ul>
+<p>After presenting that project to Professor Stackpole&#8217;s forensic class, I began work last summer with Sean Morrissey, managing director of Katana Forensics on it&#8217;s iOS Forensic Software utility, Lantern. While developing with Sean, I continued to work with Professor Stackpole an academic paper outlining our findings in the Apple Forensic field. <a href="http://www.computer.org/portal/web/csdl/doi/10.1109/HICSS.2011.440">This paper</a> was accepted for publication into the Hawaii International Conference for System Sciences 44 and is now an IEEE Publication. I presented on it in January in Hawaii and during my presentation discussed <em><strong>consolidated.db</strong></em> and it&#8217;s contents with my audience &#8211; my paper was written prior to iOS 4 coming out, but my presentation was updated to include iOS 4 artifacts.</p>
+<p>Throughout the summer, I worked extensively with Sean on both developing Lantern and writing custom software to interpret forensic data for customers of ours who needed better ways of searching for and interpreting data.</p>
+<p>When the iPhone 4 came out, I was one of the first people in San Francisco to grab one (yes I waited to be in the front of that awful line).</p>
+<div class="wp-caption aligncenter" style="width: 635px"><img title="Me in Line for the iPhone 4 in San Francisco" src="https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-snc4/34113_127285360641858_100000811852612_126634_4997321_n.jpg" alt="Me in Line for the iPhone 4 in San Francisco" width="625" height="446" /><p class="wp-caption-text">( Look for the RIT shirt )</p></div>
+<p>Within 24 hours of the iPhone 4&#8242;s release, we had updated Lantern to support forensic analysis of iOS 4.0 devices. Within 36 hours, we had began writing code to investigate <em><strong>consolidated.db. </strong></em>Once a jailbreak came out for iOS 4, I wrote a small proof of concept application to harvest the contents of consolidated.db and feed it to a server for remote location tracking.</p>
+<p>Ever since then, location artifacts have been a main area of interest for me. I&#8217;m now the Lead Engineer for Katana Forensics leading all technical research and development of both Lantern and private utilities. I travelled to Salt Lake City, UT in November for the <a href="http://www.pfic2010.com/agenda.php">Paraben Forensics Innovation Conference</a> (PFIC) and presented with Sean on iOS Forensics including the content of <em><strong>consolidated.db</strong></em>. At that same conference, Sean and I announced the development of Lantern 2.0 which would fully support the interrogation of <strong><em>consolidated.db</em></strong> and other geolocational artifacts scattered throughout the device.</p>
+<p>Sean and I even wrote a book detailing iOS forensics involving iOS 4 devices that came out on December 5th, 2010.</p>
+<div class="wp-caption aligncenter" style="width: 510px"><img title="iOS Forensic Analysis" src="http://ecx.images-amazon.com/images/I/4135g8RflyL._SS500_.jpg" alt="" width="500" height="500" /><p class="wp-caption-text">Sean Morrissey, Primary Author, Alex Levinson, Contributor</p></div>
+<p>In the course of writing Chapter 10 &#8211; Network Forensics &#8211; I fully explain and detail the examination of <em><strong>consolidated.db </strong></em>and other network artifacts within the device!</p>
+<div id="attachment_72" class="wp-caption aligncenter" style="width: 594px"><a href="http://alexlevinson.files.wordpress.com/2011/04/photo.jpg"><img class="size-full wp-image-72" title="Page 335 &amp; 336" src="http://alexlevinson.files.wordpress.com/2011/04/photo.jpg?w=584&#038;h=436" alt="" width="584" height="436" /></a><p class="wp-caption-text">Page 335 - Continued on page 336.</p></div>
+<p>In February of 2011, Sean and I previewed Lantern 2.0 at the DoD Cyber Crimes Conference in Washington, DC including our geolocational features. Lantern 2.0 has been on the market for months now and performs the same functionality Mr. Warden&#8217;s utility does and much more. We correlate geolocational data embedded in images and third party application. We give you a geolocational timeline of events in list view showing much more than baseband logs within <strong><em>consolidated.db</em></strong>.</p>
+<p>While forensics isn&#8217;t in the forefront of technology headlines these days, that doesn&#8217;t mean critical research isn&#8217;t being done surrounding areas such as mobile devices. I have no problem with what Mr. Warden and Mr. Allan have created or presented on, but I do take issue with them making erroneous claims and not citing previously published work. I&#8217;m all for creative development and research, as long as it&#8217;s honest.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/71/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/71/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/71/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/71/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/71/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/71/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/71/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/71/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/71/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/71/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/71/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/71/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/71/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/71/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=71&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://alexlevinson.wordpress.com/2011/04/21/3-major-issues-with-the-latest-iphone-tracking-discovery/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+	
+		<media:content url="http://1.gravatar.com/avatar/b5e7d5d731007c977eee9d48f54b15ba?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">alexlevinson</media:title>
+		</media:content>
+
+		<media:content url="//fbcdn-sphotos-a.akamaihd.net/hphotos-ak-snc4/34113_127285360641858_100000811852612_126634_4997321_n.jpg" medium="image">
+			<media:title type="html">Me in Line for the iPhone 4 in San Francisco</media:title>
+		</media:content>
+
+		<media:content url="http://ecx.images-amazon.com/images/I/4135g8RflyL._SS500_.jpg" medium="image">
+			<media:title type="html">iOS Forensic Analysis</media:title>
+		</media:content>
+
+		<media:content url="http://alexlevinson.files.wordpress.com/2011/04/photo.jpg" medium="image">
+			<media:title type="html">Page 335 &#38; 336</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>The Biggest Waves New Jersey Has Seen&#8230;</title>
+		<link>http://thenewsurf.com/2011/04/19/the-biggest-waves-new-jersey-has-seen/</link>
+		<comments>http://thenewsurf.com/2011/04/19/the-biggest-waves-new-jersey-has-seen/#comments</comments>
+		<pubDate>Tue, 19 Apr 2011 21:54:03 +0000</pubDate>
+		<dc:creator>TheNewSurf.com</dc:creator>
+				<category><![CDATA[Lineup]]></category>
+		<category><![CDATA[Surf Photography]]></category>
+		<category><![CDATA[Telephoto]]></category>
+		<category><![CDATA[April 17 2011]]></category>
+		<category><![CDATA[Atlantic Ocean]]></category>
+		<category><![CDATA[Big New Jersey Surf]]></category>
+		<category><![CDATA[Biggest NJ Wave]]></category>
+		<category><![CDATA[Eastern Surf Magazine]]></category>
+		<category><![CDATA[ESM Photos]]></category>
+		<category><![CDATA[ESPN Surf]]></category>
+		<category><![CDATA[Large Wave]]></category>
+		<category><![CDATA[Monmouth County]]></category>
+		<category><![CDATA[New Jersey Surf Photography]]></category>
+		<category><![CDATA[nj surf]]></category>
+		<category><![CDATA[North Jersey]]></category>
+		<category><![CDATA[Ocean County]]></category>
+		<category><![CDATA[Photo]]></category>
+		<category><![CDATA[Photo Gallery]]></category>
+		<category><![CDATA[Photographer]]></category>
+		<category><![CDATA[Pics]]></category>
+		<category><![CDATA[South Jersey]]></category>
+
+		<guid isPermaLink="false">http://thenewsurf.com/?p=2344</guid>
+		<description><![CDATA[The Biggest Waves New Jersey Has Seen in awhile. April 11 2011.<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=2344&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p>&#8230;in awhile. April 17, 2011 was a day that held some of New Jersey&#8217;s biggest surf all season. When was the last time you saw NJ waves this big on the beach? Contrary to the last post&#8217;s <a href="http://vimeo.com/22557149">video</a>, not all of these beasts were going to pound you. As you&#8217;ll see in the clip below, some of them just ate you. Wetsuit and all.</p>
+<p>To check out a few more photos please see the <a href="http://espn.go.com/action/photos/gallery/_/id/6381740/hollow-feelings-east-coast-surf-gallery#launch-1" target="_blank">ESPN Photo Feature</a> (photos 1 and 12) and <a href="http://www.easternsurf.com/feature_042111/" target="_blank">EasternSurf.com</a> (photo 1)</p>
+<p>Also, please &#8220;<a href="http://facebook.com/TheNewSurf" target="_blank">Like</a>&#8221; us <a href="http://facebook.com/TheNewSurf" target="_blank">Facebook</a> for more photos and all of our updates!</p>
+<p style="text-align:center;"><a href="http://RyanStruck.com" target="_blank"><img class="aligncenter size-full wp-image-2347" title="Sunrise" src="http://newsurfdotcom.files.wordpress.com/2011/04/sunrise.jpg?w=900&#038;h=600" alt="new jersey surf photography" width="900" height="600" /></a></p>
+<p style="text-align:center;"><a href="http://facebook.com/thenewsurf" target="_blank"><img class="aligncenter size-full wp-image-2381" title="PJ Raia" src="http://newsurfdotcom.files.wordpress.com/2011/04/pj_raia-1.jpg?w=900&#038;h=600" alt="PJ Raia surfing big waves in New Jersey." width="900" height="600" /></a></p>
+<p style="text-align:center;"><a href="http://RyanStruck.com" target="_blank"><img class="aligncenter size-full wp-image-2345" title="liquid-mountains" src="http://newsurfdotcom.files.wordpress.com/2011/04/liquid-mountains.jpg?w=900&#038;h=600" alt="biggest wave in nj. april 17 2011" width="900" height="600" /></a></p>
+<p style="text-align:center;"><a href="http://facebook.com/TheNewSurf" target="_blank"><img class="aligncenter size-full wp-image-2359" title="slab" src="http://newsurfdotcom.files.wordpress.com/2011/04/slab1.jpg?w=900&#038;h=600" alt="surfing slabs. biggest nj wave." width="900" height="600" /></a></p>
+<div style='text-align:center;'>
+<object type="application/x-shockwave-flash" width="900" height="600" data="http://www.vimeo.com/moogaloop.swf?clip_id=22627274&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=01AAEA">
+	<param name="quality" value="best" />
+	<param name="allowfullscreen" value="true" />
+	<param name="scale" value="showAll" />
+	<param name="movie" value="http://www.vimeo.com/moogaloop.swf?clip_id=22627274&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=01AAEA" />
+	<param name="wmode" value="opaque" />
+</object>
+</div>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/2344/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/2344/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/2344/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/2344/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/2344/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/2344/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/2344/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/2344/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/2344/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/2344/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/2344/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/2344/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/2344/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/2344/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=2344&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://thenewsurf.com/2011/04/19/the-biggest-waves-new-jersey-has-seen/feed/</wfw:commentRss>
+		<slash:comments>16</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/e170209057c50ea2e751174e3b7c57c3?s=96&#38;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D96&#38;r=R" medium="image">
+			<media:title type="html">newsurfdotcom</media:title>
+		</media:content>
+
+		<media:content url="http://newsurfdotcom.files.wordpress.com/2011/04/sunrise.jpg" medium="image">
+			<media:title type="html">Sunrise</media:title>
+		</media:content>
+
+		<media:content url="http://newsurfdotcom.files.wordpress.com/2011/04/pj_raia-1.jpg" medium="image">
+			<media:title type="html">PJ Raia</media:title>
+		</media:content>
+
+		<media:content url="http://newsurfdotcom.files.wordpress.com/2011/04/liquid-mountains.jpg" medium="image">
+			<media:title type="html">liquid-mountains</media:title>
+		</media:content>
+
+		<media:content url="http://newsurfdotcom.files.wordpress.com/2011/04/slab1.jpg" medium="image">
+			<media:title type="html">slab</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Ten Entrepreneurship Rules for Building Massive Companies</title>
+		<link>http://greylockvc.com/2011/03/22/ten-entrepreneurship-rules-for-building-massive-companies/</link>
+		<comments>http://greylockvc.com/2011/03/22/ten-entrepreneurship-rules-for-building-massive-companies/#comments</comments>
+		<pubDate>Wed, 23 Mar 2011 01:26:33 +0000</pubDate>
+		<dc:creator>greylockvc</dc:creator>
+				<category><![CDATA[Advice for Entrepreneurs]]></category>
+		<category><![CDATA[LinkedIn]]></category>
+		<category><![CDATA[Reid Hoffman]]></category>
+		<category><![CDATA[tips for entrepreneurs]]></category>
+
+		<guid isPermaLink="false">http://greylockvc.com/?p=360</guid>
+		<description><![CDATA[Last week I gave a talk at South by Southwest, and in it I shared my top ten rules for entrepreneurship. They are borne from my experiences starting companies and partnering with great entrepreneurs in Silicon Valley as an angel and a venture capitalist. I hope they prove to be useful to you. If you [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=360&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p>Last week I gave a talk at South by Southwest, and in it I shared my top ten rules for entrepreneurship. They are borne from my experiences starting companies and partnering with great entrepreneurs in Silicon Valley as an angel and a venture capitalist. I hope they prove to be useful to you. If you are an entrepreneur and have other rules you live by and want to share with others, please post your thoughts in the comments field.</p>
+<p><strong>Rule #1: Look for disruptive change.</strong><br />
+If you’re about to start on a new venture, ask yourself: What is becoming possible or necessary that wasn’t possible before? Is a new product or service able to take over an existing market or create a new market? When I co-founded LinkedIn the tech industry was in a deep depression. I looked at all the opportunities created by the Internet and had the idea that eventually everyone would need a professional profile online. The disruption was that people were able to directly reach the best candidates rather than hoping for responses from a listing in the paper or an ad on a Web site.</p>
+<p><strong>Rule #2: Aim big.</strong><br />
+Regardless of whether a start-up is targeting a big idea or a small one, it will still require the same amount of blood, sweat and tears—so aim big! What is “big?” It is a new product or service that creates or dominates a significant market.</p>
+<p><strong>Rule #3: Build a network to magnify your company.</strong><br />
+People tend to think that behind every great start-up is a single entrepreneur with a whiz-bang idea. The reality is great companies are built by a number of people with talent who are surrounded by amplifying networks. The most successful entrepreneurs bring in advisors, investors, collaborators and early customer relationships.</p>
+<p><strong>Rule #4: Plan for good luck and bad luck.</strong><br />
+You should always assume you will have both good luck and bad luck with your new company. Good luck is not as simple as “it worked out.” Rather, this is when you discover a great opportunity and can quickly shift to go after it. Bad luck is what happens when your first idea doesn’t work. It doesn’t mean failure; it means you need to pursue plan B.</p>
+<p><strong>Rule #5: Maintain flexible persistence.</strong><br />
+Very often entrepreneurs are given conflicting advice: “Be persistent! Stay committed to your vision!” or “Pivot on key data! Know when to change!” The challenge is to follow them both, but know which advice is most appropriate for which situation. You must know how to maintain flexible persistence.</p>
+<p><strong>Rule #6: Launch early enough that you are embarrassed by your first product release.</strong><br />
+With my first startup, Socialnet.com, it took us nine months to launch the first product. That was a disastrous mistake. We wanted to have all the detailed functionality right away, including social controls to people could decide to connect or not with the people in their networks. We wanted everyone to “Ooh” and “Aaah” about how terrific the product was. We wasted a bunch of time and it put us months behind on more important problems that needed to be solved, such as how to get our product in the hands of millions of people. From that I learned, if you are not embarrassed by your first release, you’ve launched too late!</p>
+<p><strong>Rule #7: Aspire, but don’t drink your own Kool-Aid.</strong><br />
+Target excellence, but be very careful about blind trust or belief in your theories. It is important to launch as early as you can in order to learn how your customers use your product or service. It is equally important to identify metrics that tell you if your aspirations and vision are on target. You should also get feedback from your network in order to iterate or pivot on the target, the product and/or the service. In other words, maintain your aspiration but always look for good perspective on how you are doing. It is very easy for creative innovators to get caught up in their own story rather than learning where they should be headed.</p>
+<p><strong>Rule #8: Having a great product is important but having great product distribution is more important.</strong><br />
+I meet a lot of entrepreneurs who think the best product is the most important thing and that the best product should always win. What a lot of people fail to realize is that without great distribution, the product dies. How will you get your product in the hands of millions or hundreds of millions of people?</p>
+<p><strong>Rule #9: Pay close attention to culture and hires from the very beginning.</strong><br />
+Your first hires set your culture, so make them good ones. These first people hire the next people and so on. The old wisdom was that you needed people with a decade more of experience in your start-up. The things a smart person learned a decade ago won’t help you now – you’re doing things that have never been done before, and the world and the competitive landscape are changing at hyper speeds. What you really need are people who can learn fast.</p>
+<p><strong>Rule #10: Rules of entrepreneurship are guidelines, not laws of nature.</strong><br />
+Do not pay too much attention to rules set by other people. Entrepreneurs are inventors. They are successful when they make something work for the very first time. Sometimes in order to make something work, you will drive over the guardrail of one of these rules. Entrepreneurs sometimes just make new rules.</p>
+<p>-Reid<br />
+<em><a href="http://greylockvc.files.wordpress.com/2011/03/reidhoffman2011.jpg"><img class="alignleft size-thumbnail wp-image-361" title="Reid Hoffman - Greylock" src="http://greylockvc.files.wordpress.com/2011/03/reidhoffman2011.jpg?w=100&#038;h=150" alt="" width="100" height="150" /></a></em></p>
+<p><em>Reid Hoffman is Co-Founder and Chairman at LinkedIn and a partner at Greylock Partners. He is a member of the founding team at PayPal and has been an angel investor and adviser to dozens of organizations including Facebook, Zynga, Flickr and Last.FM. He currently serves on the boards of LinkedIn, Zynga, Shopkick, Kiva.org and Mozilla. His complete profile can be found at www.linkedin.com/in/reidhoffman.</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/360/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/360/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/360/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/360/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/360/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/360/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/360/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/360/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/360/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/360/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/360/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/360/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/360/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/360/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=360&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://greylockvc.com/2011/03/22/ten-entrepreneurship-rules-for-building-massive-companies/feed/</wfw:commentRss>
+		<slash:comments>57</slash:comments>
+	
+		<media:content url="http://1.gravatar.com/avatar/d85e0197cca8feeb3442eff7e9f9d5f7?s=96&#38;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D96&#38;r=G" medium="image">
+			<media:title type="html">greylockvc</media:title>
+		</media:content>
+
+		<media:content url="http://greylockvc.files.wordpress.com/2011/03/reidhoffman2011.jpg?w=100" medium="image">
+			<media:title type="html">Reid Hoffman - Greylock</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>The 100 Most Influential People in the World?</title>
+		<link>http://westernthm.wordpress.com/2011/04/21/the-100-most-influential-people-in-the-world/</link>
+		<comments>http://westernthm.wordpress.com/2011/04/21/the-100-most-influential-people-in-the-world/#comments</comments>
+		<pubDate>Fri, 22 Apr 2011 03:07:05 +0000</pubDate>
+		<dc:creator>Marc Cortez</dc:creator>
+				<category><![CDATA[culture]]></category>
+		<category><![CDATA[humor]]></category>
+
+		<guid isPermaLink="false">http://westernthm.wordpress.com/?p=6263</guid>
+		<description><![CDATA[Time Magazine has put out its list of the 100 Most Influential People of 2011. But, I have to admit that it&#8217;s hard to take such a list seriously when it includes people like the following. The sad thing is that maybe these are among the most influential people on earth. How long do you [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=6263&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p>Time Magazine has put out its list of the <a href="http://www.time.com/time/specials/packages/completelist/0,29569,2066367,00.html">100 Most Influential People of 2011</a>. But, I have to admit that it&#8217;s hard to take such a list seriously when it includes people like the following. The sad thing is that maybe these are among the most influential people on earth. How long do you think it will be before they have viable colonies on Mars?</p>
+<ul>
+<li>Peter Vesterbacka (developer of Angry Birds)</li>
+<li>Amy Poehler (actress in <em>Parks and Recreation</em>)</li>
+<li>Kim Clijsters (tennis player)</li>
+<li>Rob Bell (apparently it only takes one book)</li>
+<li>Justin Bieber (no comment)</li>
+<li>Blake Lively (actress in <em>Gossip Girl</em>)</li>
+<li>Bruno Mars (singer)</li>
+<li>George R. R. Martin (I like his books, but he really doesn&#8217;t fit here)</li>
+<li>Sting (seriously?)</li>
+<li>Mark Wahlberg (Marky Mark made the list?)</li>
+</ul>
+<p>The list might be even worse than this, but I didn&#8217;t bother to click on too many of the names I didn&#8217;t know &#8211; a surprising number given their apparent influence in the world.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/6263/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/6263/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/6263/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/6263/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/6263/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/6263/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/6263/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/6263/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/6263/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/6263/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/6263/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/6263/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/6263/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/6263/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=6263&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://westernthm.wordpress.com/2011/04/21/the-100-most-influential-people-in-the-world/feed/</wfw:commentRss>
+		<slash:comments>15</slash:comments>
+	
+		<media:content url="http://1.gravatar.com/avatar/dbd0301e25e12f053174ce4c4f091301?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">Marc</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Krakow</title>
+		<link>http://papergardens.wordpress.com/2011/04/20/krakow/</link>
+		<comments>http://papergardens.wordpress.com/2011/04/20/krakow/#comments</comments>
+		<pubDate>Wed, 20 Apr 2011 17:00:00 +0000</pubDate>
+		<dc:creator>Benedicte</dc:creator>
+				<category><![CDATA[Life]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[poland]]></category>
+		<category><![CDATA[krakow]]></category>
+		<category><![CDATA[shopping]]></category>
+		<category><![CDATA[sightseeing]]></category>
+		<category><![CDATA[traveling]]></category>
+
+		<guid isPermaLink="false">http://papergardens.wordpress.com/?p=1080</guid>
+		<description><![CDATA[Last Thursday I traveled to Krakow with my  folk high school friends Helene and Katrine!  Well, Katrine lives there as she&#8217;s studying to be a doctor, she&#8217;s already in her second year now. I&#8217;ve been there once before last year, but then the weather was so bad that we had to stay inside the whole [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=1080&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p>Last Thursday I traveled to Krakow with my  folk high school friends Helene and Katrine!  Well, Katrine lives there as she&#8217;s studying to be a doctor, she&#8217;s already in her second year now.</p>
+<p>I&#8217;ve been there once before last year, but then the weather was so bad that we had to stay inside the whole weekend. This time the weather was excellent and we did a whole lot of sightseeing, marked shopping and enjoying coffee in the sun. Best weekend in ages, Haven&#8217;t laughed that much in a long time!</p>
+<p>Well, I shall let the pictures do most of the talking.</p>
+<p><a href="http://papergardens.files.wordpress.com/2011/04/poland02.jpg"><img class="alignnone size-full wp-image-1082" title="poland02" src="http://papergardens.files.wordpress.com/2011/04/poland02.jpg?w=500&#038;h=362" alt="" width="500" height="362" /></a></p>
+<p>Helene and Katrine, my awesome travel mates!</p>
+<p><a href="http://papergardens.files.wordpress.com/2011/04/poland30.jpg"><img class="alignnone size-full wp-image-1104" title="poland30" src="http://papergardens.files.wordpress.com/2011/04/poland30.jpg?w=500&#038;h=683" alt="" width="500" height="683" /></a></p>
+<p>Krakow main square is a beautiful place with markeds  and surrounded by cafes, always something going on there.</p>
+<p><a href="http://papergardens.files.wordpress.com/2011/04/poland15.jpg"><img class="alignnone size-full wp-image-1093" title="poland15" src="http://papergardens.files.wordpress.com/2011/04/poland15.jpg?w=500&#038;h=371" alt="" width="500" height="371" /></a></p>
+<p>Right now people are preparing for easter and decorations could be bought at every corner.</p>
+<p><a href="http://papergardens.files.wordpress.com/2011/04/poland13.jpg"><img class="alignnone size-full wp-image-1091" title="poland13" src="http://papergardens.files.wordpress.com/2011/04/poland13.jpg?w=500&#038;h=376" alt="" width="500" height="376" /></a></p>
+<p><a href="http://papergardens.files.wordpress.com/2011/04/poland09.jpg"><img class="alignnone size-full wp-image-1089" title="poland09" src="http://papergardens.files.wordpress.com/2011/04/poland09.jpg?w=500&#038;h=355" alt="" width="500" height="355" /></a></p>
+<p>Roses made out of wood!</p>
+<p><a href="http://papergardens.files.wordpress.com/2011/04/poland17.jpg"><img class="alignnone size-full wp-image-1094" title="poland17" src="http://papergardens.files.wordpress.com/2011/04/poland17.jpg?w=500&#038;h=371" alt="" width="500" height="371" /></a></p>
+<p><a href="http://papergardens.files.wordpress.com/2011/04/poland29.jpg"><img class="alignnone size-full wp-image-1103" title="poland29" src="http://papergardens.files.wordpress.com/2011/04/poland29.jpg?w=500&#038;h=375" alt="" width="500" height="375" /></a></p>
+<p><a href="http://papergardens.files.wordpress.com/2011/04/poland03.jpg"><img class="alignnone size-full wp-image-1083" title="poland03" src="http://papergardens.files.wordpress.com/2011/04/poland03.jpg?w=500&#038;h=390" alt="" width="500" height="390" /></a></p>
+<p><a href="http://papergardens.files.wordpress.com/2011/04/poland04.jpg"><img class="alignnone size-full wp-image-1084" title="poland04" src="http://papergardens.files.wordpress.com/2011/04/poland04.jpg?w=448&#038;h=333" alt="" width="448" height="333" /></a></p>
+<p>The ultimate tourist simply must take a horse carriage around the square to get the uniqe opportunity to take pictures of other tourists.</p>
+<p><a href="http://papergardens.files.wordpress.com/2011/04/poland011.jpg"><img class="alignnone size-full wp-image-1081" title="poland01" src="http://papergardens.files.wordpress.com/2011/04/poland011.jpg?w=500&#038;h=375" alt="" width="500" height="375" /></a></p>
+<p><a href="http://papergardens.files.wordpress.com/2011/04/poland28.jpg"><img title="poland28" src="http://papergardens.files.wordpress.com/2011/04/poland28.jpg?w=500&#038;h=371" alt="" width="500" height="371" /></a></p>
+<p>Last minute shopping?</p>
+<p><a href="http://papergardens.files.wordpress.com/2011/04/poland11.jpg"><img class="alignnone size-full wp-image-1090" title="poland11" src="http://papergardens.files.wordpress.com/2011/04/poland11.jpg?w=500&#038;h=375" alt="" width="500" height="375" /></a></p>
+<p>We only had one day of rain, even thought it was supposed to rain every day.</p>
+<p><a href="http://papergardens.files.wordpress.com/2011/04/poland06.jpg"><img class="alignnone size-full wp-image-1086" title="poland06" src="http://papergardens.files.wordpress.com/2011/04/poland06.jpg?w=500&#038;h=353" alt="" width="500" height="353" /></a></p>
+<p>That&#8217;s just so last year.</p>
+<p><a href="http://papergardens.files.wordpress.com/2011/04/poland08.jpg"><img class="alignnone size-full wp-image-1088" title="poland08" src="http://papergardens.files.wordpress.com/2011/04/poland08.jpg?w=500&#038;h=664" alt="" width="500" height="664" /></a></p>
+<p>This on the other hand, could not be more 2011.</p>
+<p><a href="http://papergardens.files.wordpress.com/2011/04/poland33.jpg"><img class="alignnone size-full wp-image-1106" title="poland33" src="http://papergardens.files.wordpress.com/2011/04/poland33.jpg?w=500&#038;h=694" alt="" width="500" height="694" /></a></p>
+<p>Hip-hop stuff, where you can get stuff, that&#8217;s hip-hop..</p>
+<p><a href="http://papergardens.files.wordpress.com/2011/04/poland26.jpg"><img class="alignnone size-full wp-image-1100" title="poland26" src="http://papergardens.files.wordpress.com/2011/04/poland26.jpg?w=400&#038;h=546" alt="" width="400" height="546" /></a></p>
+<p>I wonder where he got his hip-hop stuff from.</p>
+<p><a href="http://papergardens.files.wordpress.com/2011/04/poland14.jpg"><img title="poland14" src="http://papergardens.files.wordpress.com/2011/04/poland14.jpg?w=500&#038;h=830" alt="" width="500" height="830" /></a></p>
+<p><a href="http://papergardens.files.wordpress.com/2011/04/poland35.jpg"><img class="alignnone size-full wp-image-1107" title="poland35" src="http://papergardens.files.wordpress.com/2011/04/poland35.jpg?w=500&#038;h=322" alt="" width="500" height="322" /></a></p>
+<p>Yes, I mess around way too much with photshop.</p>
+<p><img class="alignnone size-full wp-image-1085" title="poland05" src="http://papergardens.files.wordpress.com/2011/04/poland05.jpg?w=500&#038;h=359" alt="" width="500" height="359" /></p>
+<p>Wawel, the castle of Krakow. Just big enough, when you thought you could not take another national treasure, you where out!</p>
+<p><a href="http://papergardens.files.wordpress.com/2011/04/poland07.jpg"><img class="alignnone size-full wp-image-1087" title="poland07" src="http://papergardens.files.wordpress.com/2011/04/poland07.jpg?w=500&#038;h=351" alt="" width="500" height="351" /></a></p>
+<p>Hobbits?</p>
+<p><a href="http://papergardens.files.wordpress.com/2011/04/poland19.jpg"><img class="alignnone size-full wp-image-1095" title="poland19" src="http://papergardens.files.wordpress.com/2011/04/poland19.jpg?w=500&#038;h=659" alt="" width="500" height="659" /></a></p>
+<p><a href="http://papergardens.files.wordpress.com/2011/04/poland22.jpg"><img class="alignnone size-full wp-image-1098" title="poland22" src="http://papergardens.files.wordpress.com/2011/04/poland22.jpg?w=500&#038;h=670" alt="" width="500" height="670" /></a></p>
+<p>The dragon of Krakow, it breathes fire and everything.  Now we know what kind of statue to put up next in Oslo!</p>
+<p><a href="http://papergardens.files.wordpress.com/2011/04/poland32.jpg"><img class="alignnone size-full wp-image-1105" title="poland32" src="http://papergardens.files.wordpress.com/2011/04/poland32.jpg?w=500&#038;h=645" alt="" width="500" height="645" /></a></p>
+<p>A Kodama? oO Until I can get a reasonable explanation of what this is, I&#8217;ll just assume that Princess Monoke is a huge hit in Poland.</p>
+<p><a href="http://papergardens.files.wordpress.com/2011/04/poland21.jpg"><img class="alignnone size-full wp-image-1097" title="poland21" src="http://papergardens.files.wordpress.com/2011/04/poland21.jpg?w=500&#038;h=684" alt="" width="500" height="684" /></a></p>
+<p>Is this what I think it is!? A huge purple bunny? <img src='http://s1.wp.com/wp-includes/images/smilies/icon_eek.gif' alt='8O' class='wp-smiley' /> </p>
+<p><a href="http://papergardens.files.wordpress.com/2011/04/poland20.jpg"><img class="alignnone size-full wp-image-1096" title="poland20" src="http://papergardens.files.wordpress.com/2011/04/poland20.jpg?w=462&#038;h=605" alt="" width="462" height="605" /></a></p>
+<p>It was.</p>
+<p><a href="http://papergardens.files.wordpress.com/2011/04/poland27.jpg"><img class="alignnone size-full wp-image-1101" title="poland27" src="http://papergardens.files.wordpress.com/2011/04/poland27.jpg?w=500&#038;h=375" alt="" width="500" height="375" /></a></p>
+<p><em>Somebody</em> is complaining they got less cream on their cocoa..</p>
+<p><img class="alignnone size-full wp-image-1099" title="poland24b" src="http://papergardens.files.wordpress.com/2011/04/poland24b.jpg?w=500&#038;h=360" alt="" width="500" height="360" /></p>
+<p><a href="http://papergardens.files.wordpress.com/2011/04/poland-019.jpg"><img class="alignnone size-full wp-image-1108" title="poland 019" src="http://papergardens.files.wordpress.com/2011/04/poland-019.jpg?w=451&#038;h=284" alt="" width="451" height="284" /></a></p>
+<p>Things I bought! I&#8217;ve been looking for scarfs back home, but found no one,  but in Krakow they had plenty And I finnaly got a new walllet and new shoes. I love having a job. :3</p>
+<p>So now my feet&#8217;s hurting and my wallet is empty, I had a great time, hoping to go back anytime soon!</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/1080/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/1080/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/1080/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/1080/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/1080/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/1080/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/1080/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/1080/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/1080/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/1080/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/1080/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/1080/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/1080/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/1080/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=1080&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://papergardens.wordpress.com/2011/04/20/krakow/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/82f5a79e19a19b997d18e2c851636c45?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">Benedicte</media:title>
+		</media:content>
+
+		<media:content url="http://papergardens.files.wordpress.com/2011/04/poland02.jpg" medium="image">
+			<media:title type="html">poland02</media:title>
+		</media:content>
+
+		<media:content url="http://papergardens.files.wordpress.com/2011/04/poland30.jpg" medium="image">
+			<media:title type="html">poland30</media:title>
+		</media:content>
+
+		<media:content url="http://papergardens.files.wordpress.com/2011/04/poland15.jpg" medium="image">
+			<media:title type="html">poland15</media:title>
+		</media:content>
+
+		<media:content url="http://papergardens.files.wordpress.com/2011/04/poland13.jpg" medium="image">
+			<media:title type="html">poland13</media:title>
+		</media:content>
+
+		<media:content url="http://papergardens.files.wordpress.com/2011/04/poland09.jpg" medium="image">
+			<media:title type="html">poland09</media:title>
+		</media:content>
+
+		<media:content url="http://papergardens.files.wordpress.com/2011/04/poland17.jpg" medium="image">
+			<media:title type="html">poland17</media:title>
+		</media:content>
+
+		<media:content url="http://papergardens.files.wordpress.com/2011/04/poland29.jpg" medium="image">
+			<media:title type="html">poland29</media:title>
+		</media:content>
+
+		<media:content url="http://papergardens.files.wordpress.com/2011/04/poland03.jpg" medium="image">
+			<media:title type="html">poland03</media:title>
+		</media:content>
+
+		<media:content url="http://papergardens.files.wordpress.com/2011/04/poland04.jpg" medium="image">
+			<media:title type="html">poland04</media:title>
+		</media:content>
+
+		<media:content url="http://papergardens.files.wordpress.com/2011/04/poland011.jpg" medium="image">
+			<media:title type="html">poland01</media:title>
+		</media:content>
+
+		<media:content url="http://papergardens.files.wordpress.com/2011/04/poland28.jpg" medium="image">
+			<media:title type="html">poland28</media:title>
+		</media:content>
+
+		<media:content url="http://papergardens.files.wordpress.com/2011/04/poland11.jpg" medium="image">
+			<media:title type="html">poland11</media:title>
+		</media:content>
+
+		<media:content url="http://papergardens.files.wordpress.com/2011/04/poland06.jpg" medium="image">
+			<media:title type="html">poland06</media:title>
+		</media:content>
+
+		<media:content url="http://papergardens.files.wordpress.com/2011/04/poland08.jpg" medium="image">
+			<media:title type="html">poland08</media:title>
+		</media:content>
+
+		<media:content url="http://papergardens.files.wordpress.com/2011/04/poland33.jpg" medium="image">
+			<media:title type="html">poland33</media:title>
+		</media:content>
+
+		<media:content url="http://papergardens.files.wordpress.com/2011/04/poland26.jpg" medium="image">
+			<media:title type="html">poland26</media:title>
+		</media:content>
+
+		<media:content url="http://papergardens.files.wordpress.com/2011/04/poland14.jpg" medium="image">
+			<media:title type="html">poland14</media:title>
+		</media:content>
+
+		<media:content url="http://papergardens.files.wordpress.com/2011/04/poland35.jpg" medium="image">
+			<media:title type="html">poland35</media:title>
+		</media:content>
+
+		<media:content url="http://papergardens.files.wordpress.com/2011/04/poland05.jpg" medium="image">
+			<media:title type="html">poland05</media:title>
+		</media:content>
+
+		<media:content url="http://papergardens.files.wordpress.com/2011/04/poland07.jpg" medium="image">
+			<media:title type="html">poland07</media:title>
+		</media:content>
+
+		<media:content url="http://papergardens.files.wordpress.com/2011/04/poland19.jpg" medium="image">
+			<media:title type="html">poland19</media:title>
+		</media:content>
+
+		<media:content url="http://papergardens.files.wordpress.com/2011/04/poland22.jpg" medium="image">
+			<media:title type="html">poland22</media:title>
+		</media:content>
+
+		<media:content url="http://papergardens.files.wordpress.com/2011/04/poland32.jpg" medium="image">
+			<media:title type="html">poland32</media:title>
+		</media:content>
+
+		<media:content url="http://papergardens.files.wordpress.com/2011/04/poland21.jpg" medium="image">
+			<media:title type="html">poland21</media:title>
+		</media:content>
+
+		<media:content url="http://papergardens.files.wordpress.com/2011/04/poland20.jpg" medium="image">
+			<media:title type="html">poland20</media:title>
+		</media:content>
+
+		<media:content url="http://papergardens.files.wordpress.com/2011/04/poland27.jpg" medium="image">
+			<media:title type="html">poland27</media:title>
+		</media:content>
+
+		<media:content url="http://papergardens.files.wordpress.com/2011/04/poland24b.jpg" medium="image">
+			<media:title type="html">poland24b</media:title>
+		</media:content>
+
+		<media:content url="http://papergardens.files.wordpress.com/2011/04/poland-019.jpg" medium="image">
+			<media:title type="html">poland 019</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>How Pressure and Stress Are Affecting Your Performance</title>
+		<link>http://peopletriggers.wordpress.com/2011/04/19/how-pressure-and-stress-affect-our-performance/</link>
+		<comments>http://peopletriggers.wordpress.com/2011/04/19/how-pressure-and-stress-affect-our-performance/#comments</comments>
+		<pubDate>Tue, 19 Apr 2011 20:15:26 +0000</pubDate>
+		<dc:creator>peopletriggers</dc:creator>
+				<category><![CDATA[Acting and Performance]]></category>
+		<category><![CDATA[Leadership]]></category>
+		<category><![CDATA[Public Speaking]]></category>
+		<category><![CDATA[Social Psychology]]></category>
+		<category><![CDATA[acting]]></category>
+		<category><![CDATA[Business]]></category>
+		<category><![CDATA[Candle Problem]]></category>
+		<category><![CDATA[Creative problem solving]]></category>
+		<category><![CDATA[culture]]></category>
+		<category><![CDATA[Daniel Pink]]></category>
+		<category><![CDATA[David Brooks]]></category>
+		<category><![CDATA[Health]]></category>
+		<category><![CDATA[linkedin]]></category>
+		<category><![CDATA[malcolm gladwell]]></category>
+		<category><![CDATA[Mark Leary]]></category>
+		<category><![CDATA[motivation]]></category>
+		<category><![CDATA[Performance]]></category>
+		<category><![CDATA[Peter Bregman]]></category>
+		<category><![CDATA[Pressure]]></category>
+		<category><![CDATA[psychology]]></category>
+		<category><![CDATA[Richard Dienstbier]]></category>
+		<category><![CDATA[Stress]]></category>
+		<category><![CDATA[Subconscious]]></category>
+
+		<guid isPermaLink="false">http://peopletriggers.wordpress.com/?p=634</guid>
+		<description><![CDATA[Some years ago, a Princeton psychologist named Sam Glucksberg brought a group of test subjects into a room. In the room was a table positioned against a wall. On the table was a book of matches, a box of thumbtacks, and a candle. &#8220;Your job,&#8221; Glucksberg told his subjects, &#8220;is to attach the candle to [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=634&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+		<wfw:commentRss>http://peopletriggers.wordpress.com/2011/04/19/how-pressure-and-stress-affect-our-performance/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/0e9c620c65633be680b25fc160bc8786?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">peopletriggers</media:title>
+		</media:content>
+
+		<media:content url="http://creativity2-point-0.wikidot.com/local--files/the-candle-problem/CandleProblem.png" medium="image">
+			<media:title type="html">The Candle Problem</media:title>
+		</media:content>
+
+		<media:content url="http://www.zaffnews.com/wp-content/uploads/2011/02/MALCOLM-GLADWELL.jpg" medium="image">
+			<media:title type="html">Malcolm Gladwell</media:title>
+		</media:content>
+
+		<media:content url="http://www.themillercompany.com/Portals/41668/images//DanPink-resized-600.jpg" medium="image">
+			<media:title type="html">Daniel Pink</media:title>
+		</media:content>
+
+		<media:content url="http://blog.simpletruths.com/wp-content/uploads/2010/08/CandleProblemSolution.png" medium="image">
+			<media:title type="html">Candle Problem, Solved</media:title>
+		</media:content>
+
+		<media:content url="http://sitemaker.umich.edu/356.nichols/files/motivation.bmp" medium="image">
+			<media:title type="html">Intrinsic Motivation</media:title>
+		</media:content>
+
+		<media:content url="http://face-and-emotion.com/dataface/emotion/media/brainsect.gif" medium="image">
+			<media:title type="html">Areas of the brain</media:title>
+		</media:content>
+
+		<media:content url="http://128.192.145.172/Images2/adrenaline.gif" medium="image">
+			<media:title type="html">Adrenaline</media:title>
+		</media:content>
+
+		<media:content url="http://www.stress-management-for-peak-performance.com/images/cortisol_and_stress.jpg" medium="image">
+			<media:title type="html">Cortisol and Stress</media:title>
+		</media:content>
+
+		<media:content url="http://johnglanvill.com/wp-content/uploads/2009/09/Mind.jpg" medium="image">
+			<media:title type="html">Let Your Mind Ruminate</media:title>
+		</media:content>
+
+		<media:content url="http://www.n2growth.com/blog/wp-content/uploads/2009/09/1perfectionism.png" medium="image">
+			<media:title type="html">Perfectionism</media:title>
+		</media:content>
+
+		<media:content url="http://s4.hubimg.com/u/3722535_f260.jpg" medium="image">
+			<media:title type="html">Mental Chatter</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>My Daughter, The Writer (I Hope)</title>
+		<link>http://jasonbrooks.wordpress.com/2011/04/22/my-daughter-the-writer-i-hope/</link>
+		<comments>http://jasonbrooks.wordpress.com/2011/04/22/my-daughter-the-writer-i-hope/#comments</comments>
+		<pubDate>Fri, 22 Apr 2011 12:31:20 +0000</pubDate>
+		<dc:creator>Jason</dc:creator>
+				<category><![CDATA[Humor]]></category>
+		<category><![CDATA[Whatever]]></category>
+		<category><![CDATA[Annoyance]]></category>
+		<category><![CDATA[Annoyed]]></category>
+		<category><![CDATA[Children]]></category>
+		<category><![CDATA[Critique]]></category>
+		<category><![CDATA[Daughters]]></category>
+		<category><![CDATA[Disney]]></category>
+		<category><![CDATA[DVDs]]></category>
+		<category><![CDATA[Ella]]></category>
+		<category><![CDATA[Examining]]></category>
+		<category><![CDATA[Family]]></category>
+		<category><![CDATA[Fatherhood]]></category>
+		<category><![CDATA[Funny]]></category>
+		<category><![CDATA[Growing Up]]></category>
+		<category><![CDATA[Insanity]]></category>
+		<category><![CDATA[Kids]]></category>
+		<category><![CDATA[Life]]></category>
+		<category><![CDATA[Mental Health]]></category>
+		<category><![CDATA[Morning Routine]]></category>
+		<category><![CDATA[Motivation]]></category>
+		<category><![CDATA[Movies]]></category>
+		<category><![CDATA[Parenting]]></category>
+		<category><![CDATA[Psychology]]></category>
+		<category><![CDATA[Questions]]></category>
+		<category><![CDATA[Short Story]]></category>
+		<category><![CDATA[Thinking]]></category>
+		<category><![CDATA[TV]]></category>
+		<category><![CDATA[Writers]]></category>
+		<category><![CDATA[Writing]]></category>
+
+		<guid isPermaLink="false">http://jasonbrooks.wordpress.com/?p=875</guid>
+		<description><![CDATA[So we sat down this morning to watch a little TV and Jon immediately starts chirping for &#8220;Kas! Kas! Li-ning! LI-NING!&#8221; I grab the DVD box and slap in &#8220;Cars&#8221; a movie that he&#8217;s become a huge fan of, and one that Ella has seen, literally, at least 75 times. The movie starts and Ella [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=875&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+		<wfw:commentRss>http://jasonbrooks.wordpress.com/2011/04/22/my-daughter-the-writer-i-hope/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/60c4848b60d7894ab59e7fa9bafbd338?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">southerngent</media:title>
+		</media:content>
+
+		<media:content url="http://jasonbrooks.files.wordpress.com/2011/04/cars1.jpg?w=270" medium="image">
+			<media:title type="html">cars1</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Easter Eggs, Bunny and Bunting!</title>
+		<link>http://stitchandpurl.wordpress.com/2011/04/21/easter-eggs-bunny-and-bunting/</link>
+		<comments>http://stitchandpurl.wordpress.com/2011/04/21/easter-eggs-bunny-and-bunting/#comments</comments>
+		<pubDate>Thu, 21 Apr 2011 11:23:19 +0000</pubDate>
+		<dc:creator>stitchandpurl</dc:creator>
+				<category><![CDATA[Crafts]]></category>
+		<category><![CDATA[kids]]></category>
+		<category><![CDATA[Seasons]]></category>
+		<category><![CDATA[Sewing]]></category>
+		<category><![CDATA[baby sock]]></category>
+		<category><![CDATA[bunting]]></category>
+		<category><![CDATA[doodle eggs decoration]]></category>
+		<category><![CDATA[easter bunny]]></category>
+		<category><![CDATA[easter crafts]]></category>
+		<category><![CDATA[easter eggs]]></category>
+		<category><![CDATA[natural dyes]]></category>
+
+		<guid isPermaLink="false">http://stitchandpurl.wordpress.com/?p=1058</guid>
+		<description><![CDATA[Yesterday we started the day with some bunting. Before we even got dressed. Quite normal, isn&#8217;t it? Although not strictly Easter, bunting is a very festive and generally happy decoration for any occasion, I think. I&#8217;ve always found our front window a little boring and have been trying to find something to cheer it up [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=1058&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p><a href="http://stitchandpurl.files.wordpress.com/2011/04/img_8781.jpg"><img class="aligncenter size-full wp-image-1059" title="IMG_8781" src="http://stitchandpurl.files.wordpress.com/2011/04/img_8781.jpg?w=640&#038;h=425" alt="" width="640" height="425" /></a></p>
+<p>Yesterday we started the day with some bunting. Before we even got dressed. Quite normal, isn&#8217;t it? Although not strictly Easter, bunting is a very festive and generally happy decoration for any occasion, I think.<br />
+I&#8217;ve always found our front window a little boring and have been trying to find something to cheer it up with, which at the same time is toddler-proof enough to stay in place for a while. This morning inspiration struck, and I got out all the leftover bits from <a href="http://stitchandpurl.wordpress.com/2010/11/24/new-beginnings/">my first quilt</a>, which were too small to do anything with, but I kept them anyway. Now I know why!</p>
+<p>I enclosed the top edges of the triangles in bias binding and sewed it all together with a quick and easy zig zag stitch. I attached ribbon to the ends of the bunting to be able to tie it in place &#8211; voila. Makes me happy &#8211; and will hopefully make visitors feel welcome too.</p>
+<p><a href="http://stitchandpurl.files.wordpress.com/2011/04/img_8849.jpg"><img class="aligncenter size-full wp-image-1064" title="IMG_8849" src="http://stitchandpurl.files.wordpress.com/2011/04/img_8849.jpg?w=640&#038;h=425" alt="" width="640" height="425" /></a></p>
+<p>Something more Easter-y, that made Kaya happy yesterday was this little bunny. I found a very clever tutorial on crafting these clever bunnies from baby socks <a href="http://www.elsiemarley.com/the-quick-little-bunny-tutorial.html">here</a>. I used a single toddler sock, so the bunny is somewhat taller than a baby sock one. I added a little nose, eyes and a tummy button (bunny essentials). Another little craft project finished before lunch.</p>
+<p>I couldn&#8217;t take any proper photos of the bunny, because he had to accompany Kaya everywhere. He wouldn&#8217;t let bunny out of his sight. They ate, played, and slept togehter. Love at first sight, I&#8217;d say.</p>
+<p>I wish though that Kaya had some more single socks&#8230;&#8230; He might have grown out of some of his socks by tomorrow, what do you think?</p>
+<p><a href="http://stitchandpurl.files.wordpress.com/2011/04/img_8789.jpg"><img class="aligncenter size-full wp-image-1060" title="IMG_8789" src="http://stitchandpurl.files.wordpress.com/2011/04/img_8789.jpg?w=640&#038;h=426" alt="" width="640" height="426" /></a><a href="http://stitchandpurl.files.wordpress.com/2011/04/img_8802.jpg"><img class="aligncenter size-full wp-image-1062" title="IMG_8802" src="http://stitchandpurl.files.wordpress.com/2011/04/img_8802.jpg?w=640&#038;h=426" alt="" width="640" height="426" /></a><a href="http://stitchandpurl.files.wordpress.com/2011/04/img_8818.jpg"><img class="aligncenter size-full wp-image-1063" title="IMG_8818" src="http://stitchandpurl.files.wordpress.com/2011/04/img_8818.jpg?w=640&#038;h=425" alt="" width="640" height="425" /></a></p>
+<p><a href="http://stitchandpurl.files.wordpress.com/2011/04/img_8795.jpg"><img class="aligncenter size-full wp-image-1071" title="IMG_8795" src="http://stitchandpurl.files.wordpress.com/2011/04/img_8795.jpg?w=640&#038;h=426" alt="" width="640" height="426" /></a>Later we finally got round to doing some Easter eggs. I didn&#8217;t want to end up with loads of blown-out egg insides, so I&#8217;ve been blowing out eggs whenever I used them in the kitchen (&#8220;You want scrambled egg? Hang on, let me just blow one out.&#8221;).<br />
+Kaya tried his luck as well.</p>
+<p><a href="http://stitchandpurl.files.wordpress.com/2011/04/img_8864.jpg"><img class="aligncenter size-full wp-image-1065" title="IMG_8864" src="http://stitchandpurl.files.wordpress.com/2011/04/img_8864.jpg?w=640&#038;h=425" alt="" width="640" height="425" /></a><a href="http://stitchandpurl.files.wordpress.com/2011/04/img_8853.jpg"><img class="aligncenter size-full wp-image-1066" title="IMG_8853" src="http://stitchandpurl.files.wordpress.com/2011/04/img_8853.jpg?w=640&#038;h=426" alt="" width="640" height="426" /></a>The idea from doodling on the egg comes from <a href="http://alisaburke.blogspot.com/2011/04/doodle-easter-eggs.html">this tutorial</a>. For the other one I tried onion skin for the first time. In the past I&#8217;ve always used shop bought natural dyes, but this year I wanted to try doing it myself. I found some good tips <a href="http://www.motherearthnews.com/Do-It-Yourself/How-To-Color-Easter-Eggs-Natural-Dyes.aspx?page=2">here</a> and <a href="http://rhythmofthehome.com/archives/spring-2010/coloring-eggs-naturally/">here</a>.</p>
+<p>I used red onion skins for two eggs, one turned out amazing (see above), the other one didn&#8217;t look much different than before. Encouraged, I tried another badge with similar results. I&#8217;d wrapped onion skins around the blown out eggs and secured them with rubber bands the first time round, but the second time they wouldn&#8217;t stay on, so I sacrificed my only pair of nylon stockings.<br />
+Anyway, afterwards I realized I&#8217;d forgotten to add vinegar. Both times. I&#8217;m not sure what that means for my eggs, but I hope the good ones will stay nice and the not-so-exciting ones will get a second chance tomorrow with beetroots <em>and</em> vinegar!</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/1058/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/1058/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/1058/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/1058/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/1058/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/1058/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/1058/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/1058/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/1058/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/1058/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/1058/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/1058/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/1058/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/1058/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=1058&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://stitchandpurl.wordpress.com/2011/04/21/easter-eggs-bunny-and-bunting/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/63d5581170fd9671aa31fdb1aa506c8e?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">stitchandpurl</media:title>
+		</media:content>
+
+		<media:content url="http://stitchandpurl.files.wordpress.com/2011/04/img_8781.jpg" medium="image">
+			<media:title type="html">IMG_8781</media:title>
+		</media:content>
+
+		<media:content url="http://stitchandpurl.files.wordpress.com/2011/04/img_8849.jpg" medium="image">
+			<media:title type="html">IMG_8849</media:title>
+		</media:content>
+
+		<media:content url="http://stitchandpurl.files.wordpress.com/2011/04/img_8789.jpg" medium="image">
+			<media:title type="html">IMG_8789</media:title>
+		</media:content>
+
+		<media:content url="http://stitchandpurl.files.wordpress.com/2011/04/img_8802.jpg" medium="image">
+			<media:title type="html">IMG_8802</media:title>
+		</media:content>
+
+		<media:content url="http://stitchandpurl.files.wordpress.com/2011/04/img_8818.jpg" medium="image">
+			<media:title type="html">IMG_8818</media:title>
+		</media:content>
+
+		<media:content url="http://stitchandpurl.files.wordpress.com/2011/04/img_8795.jpg" medium="image">
+			<media:title type="html">IMG_8795</media:title>
+		</media:content>
+
+		<media:content url="http://stitchandpurl.files.wordpress.com/2011/04/img_8864.jpg" medium="image">
+			<media:title type="html">IMG_8864</media:title>
+		</media:content>
+
+		<media:content url="http://stitchandpurl.files.wordpress.com/2011/04/img_8853.jpg" medium="image">
+			<media:title type="html">IMG_8853</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Celebrate Earth Day</title>
+		<link>http://paintcreektn.wordpress.com/2011/04/22/celebrate-earth-day/</link>
+		<comments>http://paintcreektn.wordpress.com/2011/04/22/celebrate-earth-day/#comments</comments>
+		<pubDate>Fri, 22 Apr 2011 12:15:34 +0000</pubDate>
+		<dc:creator>Kay LittleJohn</dc:creator>
+				<category><![CDATA[Living]]></category>
+		<category><![CDATA[Plants]]></category>
+		<category><![CDATA[Earth Day]]></category>
+		<category><![CDATA[Earth Day Flag]]></category>
+		<category><![CDATA[Picnic for the Planet]]></category>
+
+		<guid isPermaLink="false">https://paintcreektn.wordpress.com/2011/04/22/celebrate-earth-day/</guid>
+		<description><![CDATA[Today is April 22.&#160; A day chosen to celebrate the earth worldwide – Earth Day.&#160; Earth Day was founded in 1970, as a way to promote love and respect for the planet and help to bring awareness to environmental issues that we humans are creating.&#160; Wow, I didn’t realize that Earth Day was founded in [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=292&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p>Today is April 22.&#160; A day chosen to celebrate the earth worldwide – Earth Day.&#160; Earth Day was founded in 1970, as a way to promote love and respect for the planet and help to bring awareness to environmental issues that we humans are creating.&#160; </p>
+<p>Wow, I didn’t realize that Earth Day was founded in 1970, until I did some research recently.&#160; I think today is a good day to reflect on our environmental progress as a nation and as individuals.&#160; </p>
+<p>I know I do many things different in my life today, than I did in the 70’s, 80’s, and even the 90’s.&#160; I’m certainly living more green.&#160; I try to reduce the amount of waste I generate, reuse what I can, recycle, I don’t use chemicals on our property, I have quit using most of the harshes chemicals in my house for cleaning, I use my own bags at the grocery store – most of the time these days, and we have our own chickens for eggs and meat.&#160; </p>
+<p>I’m glad my habits have changed in ways that are better for the planet and the next generations that follow me – us.&#160; But I’m still not doing enough, but I’m doing the best I can for now.&#160; </p>
+<p>I don’t want to get on a soap box.&#160; I just want to bring some awareness to Earth Day, and invite you to think about Earth Day and invite you to participate in Earth Day.&#160; There are lots of enjoyable things you can do for Earth Day.&#160; Even it is as simple as taking a walk with family and/or friends today and appreciating the beauty and splendor of life.&#160; This would we a great beginning and enjoyable way to spend the day.&#160; </p>
+<p>In fact, there is a whole movement (<a href="http://earthday.nature.org/picnic/" target="_blank">Picnic for the Planet</a>) out there that is promoting Picnics on Earth Day.&#160; People are having small to very large picnics everywhere.&#160; What a great idea.&#160; To learn more about this movement, check out <a href="http://earthday.nature.org/picnic/" target="_blank">Picnic for the Planet</a>.&#160; </p>
+<p>Another interesting group out there is <a href="http://www.earthday.org/earth-day-2011" target="_blank">The Earth Day Network</a>.&#160; They are promoting A Billion Acts of Green.&#160; Awesome!&#160; There is lots of information on their web site.&#160; I just found this link this morning, and it looks really interesting.&#160; They have a link to a group called the “Women and the Green Economy” (WAGE™), which looks interesting, but I don’t know much about it.&#160; </p>
+<p><a href="http://www.earthday.org/earth-day-2011" target="_blank">The Earth Day Network</a> has lots of links to various projects and groups.&#160; If you are interested in learning more about the Earth Day and living more Green, I think you may find something on this web that will interest you.&#160; </p>
+<p>There is even an Earth Day flag.&#160; The first Earth Day flag was made from recycled items.&#160; Here is a picture of the Earth Day flag:</p>
+<p><a href="http://paintcreektn.files.wordpress.com/2011/04/flag.png"><img style="background-image:none;padding-left:0;padding-right:0;display:block;float:none;padding-top:0;border-width:0;margin:0 auto;" title="Flag" border="0" alt="Flag" src="http://paintcreektn.files.wordpress.com/2011/04/flag_thumb.png?w=232&#038;h=244" width="232" height="244" /></a></p>
+<p>I like that this flag promotes the awareness and well being of the Earth, since the Earth is our home and vital to all life here.&#160; It is a universal symbol for all of us.&#160; </p>
+<p>The Earth Day Flay represents something that we all have in common and we all have an invested interested in – Our Planet, and it doesn’t matter who we, where we come from, what religion we follow, how rich or how poor we are, we can all come together on this issue of ensuring the health of this planet for ourselves and all the generations to come.&#160; We can think of the Earth Day Flag as The Flag of the People.&#160; </p>
+<p>If you chose to do something today or this weekend in recognition of Earth Day, consider posting what you chose to do.&#160; It is amazing the creative ways that people&#160; come up with to celebrate Earth Day.&#160; </p>
+<p>Enjoy!</p>
+<h3>Related Links</h3>
+<ul>
+<li><a href="http://earthday.nature.org/picnic/" target="_blank">Picnic for the Planet</a> </li>
+<li><a href="http://www.timeanddate.com/holidays/world/earth-day" target="_blank">A little Earth Day History</a> </li>
+<li><a href="http://www.earthday.org/earth-day-2011" target="_blank">The Earth Day Network</a> </li>
+<li><a href="http://www.earthsite.org/flag.htm" target="_blank">About the Earth Day Flag</a> </li>
+<li><a href="http://www.earthflag.net/product2.htm" target="_blank">Purchase your Earth Day Flag</a> </li>
+<li><a href="http://backtoearthproducts.net" target="_blank">Back To Earth Products</a> – Soaps, Creams, Lip Balms </li>
+</ul>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/292/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/292/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/292/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/292/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/292/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/292/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/292/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/292/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/292/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/292/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/292/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/292/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/292/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/292/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=292&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://paintcreektn.wordpress.com/2011/04/22/celebrate-earth-day/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+	
+		<media:content url="http://1.gravatar.com/avatar/b3c3a1462e0c5980a0fc20bcffde09b6?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">amalittlejohn</media:title>
+		</media:content>
+
+		<media:content url="http://paintcreektn.files.wordpress.com/2011/04/flag_thumb.png" medium="image">
+			<media:title type="html">Flag</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>baked oatmeal</title>
+		<link>http://janaemonir.wordpress.com/2011/04/14/baked-oatmeal/</link>
+		<comments>http://janaemonir.wordpress.com/2011/04/14/baked-oatmeal/#comments</comments>
+		<pubDate>Fri, 15 Apr 2011 04:58:50 +0000</pubDate>
+		<dc:creator>Janae</dc:creator>
+				<category><![CDATA[Breakfast]]></category>
+		<category><![CDATA[blueberries]]></category>
+		<category><![CDATA[Heidi Swanson]]></category>
+		<category><![CDATA[oatmeal]]></category>
+		<category><![CDATA[Super Natural Everyday]]></category>
+
+		<guid isPermaLink="false">http://janaemonir.wordpress.com/?p=8088</guid>
+		<description><![CDATA[If you are at all into food blogs or cookbooks, then you know that practically the entire universe &#8211; or at least the food universe, anyway &#8211; is on fire with Heidi Swanson&#8217;s new cookbook, Super Natural Everyday, though not without good reason.  I&#8217;ve never tried a recipe of hers I didn&#8217;t like, and I [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=8088&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+		<wfw:commentRss>http://janaemonir.wordpress.com/2011/04/14/baked-oatmeal/feed/</wfw:commentRss>
+		<slash:comments>14</slash:comments>
+	
+		<media:content url="http://1.gravatar.com/avatar/fc453f27170eb14366a9103cb4875af3?s=96&#38;d=identicon&#38;r=PG" medium="image">
+			<media:title type="html">janaemonir</media:title>
+		</media:content>
+
+		<media:content url="http://janaemonir.files.wordpress.com/2011/04/img_1751_picnik.jpg?w=535" medium="image">
+			<media:title type="html">help yourself</media:title>
+		</media:content>
+
+		<media:content url="http://janaemonir.files.wordpress.com/2011/04/img_1723_picnik.jpg?w=535" medium="image">
+			<media:title type="html">bananas &#38; blueberries</media:title>
+		</media:content>
+
+		<media:content url="http://janaemonir.files.wordpress.com/2011/04/img_1728.jpg?w=535" medium="image">
+			<media:title type="html">adding the egg &#38; milk mixture</media:title>
+		</media:content>
+
+		<media:content url="http://janaemonir.files.wordpress.com/2011/04/img_1733_picnik.jpg?w=535" medium="image">
+			<media:title type="html">ready for the oven</media:title>
+		</media:content>
+
+		<media:content url="http://janaemonir.files.wordpress.com/2011/04/img_1743.jpg?w=535" medium="image">
+			<media:title type="html">freshly baked</media:title>
+		</media:content>
+
+		<media:content url="http://janaemonir.files.wordpress.com/2011/04/img_1779.jpg?w=535" medium="image">
+			<media:title type="html">breakfast</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>

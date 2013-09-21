@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>FreshlyPressed</title>
+	<atom:link href="http://freshlypressed.wordpress.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://freshlypressed.wordpress.com</link>
+	<description>Just another Wordpress.com weblog</description>
+	<lastBuildDate>Mon, 26 Sep 2011 20:33:38 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='freshlypressed.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>http://s2.wp.com/i/buttonw-com.png</url>
+		<title>FreshlyPressed</title>
+		<link>http://freshlypressed.wordpress.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="http://freshlypressed.wordpress.com/osd.xml" title="FreshlyPressed" />
+	<atom:link rel='hub' href='http://freshlypressed.wordpress.com/?pushpress=hub'/>
+		<item>
+		<title>Did Netflix screw up?  I don&#8217;t think so.</title>
+		<link>http://marcrandolph.com/2011/09/26/did-netflix-screw-up-i-dont-think-so/</link>
+		<comments>http://marcrandolph.com/2011/09/26/did-netflix-screw-up-i-dont-think-so/#comments</comments>
+		<pubDate>Mon, 26 Sep 2011 11:23:00 +0000</pubDate>
+		<dc:creator>Marc Randolph</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://marcrandolph.com/?p=518</guid>
+		<description><![CDATA[Netflix CEO Reed Hastings announced last week that the company would be splitting off their DVD rental service into a new business to be called Qwikster.  Last time I checked their blog post on the subject, there were 27,183 comments.  Approximately 27,181 of them were negative. Wall Street didn’t approve of the move either, and the [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=518&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p><a href="http://hahtz.files.wordpress.com/2011/09/popcorn2.jpg"><img class="aligncenter size-full wp-image-535" title="popcorn2" src="http://hahtz.files.wordpress.com/2011/09/popcorn2.jpg?w=533&#038;h=300" alt="" width="533" height="300" /></a></p>
+<p>Netflix CEO Reed Hastings announced last week that the company would be splitting off their DVD rental service into a new business to be called Qwikster.  Last time I checked their <a title="Netflix Blog Post" href="http://blog.netflix.com/2011/09/explanation-and-some-reflections.html?lnktrk=EMP&amp;g=546595A982031507C9D6332ED347D42A0AC0315E&amp;lkid=netflixBlog" target="_blank">blog post on the subject</a>, there were 27,183 comments.  Approximately 27,181 of them were negative.</p>
+<p>Wall Street didn’t approve of the move either, and the stock is now trading at less than half the price it was two months ago.</p>
+<p>Even my own friends are sending me puzzled notes, wondering if the “wheels are coming off the cart”.</p>
+<p>What can I say?  They are all wrong.</p>
+<p>Not only am I completely in support of what Netflix is doing, but I think it is one of the smartest, most disciplined and bravest moves I’ve ever seen.</p>
+<p>Just to be clear, I haven’t worked for Netflix for years.   So I have no inside knowledge of what specifically led to this particular decision, I haven’t talked to anyone there about it.  Everything I know about it I picked up from the same sources you did.</p>
+<p>Nonetheless, I understand what they did and why they did it as completely and thoroughly as if I had been sitting around the conference table myself.</p>
+<p>Plain and simple, this move was all about focus.  Relentless focus.  A focus that has been deeply embedded in the Netflix DNA since day one</p>
+<p>Here’s an example of what I mean.</p>
+<p>When Reed and I launched Netflix in 1998, it was a very different company from the one you know today.   The Queue, Unlimited Rentals, and the No-Due-Dates-No-Late-Fees model were still more than a year away.  Our rentals were standard  a-la-carte rentals.  They had due dates.  We charged late fees.</p>
+<p>Oh . . . we also <em>sold</em> DVDs.</p>
+<p>In fact, much to our great concern we sold a lot of DVDs.  Bucket loads.  So many, that by the end of our first summer, I would guess that 95% of our revenues were coming from the sales of DVDs.  Although this did pay some bills, it was obvious to us that this was not a sustainable business.  It was inevitable that at some point in the near future we would have Amazon entering the DVD business.  And then Walmart.  And then just about every mass market retailer in the country.  All of which would have crushed our margins and slowly but surely driven us out of business.</p>
+<p>Not only that, but even while the going was good, it was hard not to let the tail wag the dog.  Despite knowing that the <em>true</em> future of the company was rental, it was hard not to spend time focusing on the area of the business where most of the money was coming from.</p>
+<p>Most importantly, by trying to run a business that did <span style="text-decoration:underline;">two things</span> well, we inevitably were forced to make an endless series of compromises that resulted in us doing neither of them well.  Our landing page and sign up flow had to accommodate two different paths.  Our checkout process needed to handle two types of transactions.  Our shipping process had to accommodate two different types of products (one that had to come back and one that didn’t).  Our content system had to accommodate titles we could only rent, ones we could only sell, and ones where we could do both.</p>
+<p>In hindsight, it seems like such an obvious decision to stop selling and focus on renting.  But wow – for a young CEO like myself &#8212; turning away from the source of 95% of our revenue was just about the hardest thing I had ever done.</p>
+<p>Needless to say, it worked.  Not only did walking away from 95% of our revenue have a way of focusing the mind on the remainder of our business, but the benefits began showing up everywhere – even in places we never suspected.</p>
+<p>By freeing our designers from having to create a sign-up flow that accommodated two types of business, we were able to cut out steps, clarify instructions and simplify the process.  Conversion went up.</p>
+<p>By spotlighting a narrower benefit, we were able to clarify our positioning, resulting in more effective external marketing. Our acquisition costs went down.</p>
+<p>By focusing on a narrower set of problems, it made engineering much more productive.  It made QA testing simpler.  It made metrics more intuitive.  And it paved the way for us to implement a process of rapid iteration and testing that ultimately uncovered the big innovations that ultimately led to the Queue, Unlimited Rentals, and No-Due-Dates-No-Late-Fees.</p>
+<p>The success emboldened us and we gained confidence in this approach, each time finding that narrowing our focus expanded our opportunities. I could probably come up with 150 examples, with each new success giving us renewed confidence in the benefits of folding  partially successful hands in order to double down on more promising ones.</p>
+<p>At every product meeting, in addition to figuring out <em>what</em> to do, we made sure to devote time toward deciding what <em>not</em> to do.  We referred to it as “scraping the barnacles”, and, like boat owners, found that if we had the discipline to regularly remove all the small things that inevitably accreted to our hull over time, it would have a noticeable effect on how fast we could move through the water.</p>
+<p>I suppose it’s only fair to mention at this point, that not everyone liked our decisions to get rid of these “barnacles”.  For example, since early on nearly 3/4s of our customers were buying DVDs from us, it probably is safe to say that they were none-to happy that we stopped selling them.  Ditto for the customers who loved renting a-la-carte only to see us drop it and focus on the all-you-can-eat program.  While I’m at it, I’ll throw in an apology to the tens of thousands of other early Netflix customers who were part of price programs, feature tests, and other business experiments that we ultimately decided to discontinue.  I’m truly sorry about all of it.  But hard as each decision was in the short-term, I never questioned whether it was the right thing to do for the long-term success of the company.</p>
+<p>So even though I haven’t been at Netflix in a long time, I can easily imagine the growing frustration they must have felt these last few years as they made decisions they knew were suboptimal for the streaming business in order to maintain compatibility with the DVD business.  How to work out pricing that covers multiple use cases.  How to come up with messaging that embraces two different ways to receive movies.  How to manage the significant differences in the content available between the two services.  How to simplify the landing page and sign up flow.</p>
+<p>Well no longer.  Not having to worry about compatibility between the services makes it infinitely easier to optimize every decision around the real prize, which is clearly streaming.  Pricing.  Messaging.  Content.  Sign-up-flow.  All better now.</p>
+<p>Are customers upset?  Undoubtedly.  And I’ll be the 27,184<sup>th</sup> to say that the communications surrounding both the price increases and the Qwixter launch were ham-handed, tone-deaf, and have unquestionably damaged the brand.  But should fear of either of these things have prevented Netflix from taking this step and ensuring that their streaming service has every possible advantage going forward? Absolutely not.</p>
+<p>In his blog post, Reed apologized for not communicating well, not for having made the wrong decision.  I agree with him on both counts.</p>
+<p>But what is truly mindblowing, is that when I was CEO trying to screw up my nerve to walk away from selling DVDs, I risked alienating tens of <em>thousands</em> of  customers.   Reed is showing that he has courage and conviction to do the right thing despite having tens of <em>millions</em> of them.</p>
+<p>This is why this guy is the best entrepreneur on the planet.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/518/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/518/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/518/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/518/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/518/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/518/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/518/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/518/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/518/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/518/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/518/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/518/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/518/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/518/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=518&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://marcrandolph.com/2011/09/26/did-netflix-screw-up-i-dont-think-so/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	
+		<media:content url="http://1.gravatar.com/avatar/5ab90c21f4bfc16ac08037e28d80024e?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">mbrandolph</media:title>
+		</media:content>
+
+		<media:content url="http://hahtz.files.wordpress.com/2011/09/popcorn2.jpg" medium="image">
+			<media:title type="html">popcorn2</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>THE ORIGINAL NAIROBI SIGHTSEEING TOUR&#8230;&#8230;&#8230;&#8230;.DISCOUNTED TICKETS</title>
+		<link>http://paolonovelli.wordpress.com/2011/08/18/902/</link>
+		<comments>http://paolonovelli.wordpress.com/2011/08/18/902/#comments</comments>
+		<pubDate>Thu, 18 Aug 2011 22:24:06 +0000</pubDate>
+		<dc:creator>paolo novelli</dc:creator>
+				<category><![CDATA[NAIROBI]]></category>
+		<category><![CDATA[PHOTOGRAPHY]]></category>
+
+		<guid isPermaLink="false">http://paolonovelli.wordpress.com/?p=902</guid>
+		<description><![CDATA[Nairobi is cold, polluted, unjust and over congested&#8230;but I love it. Yes, I love Nairobi. There&#8217;s nothing more urban and at the same time nothing wilder. Let me show you around through some random pictures that I&#8217;ve taken in the last couple of years. ©P9 Paolo Novelli &#8211; All rights reserved ©P9 Paolo Novelli &#8211; All rights [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=902&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p>Nairobi is cold, polluted, unjust and over congested&#8230;but I love it. Yes, I love Nairobi. There&#8217;s nothing more urban and at the same time nothing wilder. Let me show you around through some random pictures that I&#8217;ve taken in the last couple of years.</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-11.jpg"><img class="aligncenter size-full wp-image-1240" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-11.jpg?w=1024&#038;h=475" alt="" width="1024" height="475" /></a></p>
+<p>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-2.jpg"><img class="aligncenter size-full wp-image-1241" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-2.jpg?w=1024&#038;h=675" alt="" width="1024" height="675" /></a></p>
+<p>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-3.jpg"><img class="aligncenter size-full wp-image-1242" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-3.jpg?w=1024&#038;h=674" alt="" width="1024" height="674" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-4.jpg"><img class="aligncenter size-full wp-image-1243" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-4.jpg?w=1024&#038;h=675" alt="" width="1024" height="675" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-5.jpg"><img class="aligncenter size-full wp-image-1245" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-5.jpg?w=1024&#038;h=675" alt="" width="1024" height="675" /></a></p>
+<p>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-6.jpg"><img class="aligncenter size-full wp-image-1246" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-6.jpg?w=791&#038;h=1024" alt="" width="791" height="1024" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-7.jpg"><img class="aligncenter size-full wp-image-1247" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-7.jpg?w=1024&#038;h=764" alt="" width="1024" height="764" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-8.jpg"><img class="aligncenter size-full wp-image-1248" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-8.jpg?w=683&#038;h=1024" alt="" width="683" height="1024" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-9.jpg"><img class="aligncenter size-full wp-image-1249" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-9.jpg?w=1024&#038;h=674" alt="" width="1024" height="674" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-10.jpg"><img class="aligncenter size-full wp-image-1250" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-10.jpg?w=1024&#038;h=1022" alt="" width="1024" height="1022" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-111.jpg"><img class="aligncenter size-full wp-image-1251" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-111.jpg?w=1024&#038;h=475" alt="" width="1024" height="475" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-12.jpg"><img class="aligncenter size-full wp-image-1252" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-12.jpg?w=1024&#038;h=791" alt="" width="1024" height="791" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-13.jpg"><img class="aligncenter size-full wp-image-1253" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-13.jpg?w=1024&#038;h=1022" alt="" width="1024" height="1022" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-14.jpg"><img class="aligncenter size-full wp-image-1254" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-14.jpg?w=764&#038;h=1024" alt="" width="764" height="1024" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-15.jpg"><img class="aligncenter size-full wp-image-1255" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-15.jpg?w=1024&#038;h=1022" alt="" width="1024" height="1022" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-16.jpg"><img class="aligncenter size-full wp-image-1256" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-16.jpg?w=1024&#038;h=1022" alt="" width="1024" height="1022" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-17.jpg"><img class="aligncenter size-full wp-image-1257" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-17.jpg?w=1024&#038;h=674" alt="" width="1024" height="674" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-18.jpg"><img class="aligncenter size-full wp-image-1258" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-18.jpg?w=1024&#038;h=674" alt="" width="1024" height="674" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-19.jpg"><img class="aligncenter size-full wp-image-1259" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-19.jpg?w=1024&#038;h=674" alt="" width="1024" height="674" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-20.jpg"><img class="aligncenter size-full wp-image-1260" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-20.jpg?w=674&#038;h=1024" alt="" width="674" height="1024" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-21.jpg"><img class="aligncenter size-full wp-image-1261" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-21.jpg?w=674&#038;h=1024" alt="" width="674" height="1024" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-22.jpg"><img class="aligncenter size-full wp-image-1262" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-22.jpg?w=1024&#038;h=674" alt="" width="1024" height="674" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-23.jpg"><img class="aligncenter size-full wp-image-1263" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-23.jpg?w=1024&#038;h=674" alt="" width="1024" height="674" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-24.jpg"><img class="aligncenter size-full wp-image-1264" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-24.jpg?w=1024&#038;h=674" alt="" width="1024" height="674" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-25.jpg"><img class="aligncenter size-full wp-image-1265" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-25.jpg?w=1024&#038;h=674" alt="" width="1024" height="674" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-26.jpg"><img class="aligncenter size-full wp-image-1266" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-26.jpg?w=1024&#038;h=674" alt="" width="1024" height="674" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-27.jpg"><img class="aligncenter size-full wp-image-1267" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-27.jpg?w=1024&#038;h=791" alt="" width="1024" height="791" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-28b.jpg"><img class="aligncenter size-full wp-image-1268" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-28b.jpg?w=1024&#038;h=791" alt="" width="1024" height="791" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-29.jpg"><img class="aligncenter size-full wp-image-1269" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-29.jpg?w=674&#038;h=1024" alt="" width="674" height="1024" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-30.jpg"><img class="aligncenter size-full wp-image-1270" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-30.jpg?w=764&#038;h=1024" alt="" width="764" height="1024" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-31.jpg"><img class="aligncenter size-full wp-image-1271" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-31.jpg?w=1024&#038;h=674" alt="" width="1024" height="674" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-32.jpg"><img class="aligncenter size-full wp-image-1272" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-32.jpg?w=674&#038;h=1024" alt="" width="674" height="1024" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-33.jpg"><img class="aligncenter size-full wp-image-1273" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-33.jpg?w=1024&#038;h=475" alt="" width="1024" height="475" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-34.jpg"><img class="aligncenter size-full wp-image-1274" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-34.jpg?w=1024&#038;h=764" alt="" width="1024" height="764" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-35.jpg"><img class="aligncenter size-full wp-image-1275" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-35.jpg?w=1024&#038;h=674" alt="" width="1024" height="674" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-36.jpg"><img class="aligncenter size-full wp-image-1276" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-36.jpg?w=675&#038;h=1024" alt="" width="675" height="1024" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-37.jpg"><img class="aligncenter size-full wp-image-1277" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-37.jpg?w=675&#038;h=1024" alt="" width="675" height="1024" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-38.jpg"><img class="aligncenter size-full wp-image-1278" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-38.jpg?w=1024&#038;h=675" alt="" width="1024" height="675" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-40.jpg"><img class="aligncenter size-full wp-image-1279" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-40.jpg?w=1024&#038;h=675" alt="" width="1024" height="675" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-39.jpg"><img class="aligncenter size-full wp-image-1280" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-39.jpg?w=1024&#038;h=675" alt="" width="1024" height="675" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-41.jpg"><img class="aligncenter size-full wp-image-1281" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-41.jpg?w=1024&#038;h=675" alt="" width="1024" height="675" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-42.jpg"><img class="aligncenter size-full wp-image-1282" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-42.jpg?w=1024&#038;h=764" alt="" width="1024" height="764" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/0000738-0009.jpg"><img class="aligncenter size-full wp-image-1283" title="" src="http://paolonovelli.files.wordpress.com/2011/08/0000738-0009.jpg?w=1024&#038;h=1022" alt="" width="1024" height="1022" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-43.jpg"><img class="aligncenter size-full wp-image-1284" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-43.jpg?w=1024&#038;h=790" alt="" width="1024" height="790" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-44.jpg"><img class="aligncenter size-full wp-image-1285" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-44.jpg?w=1024&#038;h=791" alt="" width="1024" height="791" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-45.jpg"><img class="aligncenter size-full wp-image-1286" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-45.jpg?w=788&#038;h=1024" alt="" width="788" height="1024" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-46.jpg"><img class="aligncenter size-full wp-image-1287" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-46.jpg?w=1024&#038;h=683" alt="" width="1024" height="683" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/0000738-0007.jpg"><img class="aligncenter size-full wp-image-1288" title="" src="http://paolonovelli.files.wordpress.com/2011/08/0000738-0007.jpg?w=1024&#038;h=1022" alt="" width="1024" height="1022" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-48.jpg"><img class="aligncenter size-full wp-image-1289" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-48.jpg?w=1024&#038;h=792" alt="" width="1024" height="792" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-49.jpg"><img class="aligncenter size-full wp-image-1290" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-49.jpg?w=1024&#038;h=683" alt="" width="1024" height="683" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-50.jpg"><img class="aligncenter size-full wp-image-1291" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-50.jpg?w=1024&#038;h=790" alt="" width="1024" height="790" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-51.jpg"><img class="aligncenter size-full wp-image-1292" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-51.jpg?w=1024&#038;h=683" alt="" width="1024" height="683" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-52.jpg"><img class="aligncenter size-full wp-image-1293" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-52.jpg?w=1024&#038;h=683" alt="" width="1024" height="683" /></a></p>
+<p>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-53.jpg"><img class="aligncenter size-full wp-image-1294" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-53.jpg?w=1024&#038;h=682" alt="" width="1024" height="682" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-54.jpg"><img class="aligncenter size-full wp-image-1295" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-54.jpg?w=1024&#038;h=683" alt="" width="1024" height="683" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-63.jpg"><img class="aligncenter size-full wp-image-1297" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-63.jpg?w=1024&#038;h=674" alt="" width="1024" height="674" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-55.jpg"><img class="aligncenter size-full wp-image-1298" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-55.jpg?w=683&#038;h=1024" alt="" width="683" height="1024" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-56.jpg"><img class="aligncenter size-full wp-image-1299" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-56.jpg?w=683&#038;h=1024" alt="" width="683" height="1024" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-57.jpg"><img class="aligncenter size-full wp-image-1300" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-57.jpg?w=1024&#038;h=792" alt="" width="1024" height="792" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-58.jpg"><img class="aligncenter size-full wp-image-1301" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-58.jpg?w=1024&#038;h=683" alt="" width="1024" height="683" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-59.jpg"><img class="aligncenter size-full wp-image-1302" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-59.jpg?w=683&#038;h=1024" alt="" width="683" height="1024" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-60.jpg"><img class="aligncenter size-full wp-image-1303" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-60.jpg?w=683&#038;h=1024" alt="" width="683" height="1024" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-61.jpg"><img class="aligncenter size-full wp-image-1304" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-61.jpg?w=1024&#038;h=682" alt="" width="1024" height="682" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-62.jpg"><img class="aligncenter size-full wp-image-1305" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-62.jpg?w=683&#038;h=1024" alt="" width="683" height="1024" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-64.jpg"><img class="aligncenter size-full wp-image-1306" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-64.jpg?w=1024&#038;h=675" alt="" width="1024" height="675" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-66.jpg"><img class="aligncenter size-full wp-image-1307" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-66.jpg?w=1024&#038;h=675" alt="" width="1024" height="675" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-67.jpg"><img class="aligncenter size-full wp-image-1308" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-67.jpg?w=1024&#038;h=791" alt="" width="1024" height="791" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-68.jpg"><img class="aligncenter size-full wp-image-1309" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-68.jpg?w=683&#038;h=1024" alt="" width="683" height="1024" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-69.jpg"><img class="aligncenter size-full wp-image-1310" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-69.jpg?w=1024&#038;h=674" alt="" width="1024" height="674" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-71.jpg"><img class="aligncenter size-full wp-image-1311" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-71.jpg?w=683&#038;h=1024" alt="" width="683" height="1024" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-72.jpg"><img class="aligncenter size-full wp-image-1312" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-72.jpg?w=1024&#038;h=683" alt="" width="1024" height="683" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-73.jpg"><img class="aligncenter size-full wp-image-1313" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-73.jpg?w=683&#038;h=1024" alt="" width="683" height="1024" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-74.jpg"><img class="aligncenter size-full wp-image-1314" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-74.jpg?w=683&#038;h=1024" alt="" width="683" height="1024" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<p><a href="http://paolonovelli.files.wordpress.com/2011/08/nbo-76.jpg"><img class="aligncenter size-full wp-image-1315" title="" src="http://paolonovelli.files.wordpress.com/2011/08/nbo-76.jpg?w=1024&#038;h=674" alt="" width="1024" height="674" /></a>©P9 Paolo Novelli &#8211; All rights reserved</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/902/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/902/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/902/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/902/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/902/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/902/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/902/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/902/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/902/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/902/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/902/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/902/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/902/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/902/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=902&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://paolonovelli.wordpress.com/2011/08/18/902/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/a1a009b905bd12153465149c3ec3da07?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">p9</media:title>
+		</media:content>
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-11.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-2.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-3.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-4.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-5.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-6.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-7.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-8.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-9.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-10.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-111.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-12.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-13.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-14.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-15.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-16.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-17.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-18.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-19.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-20.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-21.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-22.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-23.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-24.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-25.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-26.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-27.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-28b.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-29.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-30.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-31.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-32.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-33.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-34.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-35.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-36.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-37.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-38.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-40.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-39.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-41.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-42.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/0000738-0009.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-43.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-44.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-45.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-46.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/0000738-0007.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-48.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-49.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-50.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-51.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-52.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-53.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-54.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-63.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-55.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-56.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-57.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-58.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-59.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-60.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-61.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-62.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-64.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-66.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-67.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-68.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-69.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-71.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-72.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-73.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-74.jpg" medium="image" />
+
+		<media:content url="http://paolonovelli.files.wordpress.com/2011/08/nbo-76.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Four</title>
+		<link>http://jameswakeling.wordpress.com/2011/09/25/four/</link>
+		<comments>http://jameswakeling.wordpress.com/2011/09/25/four/#comments</comments>
+		<pubDate>Sun, 25 Sep 2011 07:38:46 +0000</pubDate>
+		<dc:creator>jameswakeling</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Clacton]]></category>
+		<category><![CDATA[David Ursell]]></category>
+		<category><![CDATA[Extreme Sports]]></category>
+		<category><![CDATA[Flexifoil]]></category>
+		<category><![CDATA[James Wakeling]]></category>
+		<category><![CDATA[Journal]]></category>
+		<category><![CDATA[Kiteboarding]]></category>
+		<category><![CDATA[Kitesurfing]]></category>
+		<category><![CDATA[Lifestyle]]></category>
+		<category><![CDATA[Lifestyle Sports]]></category>
+		<category><![CDATA[Love]]></category>
+		<category><![CDATA[Ocean]]></category>
+		<category><![CDATA[Ocean Sports]]></category>
+		<category><![CDATA[Photography]]></category>
+		<category><![CDATA[Portraits]]></category>
+		<category><![CDATA[Push Kiting]]></category>
+		<category><![CDATA[Sea]]></category>
+		<category><![CDATA[Surfing]]></category>
+
+		<guid isPermaLink="false">http://jameswakeling.wordpress.com/?p=158</guid>
+		<description><![CDATA[I feel alive where the water meets the land and my heart beats louder when the wind blows.<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=158&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p style="text-align:center;">I feel alive where the water meets the land and my heart beats louder when the wind blows.</p>
+<p><a href="http://jameswakeling.files.wordpress.com/2011/09/blog12.jpg"><img class="aligncenter size-full wp-image-161" title="blog1" src="http://jameswakeling.files.wordpress.com/2011/09/blog12.jpg?w=500&#038;h=747" alt="" width="500" height="747" /></a></p>
+<p><a href="http://jameswakeling.files.wordpress.com/2011/09/blog4.jpg"><img class="aligncenter size-full wp-image-162" title="blog4" src="http://jameswakeling.files.wordpress.com/2011/09/blog4.jpg?w=500&#038;h=372" alt="" width="500" height="372" /></a></p>
+<p><a href="http://jameswakeling.files.wordpress.com/2011/09/blog22.jpg"><img class="aligncenter size-full wp-image-159" title="blog2" src="http://jameswakeling.files.wordpress.com/2011/09/blog22.jpg?w=500&#038;h=372" alt="" width="500" height="372" /></a></p>
+<p><a href="http://jameswakeling.files.wordpress.com/2011/09/blog3.jpg"><img class="aligncenter size-full wp-image-160" title="blog3" src="http://jameswakeling.files.wordpress.com/2011/09/blog3.jpg?w=500&#038;h=747" alt="" width="500" height="747" /></a></p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/158/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/158/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/158/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/158/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/158/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/158/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/158/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/158/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/158/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/158/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/158/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/158/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/158/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/158/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=158&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://jameswakeling.wordpress.com/2011/09/25/four/feed/</wfw:commentRss>
+		<slash:comments>22</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/ccf61b2df36baf51f2aba052cee63fdc?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">jameswakeling</media:title>
+		</media:content>
+
+		<media:content url="http://jameswakeling.files.wordpress.com/2011/09/blog12.jpg" medium="image">
+			<media:title type="html">blog1</media:title>
+		</media:content>
+
+		<media:content url="http://jameswakeling.files.wordpress.com/2011/09/blog4.jpg" medium="image">
+			<media:title type="html">blog4</media:title>
+		</media:content>
+
+		<media:content url="http://jameswakeling.files.wordpress.com/2011/09/blog22.jpg" medium="image">
+			<media:title type="html">blog2</media:title>
+		</media:content>
+
+		<media:content url="http://jameswakeling.files.wordpress.com/2011/09/blog3.jpg" medium="image">
+			<media:title type="html">blog3</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Oh Well, Whatever, Nevermind (Kurt Cobain Reconsidered)</title>
+		<link>http://biblioklept.org/2011/09/25/oh-well-whatever-nevermind-kurt-cobain-reconsidered/</link>
+		<comments>http://biblioklept.org/2011/09/25/oh-well-whatever-nevermind-kurt-cobain-reconsidered/#comments</comments>
+		<pubDate>Sun, 25 Sep 2011 11:51:06 +0000</pubDate>
+		<dc:creator>Biblioklept</dc:creator>
+				<category><![CDATA[Music]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Indie]]></category>
+		<category><![CDATA[Kurt Cobain]]></category>
+		<category><![CDATA[Nevermind]]></category>
+		<category><![CDATA[Nirvana]]></category>
+		<category><![CDATA[Smells Like Teen Spirit]]></category>
+
+		<guid isPermaLink="false">http://biblioklept.org/?p=10760</guid>
+		<description><![CDATA[I was twelve years old when Nirvana&#8217;s landmark record Nevermind came out in September of 1991 and supposedly changed the American cultural landscape forever. I was the perfect age to be radically influenced by the onset of the whole grunge thing. Before I got a hold of Nevermind, my favorite records were R.E.M&#8217;s Out of Time and De La Soul&#8217;s De [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=10760&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p><img class="aligncenter" src="http://freshlypressed.files.wordpress.com/2008/04/nirvana_nevermind_front.jpg?w=503&#038;h=503" alt="" width="503" height="503" /></p>
+<p>I was twelve years old when Nirvana&#8217;s landmark record <em>Nevermind </em>came out in September of 1991 and supposedly changed the American cultural landscape forever. I was the perfect age to be radically influenced by the onset of the whole grunge thing. Before I got a hold of <em>Nevermind</em>, my favorite records were R.E.M&#8217;s <em>Out of Time</em> and De La Soul&#8217;s <em>De La Soul is Dead</em>, both of which had come out a few months earlier that year. I also really, really loved <em>Aerosmith&#8217;s Greatest Hits </em>(you know&#8230;the red album), and U2&#8242;s <em>The Joshua Tree</em>. These were some of the earliest CDs I ever owned, and reflecting on this now, it seems odd that my favorite albums could also be <em>brand new, contemporary.</em></p>
+<p>I mention a few of the CDs I owned because I think I&#8217;m a relatively typical audiophile of the age group I&#8217;m discussing here (roughly, persons born between 1975-1981, although these dates, as I write them, seem awfully silly and arbitrary). I had already outgrown dumb hair metal and had begun to realize that most of the hip-hop I was listening to was not nearly as offensive as I thought it should be. I wanted something new and different and weird, and by the beginning of the seventh grade I&#8217;d already begun to scour <em>Rolling Stone</em>, which still had a modicum of cultural relevance in the early nineties. I was also cherry-picking from cool movie soundtracks, and to this day I know that the soundtrack to the oh-so-forgettable 1990 film <em>Pump Up the Volume</em> (Christian Slater as pirate DJ leads a minor youth rebellion) had as much to do with the forging of my musical taste as any other source: this is where I was exposed to two of the bands that would help forge my musical taste for the next decade, Pixies and The Sonic Youth. So, like many other young audiophiles, by the end of 1991&#8211;around the time &#8220;Smells Like Teen Spirit&#8221; was blowing up&#8211;I was already moving away from &#8220;mainstream&#8221; music as quickly as I knew how. Only Nirvana became the new mainstream, grunge became a fashion status, and, feeling like a cultural movement that I was barely even tangentially a part of had been commodified and commercialized, I had rejected the whole thing by the time I had gotten to high school in 1993. This meant rejecting wholesale a number of albums I had loved throughout middle school.</p>
+<p>The same month <em>Nevermind </em>came out, so did the Red Hot Chili Pepper&#8217;s <em>Blood Sugar Sex Magik</em>, spawning the massive hit &#8220;Under the Bridge.&#8221; Pearl Jam&#8217;s debut <em>Ten</em> came out a month before <em>Nevermind</em>, but really didn&#8217;t pick up steam until mid &#8217;92&#8211;grunge was in full effect by then; it too produced a mega-hit with &#8220;Jeremy.&#8221; U2&#8242;s <em>Achtung Baby </em>dropped in November&#8211;at this point they seemed like the elder statesmen of what was now so brashly defined as &#8220;alternative&#8221; music (&#8220;Alternative to what?&#8221; we wondered). &#8220;One&#8221; was a smash hit. The aforementioned R.E.M. album <em>Out of Time</em> became the year&#8217;s critical favorite, with &#8220;Losing My Religion&#8221; as one of the most unexpected number-ones of 1991. By the end of 1992, U2 and R.E.M. were &#8220;the most important bands in the world,&#8221; according to every music and entertainment magazine, and Nirvana was getting major credit for initiating a cultural revolution. I loved all of these albums dearly, and, as I mentioned above, denied all of them just a few short years later in favor of a new wave of independent label music&#8211;bands like Pavement, Superchunk, and the Archers of Loaf&#8211;bands that probably would never have achieved such successful careers without the aforementioned mega-hits that prompted the shift in cultural zeitgeist.</p>
+<p><a href="http://biblioklept.files.wordpress.com/2008/04/kurt.jpg" target="_blank"><img class="aligncenter" src="http://freshlypressed.files.wordpress.com/2008/04/kurt.jpg?w=398&#038;h=645" alt="" width="398" height="645" /></a></p>
+<p>I present all of this evidence merely to point out that the success of these bands&#8211;contrasted with the other crap that was happening at the end of the 80s and beginning of the 90s, like White Snake and The New Kids on the Block and Warrant and Nelson and C + C Music Factory&#8211;points to something larger than the force of <em>Nevermind </em>alone. (It&#8217;s worth pointing out here that Guns N&#8217; Roses released <em>Use Your Illusion I &amp; II</em> a week before <em>Nevermind</em>; these albums had a number of hits including the monster-success of &#8220;November Rain,&#8221; and, in retrospect, I believe, for all their cock-rockery, are more akin to the albums indicative of paradigm shift I described above than to the hair metal schlock they&#8217;re often identified with). <em>Nevermind </em>is often credited with spearheading a musical/cultural &#8220;revolution&#8221;; this &#8220;revolution&#8221; in music was already well underway though.</p>
+<p>To be sure, <em>Nevermind</em> is a great album, but its cultural cache has more to do with the figure of Kurt Cobain than its relevance and popularity at the time (to see how the myth of <em>Nevermind</em> has grown, simply look at <em>Rolling Stone</em>&#8216;s successive reviews of the album, from 1991, 1992, and 2004, respectively: the magazine gives the album three out of five stars, then four, before finally awarding it five stars thirteen years after the fact). Millions of kids saw Cobain wear Daniel Johnston t-shirts, reference the Melvins, and admit that his songs were really just crude Pixies ripoffs. Cobain, in short, exposed millions of regular kids to an angrier, rougher youth culture, a truly underground music that could react to the failed youth culture of the (now old) boomer generation of the 1960s, which had been forcing an illusory idealization of that decade down our throats forever. Ironically, it was this same boomer generation that greedily milked grunge for all it was worth, commodifying youth culture again into a twisted joke, a stupid lunch box, an action figure, a t-shirt at the mall. No wonder Cobain offed himself.</p>
+<p><a href="http://biblioklept.files.wordpress.com/2008/04/kurt_cobain-lunchbox1.jpg" target="_blank"><img class="aligncenter" src="http://freshlypressed.files.wordpress.com/2008/04/kurt_cobain-lunchbox1.jpg?w=525&#038;h=308" alt="" width="525" height="308" /></a></p>
+<p>So why write about this now? It&#8217;s been 20 years, and there hasn&#8217;t been a record like <em>Nevermind</em> or mega-hits as salient, and dare I suggest meaningful, as &#8220;Smells Like Teen Spirit,&#8221; &#8220;Losing My Religion,&#8221; &#8220;Under the Bridge,&#8221; &#8220;One,&#8221; or &#8220;Jeremy&#8221; for quite sometime. The success in the mid-nineties of bands like Smashing Pumpkins and Soundgarden&#8211;bands that I didn&#8217;t hate but made fun of&#8211;seems strange now. Even the music of those elegant bachelors, the Stone Temple Pilots&#8211;grunge 2.0&#8211;seems oddly strong when held up against the watered-down drivel that passes for contemporary hard rock. Youth music today is archly, ironically aware of its own cultural position and its own performativity in a marketplace. I&#8217;m sickened by even thinking of the toothless fourth generation emo-or-whatever-you-wanna-call-it derived from Green Day (another band I didn&#8217;t hate but but made fun of) that passes for &#8220;pop-punk.&#8221; In all its silly winking at the audience, its safe-as-milk non-personality, much of this music represents the ultimate commodifiaction and commercialization of &#8220;punk&#8221;&#8211;the aesthetic that <em>Nevermind </em>helped to re-ignite. (In another genre, hip-hop, after 30 years of existence, has claimed its right&#8211;with a sharp vengeance&#8211;to be as stupid as any other form of music. Don&#8217;t get me started). The irony Cobain and others explored was never a smart-assed irony that coyly winked at the audience, inviting them to laugh along with whatever cultural references were being rehashed; Cobain&#8217;s irony was mean and angry&#8211;it was a critique of American hegemonic mall culture. Current youth music, rock, emo, whatever it is, is simply a celebration of greedy materialism hiding under the thinnest ironic sheen.</p>
+<p>And here&#8217;s what I think is the saddest part: I don&#8217;t think there can be another <em>Nevermind</em>. To be sure, there will always be fantastic, landmark, music-changing records&#8211;I have no doubt about that (see: 1997&#8242;s <em>OK Computer</em> f&#8217;r'instance). But a record that channels a truly punk aesthetic into mainstream American consciousness is simply not going to happen again. For over fifteen years, critics (and executives) have been looking to award &#8220;next big thing&#8221; status to just about anyone (do you remember when the Chemical Brothers were supposed to be the &#8220;next big thing&#8221;? You don&#8217;t?). The internet has changed the old model. In the past, records like <em>Nevermind</em> propagated a &#8220;trickle-down&#8221; effect, if you will&#8211;kids in the heartland see Cobain give the Raincoats props, buy Raincoats&#8217; records, get into X-Ray Spex, get into Black Flag, get into Pavement, whatever. In contrast, the internet provides a diffusion model of immediately accessible cultural immersion. Anyone with a DSL connection and a few hours to kill on Allmusic can access indie culture. And that&#8217;s a good thing. But still: I&#8217;ll get nostalgic here: in the old days, we used to write to the labels and get catalogs and order music via snail mail. We used to buy albums on pure faith that they were good. You couldn&#8217;t just click on an mp3 (or steal entire albums on p2p networks or over torrents). But I&#8217;m not railing against the internet. I think it&#8217;s great that a kid in Montana can become thoroughly exposed to Drag City records or the works of Big Black in just a week. But that will never translate into a wide-scale youth culture shift. Instead, we&#8217;ll continue to have what we have now: lots of really, really shitty music on radio and TV. And this is our culture.</p>
+<p><a href="http://biblioklept.files.wordpress.com/2008/04/kurt-cobain-action-figure.jpeg" target="_blank"><img class="aligncenter" src="http://freshlypressed.files.wordpress.com/2008/04/kurt-cobain-action-figure.jpeg?w=474&#038;h=600" alt="" width="474" height="600" /></a></p>
+<p>There won&#8217;t be another Beatles or another Sex Pistols&#8211;there won&#8217;t be another group that challenges our collective cultural sensibility to make a large jump. There won&#8217;t even be an Elvis or a Madonna, a performer that challenges our ethics and morality. Instead, we will continue to have watered-down crap on mainstream media, as well as plenty of choices for those who take the time to look. But those choices will be marginalized, kept on the sidelines out of mainstream American-consciousness, and what we&#8217;ll lose is an opportunity to progress and enrich the entirety of our culture. Who knows though&#8211;I could be wrong; perhaps I&#8217;m just old and out of touch. Perhaps a wholly new and dynamic artist or group will come out that will capture the anti-establishment roots of rock and roll and inspirit a new and dramatically different course in contemporary youth culture. But I don&#8217;t see it happening again. I hope I&#8217;m wrong.</p>
+<p><em>[Editorial note: We ran a slightly different (but pretty much the same) version of this post in April of 2008]</em></p>
+<br /> Tagged: <a href='http://biblioklept.org/tag/culture/'>Culture</a>, <a href='http://biblioklept.org/tag/indie/'>Indie</a>, <a href='http://biblioklept.org/tag/kurt-cobain/'>Kurt Cobain</a>, <a href='http://biblioklept.org/tag/music/'>Music</a>, <a href='http://biblioklept.org/tag/nevermind/'>Nevermind</a>, <a href='http://biblioklept.org/tag/nirvana/'>Nirvana</a>, <a href='http://biblioklept.org/tag/smells-like-teen-spirit/'>Smells Like Teen Spirit</a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/10760/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/10760/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/10760/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/10760/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/10760/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/10760/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/10760/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/10760/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/10760/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/10760/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/10760/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/10760/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/10760/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/10760/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=10760&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://biblioklept.org/2011/09/25/oh-well-whatever-nevermind-kurt-cobain-reconsidered/feed/</wfw:commentRss>
+		<slash:comments>29</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/e2da5876fbef63edaa309ab042da76c4?s=96&#38;d=retro&#38;r=G" medium="image">
+			<media:title type="html">Biblioklept</media:title>
+		</media:content>
+
+		<media:content url="http://freshlypressed.files.wordpress.com/2008/04/nirvana_nevermind_front.jpg" medium="image" />
+
+		<media:content url="http://freshlypressed.files.wordpress.com/2008/04/kurt.jpg" medium="image" />
+
+		<media:content url="http://freshlypressed.files.wordpress.com/2008/04/kurt_cobain-lunchbox1.jpg" medium="image" />
+
+		<media:content url="http://freshlypressed.files.wordpress.com/2008/04/kurt-cobain-action-figure.jpeg" medium="image" />
+	</item>
+		<item>
+		<title>Adventures in Science Fiction Cover Art: The Best of Alex Schomburg&#8217;s 50s Novel Covers</title>
+		<link>http://sciencefictionruminations.wordpress.com/2011/09/05/adventures-in-science-fiction-cover-art-the-best-of-alex-schomburgs-50s-novel-covers/</link>
+		<comments>http://sciencefictionruminations.wordpress.com/2011/09/05/adventures-in-science-fiction-cover-art-the-best-of-alex-schomburgs-50s-novel-covers/#comments</comments>
+		<pubDate>Mon, 05 Sep 2011 17:54:18 +0000</pubDate>
+		<dc:creator>Joachim Boaz</dc:creator>
+				<category><![CDATA[Science Fiction cover art]]></category>
+		<category><![CDATA[1950s]]></category>
+		<category><![CDATA[1960s]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[book reviews]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[pulp]]></category>
+		<category><![CDATA[sci-fi]]></category>
+		<category><![CDATA[science fiction]]></category>
+
+		<guid isPermaLink="false">http://sciencefictionruminations.wordpress.com/?p=3987</guid>
+		<description><![CDATA[(Alex Schomburg&#8217;s cover for the 1955 edition of Secret of the Martian Moons (1955), Donald A. Wollheim) Spontaneously conjure with but a meer glance &#8212; Excitement! Wonder! Adventure! The best of the covers of old 50s/60s juveniles (sci-fi for younger readers) always stirs the recumbent inklings of adolescent wonder&#8230;  Intrepid boy/men (sadly, rarely women) trek across the &#8220;expanses&#8221; of [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=3987&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+		<wfw:commentRss>http://sciencefictionruminations.wordpress.com/2011/09/05/adventures-in-science-fiction-cover-art-the-best-of-alex-schomburgs-50s-novel-covers/feed/</wfw:commentRss>
+		<slash:comments>28</slash:comments>
+	
+		<media:content url="http://1.gravatar.com/avatar/f51cd14b566e3b7e10c9b696b1b6a927?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">sciencefictionruminations</media:title>
+		</media:content>
+
+		<media:content url="http://www.isfdb.org/wiki/images/e/e7/SCRTFTHMRT1955.jpg" medium="image" />
+
+		<media:content url="http://www.isfdb.org/wiki/images/e/e6/SNFTHSTRSD1952.jpg" medium="image" />
+
+		<media:content url="http://www.isfdb.org/wiki/images/d/db/SLNDSITS1952.jpg" medium="image" />
+
+		<media:content url="http://www.isfdb.org/wiki/images/b/bc/RCKTTLN1953.jpg" medium="image" />
+
+		<media:content url="http://www.isfdb.org/wiki/images/9/9f/TRBLNTTNLM1954.jpg" medium="image" />
+
+		<media:content url="http://www.isfdb.org/wiki/images/8/8d/MSSNTTHMND1956.jpg" medium="image" />
+
+		<media:content url="http://www.isfdb.org/wiki/images/1/1d/THSPCLMPCS1967.jpg" medium="image" />
+	</item>
+		<item>
+		<title>The Best Camera is the Camera That&#8217;s with You</title>
+		<link>http://arcticdream.me/2011/09/08/the-best-camera-is-the-camera-thats-with-you/</link>
+		<comments>http://arcticdream.me/2011/09/08/the-best-camera-is-the-camera-thats-with-you/#comments</comments>
+		<pubDate>Thu, 08 Sep 2011 18:27:47 +0000</pubDate>
+		<dc:creator>Winston</dc:creator>
+				<category><![CDATA[Photo]]></category>
+		<category><![CDATA[Travel]]></category>
+
+		<guid isPermaLink="false">http://arcticdream.wordpress.com/?p=127</guid>
+		<description><![CDATA[Yesterday the whole family went to mainland for a day and two nights &#8211; the first time for all of us since we came to the island. We had an appointment with the person responsible for immigration in our area to get the permission for me to stay in Norway for a year. Dealing with [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=127&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+		<wfw:commentRss>http://arcticdream.me/2011/09/08/the-best-camera-is-the-camera-thats-with-you/feed/</wfw:commentRss>
+		<slash:comments>35</slash:comments>
+	
+		<media:content url="http://1.gravatar.com/avatar/14b6ace2f2bceff79e4877d2b1151e76?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">winstonschen</media:title>
+		</media:content>
+
+		<media:content url="http://arcticdream.files.wordpress.com/2011/09/img_0994.jpg?w=1024" medium="image">
+			<media:title type="html">IMG_0994</media:title>
+		</media:content>
+
+		<media:content url="http://arcticdream.files.wordpress.com/2011/09/img_1013-1.jpg?w=1024" medium="image">
+			<media:title type="html">IMG_1013-1</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>The world of online dating&#8230;</title>
+		<link>http://emilysixxrants.wordpress.com/2011/09/25/the-world-of-online-dating/</link>
+		<comments>http://emilysixxrants.wordpress.com/2011/09/25/the-world-of-online-dating/#comments</comments>
+		<pubDate>Sun, 25 Sep 2011 21:10:04 +0000</pubDate>
+		<dc:creator>emilysixxrants</dc:creator>
+				<category><![CDATA[Rants]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[dating]]></category>
+		<category><![CDATA[eHarmony]]></category>
+		<category><![CDATA[Lifestyle]]></category>
+		<category><![CDATA[Love]]></category>
+		<category><![CDATA[Match.com]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[Online dating]]></category>
+		<category><![CDATA[POF]]></category>
+		<category><![CDATA[relationships]]></category>
+		<category><![CDATA[Sex]]></category>
+
+		<guid isPermaLink="false">http://emilysixxrants.wordpress.com/?p=121</guid>
+		<description><![CDATA[Like most things that were once considered to be taboo, online dating is now old hat.  However, as socially accepted as it now is, there are still a lot of naysayers who love to bash the concept and  try to convince you that it&#8217;s still as dangerous and ineffective as it was in the 90&#8242;s. [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=121&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p style="text-align:center;"><a href="http://emilysixxrants.wordpress.com/2011/09/25/the-world-of-online-dating/online_dating/" rel="attachment wp-att-128"><img class="aligncenter size-full wp-image-128" title="online_dating" src="http://emilysixxrants.files.wordpress.com/2011/09/online_dating.jpg?w=485&#038;h=347" alt="" width="485" height="347" /></a></p>
+<p>Like most things that were once considered to be taboo, online dating is now old hat.  However, as socially accepted as it now is, there are still a lot of naysayers who love to bash the concept and  try to convince you that it&#8217;s still as dangerous and ineffective as it was in the 90&#8242;s.</p>
+<p>Personally, I&#8217;ve been online dating for a few years now&#8230;Actually, come to think of it, the first time I ended up dating someone I met online was when I was 17.  Now, at 26, I can say that I&#8217;ve definitely learned the ins and outs of online dating and can genuinely see all of the pros and cons, from an experienced point of view.</p>
+<p>&nbsp;</p>
+<p style="text-align:left;"><strong>Argument #1:  You never know if what they are telling you online is true!</strong></p>
+<p>This is definitely correct.  There really is no way of knowing if what these people are telling you online is true or not.  But then again, that guy/girl you met at the bar last night could quite possibly be just as creative and insincere as the person you just met online.  It&#8217;s a gamble either way!  You just need to be aware of this, stick to your gut instincts and keep track of the things this person tells you.  Over time ask the same questions again and see if you get consistent answers.  Consistency is key!</p>
+<p style="text-align:left;"><strong>Argument #2:  A lot of people post fake pictures or really old pictures from when they were younger and better looking!</strong></p>
+<p>Again, this can also be true, and thanks to this I&#8217;ve learned to NEVER meet a potential  date in person until you&#8217;ve managed to get a totally recent photo of them.  You can do this like so: After you&#8217;ve shared enough emails and feel like you quite possibly could connect on a deeper level, give them your phone number but tell them to only text you.  After a few texts, ask them what kind of phone they have.  Once you&#8217;re assured their phone model has a camera (because some people lie and say their phones don&#8217;t have cameras) ask them to take a picture of themselves and send it to you right then and there.  Make it funny though, so that they don&#8217;t feel like you&#8217;re playing too hard of an investigator.  Ask them to hold 3 fingers up in the photo or to hold a piece of paper up with a funny word on it so you know that it is absolutely recent and shot just for you.  Once you&#8217;re assured they are the same person you saw online and that they&#8217;re not actually 10yrs older or 100lbs heavier and you still feel that good vibe, then go ahead and give them a call and go from there.  If they in any way avoid taking a recent picture for you, suggest web caming, and if they still can&#8217;t follow through DROP THEM!</p>
+<p style="text-align:left;"><strong>Argument #3:  How do you know they are seriously looking for a relationship and not just sex?</strong></p>
+<p>There&#8217;s no way of knowing what is going on in anyone&#8217;s head.  This goes for both the people you meet online and the people you meet in person by chance.  One thing I can say from experience is, if what you&#8217;re looking for is a relationship, you should probably weed out the lower quality websites.  Most men wont pay a fee on sites such as Match.com or eHarmony if they aren&#8217;t seriously seeking a partner.  From personal experience I&#8217;ve noticed that people on paid websites have much better quality profiles, where they express themselves and what they are looking for in a much deeper level.  They also tend to be more picky themselves and move a little slower in regards to when they want to meet you in person.  I&#8217;ve also noticed that these men tend to be the higher quality dates and are a lot more respectful and even understanding if you later feel that you guys just don&#8217;t connect on that level.</p>
+<p>Free dating sites such as POF (Plenty of Fish) are a complete free-for-all.  It doesn&#8217;t cost anything so anyone can join and not think twice about what the site is actually supposed to be for.  You may occasionally come across a person that is genuinely seeking a serious relationships, but the all around number and quality of emails I&#8217;ve received there  all lead me to believe that this site is a little more for the men and women who would much rather have a casual encounter of the sexual kind.</p>
+<p style="text-align:left;"><strong>Argument #4: If they found you online who&#8217;s to say they wont meet other people online while you&#8217;re together?</strong></p>
+<p>The chances of these men/women cheating on you are just as high as any other.  Just because you didn&#8217;t meet someone online doesn&#8217;t mean they don&#8217;t know how to use the internet.  All people pose the same threats and we&#8217;re all facing the same risks when entering into a new relationship.  Welcome to the world of dating!  It&#8217;s life!  Sometimes you find a good one, sometimes you don&#8217;t!</p>
+<p style="text-align:center;"><strong>**An added benefit for women**</strong></p>
+<p>For the most part, we have all been raised thinking that men have to be the initiators in a courtship and have thick enough skin (for the most part) to withstand rejection.  One thing I can honestly say that is a definite bonus to online dating (for both sexes) is that women have become more daring and have been taking on the initiator role as well.  Where a woman would be too embarrassed to approach a man in person or just be extremely terrified of rejection, they feel a lot more safe in doing so online.  Instead of facing public humiliation, at worst they may receive an email saying &#8220;Thanks, but I don&#8217;t think you&#8217;re really my type&#8221; or their advance may be ignored. No harm, no foul! No embarrassment and no hurt feelings!</p>
+<p>&nbsp;</p>
+<p>So, to summarize everything stated above, online dating can indeed be risky, but not more or less than meeting someone while out and about or through friends.  It does come with it&#8217;s own warning label, but if you play your cards right and keep your wits about you, you will be just fine.  If you&#8217;ve been thinking about joining an online dating site and have been afraid, don&#8217;t be.  Give it a shot!  You never know who you may meet on there who&#8217;s path you may have never crossed in person otherwise.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/121/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/121/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/121/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/121/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/121/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/121/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/121/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/121/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/121/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/121/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/121/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/121/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/121/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/121/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=121&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://emilysixxrants.wordpress.com/2011/09/25/the-world-of-online-dating/feed/</wfw:commentRss>
+		<slash:comments>34</slash:comments>
+	
+		<media:content url="http://1.gravatar.com/avatar/f04238efbb744b2a90fdaf0bdc10e93c?s=96&#38;d=monsterid&#38;r=R" medium="image">
+			<media:title type="html">emilysixxrants</media:title>
+		</media:content>
+
+		<media:content url="http://emilysixxrants.files.wordpress.com/2011/09/online_dating.jpg" medium="image">
+			<media:title type="html">online_dating</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>And More Red</title>
+		<link>http://maccandace.wordpress.com/2011/08/18/and-more-red/</link>
+		<comments>http://maccandace.wordpress.com/2011/08/18/and-more-red/#comments</comments>
+		<pubDate>Fri, 19 Aug 2011 03:33:55 +0000</pubDate>
+		<dc:creator>Candace</dc:creator>
+				<category><![CDATA[Arizona]]></category>
+		<category><![CDATA[Flora]]></category>
+		<category><![CDATA[Sedona]]></category>
+		<category><![CDATA[Travels]]></category>
+
+		<guid isPermaLink="false">http://maccandace.wordpress.com/?p=4613</guid>
+		<description><![CDATA[I found this old postcard of Cathedral Rock while we were in Sedona last week so I scanned it. Okay, not really, but you probably knew that. It&#8217;s another of my old postcard creations, using texture and rounded edges, that I find so entertaining. Okay, here are a few more Sedona pics. I have the [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=4613&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p><a href="http://maccandace.files.wordpress.com/2011/08/sedona-pc.jpg"><img class="alignnone size-full wp-image-4614" title="Sedona pc" src="http://maccandace.files.wordpress.com/2011/08/sedona-pc.jpg?w=378&#038;h=253" alt="" width="378" height="253" /></a></p>
+<p>I found this old postcard of Cathedral Rock while we were in Sedona <a title="Sedona Red" href="http://maccandace.wordpress.com/2011/08/14/red/" target="_blank">last week</a> so I scanned it. Okay, not really, but you probably knew that. It&#8217;s another of my old postcard creations, using texture and rounded edges, that I find so entertaining. Okay, here are a few more Sedona pics. I have the feeling that they sort of all look the same to any viewer after awhile so, after this post, I&#8217;ll take a little Sedona break before I post any more.</p>
+<p><a href="http://maccandace.files.wordpress.com/2011/08/dsc_0042-crop.jpg"><img class="alignnone size-full wp-image-4615" title="DSC_0042 crop" src="http://maccandace.files.wordpress.com/2011/08/dsc_0042-crop.jpg?w=378&#038;h=252" alt="" width="378" height="252" /></a></p>
+<p><a href="http://maccandace.files.wordpress.com/2011/08/dsc_0021.jpg"><img class="alignnone size-full wp-image-4616" title="DSC_0021" src="http://maccandace.files.wordpress.com/2011/08/dsc_0021.jpg?w=378&#038;h=253" alt="" width="378" height="253" /></a></p>
+<p>This is Courthouse Butte below.</p>
+<p><a href="http://maccandace.files.wordpress.com/2011/08/dsc_0059.jpg"><img class="alignnone size-full wp-image-4617" title="DSC_0059" src="http://maccandace.files.wordpress.com/2011/08/dsc_0059.jpg?w=378&#038;h=253" alt="" width="378" height="253" /></a></p>
+<p><a href="http://maccandace.files.wordpress.com/2011/08/dsc_0050_edited-1.jpg"><img class="alignnone size-full wp-image-4618" title="DSC_0050_edited-1" src="http://maccandace.files.wordpress.com/2011/08/dsc_0050_edited-1.jpg?w=378&#038;h=253" alt="" width="378" height="253" /></a></p>
+<p>Can you see the Eagle Rock above? Here it is, closer, naturally-occurring:</p>
+<p><a href="http://maccandace.files.wordpress.com/2011/08/dsc_0051.jpg"><img class="alignnone size-full wp-image-4619" title="DSC_0051" src="http://maccandace.files.wordpress.com/2011/08/dsc_0051.jpg?w=378&#038;h=253" alt="" width="378" height="253" /></a></p>
+<p><a href="http://maccandace.files.wordpress.com/2011/08/dsc_0018.jpg"><img class="alignnone size-full wp-image-4620" title="DSC_0018" src="http://maccandace.files.wordpress.com/2011/08/dsc_0018.jpg?w=378&#038;h=256" alt="" width="378" height="256" /></a></p>
+<p>The clouds did cooperate that day.</p>
+<p><a href="http://maccandace.files.wordpress.com/2011/08/dsc_00151.jpg"><img class="alignnone size-full wp-image-4621" title="DSC_0015" src="http://maccandace.files.wordpress.com/2011/08/dsc_00151.jpg?w=378&#038;h=253" alt="" width="378" height="253" /></a></p>
+<p>See the rock formations on the right-hand side of the above photo?</p>
+<p><a href="http://maccandace.files.wordpress.com/2011/08/dsc_0016.jpg"><img class="alignnone size-full wp-image-4622" title="DSC_0016" src="http://maccandace.files.wordpress.com/2011/08/dsc_0016.jpg?w=378&#038;h=248" alt="" width="378" height="248" /></a></p>
+<p>Here they are, in the middle, a little larger. And here they are, below, closer-up.</p>
+<p><a href="http://maccandace.files.wordpress.com/2011/08/dsc_0017.jpg"><img class="alignnone size-full wp-image-4623" title="DSC_0017" src="http://maccandace.files.wordpress.com/2011/08/dsc_0017.jpg?w=378&#038;h=253" alt="" width="378" height="253" /></a></p>
+<p>The two large ones, together, are called the Two Sisters. The one to the left of those is Madonna and Child.</p>
+<p><a href="http://maccandace.files.wordpress.com/2011/08/dsc_0071.jpg"><img class="alignnone size-full wp-image-4624" title="DSC_0071" src="http://maccandace.files.wordpress.com/2011/08/dsc_0071.jpg?w=378&#038;h=253" alt="" width="378" height="253" /></a></p>
+<p>I could never get tired of looking at all of the red rocks&#8230;I think. But you might be so we will revisit Sedona a little later.</p>
+<p><a href="http://maccandace.files.wordpress.com/2011/08/dsc_0070.jpg"><img class="alignnone size-full wp-image-4625" title="DSC_0070" src="http://maccandace.files.wordpress.com/2011/08/dsc_0070.jpg?w=378&#038;h=253" alt="" width="378" height="253" /></a></p>
+<p>Well, okay, one more&#8230;</p>
+<p><a href="http://maccandace.files.wordpress.com/2011/08/dsc_0014.jpg"><img class="alignnone size-full wp-image-4627" title="DSC_0014" src="http://maccandace.files.wordpress.com/2011/08/dsc_0014.jpg?w=378&#038;h=253" alt="" width="378" height="253" /></a></p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/4613/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/4613/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/4613/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/4613/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/4613/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/4613/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/4613/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/4613/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/4613/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/4613/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/4613/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/4613/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/4613/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/4613/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=4613&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://maccandace.wordpress.com/2011/08/18/and-more-red/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/a56335d99e92485d3fd048835b56ebdc?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">Candace</media:title>
+		</media:content>
+
+		<media:content url="http://maccandace.files.wordpress.com/2011/08/sedona-pc.jpg" medium="image">
+			<media:title type="html">Sedona pc</media:title>
+		</media:content>
+
+		<media:content url="http://maccandace.files.wordpress.com/2011/08/dsc_0042-crop.jpg" medium="image">
+			<media:title type="html">DSC_0042 crop</media:title>
+		</media:content>
+
+		<media:content url="http://maccandace.files.wordpress.com/2011/08/dsc_0021.jpg" medium="image">
+			<media:title type="html">DSC_0021</media:title>
+		</media:content>
+
+		<media:content url="http://maccandace.files.wordpress.com/2011/08/dsc_0059.jpg" medium="image">
+			<media:title type="html">DSC_0059</media:title>
+		</media:content>
+
+		<media:content url="http://maccandace.files.wordpress.com/2011/08/dsc_0050_edited-1.jpg" medium="image">
+			<media:title type="html">DSC_0050_edited-1</media:title>
+		</media:content>
+
+		<media:content url="http://maccandace.files.wordpress.com/2011/08/dsc_0051.jpg" medium="image">
+			<media:title type="html">DSC_0051</media:title>
+		</media:content>
+
+		<media:content url="http://maccandace.files.wordpress.com/2011/08/dsc_0018.jpg" medium="image">
+			<media:title type="html">DSC_0018</media:title>
+		</media:content>
+
+		<media:content url="http://maccandace.files.wordpress.com/2011/08/dsc_00151.jpg" medium="image">
+			<media:title type="html">DSC_0015</media:title>
+		</media:content>
+
+		<media:content url="http://maccandace.files.wordpress.com/2011/08/dsc_0016.jpg" medium="image">
+			<media:title type="html">DSC_0016</media:title>
+		</media:content>
+
+		<media:content url="http://maccandace.files.wordpress.com/2011/08/dsc_0017.jpg" medium="image">
+			<media:title type="html">DSC_0017</media:title>
+		</media:content>
+
+		<media:content url="http://maccandace.files.wordpress.com/2011/08/dsc_0071.jpg" medium="image">
+			<media:title type="html">DSC_0071</media:title>
+		</media:content>
+
+		<media:content url="http://maccandace.files.wordpress.com/2011/08/dsc_0070.jpg" medium="image">
+			<media:title type="html">DSC_0070</media:title>
+		</media:content>
+
+		<media:content url="http://maccandace.files.wordpress.com/2011/08/dsc_0014.jpg" medium="image">
+			<media:title type="html">DSC_0014</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Donut: the little kitten who left a big impression</title>
+		<link>http://girl-independent.com/2011/09/17/donut/</link>
+		<comments>http://girl-independent.com/2011/09/17/donut/#comments</comments>
+		<pubDate>Sat, 17 Sep 2011 16:59:34 +0000</pubDate>
+		<dc:creator>Girl, Independent</dc:creator>
+				<category><![CDATA[random stuff]]></category>
+		<category><![CDATA[travel]]></category>
+		<category><![CDATA[animals]]></category>
+		<category><![CDATA[Donut]]></category>
+		<category><![CDATA[kitten]]></category>
+
+		<guid isPermaLink="false">http://girlindependent.wordpress.com/?p=366</guid>
+		<description><![CDATA[I used to think that my ideal job (after owning that little dive shop on the beach in Sipidan) would be to work in an animal sanctuary. Maybe orang-utans, or baby tigers or something cute and endangered and essentially a job where I&#8217;d be &#8220;doing good&#8221;. Now I&#8217;m not so sure I could hack it. [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=366&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p>I used to think that my ideal job (after owning that little dive shop on the beach in Sipidan) would be to work in an animal sanctuary. Maybe orang-utans, or baby tigers or something cute and endangered and essentially a job where I&#8217;d be &#8220;doing good&#8221;.  Now I&#8217;m not so sure I could hack it.  Case in point: Donut the Kitten.<br />
+<br class="blank"></p>
+<p><a href='http://girlindependent.files.wordpress.com/2011/09/5f356256-1067-46a1-91b9-025b4e466c5b11.jpg'><img src='http://girlindependent.files.wordpress.com/2011/09/5f356256-1067-46a1-91b9-025b4e466c5b11.jpg?w=550&#038;h=412' border='0' width='550' height='412' class="aligncenter" style='margin:5px;'></a><br /><span id="more-366"></span></p>
+<p>I arrived at <a target="_blank" href="http://www.lumbalumba.com">Lumba Lumba dive centre</a>, on Monday, fresh from the Banda Aceh ferry, and ready to dive.  The centre is perched on a beach on the most northern tip of Indonesia, on a tiny island called Pulau Weh. The beach is also home to a handful of families, each with their own &#8220;cafe&#8221; serving what tourists and backpackers there are with home-made curries and Nasi Goreng.  And with small settlements like this come semi-stray dogs and cats. If you don&#8217;t feed them, we&#8217;re told, they&#8217;ll not pester you. Some are skinny, some look like they get the pickings of the rubbish each evening. I managed to resist the urge to fatten up the dogs. mainly because the food was so bloody good I didn&#8217;t want to share any. </p>
+<p><br class="blank"></p>
+<h2>Tuesday</h2>
+<p>On Tuesday afternoon, after returning from a dive we were sitting at the front of the dive centre, drying off in the sun, munching on donuts from the local supplier (Mama Donut is a local entrepreneur who bakes the most amazing donuts, fritters, steamed cakes and fried tempe, and sells them to hungry divers on the beach, all of the princely sum of about 20p each; they&#8217;re worth 10 times more, believe me).</p>
+<p>While we were blissing out in the sugarfest, a tiny little black bundle crawls up to our feet and makes a strange noise. It&#8217;s a kitten.  A very scrawny, scruffy, feral kitten.  She&#8217;s a bag of bones, and looks like she needs to grow into her ears. And put on about five times her own body weight. She has a tiny squeal like a cheetah cub calling it&#8217;s mother, but about as loud as a mosquito. She must be less than three months old, and she&#8217;s done amazingly well to get to that age. She&#8217;s the size of my flip flop, and she&#8217;s at my feet shouting at me, or at least trying to.  She&#8217;s tiny, feisty and the cutest, skinniest, most vulnerable thing I&#8217;ve seen.  I give her a stroke behind the ears, and she closes her eyes. I&#8217;m smitten.<br />
+<br class="blank"></p>
+<p><a href='http://girlindependent.files.wordpress.com/2011/09/62541921-763c-4361-8586-0930bc1619b520.jpg'><img src='http://girlindependent.files.wordpress.com/2011/09/62541921-763c-4361-8586-0930bc1619b520.jpg?w=550&#038;h=412' border='0' width='550' height='412' class="aligncenter" style='margin:5px;'></a><br /><br class="blank"><br />
+Now, she looks far too young to be without a mother, and probably should still be suckling. Worryingly, she doesn&#8217;t seem to have been taught how to hunt either; she doesn&#8217;t pounce on flies like other beach cats we&#8217;ve seen.  Her strategy seems to be: hang around these tourists and they&#8217;ll feed me.  </p>
+<p>That strategy seems to work, at least partly when we move from our seats, and she follows us, hanging around my feet, crying that miniscule and irresistible mew. She even rubs her head against our ankles, like my own cats at home when I come in from work, and they tell me they&#8217;re pleased to see me (but please will you feed us now?). </p>
+<p>She&#8217;s all alone. No mother, no skills, just those big ears, little voice and cuteness.<br />
+<br class="blank"></p>
+<p><a href='http://girlindependent.files.wordpress.com/2011/09/a6022e0f-030d-4a9b-b463-03af4d10cc2b18.jpg'><img src='http://girlindependent.files.wordpress.com/2011/09/a6022e0f-030d-4a9b-b463-03af4d10cc2b18.jpg?w=550&#038;h=412' border='0' width='550' height='412' class="aligncenter" style='margin:5px;'></a><br /><br class="blank"></p>
+<h2>Wednesday</h2>
+<p>She must have hung around the dive centre that night, as the following morning at breakfast, she decided to show up and mew at everyone&#8217;s feet.  Amazed she survived the night, we sneakily poured some Carnation milk into an upturned shell, and she lapped it up eagerly. Once that was gone, and she&#8217;d licked the shell dry, she then got out her tiny needle claws, and proceeded to climb up a human leg, and curl up on a nice warm lap, as if she&#8217;d been invited. Two minutes later she was zoned-out, on an evaporated milk-high, and happily fell asleep.</p>
+<p>That afternoon she was back again after a dive, hanging around us as we purchased Mama Donut&#8217;s latest batch.  With that little ultra-persuasive cry, and her sheer cuteness and skinny vulnerability, she had me.  I fed her a donut; she almost took my finger off.  She scoffed a five massive kitten-mouthfuls, then happily crawled into my lap, and zoned out again on the sugar. </p>
+<p>We named her Donut. </p>
+<p>She followed us everywhere around the dive centre, although mainly, I admit, for the chance of food.  She almost broke my heart when I went back to my bungalow, and she followed me, around the back of the centre, across the bridge, and when I walked up the steep path, she stood at the bottom, unable to follow, and shouted after me. I would have picked her up and taken her with me if I could.<br />
+<br class="blank"></p>
+<p><a href='http://girlindependent.files.wordpress.com/2011/09/ee0153ee-f942-4700-b9c1-35e2473e015f13.jpg'><img src='http://girlindependent.files.wordpress.com/2011/09/ee0153ee-f942-4700-b9c1-35e2473e015f13.jpg?w=550&#038;h=412' border='0' width='550' height='412' class="aligncenter" style='margin:5px;'></a><br /><br class="blank"><br />
+Donut likes a warm lap; not too fussy whose. She likes being stroked on the top of her head, and behind her ears.  You can feel her skull through her fur. She fits in the palm of my hand &#8211; but you can feel her ribcage when she&#8217;s there.<br />
+<br class="blank"></p>
+<h2>Thursday</h2>
+<p>She was back Thursday morning, and got some more Carnation out of an upturned sea shell, before settling on a lap again, quite happily, as if she&#8217;d been there all along.  She came back again in the afternoon after our dive, shouting as usual, and rubbing against ankles, but we didn&#8217;t have anything to feed her. I told her when Mama Donut came, I&#8217;d get her a special one.</p>
+<p>In the afternoon, the guys from the dive centre were trying to scuttle an old fishing boat out in the bay, which involved a lot of physical effort, some logs, and acquired help from locals.  Donut came to watch. She was getting around people&#8217;s feet, so I picked her up, and we sat down on a bench facing the sea. She curled up on my lap and fell asleep, with help from some behind-the-ear strokes. I was very content. I think she was too.<br />
+<br class="blank"></p>
+<p><a href='http://girlindependent.files.wordpress.com/2011/09/660f262c-d739-4692-bd35-d16f2a36e2c617.jpg'><img src='http://girlindependent.files.wordpress.com/2011/09/660f262c-d739-4692-bd35-d16f2a36e2c617.jpg?w=550&#038;h=412' border='0' width='550' height='412' class="aligncenter" style='margin:5px;'></a><br /> <br class="blank"><br />
+After a while, just as the boat was about to slide in to the water, Donut and I got up and wandered over to see the fruit of the labour.  The local men who&#8217;d come to help started to move away, and probably thinking they would give her food, Donut bounded after them, in that enthusiastic kitten way, up the road in between their feet, looking up at them innocently, expectantly, waiting for something. </p>
+<p>She disappeared around the corner and I didn&#8217;t see her again.</p>
+<p>After dinner I came back with some noodles for her in a napkin, but she wasn&#8217;t around. She&#8217;d left the dive centre, and our accommodating laps, for the promise of food with some other people.  And I tried to resist the urge to look for her whenever I was down at the dive centre, looked around under the benches where she would hide, but she&#8217;d vanished. </p>
+<p><br class="blank"> </p>
+<h2> So why am I a big softie? </h2>
+<p>Now, my two cats at home are house cats. I&#8217;m very attached to them. They&#8217;ve travelled the Atlantic with me and I&#8217;m very protective of them.  They&#8217;re house cats because I got them when I lived on the 27th floor in Manhattan, but if I&#8217;m honest, if they were allowed out, I&#8217;d be a nervous wreck (there are arguments both for and against house cats).</p>
+<p>I used to cry at the end of each episode of the Littlest Hobo, so I&#8217;m not really any good with keeping my emotions in check when it comes to animals. It goes back to my childhood when my Gran had to put down her dog, though to having my own Spaniel put to sleep when I was eighteen.  I was more traumatised by that than I was when my old aunt died a week later. I sobbed when Two Socks got shot in Dances with Wolves. I cried when my favourite fish died (I was 24). </p>
+<p><i>I have an attachment disorder</i>, quite obviously.  I&#8217;d love to work in that animal sanctuary, but I know I just wouldn&#8217;t be able to release them into the wild afterwards &#8211; I get far too attached. It helps if they&#8217;re cute, innocent and vulnerable, and show affection towards me.  Even if it is just for food. I can&#8217;t switch from &#8220;this is emotionally beneficial to me right now&#8221; to &#8220;this is in their best interests in the long run&#8221;.  I need to work on that. </p>
+<p><br class="blank"></p>
+<h2>Friday</h2>
+<p>So, when Donut didn&#8217;t turn up for breakfast on Friday morning I tried to put her put of my mind. Despite having no mother, being a bag of bones, and having no cat skills at all, she&#8217;ll be fine, I told myself.  She&#8217;s only been gone overnight, for god&#8217;s sake. And anyway, how many millions of cats are in the same situation? Survival of the fittest, I told myself.  It&#8217;s Nature&#8217;s way. </p>
+<p>Due to local law, we didn&#8217;t dive Friday morning, so the group decided to walk to the nearest village &#8211; Iboih &#8211; for some cultural experience and coffee. We walked the 1km, fairly busy road, in hot mid-morning sun (it&#8217;s true what they say about mad dogs, then), past the hospital, police station, and what we presumed was the post office, passing homes in various states of disrepair and grandeur. We stopped for photos, and enjoyed the walk &#8211; jalang jalang as it&#8217;s expressed in Bahasa. </p>
+<p>As we entered the village of about 10 huts, each serving various types of refreshment, petrol, or groceries, a small black bundle crossed the road ahead of us. </p>
+<p>It was Donut. <br class="blank"></p>
+<p><a href='http://girlindependent.files.wordpress.com/2011/09/4766d9eb-a4e1-4d0e-9ec6-2c1e8c91417019.jpg'><img src='http://girlindependent.files.wordpress.com/2011/09/4766d9eb-a4e1-4d0e-9ec6-2c1e8c91417019.jpg?w=550&#038;h=412' border='0' width='550' height='412' class="aligncenter" style='margin:5px;'></a><br /><br class="blank"><br />
+She came over to us and mewed at our feet in that familiar way, and all of us were amazed to see her, still skinny, still feisty, and a kilometre away from the dive centre, along a main road, in 37 degrees of sun. How she&#8217;d managed to get here we still don&#8217;t know, but it was her alright. She rubbed up against ankles and she got lots of strokes from us, and as we walked on she followed us for a while, shouting as usual, but then latched on to a nearby group of people instead, looking for scraps, seeing what she can scavenge. We went for a coffee and she disappeared. </p>
+<p>So I might not be one who can bear the thought of my own two cats going out into the deepest city and fending off foxes, or finding their way home, but I&#8217;m pretty sure that Donut&#8217;s going to be fine. She&#8217;s got some fight for a wee thing.<br />
+ <br class="blank"></p>
+<p><a href='http://girlindependent.files.wordpress.com/2011/09/7aacfe1a-e965-4993-8cb2-96123002f00416.jpg'><img src='http://girlindependent.files.wordpress.com/2011/09/7aacfe1a-e965-4993-8cb2-96123002f00416.jpg?w=550&#038;h=412' border='0' width='550' height='412' class="aligncenter" style='margin:5px;'></a></p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/366/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/366/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/366/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/366/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/366/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/366/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/366/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/366/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/366/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/366/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/366/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/366/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/366/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/366/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=366&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://girl-independent.com/2011/09/17/donut/feed/</wfw:commentRss>
+		<slash:comments>43</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/ef53ee0cb239e7e7979206b4f09043fa?s=96&#38;d=http%3A%2F%2Fs0.wp.com%2Fi%2Fmu.gif&#38;r=R" medium="image">
+			<media:title type="html">thebigbluedot</media:title>
+		</media:content>
+
+		<media:content url="http://girlindependent.files.wordpress.com/2011/09/5f356256-1067-46a1-91b9-025b4e466c5b11.jpg" medium="image" />
+
+		<media:content url="http://girlindependent.files.wordpress.com/2011/09/62541921-763c-4361-8586-0930bc1619b520.jpg" medium="image" />
+
+		<media:content url="http://girlindependent.files.wordpress.com/2011/09/a6022e0f-030d-4a9b-b463-03af4d10cc2b18.jpg" medium="image" />
+
+		<media:content url="http://girlindependent.files.wordpress.com/2011/09/ee0153ee-f942-4700-b9c1-35e2473e015f13.jpg" medium="image" />
+
+		<media:content url="http://girlindependent.files.wordpress.com/2011/09/660f262c-d739-4692-bd35-d16f2a36e2c617.jpg" medium="image" />
+
+		<media:content url="http://girlindependent.files.wordpress.com/2011/09/4766d9eb-a4e1-4d0e-9ec6-2c1e8c91417019.jpg" medium="image" />
+
+		<media:content url="http://girlindependent.files.wordpress.com/2011/09/7aacfe1a-e965-4993-8cb2-96123002f00416.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Room with a view</title>
+		<link>http://photographybyangelica.wordpress.com/2011/09/09/room-with-a-view/</link>
+		<comments>http://photographybyangelica.wordpress.com/2011/09/09/room-with-a-view/#comments</comments>
+		<pubDate>Fri, 09 Sep 2011 19:34:32 +0000</pubDate>
+		<dc:creator>Angelica</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Angelica Tånneryd]]></category>
+		<category><![CDATA[Berlin]]></category>
+		<category><![CDATA[Fotoskolan STHML]]></category>
+		<category><![CDATA[Germany]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[Tyskland]]></category>
+
+		<guid isPermaLink="false">http://photographybyangelica.wordpress.com/?p=1157</guid>
+		<description><![CDATA[<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=1157&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p><a href="http://photographybyangelica.files.wordpress.com/2011/09/angelicat_20110907_0639.jpg"><img class="aligncenter size-full wp-image-1158" title="AngelicaT_20110907_0639" src="http://photographybyangelica.files.wordpress.com/2011/09/angelicat_20110907_0639.jpg?w=600&#038;h=399" alt="" width="600" height="399" /></a></p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/1157/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/1157/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/1157/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/1157/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/1157/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/1157/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/1157/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/1157/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/1157/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/1157/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/1157/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/1157/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/1157/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/1157/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=1157&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://photographybyangelica.wordpress.com/2011/09/09/room-with-a-view/feed/</wfw:commentRss>
+		<slash:comments>21</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/aa66abe735619b4c3640642e30765465?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">gammal</media:title>
+		</media:content>
+
+		<media:content url="http://photographybyangelica.files.wordpress.com/2011/09/angelicat_20110907_0639.jpg" medium="image">
+			<media:title type="html">AngelicaT_20110907_0639</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>

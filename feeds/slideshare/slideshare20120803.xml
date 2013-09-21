@@ -1,0 +1,105 @@
+
+                <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+                <html xmlns="http://www.w3.org/1999/xhtml">
+                        <head>
+                                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                                <title>SlideShare &raquo; 503 Error</title>
+                                <style type="text/css">
+                                        <!--
+                                                * {
+                                                        margin:0;
+                                                        padding:0;
+                                                }
+                                                body, td, th {
+                                                        font-family: Arial, Helvetica, sans-serif;
+                                                        font-size: 0.8em;
+                                                        color: #333;
+                                                        text-align:center;
+                                                        vertical-align:middle;
+                                                }
+                                                body {
+                                                        background: #FFF url(http://public.slideshare.net/images/bg_error_page.gif) top center no-repeat;
+                                                }
+                                                #container {
+                                                        background:#f1faf5;
+                                                        border:#e6ecea 1px solid;
+                                                        text-align:left;
+                                                        margin:156px auto 4px auto;
+                                                        padding:24px;
+                                                        width:424px;
+                                                }
+                                                h1 {
+                                                        color:#099;
+                                                        font-size:1.4em;
+                                                        font-weight:normal;
+                                                        letter-spacing:-0.5px;
+                                                }
+                                                ul li {
+                                                        list-style:none;
+                                                        padding:0 0 10px 12px;
+                                                }
+                                                p {
+                                                        margin:18px 0;
+                                                }
+                                                a:link {
+                                                        color: #4279cc;
+                                                        text-decoration: underline;
+                                                }
+                                                a:visited {
+                                                        text-decoration: underline;
+                                                        color: #4279cc;
+                                                }
+                                                a:hover {
+                                                        text-decoration: none;
+                                                        color: #FFF;
+                                                        background:#4279cc;
+                                                }
+                                                a:active {
+                                                        text-decoration: underline;
+                                                        color: #4279CC;
+                                                }
+                                                .errorCode {
+                                                        margin:0 -412px 0 0;
+                                                        font-style:italic;
+                                                        color:#777;
+                                                }
+                                                .searchinput {
+                                                        border:1px #94c5c6 solid;
+                                                }
+                                                .searchsubmit {
+                                                        height:18px;
+                                                        font-size:11px;
+                                                }
+                                        -->
+                                </style>
+                                <script type="text/javascript">
+                                        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+                                        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+                                </script>
+                                <script type="text/javascript">
+                                        var pageTracker = _gat._getTracker("UA-2330466-1");
+                                        pageTracker._trackEvent('errors', '503');
+                                </script>
+                        </head>
+                        <body>
+                                <div id="container">
+                                        <h1>Oops! Something went wrong.</h1>
+                                        <p> We have been notified of this error and will look into it.
+                                        In the meantime, you can...
+                                        <ul>
+                                                <li>- <a href="javascript:history.go(-1);">go back</a> and try again</li>
+                                                <li>- go to the <a href="http://www.slideshare.net/">SlideShare homepage</a></li>
+                                                <li>- or try searching <form method="get" action="http://www.slideshare.net/search/slideshow" style="display:inline">
+                                                        <input type="text" value="" size="15" name="q" id="searchstring" class="searchinput" />
+                                                        <input type="hidden" value="post" name="submit"/>
+                                                        <input type="submit" value="Search" name="commit" class="searchsubmit"/>
+                                                </form></li>
+                                        </ul>
+                                        </p>
+                                        <p> If you continue having problems, please send a note to <a href="http://www.slideshare.net/feedback">SlideShare support</a> and tell us exactly what happened.
+                                        <p>Include "<em>Error code: 503</em>" in your email (that will help us troubleshoot).</p>
+                                </div>
+                                <span class="errorCode">503 Error</span>
+                        </body>
+                </html>
+        

@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>FreshlyPressed</title>
+	<atom:link href="http://freshlypressed.wordpress.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://freshlypressed.wordpress.com</link>
+	<description>Just another Wordpress.com weblog</description>
+	<lastBuildDate>Mon, 02 May 2011 21:12:43 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='freshlypressed.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>http://s2.wp.com/i/buttonw-com.png</url>
+		<title>FreshlyPressed</title>
+		<link>http://freshlypressed.wordpress.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="http://freshlypressed.wordpress.com/osd.xml" title="FreshlyPressed" />
+	<atom:link rel='hub' href='http://freshlypressed.wordpress.com/?pushpress=hub'/>
+		<item>
+		<title>Why the Online Identity &amp; Data Ownership Debate Matters</title>
+		<link>http://emergentbydesign.com/2011/04/28/why-the-online-identity-data-ownership-debate-matters/</link>
+		<comments>http://emergentbydesign.com/2011/04/28/why-the-online-identity-data-ownership-debate-matters/#comments</comments>
+		<pubDate>Thu, 28 Apr 2011 15:06:50 +0000</pubDate>
+		<dc:creator>Venessa Miemis</dc:creator>
+				<category><![CDATA[building intelligence]]></category>
+		<category><![CDATA[future of the web]]></category>
+		<category><![CDATA[online identity]]></category>
+		<category><![CDATA[personal data ownership]]></category>
+
+		<guid isPermaLink="false">http://emergentbydesign.com/?p=1795</guid>
+		<description><![CDATA[There has been quite a bit of media attention the past week around the news that iPhones and iPads are recording and storing location data in an unencrypted manner. Apple repliedthat it’s not tracking iPhone location, it’s maintaining a database of surrounding Wi-Fi hotspots and cell towers so the iPhone can calculate its location when [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=1795&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<div><a href="http://technologybubbles.files.wordpress.com/2011/04/screen-shot-2011-04-28-at-3-01-38-pm.png"><img class="aligncenter size-full wp-image-1804" title="Screen shot 2011-04-28 at 3.01.38 PM" src="http://technologybubbles.files.wordpress.com/2011/04/screen-shot-2011-04-28-at-3-01-38-pm.png?w=600&#038;h=446" alt="" width="600" height="446" /></a></div>
+<div>There has been quite a bit of media attention the past week around <a href="http://radar.oreilly.com/2011/04/apple-location-tracking.html">the news</a> that iPhones and iPads are recording and storing location data in an unencrypted manner. <a href="http://www.apple.com/pr/library/2011/04/27location_qa.html">Apple replied</a>that it’s not tracking iPhone location, it’s maintaining a database of surrounding Wi-Fi hotspots and cell towers so the iPhone can calculate its location when requested.Anyway, the little window of raised awareness and interest in data mining and privacy compelled me to want to write a bit about it.</p>
+<p>I’ve been exploring many angles over the past few years of how humanity and our technologies are co-evolving, &#8211; how social media tools are offering us new ways to collaborate, to see ourselves through different lenses, to intentionally evolve our consciousness, and to explore new forms of value exchange.</p>
+<p>I was invited to participate in the <a href="http://www.internetidentityworkshop.com/">Internet Identity Workshop</a> in Silicon Valley next week, and the <a href="http://pii2011.com/">Privacy Identity Innovation</a> conference later in May, so my new learning objective has been to get a grasp on online identity and personal data ownership.  It’s really quite fascinating, and there is a real sense of urgency for awareness to be raised around what’s happening and what it means.</p>
+<p><strong>The Big Picture</strong></p>
+<p>We’re aware that the data we generate is “owned” (or at least maintained) by someone else &#8211; the government issues us our identification, the doctor’s office has our health records, the credit agencies know our financial history. We assume our information is private and secure.</p>
+<p>But now with so much activity happening online and increasingly on mobile devices, we’re generating a digital representation of ourselves that not only expresses our interests, desires, needs, purchasing behaviors, and the range of social connections and relationships, but also the contextual information of our location in physical space and time.</p>
+<p>This is important because we’re generating a detailed profile of ourselves that reveals much more about us that we may realize.</p>
+<p><strong>What is Revealed: Macro Level</strong></p>
+<p>A recent article in the Wall Street Journal, <a href="http://online.wsj.com/article/SB10001424052748704547604576263261679848814.html?mod=wsj_share_twitter">The Really Smart Phone</a>, discusses research conducted by scientists, and the interesting patterns of human behavior they were able to abstract from data collected from smartphones. For example, by analyzing people’s movement records, they were able to predict someone’s future whereabouts with 93.6% accuracy. They’re able to notice symptoms of mental illness, predict stock market fluctuations, and even chart the spread of ideas throughout society, revealing a “god’s-eye view of human behavior.” With billions of people on the planet now carrying a mobile device, we’re able to access data about human complexity that was simply not possible before.</p>
+<p><strong>What is Revealed: Micro Level</strong></p>
+<p>In a New York Times piece from the other day, <a href="http://www.nytimes.com/2011/04/24/business/24view.html?_r=2&amp;partner=rss&amp;emc=rss">Show Us the Data. (It’s Ours, After All.)</a>, professor of economics and behavioral science Richard Thaler writes about the vast amount of personal data that is being aggregated about us and sold to third parties.</p>
+<p>In terms of consumption, this data is useful for companies in order to target you with highly personalized recommendations, advertising and offers. On a personally empowering level, it could potentially offer us a wealth of information about ourselves to assist us with intelligent decision-making. For example, by looking at medical records and family history, we might receive tailored recommendations for exercise plans or food choices. The problem is &#8211; we often don’t have access to this data.</p>
+<p><strong>What’s at Stake</strong></p>
+<p>There’s a lot of talk about “privacy” on the web right now, and I’m still not completely sure I understand the extent of the argument. If by privacy we mean security, and wanting protection of sensitive data like financial records or social security numbers, I completely agree. But if privacy concerns are around the fear of someone finding out about that bizarre fetish we have or the flavor of porn we prefer, I wonder how much that matters. While that information may be taboo in some circles, it’s actually infinitely less interesting than the data we reveal about ourselves publicly that’s being mined and sold online every day.</p>
+</div>
+<div>(check out this tongue in cheek video by The Onion &#8211; &#8220;CIA&#8217;s Facebook Program Dramatically Cut Agency&#8217;s Costs)</div>
+<div><span style="text-align:center; display: block;"><a href="http://emergentbydesign.com/2011/04/28/why-the-online-identity-data-ownership-debate-matters/"><img src="http://img.youtube.com/vi/juQcZO_WnsI/2.jpg" alt="" /></a></span></div>
+<div>
+<p>Most of the activity done online, from browsing websites to chatting with friends, is being recorded by someone. Your “private” conversations in Facebook are mined, as are your shopping habits on Amazon, or your preferences or personal connections on any number of services.</p>
+<p>The issue with these things, moreso than that they are happening, is that we don’t have access to that data that we generate. Challenging this unfortunate reality was the big thrust that led to the formation of the <a href="http://personaldataecosystem.org/">Personal Data Ecosystem Consortium</a>, a coalition of individuals and organizations who realize what’s at stake if we don’t reclaim the data that is ours.</p>
+<p>Essentially, by third parties locking in our “digital self” into each of their services, we are losing massive collective intelligence opportunites for innovation, value creation, knowledge building, and citizen engagement as a global society.</p>
+<p>We have multiple accounts and multiple levels of relationships within and across those social networks. When we click around on sites we are leaving a trail of ‘digital exhaust’, defining our habits, preferences, curiosities, and explorations. We don’t have control/access/ownership of this data, but 3rd parties do. Each of these pieces, and all the contextual information around it, is INCREDIBLY VALUABLE, but currently fragmented, fractured, and scattered. Shouldn&#8217;t we have access to it ALL, so we can connect the dots and make effecitve and meaningful choices?</p>
+<p>Why can’t I just export my data, activity, and relationships from each service, and be in control of who gets to see it, which parts they get to access, and how they use it once I give them permission?</p>
+<p>Why isn’t there an easy way for me to have an overview of everything about me, and be able to selectively share information about myself, my interests, my capacities, my needs, or my resources?</p>
+<p><strong>The Future We Deserve</strong></p>
+<p>At the moment, commercial entities know more about our preferences and behaviors online than we do. With all the services out there that facilitate social interaction, there is still no easy way to connect with people with whom we share affinities, and then to effectively exchange information with them or collaborate in a meaningful way.</p>
+<p>Our online identity and data *should* be our right to control, so that we are empowered to make better decisions about our lives and well-being, find potential collaborators or kindred spirits, or generally create more meaningful and valuable relationships. It’s worth asking:</p>
+<p><em><strong>What would a people-centric web look like?</strong></em></p>
+<p><em><strong>What if it felt more like walking through a town commons and less like walking through a shopping mall?</strong></em></p>
+<p><em><strong>How could identity and trust be built into the architecture of the internet?</strong></em></p>
+<p>To contain the length here, I’ll flesh out some ideas about all this in an upcoming post -</p>
+<p>“A Framework for Building Online Intelligence”</p>
+<p>In the meantime, I’d love to hear your thoughts about identity and personal data ownership.</p>
+<p>see also:</p>
+<p><a href="http://blogs.law.harvard.edu/vrm/2011/04/28/personal-leverage-for-personal-data/">Personal leverage for personal data </a>- doc searls<br />
+<a href="http://www.brookings.edu/papers/2011/0401_databuse_wittes.aspx">Databuse: Digital Privacy and the Mosaic</a></p>
+</div>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/1795/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/1795/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/1795/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/1795/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/1795/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/1795/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/1795/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/1795/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/1795/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/1795/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/1795/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/1795/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/1795/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/1795/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=1795&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://emergentbydesign.com/2011/04/28/why-the-online-identity-data-ownership-debate-matters/feed/</wfw:commentRss>
+		<slash:comments>34</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/afba7d6d681bdba900f124c879136cf7?s=96&#38;d=&#38;r=G" medium="image">
+			<media:title type="html">Venessa Miemis</media:title>
+		</media:content>
+
+		<media:content url="http://technologybubbles.files.wordpress.com/2011/04/screen-shot-2011-04-28-at-3-01-38-pm.png" medium="image">
+			<media:title type="html">Screen shot 2011-04-28 at 3.01.38 PM</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Attention All Staff!</title>
+		<link>http://crabbyoldfart.wordpress.com/2011/05/01/attention-all-staff/</link>
+		<comments>http://crabbyoldfart.wordpress.com/2011/05/01/attention-all-staff/#comments</comments>
+		<pubDate>Sun, 01 May 2011 18:02:59 +0000</pubDate>
+		<dc:creator>Donald Mills</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[customer service]]></category>
+		<category><![CDATA[fatty]]></category>
+		<category><![CDATA[humor]]></category>
+		<category><![CDATA[old people]]></category>
+		<category><![CDATA[rude staff]]></category>
+		<category><![CDATA[seniors]]></category>
+		<category><![CDATA[tea biscuits]]></category>
+
+		<guid isPermaLink="false">http://crabbyoldfart.wordpress.com/?p=3420</guid>
+		<description><![CDATA[I&#8217;m getting sick and tired of the second rate customer service we seniors receive at the hands of inarticulate, incompetent and inattentive young people. In response, I&#8217;ve printed off a dozen of copies of the following flier and respectfully requested that local businesses post them in their damned staff rooms.<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=3420&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;m getting sick and tired of the second rate customer service we seniors receive at the hands of inarticulate, incompetent and inattentive young people.</p>
+<p>In response, I&#8217;ve printed off a dozen of copies of the following flier and respectfully requested that local businesses post them in their damned staff rooms.</p>
+<div style="height:1em;visibility:hidden;"></div>
+<p><a href="http://crabbyoldfart.wordpress.com/2011/05/01/attention-all-staff/attention-all-staff-poster/" rel="attachment wp-att-4271"><img src="http://crabbyoldfart.files.wordpress.com/2011/05/attention-all-staff-poster.jpg?w=600&#038;h=985" alt="" title="Attention all staff poster" width="600" height="985" class="aligncenter size-full wp-image-4271" /></a></p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/3420/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/3420/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/3420/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/3420/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/3420/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/3420/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/3420/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/3420/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/3420/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/3420/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/3420/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/3420/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/3420/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/3420/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=3420&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://crabbyoldfart.wordpress.com/2011/05/01/attention-all-staff/feed/</wfw:commentRss>
+		<slash:comments>93</slash:comments>
+	
+		<media:content url="http://1.gravatar.com/avatar/b0f5c16cc962f1fec469f4cb074627b1?s=96&#38;d=identicon&#38;r=X" medium="image">
+			<media:title type="html">crabby old fart</media:title>
+		</media:content>
+
+		<media:content url="http://crabbyoldfart.files.wordpress.com/2011/05/attention-all-staff-poster.jpg" medium="image">
+			<media:title type="html">Attention all staff poster</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Tram 28 and Castelo de Sao Jorge</title>
+		<link>http://ayearinmyshoes.wordpress.com/2011/04/27/tram-28-and-castelo-de-sao-jorge/</link>
+		<comments>http://ayearinmyshoes.wordpress.com/2011/04/27/tram-28-and-castelo-de-sao-jorge/#comments</comments>
+		<pubDate>Wed, 27 Apr 2011 18:30:49 +0000</pubDate>
+		<dc:creator>livvy30</dc:creator>
+				<category><![CDATA[Buildings]]></category>
+		<category><![CDATA[Landscape photography]]></category>
+		<category><![CDATA[Lisbon]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[Portugal]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[urbanscape]]></category>
+
+		<guid isPermaLink="false">http://ayearinmyshoes.wordpress.com/?p=703</guid>
+		<description><![CDATA[I&#8217;ve just discovered that this has got Freshly Pressed! Thanks to WordPress for that and thank you all for stopping by and your comments. I really appreciate it. Part 3! We start back in Rossio again and we have the castle in our sight! There are a few ways to get up there: walk, bus [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=703&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p><em>I&#8217;ve just discovered that this has got Freshly Pressed! Thanks to WordPress for that and thank you all for stopping by and your comments. I really appreciate it.</em></p>
+<p><em></em>Part 3!</p>
+<p>We start back in Rossio again and we have the castle in our sight!</p>
+<div id="attachment_704" class="wp-caption aligncenter" style="width: 507px"><a href="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0071.jpg"><img class="size-full wp-image-704" title="IMG_0071" src="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0071.jpg?w=497&#038;h=745" alt="" width="497" height="745" /></a><p class="wp-caption-text">Rossio</p></div>
+<div id="attachment_705" class="wp-caption aligncenter" style="width: 507px"><a href="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0072.jpg"><img class="size-full wp-image-705" title="IMG_0072" src="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0072.jpg?w=497&#038;h=745" alt="" width="497" height="745" /></a><p class="wp-caption-text">View of the castle from Rossio</p></div>
+<p>There are a few ways to get up there: walk, bus or the infamous Tram 28 (our option, of course!) Tram 28 goes through the narrow streets of the Alfama taking no prisoners. My first thought was YAY because we got a seat and it was near the window. The guide book told me this was very rare. My second thought was Oh My God because I went to lean on the window and found my head nearly getting chopped off by a parked van. That&#8217;s right, the windows of the tram are kept open <img src='http://s2.wp.com/wp-includes/images/smilies/icon_smile.gif' alt=':-)' class='wp-smiley' /> </p>
+<div id="attachment_706" class="wp-caption aligncenter" style="width: 507px"><a href="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0163.jpg"><img class="size-full wp-image-706" title="IMG_0163" src="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0163.jpg?w=497&#038;h=745" alt="" width="497" height="745" /></a><p class="wp-caption-text">Tram 28!</p></div>
+<p>We got out at one of the viewpoints nearest to the castle and admired the view before trekking up the last hilly bit that the tram doesn&#8217;t go up.</p>
+<div id="attachment_707" class="wp-caption aligncenter" style="width: 507px"><a href="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0089.jpg"><img class="size-full wp-image-707" title="IMG_0089" src="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0089.jpg?w=497&#038;h=234" alt="" width="497" height="234" /></a><p class="wp-caption-text">Santa Engracia and the Vasco de Gama bridge</p></div>
+<div id="attachment_708" class="wp-caption aligncenter" style="width: 507px"><a href="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0091.jpg"><img class="size-full wp-image-708" title="IMG_0091" src="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0091.jpg?w=497&#038;h=331" alt="" width="497" height="331" /></a><p class="wp-caption-text">Alfama views</p></div>
+<p>While we were queueing to get into the castle, I noticed this amusing feature for the male population&#8230;..</p>
+<div id="attachment_709" class="wp-caption aligncenter" style="width: 507px"><a href="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0092.jpg"><img class="size-full wp-image-709" title="IMG_0092" src="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0092.jpg?w=497&#038;h=745" alt="" width="497" height="745" /></a><p class="wp-caption-text">!</p></div>
+<p>Inside the castle, there&#8217;s a lot of walking up steps to be done, and photos of views to be taken.</p>
+<div id="attachment_711" class="wp-caption aligncenter" style="width: 507px"><a href="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0101.jpg"><img class="size-full wp-image-711" title="IMG_0101" src="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0101.jpg?w=497&#038;h=331" alt="" width="497" height="331" /></a><p class="wp-caption-text">Praca de Comercio</p></div>
+<div id="attachment_712" class="wp-caption aligncenter" style="width: 507px"><a href="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0103.jpg"><img class="size-full wp-image-712" title="IMG_0103" src="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0103.jpg?w=497&#038;h=331" alt="" width="497" height="331" /></a><p class="wp-caption-text">Bairro Alto and Chiado</p></div>
+<div id="attachment_713" class="wp-caption aligncenter" style="width: 507px"><a href="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0125.jpg"><img class="size-full wp-image-713" title="IMG_0125" src="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0125.jpg?w=497&#038;h=331" alt="" width="497" height="331" /></a><p class="wp-caption-text">Praca de Figueira</p></div>
+<div id="attachment_714" class="wp-caption aligncenter" style="width: 507px"><a href="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0129.jpg"><img class="size-full wp-image-714" title="IMG_0129" src="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0129.jpg?w=497&#038;h=745" alt="" width="497" height="745" /></a><p class="wp-caption-text">Tagus</p></div>
+<div id="attachment_715" class="wp-caption aligncenter" style="width: 507px"><a href="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0138.jpg"><img class="size-full wp-image-715" title="IMG_0138" src="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0138.jpg?w=497&#038;h=296" alt="" width="497" height="296" /></a><p class="wp-caption-text">Santa Engracia</p></div>
+<p>Another feature of the castle are the many, many cats lying around and these beautiful peacocks.</p>
+<div id="attachment_716" class="wp-caption aligncenter" style="width: 507px"><a href="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0153.jpg"><img class="size-full wp-image-716" title="IMG_0153" src="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0153.jpg?w=497&#038;h=522" alt="" width="497" height="522" /></a><p class="wp-caption-text">Peacock</p></div>
+<p>After all that climbing, there was only one thing for it &#8211; a quick trip to Se Cathedral  and an ice cream while we waited for Tram 28 to bring us back down again!</p>
+<div id="attachment_717" class="wp-caption aligncenter" style="width: 507px"><a href="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0176.jpg"><img class="size-full wp-image-717" title="IMG_0176" src="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0176.jpg?w=497&#038;h=776" alt="" width="497" height="776" /></a><p class="wp-caption-text">Se Cathedral and the tram is coming!</p></div>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/703/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/703/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/703/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/703/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/703/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/703/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/703/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/703/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/703/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/703/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/703/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/703/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/703/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/703/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=703&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://ayearinmyshoes.wordpress.com/2011/04/27/tram-28-and-castelo-de-sao-jorge/feed/</wfw:commentRss>
+		<slash:comments>26</slash:comments>
+		<georss:point>51.897866 -8.471094</georss:point>
+		<geo:lat>51.897866</geo:lat>
+		<geo:long>-8.471094</geo:long>
+		<media:content url="http://1.gravatar.com/avatar/ff6992fa433035d8a02a765a74666cc9?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">livvy30</media:title>
+		</media:content>
+
+		<media:content url="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0071.jpg" medium="image">
+			<media:title type="html">IMG_0071</media:title>
+		</media:content>
+
+		<media:content url="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0072.jpg" medium="image">
+			<media:title type="html">IMG_0072</media:title>
+		</media:content>
+
+		<media:content url="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0163.jpg" medium="image">
+			<media:title type="html">IMG_0163</media:title>
+		</media:content>
+
+		<media:content url="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0089.jpg" medium="image">
+			<media:title type="html">IMG_0089</media:title>
+		</media:content>
+
+		<media:content url="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0091.jpg" medium="image">
+			<media:title type="html">IMG_0091</media:title>
+		</media:content>
+
+		<media:content url="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0092.jpg" medium="image">
+			<media:title type="html">IMG_0092</media:title>
+		</media:content>
+
+		<media:content url="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0101.jpg" medium="image">
+			<media:title type="html">IMG_0101</media:title>
+		</media:content>
+
+		<media:content url="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0103.jpg" medium="image">
+			<media:title type="html">IMG_0103</media:title>
+		</media:content>
+
+		<media:content url="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0125.jpg" medium="image">
+			<media:title type="html">IMG_0125</media:title>
+		</media:content>
+
+		<media:content url="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0129.jpg" medium="image">
+			<media:title type="html">IMG_0129</media:title>
+		</media:content>
+
+		<media:content url="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0138.jpg" medium="image">
+			<media:title type="html">IMG_0138</media:title>
+		</media:content>
+
+		<media:content url="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0153.jpg" medium="image">
+			<media:title type="html">IMG_0153</media:title>
+		</media:content>
+
+		<media:content url="http://ayearinmyshoes.files.wordpress.com/2011/04/img_0176.jpg" medium="image">
+			<media:title type="html">IMG_0176</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>There&#8217;s One Thousand Four Hundred Forty Hours in My Day</title>
+		<link>http://forwardisapace.com/2011/04/27/theres-one-thousand-four-hundred-forty-hours-in-my-day/</link>
+		<comments>http://forwardisapace.com/2011/04/27/theres-one-thousand-four-hundred-forty-hours-in-my-day/#comments</comments>
+		<pubDate>Wed, 27 Apr 2011 15:31:48 +0000</pubDate>
+		<dc:creator>Lauren</dc:creator>
+				<category><![CDATA[Life]]></category>
+		<category><![CDATA[productivity]]></category>
+		<category><![CDATA[stress]]></category>
+		<category><![CDATA[time management]]></category>
+		<category><![CDATA[training]]></category>
+
+		<guid isPermaLink="false">http://forwardisapace.com/?p=361</guid>
+		<description><![CDATA[Sometimes I wish there were that many, anyway.  24 hours never seems to be quite enough time to do everything I want to do. Part of it is that I love everything I&#8217;m doing, and that is a good problem to have.  Part of it is that I commute a pretty long way to work, and [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=361&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p>Sometimes I <em>wish</em> there were that many, anyway.  24 hours never seems to be quite enough time to do everything I want to do.</p>
+<p>Part of it is that <a href="http://forwardisapace.com/2011/04/22/just-one-of-the-many/" target="_blank">I love everything I&#8217;m doing</a>, and that is a good problem to have.  Part of it is that I commute a pretty long way to work, and public transportation is not an option.  But because I love my job so much, that&#8217;s okay. </p>
+<p>And part of it is that, honestly, I have really crappy automatic responses to stress.  They look something like this:</p>
+<p style="text-align:center;">I look at what is coming up in the next few weeks, and I get overwhelmed.  (Actually, this was supposed to be a self-portrait of me cheering for the Chicago Bulls.  But really, it looks more like &#8220;Lauren freaking out with a fist of rage!&#8221; so go with it.)</p>
+<p><a href="http://littlerunnergirl.files.wordpress.com/2011/04/bulls-010.jpg"><img class="aligncenter size-medium wp-image-362" title="bulls 010" src="http://littlerunnergirl.files.wordpress.com/2011/04/bulls-010.jpg?w=300&#038;h=225" alt="" width="300" height="225" /></a></p>
+<p style="text-align:center;">Immediately upon coming home, I drop everything in my arms where ever I feel like it.  My &#8220;side&#8221; of the bedroom begins to look like this.  (I cannot believe I am posting this picture.)</p>
+<p style="text-align:center;"><a href="http://littlerunnergirl.files.wordpress.com/2011/04/001-3.jpg"><img class="aligncenter size-medium wp-image-363" title="001-3" src="http://littlerunnergirl.files.wordpress.com/2011/04/001-3.jpg?w=300&#038;h=225" alt="" width="300" height="225" /></a></p>
+<p style="text-align:left;">Brilliant, right?  My to-do list is already overflowing, so I&#8217;ll just make a mess and let the laundry pile up.  So at this point, I just continue on a downward spiral.  I am frustrated and overwhelmed with the amount of work I already had, plus the additional work I created for myself.  My response is always the same.</p>
+<p style="text-align:center;">Avoid, avoid, avoid. Sleep. Read other people&#8217;s blogs. <em>Maybe</em> update my own blog, though that borders on productive.  Watch Glee. Bake cookies.  Basically, anything that I shouldn&#8217;t do or don&#8217;t have time to do, I do.</p>
+<p style="text-align:left;"><a href="http://littlerunnergirl.files.wordpress.com/2011/04/1990-4-2.jpg"><img class="aligncenter size-medium wp-image-364" title="1990-4-2" src="http://littlerunnergirl.files.wordpress.com/2011/04/1990-4-2.jpg?w=300&#038;h=200" alt="" width="300" height="200" /></a></p>
+<p style="text-align:center;">It becomes nearly impossible to convince myself to swim, bike, run, clean my house&#8230; you know, do productive things.</p>
+<p><img class="aligncenter" title="TWT Indoor Tri 230" src="http://littlerunnergirl.files.wordpress.com/2011/04/twt-indoor-tri-230.jpg?w=225&#038;h=300" alt="" width="225" height="300" /></p>
+<p>I squeak by.  I get the work done that I have to do.  I am (mostly) able to convince myself to do my workouts.  Eventually&#8230; <em>eventually</em>&#8230; a weekend appears that is unexpectedly free.  I become inspired to tackle everything that I have left in disarray and the house sparkles and shines, the laundry is done, and I am all caught up.  I swear up and down that this will never, ever happen again.</p>
+<p>It always does.</p>
+<p>I&#8217;m working on it. </p>
+<p>In the meantime, here are some things that seem to help me at least go longer between these periods of &#8220;AHHH-OMG-HOW-IS-THERE-SO-MUCH-TO-DO?!&#8221;</p>
+<ol>
+<li>I make <em>short</em> to-do lists each day.  Sometimes I have a &#8220;master&#8221; to-do list going of everything that  I need to get done.  That list is far too overwhelming to look at on a daily basis, so each morning, I write down 3 &#8211; 5 things I want to accomplish that day.  If I get them all done, and still have energy, great!  I can always add more.  But this number is manageable without making me feel overwhelmed.</li>
+<li>I say &#8220;no.&#8221;  Sometimes I even say &#8220;no&#8221; to things I&#8217;d really like to do, because I just don&#8217;t have time to do them.  I will admit that this is a work in progress, but I&#8217;m learning to accept that I can&#8217;t do everything I want to do.  Doing a few things well is so much better than spreading yourself thin and doing a  mediocre job at a lot of things.</li>
+<li>I plan my day the night before.  I repeat my tasks to myself until I&#8217;m positive I believe them.  It&#8217;s sort of Rebecca Black-like.  &#8220;Tomorrow is Wednesday.  On Wednesday, I have work and Girls on the Run practice.  I have a bike workout.  I am going to work, eat dinner, coach Girls on the Run, and then come home and bike.  If I have downtime during work, I am going to write a blog post for Outside the Girl Box.  I need to work on an ad for Girls on the Run.&#8221; </li>
+<li>Throughout the day, if I&#8217;m losing steam, sometimes I will add an incentive.  I bribe myself.  As I&#8217;m driving home from work, I might tell myself, &#8220;You are not going to sit down on the couch.  You&#8217;re going to go home and bike.  Then you can relax with a book before bed.&#8221;</li>
+<li>I focus on one thing at a time.  Multi-tasking just never works the way I want it to.</li>
+<li>Most importantly, I forgive myself.  I try to stop obsessing about the messy house or the fact that I let responsibilites pile up.  It happens.  Once it happens, all I can do is keep going.</li>
+</ol>
+<p>What do you do to stay balanced?  How do you make sure you accomplish everything on your to-do list?  I&#8217;d love to hear more ideas!</p>
+<p><em>And before I go&#8230; the song that inspired my title.  (Since I know not everyone is a Hanson fan.  Sad but true.)</em><span style="text-align:center; display: block;"><a href="http://forwardisapace.com/2011/04/27/theres-one-thousand-four-hundred-forty-hours-in-my-day/"><img src="http://img.youtube.com/vi/2_sgMEpCa9U/2.jpg" alt="" /></a></span></p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/361/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/361/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/361/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/361/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/361/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/361/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/361/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/361/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/361/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/361/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/361/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/361/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/361/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/361/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=361&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://forwardisapace.com/2011/04/27/theres-one-thousand-four-hundred-forty-hours-in-my-day/feed/</wfw:commentRss>
+		<slash:comments>32</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/477a41fe40c48bfd5de422009df53048?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">LittleRunner</media:title>
+		</media:content>
+
+		<media:content url="http://littlerunnergirl.files.wordpress.com/2011/04/bulls-010.jpg?w=300" medium="image">
+			<media:title type="html">bulls 010</media:title>
+		</media:content>
+
+		<media:content url="http://littlerunnergirl.files.wordpress.com/2011/04/001-3.jpg?w=300" medium="image">
+			<media:title type="html">001-3</media:title>
+		</media:content>
+
+		<media:content url="http://littlerunnergirl.files.wordpress.com/2011/04/1990-4-2.jpg?w=300" medium="image">
+			<media:title type="html">1990-4-2</media:title>
+		</media:content>
+
+		<media:content url="http://littlerunnergirl.files.wordpress.com/2011/04/twt-indoor-tri-230.jpg?w=225" medium="image">
+			<media:title type="html">TWT Indoor Tri 230</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>The 7 Stages of News in a Twitter and Facebook Era</title>
+		<link>http://gigaom.com/2011/05/01/the-stages-of-news-in-a-twitter-and-facebook-era/</link>
+		<comments>http://gigaom.com/2011/05/01/the-stages-of-news-in-a-twitter-and-facebook-era/#comments</comments>
+		<pubDate>Mon, 02 May 2011 04:55:21 +0000</pubDate>
+		<dc:creator>Stacey Higginbotham</dc:creator>
+				<category><![CDATA[@CNN]]></category>
+		<category><![CDATA[Al Jazeera]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Guardian]]></category>
+		<category><![CDATA[media news]]></category>
+		<category><![CDATA[New York Times]]></category>
+		<category><![CDATA[real-time]]></category>
+		<category><![CDATA[real-time analysis]]></category>
+		<category><![CDATA[real-time-feeds]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[social media news]]></category>
+		<category><![CDATA[Twitter]]></category>
+
+		<guid isPermaLink="false">http://gigaom.com/?p=338594</guid>
+		<description><![CDATA[This evening, as we learn about the death of Osama bin Laden,  we're seeing firsthand what happens when the real-time, immediate notifications of Facebook and Twitter meet real-world events. But how do we decide what's gossip and what is fact? <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=338594&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p><a href="http://gigaom2.files.wordpress.com/2011/05/al-jazeera-english_-live-stream-watch-now-al-jazeera-english.jpg"><img class="alignleft size-thumbnail wp-image-338628" title="Al Jazeera English_ Live Stream - Watch Now - Al Jazeera English" src="http://gigaom2.files.wordpress.com/2011/05/al-jazeera-english_-live-stream-watch-now-al-jazeera-english.jpg?w=210&#038;h=136" alt="" width="210" height="136" /></a> <strong>Updated</strong>: This evening, as we learn about the death of Osama bin Laden, we&#8217;re seeing firsthand what happens when the real-time, immediate notifications of Facebook and Twitter meet real-world events. It&#8217;s not the first time, but the death of Osama Bin Laden is truly a global event in the way that Prince William and Kate Middleton&#8217;s marriage on Friday was not, or even what the protests in Egypt and Libya are not.</p>
+<p>While there are doubtless plenty of Americans who will wake up tomorrow to be greeted with the news that a special operations mission has killed bin Laden in Abbottabad, Pakistan, millions discovered the news Sunday night on Twitter or Facebook. And while they may have tuned into the news on television, many more watched the live stream from the White House on the web, or streamed it from Al-Jazeera, CNN (s twx) or countless other sites offering the news in real time. And some likely followed it via Twitter for far longer than the brief address. <strong>Update</strong>: After President Obama&#8217;s speech last night, <a href="http://twitter.com/#!/twitterglobalpr/status/64917013851680768">Twitter said</a> it was fielding about 4,000 tweets a second.</p>
+<p>From the time of the reported <a href="http://twitter.com/#!/keithurbahn/statuses/64877790624886784">first tweet on the topic</a>, coming from @KeithUrbahn who lists himself as &#8220;Chief of Staff, Office of Donald Rumsfeld, Navy Reserve intel officer, and owner of two miniature dachshunds. Opinions are my own,&#8221; which was posted around 10:25 p.m. EDT, Twittersphere and Facebook denizens followed a compressed news cycle as folks waited for confirmation from someone, anyone.</p>
+<p><strong>Excitement.</strong> These tweets quickly followed expressing a tone of excitement and the thrill of being first to report potentially huge news.</p>
+<p><strong>Uncertainty.</strong> Almost as fast as the news hit, the <a href="http://twitter.com/#!/ckanal/status/64881477292269569">doubters came out questioning</a> whether the news was legitimate or not. Some were waiting for the news venue of their choice to weigh in, while others were waiting for the coming statement from the president.</p>
+<p><strong>Searching for Validation.</strong> Torn between wanting the news to be true and the fear of being wrong, folks turned either reverential in their love of Al-Jazeera or the <em>New York Times</em> (s nyt) or whoever was already reporting details or <a href="http://twitter.com/#!/hblodget/status/64880531820650496">scornful of those who might</a> have been more cautious.</p>
+<p><strong>Confirmation.</strong> The White House confirmed, and now the search for meaning, data and tasteless jokes will begin in earnest.</p>
+<p><strong><a href="http://gigaom2.files.wordpress.com/2011/05/osama-bin-laden_s-compound.jpg"><img class="alignright size-thumbnail wp-image-338626" title="Osama bin Laden_s Compound" src="http://gigaom2.files.wordpress.com/2011/05/osama-bin-laden_s-compound.jpg?w=210&#038;h=117" alt="" width="210" height="117" /></a>Jokes, Profits and Platitudes.</strong> Once confirmed, the <a href="http://twitter.com/#!/abnerg/statuses/64892235942068224">platitudes</a>, jokes and attempts to profit either via owning a domain, a twitter identity (say hello to @ghostosama) or the umpteenth joke about the birthers now asking for a long form death certificate are free to escalate. Meanwhile Google (s goog) updates its Maps to show the location where bin Laden was killed.</p>
+<p><strong>Action. </strong>This is where Facebook and social media really shine. From tweets about people seeking <a href="http://twitter.com/#!/Scobleizer/status/64903069254696960">more information from friends</a> to those seeking to find out if others are <a href="http://twitter.com/#!/lexinyt/status/64898318299430912">meeting at Ground Zero</a> by checking out a live web cam of the site, people now can learn about news and do something.</p>
+<p><strong>Real Analysis. </strong>Not on Twitter, unless it&#8217;s via a link to a blog or a <a href="http://mediadecoder.blogs.nytimes.com/2011/05/01/how-the-osama-announcement-leaked-out/?src=tptw">newspaper</a>. What insight on geopolitics can one really offer in 140 characters?</p>
+<p>Maybe it&#8217;s time to recognize these stages, or come up with more thoughtful ones, so we can recognize where we are when we tune into this cycle and behave accordingly. As journalists, we often get scoops or hear of news and have to make a similar set of judgments before reporting it, but on Twitter, what often starts out as gossip now has the weight of news. As recipients, we have no way to judge at first glance though if it&#8217;s real or wishful thinking. Perhaps it&#8217;s time we gave ourselves a better set of tools?</p>
+<p><em> With additional reporting by Cyndy Aleo. </em></p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/338594/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/338594/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/338594/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/338594/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/338594/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/338594/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/338594/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/338594/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/338594/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/338594/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/338594/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/338594/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/338594/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/338594/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=338594&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://gigaom.com/2011/05/01/the-stages-of-news-in-a-twitter-and-facebook-era/feed/</wfw:commentRss>
+		<slash:comments>26</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/aee37121e18bf76bb9fee4494bab237a?s=96&#38;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D96&#38;r=PG" medium="image">
+			<media:title type="html">shigginbotham</media:title>
+		</media:content>
+
+		<media:content url="http://gigaom2.files.wordpress.com/2011/05/al-jazeera-english_-live-stream-watch-now-al-jazeera-english.jpg?w=210" medium="image">
+			<media:title type="html">Al Jazeera English_ Live Stream - Watch Now - Al Jazeera English</media:title>
+		</media:content>
+
+		<media:content url="http://gigaom2.files.wordpress.com/2011/05/osama-bin-laden_s-compound.jpg?w=210" medium="image">
+			<media:title type="html">Osama bin Laden_s Compound</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Three Peaks of the Auvergne &#8211; part 1 &#8211; Puy de Sancy</title>
+		<link>http://petebuckley.wordpress.com/2011/04/23/three-peaks-of-the-auvergne-part-1-puy-de-sancy/</link>
+		<comments>http://petebuckley.wordpress.com/2011/04/23/three-peaks-of-the-auvergne-part-1-puy-de-sancy/#comments</comments>
+		<pubDate>Sat, 23 Apr 2011 11:48:12 +0000</pubDate>
+		<dc:creator>Pete Buckley</dc:creator>
+				<category><![CDATA[France]]></category>
+		<category><![CDATA[Hiking]]></category>
+		<category><![CDATA[outdoors]]></category>
+		<category><![CDATA[travel]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Auvergne]]></category>
+		<category><![CDATA[Dordogne]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[hiking]]></category>
+		<category><![CDATA[holidays]]></category>
+		<category><![CDATA[massif central]]></category>
+		<category><![CDATA[mountains]]></category>
+		<category><![CDATA[nature]]></category>
+		<category><![CDATA[Puy de Sancy]]></category>
+		<category><![CDATA[vacation]]></category>
+		<category><![CDATA[walking]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://petebuckley.wordpress.com/?p=76</guid>
+		<description><![CDATA[The region of southern central France known as the Auvergne is the birthplace of two of the country&#8217;s best known rivers &#8211; the Loire and the Dordogne &#8211; yet the majority of the tourists who visit their illustrious wine regions to the North and West are unaware of its unique beauty. The Auvergne region is [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=76&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p><strong>The region of</strong> southern central France known as the Auvergne is the birthplace of two of the country&#8217;s best known rivers &#8211; the Loire and the Dordogne &#8211; yet the majority of the tourists who visit their illustrious wine regions to the North and West are unaware of its unique beauty. The Auvergne region is split into 4 smaller areas &#8211; Allier, Puy de Dome, Haute Loire and Cantal &#8211; and is home to the Massif Central where are to be found the highest mountains in France outside of the Alps and the Pyrenees.</p>
+<p>Much of the country is reminiscent of the rolling wooded hills of Derbyshire but just occasionally upthrusts in these benign hills aspire to greater things and with the exception of lowland Allier the other three areas are home to peaks that echo the far off Alps or Pyrenees. This post in three parts is a tale of those three peaks of the Auvergne &#8211; the high points of Puy de Dome, Cantal and Haute Loire.</p>
+<div id="attachment_83" class="wp-caption aligncenter" style="width: 650px"><a href="http://petebuckley.files.wordpress.com/2011/04/massif-central-0012.jpg"><img class="size-full wp-image-83" title="Massif du Sancy" src="http://petebuckley.files.wordpress.com/2011/04/massif-central-0012.jpg?w=640&#038;h=438" alt="Puy de Sancy" width="640" height="438" /></a><p class="wp-caption-text">The Massif du Sancy and the upper part of the Dordogne Valley</p></div>
+<p>My objective rose impressively ahead &#8211; an abrupt end to the valley where tiers of rocky escarpments and steep grassy slopes culminated in a precipitous looking rocky tower which was crowned by the upper cable car station. The highest point of the Massif Central, Le Puy de Sancy was hidden from sight just behind that rocky peak which itself moved in and out of sight with the drifting mists that cloaked the upper crags.</p>
+<p>We&#8217;d driven up to the car park at the end of the valley from the ramshackle charm of Le Mont-Dore &#8211; the Dordogne valley&#8217;s last town &#8211; and I&#8217;d set off up the path which was really more of a wide track that doubled as a ski piste in the winter months. Jacqui being pregnant and Josh being nine &#8211; were both going up on the cable car and I&#8217;d meet them at the top station from where we&#8217;d all walk the last bit to the summit.</p>
+<div id="attachment_85" class="wp-caption aligncenter" style="width: 650px"><a href="http://petebuckley.files.wordpress.com/2011/04/massif-central-0041.jpg"><img class="size-full wp-image-85" title="Dordogne Valley and Le Mont Dore" src="http://petebuckley.files.wordpress.com/2011/04/massif-central-0041.jpg?w=640&#038;h=480" alt="Dordogne Valley" width="640" height="480" /></a><p class="wp-caption-text">Looking back down the Dordogne Valley to Le Mont Dore at the right of the picture</p></div>
+<p>The track steadily climbed the grassy slopes towards an impressive looking waterfall up ahead &#8211; probably somewhere near the actual source of the Dordogne &#8211; and was an easy uphill walk though I found the plastic mesh fencing off putting. Its purpose was to prevent out of control skiers from plummeting down the mountain and I guess if I were skiing down here I would most likely fall into that category and be reassured to see the bright orange netting but it doesn&#8217;t complement the surrounding views.<br />
+ <br />
+I followed the path towards the waterfall before it bent around to climb above it into a high misty valley from where it made a steeper and stonier ascent to approach the upper cable car station by easy slopes unseen from below. The ragged cloud which had clung to the upper slopes now surrounded me obscuring the views and as it began to rain I joined Jacqui and Josh in the oppressive warmth of the cafe until the shower had passed and we could all set out for the top. </p>
+<div id="attachment_86" class="wp-caption aligncenter" style="width: 650px"><a href="http://petebuckley.files.wordpress.com/2011/04/massif-central-005.jpg"><img class="size-full wp-image-86" title="Path to Puy de Sancy" src="http://petebuckley.files.wordpress.com/2011/04/massif-central-005.jpg?w=640&#038;h=480" alt="Puy de Sancy path" width="640" height="480" /></a><p class="wp-caption-text">The path up to the upper gondola station with Le Mont Dore beyond</p></div>
+<div id="attachment_87" class="wp-caption aligncenter" style="width: 650px"><a href="http://petebuckley.files.wordpress.com/2011/04/massif-central-007.jpg"><img class="size-full wp-image-87" title="Puy de Sancy" src="http://petebuckley.files.wordpress.com/2011/04/massif-central-007.jpg?w=640&#038;h=506" alt="Le Puy de Sancy" width="640" height="506" /></a><p class="wp-caption-text">The summit seen from the upper gondola station</p></div>
+<p>The ascent from the cable car station to Puy de Sancy at 1886m or 6188 feet is just a case of following everyone else up the wooden steps and duck boarding to the viewing indicator on the summit. Very little effort and no route finding ability are needed but the views are worth coming up for if nothing else. I guess I&#8217;m just against the idea of constructing pathways like this up mountains as it destroys their originally wild nature. In defence of the path builders I would imagine that erosion would be a serious problem here without the wooden boards &#8211; the hazards of having a cable car almost to the top &#8211; and they are preferable to the concrete pathway built up Puy Mary in Cantal to the South of here.</p>
+<div id="attachment_88" class="wp-caption aligncenter" style="width: 650px"><a href="http://petebuckley.files.wordpress.com/2011/04/massif-central-008.jpg"><img class="size-full wp-image-88" title="Rock Formations" src="http://petebuckley.files.wordpress.com/2011/04/massif-central-008.jpg?w=640&#038;h=853" alt="Rock formations on the ridge" width="640" height="853" /></a><p class="wp-caption-text">Rock formations on the ridge seen from the path to the summit</p></div>
+<div id="attachment_89" class="wp-caption aligncenter" style="width: 650px"><a href="http://petebuckley.files.wordpress.com/2011/04/massif-central-009.jpg"><img class="size-full wp-image-89" title="The Gondola Station" src="http://petebuckley.files.wordpress.com/2011/04/massif-central-009.jpg?w=640&#038;h=436" alt="Massif du Sancy Gondola" width="640" height="436" /></a><p class="wp-caption-text">The upper gondola station seen from the summit</p></div>
+<div id="attachment_90" class="wp-caption aligncenter" style="width: 650px"><a href="http://petebuckley.files.wordpress.com/2011/04/massif-central-012.jpg"><img class="size-full wp-image-90" title="Summit View" src="http://petebuckley.files.wordpress.com/2011/04/massif-central-012.jpg?w=640&#038;h=458" alt="Summit View" width="640" height="458" /></a><p class="wp-caption-text">The view from the top of the Massif Central</p></div>
+<p>To part 2 of this post &gt;&gt;&gt; hiking the <a title="Three Peaks of the Auvergne – part 2 – Plomb du Cantal" href="http://petebuckley.wordpress.com/2011/04/25/three-peaks-of-the-auvergne-part-2-plomb-du-cantal/">Plomb du Cantal</a></p>
+<p>More info, walks and travel stories on <a title="Armchair Traveller" href="http://www.armchair-traveller.co.uk" target="_blank">my homepage</a></p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/76/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/76/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/76/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/76/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/76/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/76/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/76/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/76/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/76/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/76/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/76/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/76/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/76/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/76/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=76&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://petebuckley.wordpress.com/2011/04/23/three-peaks-of-the-auvergne-part-1-puy-de-sancy/feed/</wfw:commentRss>
+		<slash:comments>23</slash:comments>
+	
+		<media:content url="http://0.gravatar.com/avatar/29c8a2207af2464011e4e23945fd5b9c?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">petebuckley</media:title>
+		</media:content>
+
+		<media:content url="http://petebuckley.files.wordpress.com/2011/04/massif-central-0012.jpg" medium="image">
+			<media:title type="html">Massif du Sancy</media:title>
+		</media:content>
+
+		<media:content url="http://petebuckley.files.wordpress.com/2011/04/massif-central-0041.jpg" medium="image">
+			<media:title type="html">Dordogne Valley and Le Mont Dore</media:title>
+		</media:content>
+
+		<media:content url="http://petebuckley.files.wordpress.com/2011/04/massif-central-005.jpg" medium="image">
+			<media:title type="html">Path to Puy de Sancy</media:title>
+		</media:content>
+
+		<media:content url="http://petebuckley.files.wordpress.com/2011/04/massif-central-007.jpg" medium="image">
+			<media:title type="html">Puy de Sancy</media:title>
+		</media:content>
+
+		<media:content url="http://petebuckley.files.wordpress.com/2011/04/massif-central-008.jpg" medium="image">
+			<media:title type="html">Rock Formations</media:title>
+		</media:content>
+
+		<media:content url="http://petebuckley.files.wordpress.com/2011/04/massif-central-009.jpg" medium="image">
+			<media:title type="html">The Gondola Station</media:title>
+		</media:content>
+
+		<media:content url="http://petebuckley.files.wordpress.com/2011/04/massif-central-012.jpg" medium="image">
+			<media:title type="html">Summit View</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Pipe Dream #14: To Be Little Debbie &#8211;  Oatmeal Cream Pies with Cinnamon Buttercream</title>
+		<link>http://pipingdreams.wordpress.com/2011/04/27/pipe-dream-to-be-little-debbie-oatmeal-cream-pies/</link>
+		<comments>http://pipingdreams.wordpress.com/2011/04/27/pipe-dream-to-be-little-debbie-oatmeal-cream-pies/#comments</comments>
+		<pubDate>Wed, 27 Apr 2011 14:00:20 +0000</pubDate>
+		<dc:creator>Lauren</dc:creator>
+				<category><![CDATA[Desserts]]></category>
+		<category><![CDATA[Photography]]></category>
+		<category><![CDATA[Recipes]]></category>
+		<category><![CDATA[b stud]]></category>
+		<category><![CDATA[buttercream]]></category>
+		<category><![CDATA[cinnamon]]></category>
+		<category><![CDATA[frosting]]></category>
+		<category><![CDATA[little debbie]]></category>
+		<category><![CDATA[oatmeal cream pie]]></category>
+
+		<guid isPermaLink="false">http://pipingdreams.wordpress.com/?p=456</guid>
+		<description><![CDATA[Because butter is such a prized commodity in my house, and I use it so often, I try and do a little research before I dive into a new recipe. For example, I could google &#8216;vanilla cupcakes recipe&#8217; and the first link might be moist and flavorful, or it could be a total bust. No [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=456&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p><a href="http://pipingdreams.files.wordpress.com/2011/04/creampies21.jpg"><img class="aligncenter size-full wp-image-445" title="creampies2" src="http://pipingdreams.files.wordpress.com/2011/04/creampies21.jpg?w=500&#038;h=332" alt="" width="500" height="332" /></a></p>
+<p>Because butter is such a prized commodity in my house, and I use it so often, I try and do a little research before I dive into a new recipe. For example, I could google &#8216;vanilla cupcakes recipe&#8217; and the first link might be moist and flavorful, or it could be a total bust. No one likes a dry, vanilla-less vanilla cupcake.</p>
+<p><a href="http://pipingdreams.files.wordpress.com/2011/04/creampies5.jpg"><img class="aligncenter size-full wp-image-448" title="creampies5" src="http://pipingdreams.files.wordpress.com/2011/04/creampies5.jpg?w=500&#038;h=332" alt="" width="500" height="332" /></a></p>
+<p>Instead of just printing off the first recipe to meet mine eyes, I usually poke around a bit, read comments, compare ingredients, that sort of thing. In the end, I can either find a recipe that is perfect, or I can adjust a decent recipe to be as I think it should be (which as we know, could be not so great, but we&#8217;ll just pretend I have brilliant baking ideas all the time).</p>
+<p style="text-align:center;"><a href="http://pipingdreams.files.wordpress.com/2011/04/creampies4.jpg"><img class="aligncenter size-full wp-image-447" title="creampies4" src="http://pipingdreams.files.wordpress.com/2011/04/creampies4.jpg?w=350&#038;h=526" alt="" width="350" height="526" /></a></p>
+<p>In the case of these oatmeal cream pies, which were slapped together <em>very</em> quickly on a Monday morning, I did not do the proper research. They were good, but the cookie was not as soft as I would have liked. No one complained about the cinnamon buttercream, though. <em>That</em> was real good. It was a little different, you know? Not your average Little Debbie cream filling. It was very whippED.</p>
+<p><a href="http://pipingdreams.files.wordpress.com/2011/04/creampies3.jpg"><img class="aligncenter size-full wp-image-446" title="creampies3" src="http://pipingdreams.files.wordpress.com/2011/04/creampies3.jpg?w=500&#038;h=332" alt="" width="500" height="332" /></a></p>
+<p>Which pleased me and the b stud girlies.</p>
+<p><a href="http://pipingdreams.files.wordpress.com/2011/04/creampies1.jpg"><img class="aligncenter size-full wp-image-442" title="creampies1" src="http://pipingdreams.files.wordpress.com/2011/04/creampies1.jpg?w=500&#038;h=333" alt="" width="500" height="333" /></a></p>
+<p>I don&#8217;t eat all these by myself. Usually,</p>
+<p>L</p>
+<p><strong>Oatmeal Cream Pies with Cinnamon Buttercream</strong></p>
+<p>Adapted from <a href="http://thepioneerwoman.com/tasty-kitchen/recipes/desserts/oatmeal-cream-pies-with-cinnamon-buttercream/" target="_blank">Tasty Kitchen</a></p>
+<p>For the cookies:<br />
+1-¼ cup Flour<br />
+1-½ cup Old Fashioned  Oats<br />
+½ teaspoons Baking Soda<br />
+½ teaspoons Salt<br />
+½ teaspoons Cinnamon<br />
+1 stick Butter, Softened<br />
+¾ cups Packed Brown Sugar<br />
+1 whole Egg<br />
+1 teaspoon Vanilla  Extract</p>
+<p>For the buttercream:<br />
+3 cups Powdered Sugar<br />
+1 stick Butter, Softened<br />
+½ teaspoons Cinnamon<br />
+2 teaspoons Vanilla  Extract<br />
+2 teaspoons Milk</p>
+<p>Preheat oven to 375F.</p>
+<p>Mix together the flour, oats, baking soda, salt  and cinnamon in a large bowl. Set aside.</p>
+<p>Cream together the butter and brown sugar. Add the egg and mix until  smooth, then add the vanilla. Add the dry ingredients and mix until just  combined.</p>
+<p>Bake 1 Tablespoon-sized (or a bit smaller; mine were a bit large) balls of dough on a lined baking sheet for  8-10 minutes, or until lightly golden. Let cool while preparing the  filling.</p>
+<p>For the filling, cream together the powdered sugar and butter until  smooth. Add the cinnamon, vanilla extract and milk and whip on high  speed for five minutes until very light and fluffy.</p>
+<p>To prepare cream pies, the original recipe uses a piping bag to dole out the frosting. I used a spoon. Not as pretty, but not the worst, and I&#8217;m all for not cleaning out another piping tip.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/456/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/456/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/456/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/456/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/456/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/456/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/456/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/456/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/456/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/456/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/456/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/456/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/456/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/456/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=456&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://pipingdreams.wordpress.com/2011/04/27/pipe-dream-to-be-little-debbie-oatmeal-cream-pies/feed/</wfw:commentRss>
+		<slash:comments>39</slash:comments>
+	
+		<media:content url="http://1.gravatar.com/avatar/9dd1ba32dcfc23f2807cdb8379f43b7c?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">pipingdreams</media:title>
+		</media:content>
+
+		<media:content url="http://pipingdreams.files.wordpress.com/2011/04/creampies21.jpg" medium="image">
+			<media:title type="html">creampies2</media:title>
+		</media:content>
+
+		<media:content url="http://pipingdreams.files.wordpress.com/2011/04/creampies5.jpg" medium="image">
+			<media:title type="html">creampies5</media:title>
+		</media:content>
+
+		<media:content url="http://pipingdreams.files.wordpress.com/2011/04/creampies4.jpg" medium="image">
+			<media:title type="html">creampies4</media:title>
+		</media:content>
+
+		<media:content url="http://pipingdreams.files.wordpress.com/2011/04/creampies3.jpg" medium="image">
+			<media:title type="html">creampies3</media:title>
+		</media:content>
+
+		<media:content url="http://pipingdreams.files.wordpress.com/2011/04/creampies1.jpg" medium="image">
+			<media:title type="html">creampies1</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Kaserne Krampnitz</title>
+		<link>http://ailukewitsch.wordpress.com/2011/03/14/kaserne-krampnitz/</link>
+		<comments>http://ailukewitsch.wordpress.com/2011/03/14/kaserne-krampnitz/#comments</comments>
+		<pubDate>Mon, 14 Mar 2011 12:55:01 +0000</pubDate>
+		<dc:creator>ailukewitsch</dc:creator>
+				<category><![CDATA[Abandon Places]]></category>
+		<category><![CDATA[Street Photography]]></category>
+		<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Urban Exploration]]></category>
+		<category><![CDATA[Various]]></category>
+		<category><![CDATA[Abandon]]></category>
+		<category><![CDATA[Bärenquell Brauerei]]></category>
+		<category><![CDATA[Berlin]]></category>
+		<category><![CDATA[D700]]></category>
+		<category><![CDATA[D7000]]></category>
+		<category><![CDATA[Fotografia]]></category>
+		<category><![CDATA[Franco de Vita]]></category>
+		<category><![CDATA[High Iso]]></category>
+		<category><![CDATA[Kaserne Krampnitz]]></category>
+		<category><![CDATA[Nikon]]></category>
+		<category><![CDATA[Photography]]></category>
+		<category><![CDATA[Postdam]]></category>
+		<category><![CDATA[Street]]></category>
+		<category><![CDATA[Teufelsberg]]></category>
+
+		<guid isPermaLink="false">http://ailukewitsch.wordpress.com/?p=284</guid>
+		<description><![CDATA[This past Saturday I decided to go for a field trip to Teufelsberg to do some picts. Sadly I was detain by security guards, which told me that if I wanted to do pictures of this place I must booked a tour, which completely kills the fun of going to abandon places. Just manage to [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=284&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p>This past Saturday I decided to go for a field trip to <a href="http://de.wikipedia.org/wiki/Teufelsbergand" target="_blank"><span style="color:#00ffff;">Teufelsberg</span></a> to do some picts. Sadly I was detain by security guards, which told me that if I wanted to do pictures of this place I must booked a tour, which completely kills the fun of going to abandon places.</p>
+<p>Just manage to do one pict and it was with my handy….</p>
+<p><a href="http://ailukewitsch.files.wordpress.com/2011/03/191863_10150435586230104_548035103_17503878_7615898_o.jpg"><img class="aligncenter size-full wp-image-285" title="191863_10150435586230104_548035103_17503878_7615898_o" src="http://ailukewitsch.files.wordpress.com/2011/03/191863_10150435586230104_548035103_17503878_7615898_o.jpg?w=590&#038;h=885" alt="" width="590" height="885" /></a></p>
+<p>Next day I was a bit more lucky and didn’t have any issues. A group of friends and I went to <a href="http://www.potsdam-wiki.de/index.php/Kaserne_Krampnitz" target="_blank"><span style="color:#00ffff;">Kaserne Krampnitz</span></a>,  an abandon Russian barrack which recently has been used as a movie scene for a lot of movies. Quite interesting place but nothing yet as nice as the <a href="http://ailukewitsch.wordpress.com/2010/11/08/barenquell-brauerei-abandon-brauerei-shooting" target="_blank"><span style="color:#00ffff;">Abandon Brauerei</span></a> to which I went a couple of months ago. Still it’s a huge a place with a lot to see. Will love to do a photo shoot their some day. Getting into the place was pretty easy, right in front of the street there is a cement wall which was tear down.</p>
+<p>Some picts:</p>
+<p><a title="Photo &amp; Video Sharing by SmugMug" href="http://www.ailukewitsch.com/Journalism/Krampnitz/16189110_qsp4q#1215887752_ZGhNJ-A-LB"><img title="Photo &amp; Video Sharing by SmugMug" src="http://www.ailukewitsch.com/Journalism/Krampnitz/DSC2310/1215887752_ZGhNJ-M.jpg" alt="Photo &amp; Video Sharing by SmugMug" /></a></p>
+<p><a title="Photo &amp; Video Sharing by SmugMug" href="http://www.ailukewitsch.com/Journalism/Krampnitz/16189110_qsp4q#1215015471_B7rm8-A-LB"><img title="Photo &amp; Video Sharing by SmugMug" src="http://www.ailukewitsch.com/Journalism/Krampnitz/DSC1393/1215015471_B7rm8-M.jpg" alt="Photo &amp; Video Sharing by SmugMug" /></a></p>
+<p><a title="Photo &amp; Video Sharing by SmugMug" href="http://www.ailukewitsch.com/Journalism/Krampnitz/16189110_qsp4q#1215320500_9JAg6-A-LB"><img title="Photo &amp; Video Sharing by SmugMug" src="http://www.ailukewitsch.com/Journalism/Krampnitz/DSC2302/1215320500_9JAg6-M.jpg" alt="Photo &amp; Video Sharing by SmugMug" /></a></p>
+<p><a href="http://www.ailukewitsch.com/Journalism/Krampnitz/16189110_qsp4q#1215320142_yWbuT-A-LB"><img src="http://www.ailukewitsch.com/Journalism/Krampnitz/DSC2264/1215320142_yWbuT-M.jpg" alt="" /></a></p>
+<p><a title="Photo &amp; Video Sharing by SmugMug" href="http://malabito.smugmug.com/Journalism/Krampnitz/16189110_qsp4q#1215905052_2JJEv-A-LB"><img title="Photo &amp; Video Sharing by SmugMug" src="http://malabito.smugmug.com/Journalism/Krampnitz/DSC1357/1215905052_2JJEv-M.jpg" alt="Photo &amp; Video Sharing by SmugMug" /></a></p>
+<p><a href="http://www.ailukewitsch.com/Journalism/Krampnitz/16189110_qsp4q#1215320282_R87bt-A-LB"><img src="http://www.ailukewitsch.com/Journalism/Krampnitz/DSC2295/1215320282_R87bt-M.jpg" alt="" /></a></p>
+<p><a href="http://www.ailukewitsch.com/Journalism/Krampnitz/16189110_qsp4q#1215328438_fXawY-A-LB"><img src="http://www.ailukewitsch.com/Journalism/Krampnitz/DSC1394/1215328438_fXawY-M.jpg" alt="" /></a></p>
+<p><a href="http://www.ailukewitsch.com/Journalism/Krampnitz/16189110_qsp4q#1215326956_gv229-A-LB"><img src="http://www.ailukewitsch.com/Journalism/Krampnitz/DSC1373/1215326956_gv229-M.jpg" alt="" /></a></p>
+<p><a href="http://www.ailukewitsch.com/Journalism/Krampnitz/16189110_qsp4q#1215326699_KmjZZ-A-LB"><img src="http://www.ailukewitsch.com/Journalism/Krampnitz/DSC1390/1215326699_KmjZZ-M.jpg" alt="" /></a></p>
+<p><a href="http://www.ailukewitsch.com/Journalism/Krampnitz/16189110_qsp4q#1215323801_JPCKN-A-LB"><img src="http://www.ailukewitsch.com/Journalism/Krampnitz/DSC2306/1215323801_JPCKN-M.jpg" alt="" /></a></p>
+<p><a href="http://www.ailukewitsch.com/Journalism/Krampnitz/16189110_qsp4q#1215323097_sQUpP-A-LB"><img src="http://www.ailukewitsch.com/Journalism/Krampnitz/DSC1346/1215323097_sQUpP-M.jpg" alt="" /></a></p>
+<p><a href="http://www.ailukewitsch.com/Journalism/Krampnitz/16189110_qsp4q#1215328784_uXTe5-A-LB"><img src="http://www.ailukewitsch.com/Journalism/Krampnitz/DSC1399/1215328784_uXTe5-M.jpg" alt="" /></a></p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/284/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/284/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/284/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/284/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/284/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/284/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/284/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/284/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/284/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/284/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/284/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/284/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/284/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/284/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=284&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://ailukewitsch.wordpress.com/2011/03/14/kaserne-krampnitz/feed/</wfw:commentRss>
+		<slash:comments>18</slash:comments>
+		<georss:point>52.541875 13.412406</georss:point>
+		<geo:lat>52.541875</geo:lat>
+		<geo:long>13.412406</geo:long>
+		<media:content url="http://0.gravatar.com/avatar/c3ee8f86a7989b8f40e2b17357aa5122?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">ailukewitsch</media:title>
+		</media:content>
+
+		<media:content url="http://ailukewitsch.files.wordpress.com/2011/03/191863_10150435586230104_548035103_17503878_7615898_o.jpg" medium="image">
+			<media:title type="html">191863_10150435586230104_548035103_17503878_7615898_o</media:title>
+		</media:content>
+
+		<media:content url="http://www.ailukewitsch.com/Journalism/Krampnitz/DSC2310/1215887752_ZGhNJ-M.jpg" medium="image">
+			<media:title type="html">Photo &#38; Video Sharing by SmugMug</media:title>
+		</media:content>
+
+		<media:content url="http://www.ailukewitsch.com/Journalism/Krampnitz/DSC1393/1215015471_B7rm8-M.jpg" medium="image">
+			<media:title type="html">Photo &#38; Video Sharing by SmugMug</media:title>
+		</media:content>
+
+		<media:content url="http://www.ailukewitsch.com/Journalism/Krampnitz/DSC2302/1215320500_9JAg6-M.jpg" medium="image">
+			<media:title type="html">Photo &#38; Video Sharing by SmugMug</media:title>
+		</media:content>
+
+		<media:content url="http://www.ailukewitsch.com/Journalism/Krampnitz/DSC2264/1215320142_yWbuT-M.jpg" medium="image" />
+
+		<media:content url="http://malabito.smugmug.com/Journalism/Krampnitz/DSC1357/1215905052_2JJEv-M.jpg" medium="image">
+			<media:title type="html">Photo &#38; Video Sharing by SmugMug</media:title>
+		</media:content>
+
+		<media:content url="http://www.ailukewitsch.com/Journalism/Krampnitz/DSC2295/1215320282_R87bt-M.jpg" medium="image" />
+
+		<media:content url="http://www.ailukewitsch.com/Journalism/Krampnitz/DSC1394/1215328438_fXawY-M.jpg" medium="image" />
+
+		<media:content url="http://www.ailukewitsch.com/Journalism/Krampnitz/DSC1373/1215326956_gv229-M.jpg" medium="image" />
+
+		<media:content url="http://www.ailukewitsch.com/Journalism/Krampnitz/DSC1390/1215326699_KmjZZ-M.jpg" medium="image" />
+
+		<media:content url="http://www.ailukewitsch.com/Journalism/Krampnitz/DSC2306/1215323801_JPCKN-M.jpg" medium="image" />
+
+		<media:content url="http://www.ailukewitsch.com/Journalism/Krampnitz/DSC1346/1215323097_sQUpP-M.jpg" medium="image" />
+
+		<media:content url="http://www.ailukewitsch.com/Journalism/Krampnitz/DSC1399/1215328784_uXTe5-M.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Obama Announces Osama Bin Laden Dead</title>
+		<link>http://thepage.time.com/2011/05/01/president-to-make-late-night-statement/</link>
+		<comments>http://thepage.time.com/2011/05/01/president-to-make-late-night-statement/#comments</comments>
+		<pubDate>Mon, 02 May 2011 01:51:48 +0000</pubDate>
+		<dc:creator>Feifei Sun</dc:creator>
+				<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">http://thepage.time.com/?p=226919</guid>
+		<description><![CDATA[In late night presser, President says U.S. special operation forces kill al-Qaeda leader. Highlights from Obama&#8217;s remarks: Bin Laden&#8217;s death marks &#8220;most significant achievement to date&#8221; in U.S. fight against al-Qaeda. Today is &#8220;a testament to the greatness of our country.&#8221; Obama first briefed of lead last August, authorized action today. Says U.S. took action [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=226919&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+		<wfw:commentRss>http://thepage.time.com/2011/05/01/president-to-make-late-night-statement/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:content url="" medium="image">
+			<media:title type="html">feifeis</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Mexico&#8217;s handicrafts</title>
+		<link>http://theurbanhippie.wordpress.com/2011/04/19/mexicos-handicrafts/</link>
+		<comments>http://theurbanhippie.wordpress.com/2011/04/19/mexicos-handicrafts/#comments</comments>
+		<pubDate>Tue, 19 Apr 2011 18:00:30 +0000</pubDate>
+		<dc:creator>Lauren</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[alebrijes]]></category>
+		<category><![CDATA[beads]]></category>
+		<category><![CDATA[city]]></category>
+		<category><![CDATA[handicrafts]]></category>
+		<category><![CDATA[jewelry]]></category>
+		<category><![CDATA[katarina]]></category>
+		<category><![CDATA[Mexico]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[TRAVEL.]]></category>
+		<category><![CDATA[vacation]]></category>
+
+		<guid isPermaLink="false">http://theurbanhippie.wordpress.com/?p=6036</guid>
+		<description><![CDATA[One of my favorite days in Mexico was spent at a market filled with color. There were Katarinas (Dia De Los Muertos Southern belles), figures all hand painted, woven and beaded jewelry and tons of handicrafts. It was heaven. Weeks later, I&#8217;m looking back at these photos wishing I would have bought more. But I [...]<img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=6036&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></description>
+			<content:encoded><![CDATA[<p><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3850.jpg"><img class="aligncenter size-full wp-image-6037" title="mex_3850" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3850.jpg?w=640&#038;h=982" alt="" width="640" height="982" /></a>One of my favorite days in Mexico was spent at a market filled with color. There were Katarinas (Dia De Los Muertos Southern belles), figures all hand painted, woven and beaded jewelry and tons of handicrafts. It was heaven. Weeks later, I&#8217;m looking back at these photos wishing I would have bought more. But I guess that always happens, right?</p>
+<p>Enjoy these photos; there are a lot.<br />
+<a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3789.jpg"><img class="aligncenter size-full wp-image-6038" title="mex_3789" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3789.jpg?w=640&#038;h=426" alt="" width="640" height="426" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3791.jpg"><img class="aligncenter size-full wp-image-6039" title="mex_3791" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3791.jpg?w=640&#038;h=960" alt="" width="640" height="960" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex-61.jpg"><img class="aligncenter size-full wp-image-6040" title="mex-6" src="http://theurbanhippie.files.wordpress.com/2011/04/mex-61.jpg?w=640&#038;h=474" alt="" width="640" height="474" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3823.jpg"><img class="aligncenter size-full wp-image-6041" title="mex_3823" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3823.jpg?w=640&#038;h=975" alt="" width="640" height="975" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3732.jpg"><img class="aligncenter size-full wp-image-6042" title="mex_3732" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3732.jpg?w=640&#038;h=422" alt="" width="640" height="422" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex-32.jpg"><img class="aligncenter size-full wp-image-6043" title="mex-3" src="http://theurbanhippie.files.wordpress.com/2011/04/mex-32.jpg?w=640&#038;h=567" alt="" width="640" height="567" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3769.jpg"><img class="aligncenter size-full wp-image-6044" title="mex_3769" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3769.jpg?w=640&#038;h=981" alt="" width="640" height="981" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3937.jpg"><img class="aligncenter size-full wp-image-6045" title="mex_3937" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3937.jpg?w=640&#038;h=426" alt="" width="640" height="426" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3765.jpg"><img class="aligncenter size-full wp-image-6046" title="mex_3765" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3765.jpg?w=640&#038;h=480" alt="" width="640" height="480" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3767.jpg"><img class="aligncenter size-full wp-image-6047" title="mex_3767" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3767.jpg?w=640&#038;h=960" alt="" width="640" height="960" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex-13.jpg"><img class="aligncenter size-full wp-image-6048" title="mex-1" src="http://theurbanhippie.files.wordpress.com/2011/04/mex-13.jpg?w=640&#038;h=492" alt="" width="640" height="492" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3781.jpg"><img class="aligncenter size-full wp-image-6049" title="mex_3781" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3781.jpg?w=640&#038;h=426" alt="" width="640" height="426" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3787.jpg"><img class="aligncenter size-full wp-image-6050" title="mex_3787" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3787.jpg?w=640&#038;h=466" alt="" width="640" height="466" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex__37901.jpg"><img class="aligncenter size-full wp-image-6052" title="mex__3790" src="http://theurbanhippie.files.wordpress.com/2011/04/mex__37901.jpg?w=640&#038;h=417" alt="" width="640" height="417" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3776.jpg"><img class="aligncenter size-full wp-image-6053" title="mex_3776" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3776.jpg?w=640&#038;h=453" alt="" width="640" height="453" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3777.jpg"><img class="aligncenter size-full wp-image-6054" title="mex_3777" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3777.jpg?w=640&#038;h=1050" alt="" width="640" height="1050" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3738.jpg"><img class="aligncenter size-full wp-image-6055" title="mex_3738" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3738.jpg?w=640&#038;h=419" alt="" width="640" height="419" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex.jpg"><img class="aligncenter size-full wp-image-6056" title="mex" src="http://theurbanhippie.files.wordpress.com/2011/04/mex.jpg?w=640&#038;h=448" alt="" width="640" height="448" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3734.jpg"><img class="aligncenter size-full wp-image-6057" title="mex_3734" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3734.jpg?w=640&#038;h=423" alt="" width="640" height="423" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3746.jpg"><img class="aligncenter size-full wp-image-6058" title="mex_3746" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3746.jpg?w=640&#038;h=426" alt="" width="640" height="426" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3747.jpg"><img class="aligncenter size-full wp-image-6059" title="mex_3747" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3747.jpg?w=640&#038;h=420" alt="" width="640" height="420" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3749.jpg"><img class="aligncenter size-full wp-image-6060" title="mex_3749" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3749.jpg?w=640&#038;h=426" alt="" width="640" height="426" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex-72.jpg"><img class="aligncenter size-full wp-image-6061" title="mex-7" src="http://theurbanhippie.files.wordpress.com/2011/04/mex-72.jpg?w=640&#038;h=285" alt="" width="640" height="285" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex-51.jpg"><img class="aligncenter size-full wp-image-6062" title="mex-5" src="http://theurbanhippie.files.wordpress.com/2011/04/mex-51.jpg?w=640&#038;h=480" alt="" width="640" height="480" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3977.jpg"><img class="aligncenter size-full wp-image-6063" title="mex_3977" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3977.jpg?w=640&#038;h=999" alt="" width="640" height="999" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3942.jpg"><img class="aligncenter size-full wp-image-6064" title="mex_3942" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3942.jpg?w=640&#038;h=426" alt="" width="640" height="426" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3914.jpg"><img class="aligncenter size-full wp-image-6065" title="mex_3914" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3914.jpg?w=640&#038;h=426" alt="" width="640" height="426" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3860.jpg"><img class="aligncenter size-full wp-image-6066" title="mex_3860" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3860.jpg?w=640&#038;h=948" alt="" width="640" height="948" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3739.jpg"><img class="aligncenter size-full wp-image-6067" title="mex_3739" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3739.jpg?w=640&#038;h=432" alt="" width="640" height="432" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3744.jpg"><img class="aligncenter size-full wp-image-6068" title="mex_3744" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3744.jpg?w=640&#038;h=483" alt="" width="640" height="483" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3755.jpg"><img class="aligncenter size-full wp-image-6069" title="mex_3755" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3755.jpg?w=640&#038;h=951" alt="" width="640" height="951" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3756.jpg"><img class="aligncenter size-full wp-image-6070" title="mex_3756" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3756.jpg?w=640&#038;h=426" alt="" width="640" height="426" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3770.jpg"><img class="aligncenter size-full wp-image-6071" title="mex_3770" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3770.jpg?w=640&#038;h=429" alt="" width="640" height="429" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3927.jpg"><img class="aligncenter size-full wp-image-6072" title="mex_3927" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3927.jpg?w=640&#038;h=415" alt="" width="640" height="415" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3933.jpg"><img class="aligncenter size-full wp-image-6073" title="mex_3933" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3933.jpg?w=640&#038;h=443" alt="" width="640" height="443" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3757.jpg"><img class="aligncenter size-full wp-image-6074" title="mex_3757" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3757.jpg?w=640&#038;h=437" alt="" width="640" height="437" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3761.jpg"><img class="aligncenter size-full wp-image-6075" title="mex_3761" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3761.jpg?w=640&#038;h=460" alt="" width="640" height="460" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3763.jpg"><img class="aligncenter size-full wp-image-6076" title="mex_3763" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3763.jpg?w=640&#038;h=923" alt="" width="640" height="923" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3768.jpg"><img class="aligncenter size-full wp-image-6077" title="mex_3768" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3768.jpg?w=640&#038;h=412" alt="" width="640" height="412" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3771.jpg"><img class="aligncenter size-full wp-image-6078" title="mex_3771" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3771.jpg?w=640&#038;h=426" alt="" width="640" height="426" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3773.jpg"><img class="aligncenter size-full wp-image-6079" title="mex_3773" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3773.jpg?w=640&#038;h=385" alt="" width="640" height="385" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3775.jpg"><img class="aligncenter size-full wp-image-6080" title="mex_3775" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3775.jpg?w=640&#038;h=1002" alt="" width="640" height="1002" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3794.jpg"><img class="aligncenter size-full wp-image-6081" title="mex_3794" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3794.jpg?w=640&#038;h=440" alt="" width="640" height="440" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex-22.jpg"><img class="aligncenter size-full wp-image-6082" title="mex-2" src="http://theurbanhippie.files.wordpress.com/2011/04/mex-22.jpg?w=640&#038;h=462" alt="" width="640" height="462" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3974.jpg"><img class="aligncenter size-full wp-image-6083" title="mex_3974" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3974.jpg?w=640&#038;h=960" alt="" width="640" height="960" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3815.jpg"><img class="aligncenter size-full wp-image-6084" title="mex_3815" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3815.jpg?w=640&#038;h=426" alt="" width="640" height="426" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3819.jpg"><img class="aligncenter size-full wp-image-6085" title="mex_3819" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3819.jpg?w=640&#038;h=426" alt="" width="640" height="426" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3826.jpg"><img class="aligncenter size-full wp-image-6086" title="mex_3826" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3826.jpg?w=640&#038;h=960" alt="" width="640" height="960" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3838.jpg"><img class="aligncenter size-full wp-image-6087" title="mex_3838" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3838.jpg?w=640&#038;h=426" alt="" width="640" height="426" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3847.jpg"><img class="aligncenter size-full wp-image-6088" title="mex_3847" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3847.jpg?w=640&#038;h=434" alt="" width="640" height="434" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3849.jpg"><img class="aligncenter size-full wp-image-6089" title="mex_3849" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3849.jpg?w=640&#038;h=419" alt="" width="640" height="419" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3854.jpg"><img class="aligncenter size-full wp-image-6090" title="mex_3854" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3854.jpg?w=640&#038;h=426" alt="" width="640" height="426" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3857.jpg"><img class="aligncenter size-full wp-image-6091" title="mex_3857" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3857.jpg?w=640&#038;h=426" alt="" width="640" height="426" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3832.jpg"><img class="aligncenter size-full wp-image-6092" title="mex_3832" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3832.jpg?w=640&#038;h=434" alt="" width="640" height="434" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex-41.jpg"><img class="aligncenter size-full wp-image-6093" title="mex-4" src="http://theurbanhippie.files.wordpress.com/2011/04/mex-41.jpg?w=640&#038;h=176" alt="" width="640" height="176" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3955.jpg"><img class="aligncenter size-full wp-image-6094" title="mex_3955" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3955.jpg?w=640&#038;h=411" alt="" width="640" height="411" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3960.jpg"><img class="aligncenter size-full wp-image-6095" title="mex_3960" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3960.jpg?w=640&#038;h=966" alt="" width="640" height="966" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3961.jpg"><img class="aligncenter size-full wp-image-6096" title="mex_3961" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3961.jpg?w=640&#038;h=424" alt="" width="640" height="424" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3963.jpg"><img class="aligncenter size-full wp-image-6097" title="mex_3963" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3963.jpg?w=640&#038;h=433" alt="" width="640" height="433" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3829.jpg"><img class="aligncenter size-full wp-image-6098" title="mex_3829" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3829.jpg?w=640&#038;h=426" alt="" width="640" height="426" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3947.jpg"><img class="aligncenter size-full wp-image-6099" title="mex_3947" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3947.jpg?w=640&#038;h=443" alt="" width="640" height="443" /></a><a href="http://theurbanhippie.files.wordpress.com/2011/04/mex_3908.jpg"><img class="aligncenter size-full wp-image-6100" title="mex_3908" src="http://theurbanhippie.files.wordpress.com/2011/04/mex_3908.jpg?w=640&#038;h=448" alt="" width="640" height="448" /></a></p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/freshlypressed.wordpress.com/6036/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/freshlypressed.wordpress.com/6036/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godelicious/freshlypressed.wordpress.com/6036/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/delicious/freshlypressed.wordpress.com/6036/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gofacebook/freshlypressed.wordpress.com/6036/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/facebook/freshlypressed.wordpress.com/6036/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gotwitter/freshlypressed.wordpress.com/6036/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/twitter/freshlypressed.wordpress.com/6036/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gostumble/freshlypressed.wordpress.com/6036/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/stumble/freshlypressed.wordpress.com/6036/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/godigg/freshlypressed.wordpress.com/6036/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/digg/freshlypressed.wordpress.com/6036/" /></a> <a rel="nofollow" href="http://feeds.wordpress.com/1.0/goreddit/freshlypressed.wordpress.com/6036/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/reddit/freshlypressed.wordpress.com/6036/" /></a> <img alt="" border="0" src="http://stats.wordpress.com/b.gif?host=freshlypressed.wordpress.com&amp;blog=256907&amp;post=6036&amp;subd=freshlypressed&amp;ref=&amp;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://theurbanhippie.wordpress.com/2011/04/19/mexicos-handicrafts/feed/</wfw:commentRss>
+		<slash:comments>190</slash:comments>
+	
+		<media:content url="http://1.gravatar.com/avatar/3e59f2c54d0ff70093dd42d2c42f08ab?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">theurbanhippie</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3850.jpg" medium="image">
+			<media:title type="html">mex_3850</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3789.jpg" medium="image">
+			<media:title type="html">mex_3789</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3791.jpg" medium="image">
+			<media:title type="html">mex_3791</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex-61.jpg" medium="image">
+			<media:title type="html">mex-6</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3823.jpg" medium="image">
+			<media:title type="html">mex_3823</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3732.jpg" medium="image">
+			<media:title type="html">mex_3732</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex-32.jpg" medium="image">
+			<media:title type="html">mex-3</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3769.jpg" medium="image">
+			<media:title type="html">mex_3769</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3937.jpg" medium="image">
+			<media:title type="html">mex_3937</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3765.jpg" medium="image">
+			<media:title type="html">mex_3765</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3767.jpg" medium="image">
+			<media:title type="html">mex_3767</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex-13.jpg" medium="image">
+			<media:title type="html">mex-1</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3781.jpg" medium="image">
+			<media:title type="html">mex_3781</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3787.jpg" medium="image">
+			<media:title type="html">mex_3787</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex__37901.jpg" medium="image">
+			<media:title type="html">mex__3790</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3776.jpg" medium="image">
+			<media:title type="html">mex_3776</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3777.jpg" medium="image">
+			<media:title type="html">mex_3777</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3738.jpg" medium="image">
+			<media:title type="html">mex_3738</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex.jpg" medium="image">
+			<media:title type="html">mex</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3734.jpg" medium="image">
+			<media:title type="html">mex_3734</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3746.jpg" medium="image">
+			<media:title type="html">mex_3746</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3747.jpg" medium="image">
+			<media:title type="html">mex_3747</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3749.jpg" medium="image">
+			<media:title type="html">mex_3749</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex-72.jpg" medium="image">
+			<media:title type="html">mex-7</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex-51.jpg" medium="image">
+			<media:title type="html">mex-5</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3977.jpg" medium="image">
+			<media:title type="html">mex_3977</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3942.jpg" medium="image">
+			<media:title type="html">mex_3942</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3914.jpg" medium="image">
+			<media:title type="html">mex_3914</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3860.jpg" medium="image">
+			<media:title type="html">mex_3860</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3739.jpg" medium="image">
+			<media:title type="html">mex_3739</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3744.jpg" medium="image">
+			<media:title type="html">mex_3744</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3755.jpg" medium="image">
+			<media:title type="html">mex_3755</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3756.jpg" medium="image">
+			<media:title type="html">mex_3756</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3770.jpg" medium="image">
+			<media:title type="html">mex_3770</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3927.jpg" medium="image">
+			<media:title type="html">mex_3927</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3933.jpg" medium="image">
+			<media:title type="html">mex_3933</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3757.jpg" medium="image">
+			<media:title type="html">mex_3757</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3761.jpg" medium="image">
+			<media:title type="html">mex_3761</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3763.jpg" medium="image">
+			<media:title type="html">mex_3763</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3768.jpg" medium="image">
+			<media:title type="html">mex_3768</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3771.jpg" medium="image">
+			<media:title type="html">mex_3771</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3773.jpg" medium="image">
+			<media:title type="html">mex_3773</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3775.jpg" medium="image">
+			<media:title type="html">mex_3775</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3794.jpg" medium="image">
+			<media:title type="html">mex_3794</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex-22.jpg" medium="image">
+			<media:title type="html">mex-2</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3974.jpg" medium="image">
+			<media:title type="html">mex_3974</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3815.jpg" medium="image">
+			<media:title type="html">mex_3815</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3819.jpg" medium="image">
+			<media:title type="html">mex_3819</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3826.jpg" medium="image">
+			<media:title type="html">mex_3826</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3838.jpg" medium="image">
+			<media:title type="html">mex_3838</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3847.jpg" medium="image">
+			<media:title type="html">mex_3847</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3849.jpg" medium="image">
+			<media:title type="html">mex_3849</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3854.jpg" medium="image">
+			<media:title type="html">mex_3854</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3857.jpg" medium="image">
+			<media:title type="html">mex_3857</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3832.jpg" medium="image">
+			<media:title type="html">mex_3832</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex-41.jpg" medium="image">
+			<media:title type="html">mex-4</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3955.jpg" medium="image">
+			<media:title type="html">mex_3955</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3960.jpg" medium="image">
+			<media:title type="html">mex_3960</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3961.jpg" medium="image">
+			<media:title type="html">mex_3961</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3963.jpg" medium="image">
+			<media:title type="html">mex_3963</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3829.jpg" medium="image">
+			<media:title type="html">mex_3829</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3947.jpg" medium="image">
+			<media:title type="html">mex_3947</media:title>
+		</media:content>
+
+		<media:content url="http://theurbanhippie.files.wordpress.com/2011/04/mex_3908.jpg" medium="image">
+			<media:title type="html">mex_3908</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>

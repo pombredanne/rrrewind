@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Language" content="en-us">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Twitter / Over capacity</title>
+    <link href="//si0.twimg.com/sticky/error_pages/favicon.ico" rel="shortcut icon" type="image/x-icon">
+    <link rel="stylesheet" href="/errors/fullscreen_errors.css">
+  </head>
+  <body>
+    <div class="topbar js-topbar">
+      <div class="global-nav" data-section-term="top_nav">
+        <div class="global-nav-inner">
+          <div class="container">
+            <ul class="nav js-global-actions">
+              <li class="home">
+                <a href="//twitter.com">
+                  <span><i class="nav-home-logged-out"></i></span>
+                </a>
+              </li>
+            </ul>
+            <div class="pull-right">
+              <ul class="nav secondary-nav">
+                <li><a href="//twitter.com" id="homeLink">Home &rarr;</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="blue-sky">
+      <div class="body-content">
+        <div class="canvas">
+          <img class="illustration whale" src="/errors/whale.png">
+        </div>
+        <h1>Twitter is over capacity.</h1>
+        <p>Please wait a moment and try again. For more information, check out <a href="http://status.twitter.com">Twitter Status</a>.</p>
+        <div class="footer">
+          <ul class="languages">
+            <li><a onclick="displayLanguage('id');return false;" href="#">Bahasa Indonesia</a></li>
+            <li><a onclick="displayLanguage('msa');return false;" href="#">Bahasa Melayu</a></li>
+            <li><a onclick="displayLanguage('de');return false;" href="#">Deutsch</a></li>
+            <li class="first"><a onclick="displayLanguage('en');return false;" href="#">English</a></li>
+            <li><a onclick="displayLanguage('es');return false;" href="#">Español</a></li>
+            <li><a onclick="displayLanguage('fil');return false;" href="#">Filipino</a></li>
+            <li><a onclick="displayLanguage('fr');return false;" href="#">Français</a></li>
+            <li><a onclick="displayLanguage('it');return false;" href="#">Italiano</a></li>
+            <li><a onclick="displayLanguage('nl');return false;" href="#">Nederlands</a></li>
+            <li><a onclick="displayLanguage('pt');return false;" href="#">Português</a></li>
+            <li><a onclick="displayLanguage('tr');return false;" href="#">Türkçe</a></li>
+            <li><a onclick="displayLanguage('ru');return false;" href="#">Русский</a></li>
+            <li><a onclick="displayLanguage('hi');return false;" href="#">हिन्दी</a></li>
+            <li><a onclick="displayLanguage('ja');return false;" href="#">日本語</a></li>
+            <li><a onclick="displayLanguage('zh_cn');return false;" href="#">简体中文</a></li>
+            <li><a onclick="displayLanguage('zh_tw');return false;" href="#">繁體中文</a></li>
+            <li><a onclick="displayLanguage('ko');return false;" href="#">한국어</a></li>
+          </ul>
+          <ul class="links">
+            <li class="first">&copy; 2012 Twitter</li>
+            <li><a href="/about">About</a></li>
+            <li><a href="/help">Help</a></li>
+            <li><a href="http://status.twitter.com/">Status</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="whale-water"></div>
+
+
+
+    <!-- BEGIN google analytics -->
+    <script type="text/javascript">
+      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+      var pageTracker = _gat._getTracker("UA-30775-6");
+      pageTracker._setDomainName("twitter.com");
+      pageTracker._trackPageview('503 Error');
+    </script>
+    <!-- END google analytics -->
+
+    <script type="text/javascript">
+    //<![CDATA[
+    var twttr = {};
+
+    twttr.translations = {
+      "ja": {
+        "title": "Twitterは処理能力の限界を超えています。",
+        "description": "しばらく待ってから、再度お試し頂けますようお願いいたします。詳細については、 <a href=\"http://status.twitter.jp\">ステータスブログ</a>をご確認ください。",
+        "home": "ホーム &rarr;"
+      },
+      "ru": {
+        "title": "Твиттер перегружен.",
+        "description": "Пожалуйста, повторите попытку позднее. Получите более подробную информацию  <a href=\"http://status.twitter.com\">о состоянии Твиттера.</a>",
+        "home": "Главная &rarr;"
+      },
+      "hi": {
+        "title": "ट्विटर क्षमता पार कर गया है.",
+        "description": "कृपया कुछ क्षण प्रतीक्षा करें और फिर कोशिश करें. अधिक जानकारी के लिए, ट्विटर स्टेट्स  <a href=\"http://status.twitter.com\">देखें.</a>",
+        "home": "मुख पृष्ठ &rarr;"
+      },
+      "nl": {
+        "title": "Twitter is overbelast.",
+        "description": "Probeer het later opnieuw. Voor meer informatie, zie <a href=\"http://status.twitter.com\">Twitter Status.</a>",
+        "home": "Startpagina &rarr;"
+      },
+      "en": {
+        "title": "Twitter is over capacity.",
+        "description": "Please wait a moment and try again. For more information, check out <a href=\"http://status.twitter.com\">Twitter Status.</a>",
+        "home": "Home &rarr;"
+      },
+      "fr": {
+        "title": "Twitter est en surcapacité.",
+        "description": "Veuillez attendre un moment avant de réessayer. Pour plus d\\'informations, rendez-vous sur le <a href=\"http://status.twitter.com\">blog d\\'état.</a>",
+        "home": "Accueil &rarr;"
+      },
+      "de": {
+        "title": "Twitter ist ausgelastet.",
+        "description": "Bitte warte einen Moment und versuche es dann erneut. Weitere Informationen gibt es auf der <a href=\"http://status.twitter.com\">Twitter Status Seite.</a>",
+        "home": "Startseite &rarr;"
+      },
+      "tr": {
+        "title": "Twitter kapasiteyi aştı.",
+        "description": "Lütfen biraz bekle ve tekrar dene. Daha fazla bilgi için <a href=\"http://status.twitter.com\">Twitter Durum</a> sayfasını ziyaret et.",
+        "home": "Ana Sayfa &rarr;"
+      },
+      "msa": {
+        "title": "Twitter melebihi kapasiti.",
+        "description": "Sila tunggu sebentar dan cuba semula. Untuk maklumat lanjut, lihat <a href=\"http://status.twitter.com\">Status Twitter.</a>",
+        "home": "Laman Utama &rarr;"
+      },
+      "es": {
+        "title": "Twitter está sobrecargado",
+        "description": "Por favor espera un momento e inténtalo de nuevo. Para más información visita <a href=\"http://status.twitter.com\">Twitter Status.</a>",
+        "home": "Página de Inicio &rarr;"
+      },
+      "it": {
+        "title": "Twitter è sovraccarico.",
+        "description": "Aspetta qualche minuto e riprova. Per maggiori informazioni controlla<a href=\"http://status.twitter.com\">Twitter Status.</a>",
+        "home": "Pagina Iniziale &rarr;"
+      },
+      "fil": {
+        "title": "Lagpas na sa kapasidad ang Twitter.",
+        "description": "Mangyaring maghintay ng ilang sandali at subukan muli. Para sa karagdagang impormasyon, tingnan ang <a href=\"http://status.twitter.com\">Twitter Status.</a>",
+        "home": "Home &rarr;"
+      },
+      "pt": {
+        "title": "O Twitter está sobrecarregado",
+        "description": "Por favor, aguarde alguns minutos e tente novamente. Para mais informações, acesse <a href=\"http://status.twitter.com\">Twitter Status.</a>",
+        "home": "Página Inicial &rarr;"
+      },
+      "zh_tw": {
+        "title": "Twitter 超出負荷了。",
+        "description": "請稍等一會再嘗試。要了解更多資訊，請查看 <a href=\"http://status.twitter.com\">Twitter 狀態.</a>",
+        "home": "首頁 &rarr;"
+      },
+      "ko": {
+        "title": "사용량 증가로 트위터가 지연되고 있습니다.",
+        "description": "잠시 후에 다시 해보세요. 자세한 정보는  <a href=\"http://status.twitter.com\">트위터 상태</a>를 확인해보세요.",
+        "home": "홈 &rarr;"
+      },
+      "id": {
+        "title": "Twitter sedang kelebihan kapasitas.",
+        "description": "Silakan tunggu sebentar dan coba lagi. Untuk informasi lebih lanjut, kunjungi <a href=\"http://status.twitter.com\">Status Twitter.</a>",
+        "home": "Beranda &rarr;"
+      },
+      "zh_cn": {
+        "title": "Twitter 超载啦。",
+        "description": "请稍后再试。更多信息请查看 <a href=\"http://status.twitter.com\">Twitter 状态.</a>",
+        "home": "主页 &rarr;"
+      }
+    };
+
+    function displayLanguage(lang) {
+      if (lang && twttr.translations[lang]) {
+        document.getElementsByTagName('h1')[0].innerHTML = twttr.translations[lang].title;
+        document.getElementsByTagName('p')[0].innerHTML = twttr.translations[lang].description;
+        document.getElementById('homeLink').innerHTML = twttr.translations[lang].home;
+      }
+    }
+
+    var lang = window.navigator.language ? window.navigator.language.replace(/^(..).*$/, '$1') : undefined;
+    displayLanguage(lang);
+    //]]>
+    </script>
+  </body>
+</html>
